@@ -1,6 +1,6 @@
 ::: slide
-## Slide 1
-What is Virtue?
+## What is Virtue?
+
 :::
 ::: slide
 ## Slide 2
