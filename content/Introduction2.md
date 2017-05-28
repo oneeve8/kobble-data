@@ -7,9 +7,6 @@ Welcome to the Catholic Place, where you can study the Catholic Faith and create
 :::
 
 
-
-If you create an account, you can utilize the full power of the Catholic Place to create new content exactly as you see here. In fact, the Catholic Place was built with the exact same tools you have at your disposal. 
-
 ### Get Started
 To get started, just select a Channel on the left and start drilling down and viewing the information. When you are ready to start creating, click the Introduction Channel and view the OnBoard and Tutorial slideshows.
 
