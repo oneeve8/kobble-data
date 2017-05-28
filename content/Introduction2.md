@@ -28,7 +28,6 @@ Introduction
 # The Catholic Place
 ### Get Started
 To get started, just select a Channel on the left and start drilling down and viewing the information. When you are ready to start creating, click the Introduction Channel and view the OnBoard and Tutorial slideshows.
-
 :::
 ::: slide
 ## Slide 6
@@ -40,7 +39,6 @@ Note that you can view anything without an account, but you need an account in o
 ## Slide 7
 Introduction
 # The Catholic Place
-
 :::
 ::: slide
 ## Slide 3
