@@ -7,8 +7,7 @@ Welcome to the Catholic Place, where you can study the Catholic Faith and create
 :::
 
 
-### Get Started
-To get started, just select a Channel on the left and start drilling down and viewing the information. When you are ready to start creating, click the Introduction Channel and view the OnBoard and Tutorial slideshows.
+
 
 Note that you can view anything without an account, but you need an account in order to create.
 :::
@@ -34,6 +33,8 @@ If you create an account, you can utilize the full power of the Catholic Place t
 ## Slide 3
 Introduction
 # The Catholic Place
+### Get Started
+To get started, just select a Channel on the left and start drilling down and viewing the information. When you are ready to start creating, click the Introduction Channel and view the OnBoard and Tutorial slideshows.
 
 :::
 ::: slide
