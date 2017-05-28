@@ -6,7 +6,7 @@ Introduction
 Welcome to the Catholic Place, where you can study the Catholic Faith and create beautiful content similar to what you see here. 
 :::
 :::
-Note that you can view anything without an account, but you need an account in order to create.
+
 :::
 ::: slide
 ## Slide 2
@@ -35,10 +35,10 @@ To get started, just select a Channel on the left and start drilling down and vi
 
 :::
 ::: slide
-## Slide 3
+## Slide 
 Introduction
 # The Catholic Place
-
+Note that you can view anything without an account, but you need an account in order to create.
 :::
 ::: slide
 ## Slide 3
