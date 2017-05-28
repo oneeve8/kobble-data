@@ -2,11 +2,7 @@
 ## Slide 1
 Introduction
 # The Catholic Place
-
 Welcome to the Catholic Place, where you can study the Catholic Faith and create beautiful content similar to what you see here. 
-:::
-:::
-
 :::
 ::: slide
 ## Slide 2
