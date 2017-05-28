@@ -1,6 +1,5 @@
 ::: slide
-## Slide 1
-Introduction
+## Introduction
 # The Catholic Place
 Welcome to the Catholic Place, where you can study the Catholic Faith and create beautiful content similar to what you see here. 
 :::
@@ -31,7 +30,6 @@ To get started, just select a Channel on the left and start drilling down and vi
 ## Slide 6
 Introduction
 # The Catholic Place
-
 :::
 ::: slide
 ## Slide 7
