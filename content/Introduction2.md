@@ -11,7 +11,7 @@ You can instantly view archived literary works (including those written by the D
 :::
 ::: slide
 ## Introduction
-# The Catholic Place
+
 ### Based on Kobble
 The Catholic Place is based on [Kobble](https://kobble.io) making it easier than ever to research, take notes, write articles and reference historical literature. The Catholic Place will become your favorite place - where everything you are interested in is organized in one place ... just the way you like it.
 :::
