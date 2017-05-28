@@ -30,7 +30,7 @@ Introduction
 If you create an account, you can utilize the full power of the Catholic Place to create new content exactly as you see here. In fact, the Catholic Place was built with the exact same tools you have at your disposal. 
 :::
 ::: slide
-## Slide 3
+## Slide 5
 Introduction
 # The Catholic Place
 ### Get Started
