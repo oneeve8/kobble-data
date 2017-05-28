@@ -8,7 +8,7 @@ Welcome to the Catholic Place, where you can study the Catholic Faith and create
 You can instantly view archived literary works (including those written by the Doctors and Saints of the Catholic Church), and much more. Create your own studies, research papers, or simply take notes and share your knowledge with others.
 :::
 ::: slide
-### Based on Kobble
+## Based on Kobble
 The Catholic Place is based on [Kobble](https://kobble.io) making it easier than ever to research, take notes, write articles and reference historical literature. The Catholic Place will become your favorite place - where everything you are interested in is organized in one place ... just the way you like it.
 :::
 ::: slide
