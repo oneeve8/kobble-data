@@ -75,7 +75,6 @@ Now and at the hour of our death.*
 Amen.
 :::
 ::: slide
-#### Prayers of the Holy Rosary  
 #### The Glory Be
 
 Glory Be to the Father,  
@@ -89,7 +88,6 @@ world without end.*
 Amen.
 :::
 ::: slide
-#### Prayers of the Holy Rosary
 The Prayer given by Our Blessed Mother at Fatima:
 
 O my Jesus, forgive us our sins,  
