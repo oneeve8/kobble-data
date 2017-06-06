@@ -21,6 +21,7 @@ from thence He shall come to judge the living and the dead.
 *I believe the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting.* 
 Amen.
 :::
+::: slide
 1st Joyful Mystery  
 The Annunciation
 And coming in, he said to her,
