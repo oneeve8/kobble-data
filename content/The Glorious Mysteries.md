@@ -223,9 +223,9 @@ especially those in most need of Your mercy.
 :::
 ::: slide
 The 5th Glorious Mystery   
-The Crucifixion  
+The Crowning of Our Blessed Lady 
 
-Therefore when Jesus had received the sour wine, He said, "It is finished!" And He bowed His head and gave up His spirit. (John 19,30)
+A gre
 :::
 ::: slide
 Our Father who art in Heaven,  
