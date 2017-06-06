@@ -54,8 +54,6 @@ Now and at the hour of our death.*
 Amen. (repeat 10 times)
 :::
 ::: slide
-#### The Glory Be
-
 Glory Be to the Father,  
 and to the Son,  
 and to the Holy Spirit. 
@@ -65,8 +63,6 @@ is now and ever shall be,
 world without end.* 
 
 Amen.
-
-
 :::
 ::: slide
 ##### The Hail Mary:  
