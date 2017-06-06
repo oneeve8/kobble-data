@@ -225,7 +225,7 @@ especially those in most need of Your mercy.
 The 5th Mystery of Light  
 The Institution of the Eucharist  
 
-When the hour had 
+When the hour had come, He reclined at the table, and the apostles with Him. And He said to t
 :::
 ::: slide
 Our Father who art in Heaven,  
