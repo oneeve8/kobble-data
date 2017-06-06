@@ -41,7 +41,7 @@ Our Father who art in Heaven,
 Hallowed be thy name  
 Thy kingdom come, thy will be done  
 On earth as it is in heaven  
-
+R.  
 Give us this day our daily bread  
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
@@ -56,7 +56,8 @@ Amen.
 Hail Mary full of grace  
 The lord is with thee  
 Blessed art thou among women  
-And blessed is the fruit of thy womb Jesus *   
+And blessed is the fruit of thy womb Jesus  
+R.
 Holy Mary, Mother of God  
 Pray for us sinners  
 Now and at the hour of our death  
