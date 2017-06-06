@@ -124,7 +124,7 @@ especially those in most need of Your mercy.
 :::
 ::: slide
 The Third Joyful Mystery  
-The   
+The Birth of Jesus  
 When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit. And she cried out with a loud voice and said, "Blessed are you among women, and blessed is the fruit of your womb!" (Luke 1,41-42)
 :::
 ::: slide
