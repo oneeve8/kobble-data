@@ -42,15 +42,6 @@ But deliver us from evil.*
 Amen.
 :::
 ::: slide
-
-::: slide
-##### The Our Father:  
-
-
-:::
-::: slide
-##### The Hail Mary:  
-
 Hail Mary, full of grace,  
 The lord is with thee. 
 Blessed art thou among women,  
@@ -61,6 +52,15 @@ Pray for us sinners,
 Now and at the hour of our death.*
 
 Amen.
+::: slide
+##### The Our Father:  
+
+
+:::
+::: slide
+##### The Hail Mary:  
+
+
 :::
 ::: slide
 #### The Glory Be
