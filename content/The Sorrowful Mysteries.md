@@ -1,6 +1,6 @@
 ::: slide
 ###### The Mysteries of Light
-The Mysteries of Light are to be said on Thursday  
+The Mysteries of Light are said on Thursday  
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
 :::
