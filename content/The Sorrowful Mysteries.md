@@ -125,7 +125,7 @@ especially those in most need of Your mercy.
 The 3rd Sorrowful Mystery   
 The Crowning with Thorns
 
-And after t
+And after twisting together a crown of thorns, they put it on His head, and a 
 :::
 ::: slide
 Our Father who art in Heaven,  
