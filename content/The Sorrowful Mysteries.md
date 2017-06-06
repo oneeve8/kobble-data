@@ -75,7 +75,7 @@ especially those in most need of Your mercy.
 The 2nd Sorrowful Mystery  
 The Scourging at the Pillar 
 
-Wishing to satisfy the crowd, Pilate released Barabbas for them, and af
+Wishing to satisfy the crowd, Pilate released Barabbas for them, and after having Jesus scourged, he handed Him over to be crucified. (M)
 :::
 ::: slide
 Our Father who art in Heaven,  
