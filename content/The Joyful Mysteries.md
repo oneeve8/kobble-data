@@ -102,7 +102,8 @@ And blessed is the fruit of thy womb, Jesus.
 Pray for us sinners,  
 Now and at the hour of our death.*
 
-Amen. (repeat 10 times)
+Amen. 
+(repeat 10 times)
 :::
 ::: slide
 Glory Be to the Father,  
@@ -116,7 +117,6 @@ world without end.*
 Amen.
 :::
 ::: slide
-The Prayer given by Our Blessed Mother at Fatima:
 
 O my Jesus, forgive us our sins,  
 save us from the fires of hell.  
