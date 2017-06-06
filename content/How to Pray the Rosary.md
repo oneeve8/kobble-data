@@ -8,7 +8,7 @@
 5. Say one "Glory Be to the Father"  
 :::
 ::: slide
-## How to Pray the Rosary
+#### How to Pray the Rosary
 For each of the 5 decades:
 1. Announce the Mystery.
 2. On the large bead before each decade, say one "Our Father"
