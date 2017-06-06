@@ -1,6 +1,6 @@
 ::: slide
 ###### The Glorious Mysteries
-The Glorious Mysteries are said on Tuesday and Friday.
+The Glorious Mysteries are said on Wednesday and Sunday.
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
 :::
