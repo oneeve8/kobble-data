@@ -125,7 +125,7 @@ especially those in most need of Your mercy.
 The Third Mystery of Light  
 The Proclamation of the Kingdom
 
-Jesus was going throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every kind of disease and every kind of sickness among the people... Large crowds follwed Him from Galilee and the Decapolis and Jer
+Jesus was going throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every kind of disease and every kind of sickness among the people... Large crowds follwed Him from Galilee and the Decapolis and Jerusalem and Judea and from beyond the Jordan. (Matt)
 :::
 ::: slide
 Our Father who art in Heaven,  
