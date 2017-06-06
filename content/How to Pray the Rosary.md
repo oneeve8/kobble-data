@@ -36,8 +36,8 @@ But deliver us from evil
 Amen.
 :::
 ::: slide
-## Prayers of the Holy Rosary  
-The Hail Mary:  
+#### Prayers of the Holy Rosary  
+#### The Hail Mary:  
 
 Hail Mary full of grace  
 The lord is with thee  
