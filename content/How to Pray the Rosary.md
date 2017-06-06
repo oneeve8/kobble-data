@@ -82,6 +82,8 @@ Hail, holy Queen, Mother of mercy, our life, our sweetness and our hope. To thee
 
 V. Pray for us, O holy Mother of God.
 R. That we may be made worthy of the promises of Christ.
+:::
+
 The following prayer may be added at the end of the Rosary:  
 
 Let us pray. O God, Whose Only-Begotten Son, by His life, death and resurrection, has purchased for us the rewards of eternal life: grant, we beseech Thee, that by meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain, and obtain what they promise, through the same Christ our Lord. Amen.
