@@ -25,7 +25,7 @@ Amen.
 1st Glorious Mystery 
 The Resurrection  
 
-The angel said to the women,
+The angel said to the women, "Do not be afraid; for I know that you ar"
 :::
 ::: slide
 Our Father who art in Heaven,  
