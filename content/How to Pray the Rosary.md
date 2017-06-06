@@ -41,9 +41,9 @@ Amen.
 Our Father who art in Heaven,  
 Hallowed be thy name.  
 Thy kingdom come, thy will be done,  
-On earth as it is in heaven
+On earth as it is in heaven.
 
-*Give us this day our daily bread  
+*Give us this day our daily bread,  
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
 And lead us not into temptation  
