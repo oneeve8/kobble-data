@@ -75,7 +75,7 @@ especially those in most need of Your mercy.
 The 2nd Mystery of Light 
 The Wedding at Cana 
 
-On the third day there 
+On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was 
 :::
 ::: slide
 Our Father who art in Heaven,  
