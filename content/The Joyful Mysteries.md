@@ -3,7 +3,8 @@
 How to Pray the Rosary  
 Opening prayers:  
 1. Make the Sign of the Cross with the crucifix of the rosary.  
-2. Say the "Apostles' Cr"
+2. Say the "Apostles' Creed"  
+3. On the 
 :::
 ::: slide
 ## Slide 2
