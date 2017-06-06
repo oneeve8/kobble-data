@@ -175,7 +175,7 @@ especially those in most need of Your mercy.
 The 4th Glorious Mystery   
 The Assumption
 
-For behold, from th
+For behold, from this time on all generations will count me blessed. "For the Might"
 :::
 ::: slide
 Our Father who art in Heaven,  
