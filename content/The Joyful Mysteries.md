@@ -1,11 +1,12 @@
 ::: slide
 ###### The Joyful Mysteries
 The Joyful Mysteries are to be said on Monday and on Saturday  
+To begin the Rosary
+Make the Sign of the Cross with the crucifix
 :::
 ::: slide
 ##### Opening prayers 
-To begin the Rosary
-Make the Sign of the Cross with the crucifix
+
 ##### The Apostles' Creed
 
 I believe in God the Father Almighty,   
