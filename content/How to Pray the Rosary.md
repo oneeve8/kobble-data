@@ -71,7 +71,8 @@ Amen.
 
 Glory Be to the Father,  
 and to the Son,  
-and to the Holy Spirit  
+and to the Holy Spirit.  
+Response:  
 As it was in the beginning,  
 is now and ever shall be,  
 world without end  
