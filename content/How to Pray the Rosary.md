@@ -83,7 +83,7 @@ Amen.
 ::: slide
 #### Prayers of the Holy Rosary
 The Prayer given by Our Blessed Mother at Fatima:  
-"O my Jesus, forgive us our sins, save us from the fires of hell. Lead all souls to Heaven, especially those in most need of Your mercy."
+O my Jesus, forgive us our sins, save us from the fires of hell. Lead all souls to Heaven, especially those in most need of Your mercy.
 :::
 ::: slide
 #### Prayers of the Holy Rosary
@@ -102,7 +102,8 @@ V. Pray for us, O holy Mother of God.
 ::: slide
 The following prayer may be added at the end of the Rosary:  
 
-Let us pray. O God, Whose Only-Begotten Son, by His life, death and resurrection, has purchased for us the rewards of eternal life: grant, we beseech Thee, that by meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain, and obtain what they promise, through the same Christ our Lord.   
+Let us pray. O God, Whose Only-Begotten Son, by His life, death and resurrection, has purchased for us the rewards of eternal life: grant, we beseech Thee, that by meditating upon these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain, and obtain what they promise, through the same Christ our Lord.
+
 Amen.
 :::
 ::: slide
