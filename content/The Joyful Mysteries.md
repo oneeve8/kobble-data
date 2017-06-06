@@ -1,6 +1,6 @@
 ::: slide
-##### The Joyful Mysteries
-The Joyful Mysteries which are to be said on Monday and on Saturday  
+###### The Joyful Mysteries
+The Joyful Mysteries are to be said on Monday and on Saturday  
 :::
 ::: slide
 ##### Opening prayers 
