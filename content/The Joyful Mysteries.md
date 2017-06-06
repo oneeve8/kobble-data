@@ -223,7 +223,7 @@ especially those in most need of Your mercy.
 ::: slide
 The 5th Joyful Mystery  
 Finding the Child Jesus
-And He said to them, "Why is it that you were looking for Me? Did you not know that I had "
+And He said to them, "Why is it that you were looking for Me? Did you not know that I had to be in My Father's house?" And He went
 :::
 ::: slide
 Our Father who art in Heaven,  
