@@ -31,5 +31,6 @@ Give us this day our daily bread
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
 And lead us not into temptation  
-But deliver i
+But deliver us from evil  
+Amen.
 :::
