@@ -6,21 +6,11 @@ The Joyful Mysteries which are to be said on Monday and on Saturday
 ##### Opening prayers 
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
-1st Joyful Mystery
+1st Joyful Mystery  
 The Annunciation
 :::
 ::: slide
-##### How to Pray the Rosary
-For each of the 5 decades:
-1. Announce the Mystery.
-2. On the large bead before each decade, say one "Our Father"
-3. Say ten "Hail Marys," one for each small bead of the decade while meditating on the Mystery.
-4. Say the "Glory Be to the Father"  
-After each decade:
-Say the prayer requested by the Blessed Virgin Mary at Fatima  
-At the end of the 5 decades, recite the closing prayer:  
-"Hail, Holy Queen"
-:::
+
 ::: slide
 ##### How to Pray the Rosary  
 The Rosary may be prayed individually or in a group.  
