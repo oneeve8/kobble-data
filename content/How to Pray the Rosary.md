@@ -10,7 +10,8 @@ Opening prayers:
 5. Say one "glory Be to the Father"
 For each of the 5 decades:
 Announce the Mystery.
-On the 
+On the large bead before each decade, say one "Our Father"
+
 6. Say ten "Hail Marys," one for each small bead of the decade while meditating on the Mystery.
 7. 
 :::
