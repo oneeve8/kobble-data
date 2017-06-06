@@ -53,7 +53,8 @@ And blessed is the fruit of thy womb, Jesus.
 Pray for us sinners,  
 Now and at the hour of our death.*
 
-Amen. (repeat 10 times)
+Amen. 
+(repeat 10 times)
 :::
 ::: slide
 Glory Be to the Father,  
