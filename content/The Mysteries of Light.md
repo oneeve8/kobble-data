@@ -172,8 +172,8 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
-The 4th Mystery o  
-The Presentation in the Temple 
+The 4th Mystery of Light  
+The Transfiguration
 
 And when the days for their purification according to the law of Moses were completed, they brought Him up to Jerusalem to present Him to the Lord as it is written in the Law of the Lord, "every firstborn male that opens the womb shall be called holy to the Lord" (Luke 2,22-23)
 :::
