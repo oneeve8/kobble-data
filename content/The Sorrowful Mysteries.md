@@ -25,7 +25,7 @@ Amen.
 1st Sorrowful Mystery 
 The Agony in the Garden  
 
-And being in agony He was praying very fervently; and His sweat became like drops of blood, falling 
+And being in agony He was praying very fervently; and His sweat became like drops of blood, falling down upon the ground. (Luke 22,44)
 :::
 ::: slide
 Our Father who art in Heaven,  
