@@ -8,7 +8,8 @@ Opening prayers:
 3. On the 1st bead from the crucifix, say one "Our Father"  
 4. On the 2nd, 3rd and 4th beads, say the "Hail Mary"  
 5. Sayone "glory Be to the Father"
-6.
+For each of the 5 decades:
+
 6. Say ten "Hail Marys," one for each small bead of the decade while meditating on the Mystery.
 7. 
 :::
