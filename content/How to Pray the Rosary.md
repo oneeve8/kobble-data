@@ -97,8 +97,8 @@ Turn, then, most gracious advocate, thine eyes of mercy toward us,
 and after this, our exile, show unto us the blessed fruit of thy womb, Jesus.  
 O clement, O loving, O sweet Virgin Mary.
 
-Lea. *Pray for us, O holy Mother of God.  
-*That we may be made worthy of the promises of Christ.*
+Leader: *Pray for us, O holy Mother of God.*  
+Res*That we may be made worthy of the promises of Christ.*
 :::
 ::: slide
 The following prayer may be added at the end of the Rosary:  
