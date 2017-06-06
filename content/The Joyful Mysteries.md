@@ -63,17 +63,7 @@ Amen. (repeat 10 times)
 
 :::
 ::: slide
-#### The Glory Be
 
-Glory Be to the Father,  
-and to the Son,  
-and to the Holy Spirit. 
-
-*As it was in the beginning,  
-is now and ever shall be,  
-world without end.* 
-
-Amen.
 :::
 ::: slide
 The Prayer given by Our Blessed Mother at Fatima:
