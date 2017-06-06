@@ -84,7 +84,10 @@ Amen.
 #### Prayers of the Holy Rosary
 The Prayer given by Our Blessed Mother at Fatima:
 
-O my Jesus, forgive us our sins, save us from the fires of hell. Lead all souls to Heaven, especially those in most need of Your mercy.
+O my Jesus, forgive us our sins,  
+save us from the fires of hell.  
+Lead all souls to Heaven,  
+especially those in most need of Your mercy.
 :::
 ::: slide
 #### Prayers of the Holy Rosary
