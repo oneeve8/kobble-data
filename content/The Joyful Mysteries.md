@@ -125,7 +125,7 @@ especially those in most need of Your mercy.
 ::: slide
 The Third Joyful Mystery  
 The Birth of Jesus  
-And she gave birthto her 
+And she gave birthto her firstborn son; and she wrapped Him in cloths, and laid Him in 
 :::
 ::: slide
 Our Father who art in Heaven,  
