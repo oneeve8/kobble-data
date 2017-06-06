@@ -225,7 +225,7 @@ especially those in most need of Your mercy.
 The 5th Sorrowful Mystery   
 The Crucifixion  
 
-There
+Therefore when Jesus had received the sour wine, He said, "It is fin"
 :::
 ::: slide
 Our Father who art in Heaven,  
