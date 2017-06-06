@@ -8,7 +8,7 @@ There are four Mysteries upon which we meditate on the life of Jesus and they ar
 4. The Glorious Mysteries which are to be said on Wednesday and on Sunday
 
 Each Mystery contains 5 decades (five sets of ten beads each). 
-Each decade consists of one our Father and 10 Hail Mary's
+Upon each of the b one our Father and 10 Hail Mary's
 :::
 ::: slide
 #### Opening prayers 
