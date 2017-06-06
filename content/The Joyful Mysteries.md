@@ -28,13 +28,6 @@ And coming in, he said to her,
 "And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1,28-31)
 :::
 ::: slide
-
-:::
-::: slide
-
-::: slide
-##### The Our Father:  
-
 Our Father who art in Heaven,  
 Hallowed be thy name.  
 Thy kingdom come, thy will be done,  
@@ -47,6 +40,13 @@ And lead us not into temptation
 But deliver us from evil.* 
 
 Amen.
+:::
+::: slide
+
+::: slide
+##### The Our Father:  
+
+
 :::
 ::: slide
 ##### The Hail Mary:  
