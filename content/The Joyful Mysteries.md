@@ -1,6 +1,6 @@
 ::: slide
-## Slide 1
-The Joyful Mysteries
+## The Joyful Mysteries
+
 :::
 ::: slide
 ## Slide 2
