@@ -23,5 +23,5 @@ Say the "Hail, Holy Queen"
 ::: slide
 Prayers of the Holy Rosary
 The Our Father:
-
+Our Father who art in Heaven,
 :::
