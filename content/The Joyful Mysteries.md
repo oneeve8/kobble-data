@@ -6,6 +6,23 @@ The Joyful Mysteries which are to be said on Monday and on Saturday
 ##### Opening prayers 
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
+##### The Apostles' Creed
+
+I believe in God the Father Almighty,   
+Creator of heaven and earth;  
+and in Jesus Christ, His only Son, our Lord;   
+Who was conceived by the Holy Spirit,  
+born of the Virgin Mary, suffered under Pontius Pilate,  
+was crucified, died and was buried.  
+He descended into hell;  
+the third day He rose again from the dead;   
+He ascended into heaven and sits at the right hand of God,  
+the Father Almighty;  
+from thence He shall come to judge the living and the dead.    
+
+*I believe the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting.* 
+Amen.
+:::
 1st Joyful Mystery  
 The Annunciation
 :::
