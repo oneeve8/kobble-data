@@ -61,7 +61,7 @@ And blessed is the fruit of thy womb Jesus
 
 *Holy Mary, Mother of God  
 Pray for us sinners  
-Now and at the hour of our death.  
+Now and at the hour of our death.*  
 Amen.
 :::
 ::: slide
