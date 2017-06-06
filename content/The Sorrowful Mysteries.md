@@ -1,6 +1,6 @@
 ::: slide
 ###### The Sorrowful Mysteries
-The Mysteries of Light are said on Tuesday and Friday  
+The Sorrowful Mysteries are said on
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
 :::
