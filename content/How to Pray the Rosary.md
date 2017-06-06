@@ -15,7 +15,6 @@ After each decade:
 Say the following prayer requested by the Blessed Virgin Mary at Fatima: "O my Jesus, forgive us our sins, save us from the fires of hell. Lead all souls to Heaven, especially those in most need of Your mercy".
 Closing prayer:
 Say the "Hail, Holy Queen"
-7. 
 :::
 ::: slide
 ## Slide 2
