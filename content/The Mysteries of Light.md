@@ -123,8 +123,9 @@ especially those in most need of Your mercy.
 :::
 ::: slide
 The Third Mystery of Light  
-The Proclamatio
-And she gave birthto her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn. (Luke 2,7)
+The Proclamation of the Kingdom
+
+Jesus was goin
 :::
 ::: slide
 Our Father who art in Heaven,  
