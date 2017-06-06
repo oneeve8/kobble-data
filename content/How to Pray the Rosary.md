@@ -99,3 +99,4 @@ Let us pray. O God, Whose Only-Begotten Son, by His life, death and resurrection
 #### The Mysteries of the Holy Rosary
 The Joyful Mysteries to be said on Monday and on Saturday
 The Mysteries of Light to be said on Thursday
+The Sorrowful Mysteries to 
