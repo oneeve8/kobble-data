@@ -22,6 +22,11 @@ Closing prayer:
 Say the "Hail, Holy Queen"
 :::
 ::: slide
+::: slide
+#### How to Pray the Rosary  
+
+When the Rosary is said in a group, the most of the prayers are divided into two parts, of which one person, or part of the group, says the first, while the others respond with the second. The divisions are are indicated below with an asterisk (*). Where no division is indicated, the entire prayer is recited by all. (The sign of the cross is recited by all or by the leader alone, the others responding "Amen.")
+:::
 #### Prayers of the Holy Rosary
 #### The Apostles' Creed
 
