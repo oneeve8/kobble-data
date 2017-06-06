@@ -125,7 +125,7 @@ especially those in most need of Your mercy.
 The Third Mystery of Light  
 The Proclamation of the Kingdom
 
-Jesus was goin
+Jesus was going throughout all Galilee, teaching in their synagogues and proclaiming the
 :::
 ::: slide
 Our Father who art in Heaven,  
