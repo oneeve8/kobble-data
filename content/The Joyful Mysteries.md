@@ -73,6 +73,7 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
+The Second Joyful Mystery
 ##### The Hail Holy Queen
 
 Hail, holy Queen, Mother of mercy,  
