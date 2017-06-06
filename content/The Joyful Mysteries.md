@@ -1,6 +1,5 @@
 ::: slide
 ## The Joyful Mysteries
-::: slide
 The Joyful Mysteries which are to be said on Monday and on Saturday  
 :::
 ::: slide
