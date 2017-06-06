@@ -5,10 +5,7 @@ To begin the Rosary
 Make the Sign of the Cross with the crucifix
 :::
 ::: slide
-##### Opening prayers 
-
 ##### The Apostles' Creed
-
 I believe in God the Father Almighty,   
 Creator of heaven and earth;  
 and in Jesus Christ, His only Son, our Lord;   
