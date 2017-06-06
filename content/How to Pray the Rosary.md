@@ -13,7 +13,8 @@ Announce the Mystery.
 On the large bead before each decade, say one "Our Father"
 Say ten "Hail Marys," one for each small bead of the decade while meditating on the Mystery.
 Say the "Glory Be to the Father"
-After 
+After each decade:
+Say the following prayer requested by the Blessed Virgin Mar
 7. 
 :::
 ::: slide
