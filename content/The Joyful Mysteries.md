@@ -53,7 +53,17 @@ Now and at the hour of our death.*
 
 Amen. (repeat 10 times)
 ::: slide
-##### The Our Father:  
+#### The Glory Be
+
+Glory Be to the Father,  
+and to the Son,  
+and to the Holy Spirit. 
+
+*As it was in the beginning,  
+is now and ever shall be,  
+world without end.* 
+
+Amen.
 
 
 :::
