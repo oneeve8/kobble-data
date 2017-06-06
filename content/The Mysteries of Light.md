@@ -23,11 +23,9 @@ Amen.
 :::
 ::: slide
 1st Mystery of Light 
-Christ's   
+Christ's Baptism in the Jordan  
 
-And coming in, he said to her,
-"Greetings, favored one! The Lord is with you."
-"And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1,28-31)
+In those days
 :::
 ::: slide
 Our Father who art in Heaven,  
