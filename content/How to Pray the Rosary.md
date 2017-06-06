@@ -55,4 +55,6 @@ The Glory Be
 Glory Be to the Father,  
 and to the Son,  
 and to the Holy Spirit
-Amen
+Amen.
+:::
+::: slide
