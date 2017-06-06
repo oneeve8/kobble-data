@@ -52,6 +52,7 @@ Pray for us sinners,
 Now and at the hour of our death.*
 
 Amen. (repeat 10 times)
+:::
 ::: slide
 #### The Glory Be
 
