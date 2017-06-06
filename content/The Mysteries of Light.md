@@ -25,7 +25,7 @@ Amen.
 1st Mystery of Light 
 Christ's Baptism in the Jordan  
 
-In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. Immediately coming up out of the water, He saw the heaven
+In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. Immediately coming up out of the water, He saw the heavens opening, and the Spirit like a dove descending upon Him
 :::
 ::: slide
 Our Father who art in Heaven,  
