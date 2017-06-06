@@ -1,6 +1,6 @@
 ::: slide
 ###### The Mysteries of Light
-The Joyful Mysteries are to be said on Monday and on Saturday  
+The Mysteries of Light are to be said on Thur  
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
 :::
