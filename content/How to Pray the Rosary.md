@@ -49,4 +49,5 @@ Now and at the hour of our death
 Amen.
 :::
 ::: slide
-The 
+Prayers of the Holy Rosary
+The Glory Be
