@@ -25,5 +25,7 @@ Prayers of the Holy Rosary
 The Our Father:
 Our Father who art in Heaven,  
 Hallowed be thy name  
-Thy kingdom come, thy
+Thy kingdom come, thy will be done  
+On earth as it is in heaven  
+Give us this
 :::
