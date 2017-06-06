@@ -32,11 +32,11 @@ One person, or part of the group, says the first part, followed by the others wi
 I believe in God the Father Almighty,   
 Creator of heaven and earth;  
 and in Jesus Christ, His only Son, our Lord;   
-Who was conceived by the Holy Spirit, 
-born of the Virgin Mary, 
-suffered under Pontius Pilate, 
-was crucified, died and was buried. 
-He descended into hell; 
+Who was conceived by the Holy Spirit,  
+born of the Virgin Mary,  
+suffered under Pontius Pilate,  
+was crucified, died and was buried.  
+He descended into hell;  
 the third day He rose again from the dead; 
 He ascended into heaven and sits at the right hand of God, 
 the Father Almighty; 
