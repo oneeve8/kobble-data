@@ -62,7 +62,8 @@ And blessed is the fruit of thy womb Jesus
 
 *Holy Mary, Mother of God  
 Pray for us sinners  
-Now and at the hour of our death.* 
+Now and at the hour of our death.*
+
 Amen.
 :::
 ::: slide
@@ -75,7 +76,8 @@ and to the Holy Spirit.
 
 *As it was in the beginning,  
 is now and ever shall be,  
-world without end.*  
+world without end.* 
+
 Amen.
 :::
 ::: slide
