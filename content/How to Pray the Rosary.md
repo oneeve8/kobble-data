@@ -17,8 +17,8 @@ For each of the 5 decades:
 4. Say the "Glory Be to the Father"  
 After each decade:
 Say the prayer requested by the Blessed Virgin Mary at Fatima  
-At the end of the 5 decades recite the closing prayer:
-Say the "Hail, Holy Queen"
+At the end of the 5 decades, recite the closing prayer:
+"Hail, Holy Queen"
 :::
 ::: slide
 #### How to Pray the Rosary  
