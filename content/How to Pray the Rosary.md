@@ -1,4 +1,3 @@
-
 ::: slide
 #### How to Pray the Rosary
 #### Opening prayers:  
