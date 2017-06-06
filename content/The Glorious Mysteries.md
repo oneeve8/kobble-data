@@ -75,7 +75,7 @@ especially those in most need of Your mercy.
 The 2nd Glorious Mystery  
 The Ascension into Heaven
 
-Wishing to satisfy the crowd, Pilate released Barabbas for them, and after having Jesus scourged, he handed Him over to be crucified. (Mark 15,15)
+So then, when the Lord Jesus had spok
 :::
 ::: slide
 Our Father who art in Heaven,  
