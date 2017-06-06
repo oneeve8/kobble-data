@@ -24,7 +24,8 @@ Amen.
 1st Joyful Mystery  
 The Annunciation
 And coming in, he said to her,
-"Greetings, favored one! The Lord"
+"Greetings, favored one! The Lord is with you."
+"And behold, you will conceive in y"
 :::
 ::: slide
 
