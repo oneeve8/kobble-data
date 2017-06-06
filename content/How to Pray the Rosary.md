@@ -12,7 +12,7 @@ Upon each of the beads in these decades,
 we recite one "Our Father" and ten "Hail Mary's"
 :::
 ::: slide
-#### Opening prayers 
+##### Opening prayers 
 To begin the Rosary:
 1. Make the Sign of the Cross with the crucifix of the rosary.  The Sign of the Cross is made with the right hand by touching the forehead at the word "Father," the chest at "Son," and the left and right shoulders at "Holy Spirit."
 2. Say the "Apostles' Creed"  
@@ -21,7 +21,7 @@ To begin the Rosary:
 5. Say one "Glory Be to the Father"  
 :::
 ::: slide
-#### How to Pray the Rosary
+##### How to Pray the Rosary
 For each of the 5 decades:
 1. Announce the Mystery.
 2. On the large bead before each decade, say one "Our Father"
