@@ -75,7 +75,7 @@ especially those in most need of Your mercy.
 The 2nd Sorrowful Mystery  
 The Scourging at the Pillar 
 
-Wi
+Wishing to satisfy the crowd, Pilate released Barabbas for them, and af
 :::
 ::: slide
 Our Father who art in Heaven,  
