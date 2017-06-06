@@ -23,7 +23,7 @@ Amen.
 :::
 ::: slide
 1st Glorious Mystery 
-The Agony in the Garden  
+The Resurrection  
 
 And being in agony He was praying very fervently; and His sweat became like drops of blood, falling down upon the ground. (Luke 22,44)
 :::
