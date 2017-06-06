@@ -36,4 +36,6 @@ But deliver us from evil
 Amen.
 :::
 ::: slide
-Prayers of t
+Prayers of the Holy Rosary
+The Hail Mary:
+Hail Mary full of gra
