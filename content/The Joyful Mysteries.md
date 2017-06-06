@@ -286,8 +286,6 @@ Leader: *Pray for us, O holy Mother of God.*
 Response: *That we may be made worthy of the promises of Christ.*
 :::
 ::: slide
-The following prayer may be added at the end of the Rosary:  
-
 Let us pray.   
 O God, Whose Only-Begotten Son,     
 by His life, death and resurrection, 
