@@ -60,8 +60,8 @@ The lord is with thee.
 Blessed art thou among women,  
 And blessed is the fruit of thy womb, Jesus.
 
-*Holy Mary, Mother of God  
-Pray for us sinners  
+*Holy Mary, Mother of God,  
+Pray for us sinners,  
 Now and at the hour of our death.*
 
 Amen.
