@@ -6,6 +6,9 @@ There are four Mysteries upon which we meditate on the life of Jesus and they ar
 2. The Mysteries of Light which are to be said on Thursday  
 3. The Sorrowful Mysteries which are to be said on Tuesday and on Friday  
 4. The Glorious Mysteries which are to be said on Wednesday and on Sunday
+
+
+Each Myste
 :::
 #### Opening prayers:  
 1. Make the Sign of the Cross with the crucifix of the rosary.  The Sign of the Cross is made with the right hand by touching the forehead at the word "Father," the chest at "Son," and the left and right shoulders at "Holy Spirit."
