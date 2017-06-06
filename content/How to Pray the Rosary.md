@@ -47,7 +47,8 @@ On earth as it is in heaven
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
 And lead us not into temptation  
-But deliver us from evil.*  
+But deliver us from evil.* 
+
 Amen.
 :::
 ::: slide
@@ -61,7 +62,7 @@ And blessed is the fruit of thy womb Jesus
 
 *Holy Mary, Mother of God  
 Pray for us sinners  
-Now and at the hour of our death.*  
+Now and at the hour of our death.* 
 Amen.
 :::
 ::: slide
@@ -75,7 +76,6 @@ and to the Holy Spirit.
 *As it was in the beginning,  
 is now and ever shall be,  
 world without end.*  
-
 Amen.
 :::
 ::: slide
