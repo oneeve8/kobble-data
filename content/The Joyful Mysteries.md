@@ -75,7 +75,7 @@ especially those in most need of Your mercy.
 ::: slide
 The Second Joyful Mystery
 The Visitation
-When Elizabeth hea
+When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was fil
 ##### The Hail Holy Queen
 
 Hail, holy Queen, Mother of mercy,  
