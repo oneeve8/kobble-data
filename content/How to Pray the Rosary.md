@@ -36,13 +36,13 @@ But deliver us from evil
 Amen.
 :::
 ::: slide
-Prayers of the Holy Rosary
-The Hail Mary:
-Hail Mary full of grace
-The lord is with thee
-Blessed art thou among women
-And blessed is the fruit of thy womb Jesus
-Holy Mary, Mother of God
-Pray for us sinners
-Now and at the hour of our death
+Prayers of the Holy Rosary  
+The Hail Mary:  
+Hail Mary full of grace  
+The lord is with thee  
+Blessed art thou among women  
+And blessed is the fruit of thy womb Jesus  
+Holy Mary, Mother of God  
+Pray for us sinners  
+Now and at the hour of our death  
 Amen.
