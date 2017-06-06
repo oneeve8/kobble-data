@@ -172,7 +172,7 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
-The 4th Sorrowful Mystery   
+The 4th Glorious Mystery   
 The Carrying of the Cross
 
 So he then handed Him over to them to be crucified. They took Jesus, therefore, and He went out, bearing His own cross, to the place called the Place of a Skull, which is called in Hebrew, Golgotha. (John 19,16-17)
