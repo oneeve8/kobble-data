@@ -11,7 +11,8 @@ There are four Mysteries upon which we meditate on the life of Jesus and they ar
 Each Mystery contains 5 decades Each decade consists of one our Father and 10 Hail Mary's
 :::
 ::: slide
-#### Opening prayers:  
+#### Opening prayers: 
+To begin 
 1. Make the Sign of the Cross with the crucifix of the rosary.  The Sign of the Cross is made with the right hand by touching the forehead at the word "Father," the chest at "Son," and the left and right shoulders at "Holy Spirit."
 2. Say the "Apostles' Creed"  
 3. On the 1st bead from the crucifix, say one "Our Father"  
