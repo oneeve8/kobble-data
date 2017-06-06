@@ -74,7 +74,7 @@ and to the Holy Spirit.
 
 *As it was in the beginning,  
 is now and ever shall be,  
-world without end  
+world without end.* 
 Amen.
 :::
 ::: slide
