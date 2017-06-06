@@ -51,3 +51,5 @@ Amen.
 ::: slide
 Prayers of the Holy Rosary
 The Glory Be
+
+Glory Be to the Father, and to the Son, a
