@@ -1,7 +1,7 @@
 ::: slide
 ## The Joyful Mysteries
-How to Pray the Rosary
-Opening prayers:
+How to Pray the Rosary  
+Opening prayers:  
 
 :::
 ::: slide
