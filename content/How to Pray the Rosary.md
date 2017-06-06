@@ -26,7 +26,6 @@ When the Rosary is said in a group, the most of the prayers are divided into two
 One person, or part of the group, says the first part, followed by the others with the second part. The responses are indicated by italics. Otherwise, the entire prayer is recited by all. 
 :::
 ::: slide
-#### Prayers of the Holy Rosary
 #### The Apostles' Creed
 
 I believe in God the Father Almighty,   
