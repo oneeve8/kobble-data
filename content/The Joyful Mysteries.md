@@ -117,7 +117,6 @@ world without end.*
 Amen.
 :::
 ::: slide
-
 O my Jesus, forgive us our sins,  
 save us from the fires of hell.  
 Lead all souls to Heaven,  
