@@ -2,6 +2,7 @@
 When the Rosary is said in a group, the most of the prayers are divided into two parts, of which one person, or part of the group, says the first, while the others respond with the second. The divisions are are indicated below with an asterisk (*). Where no division is indicated, the entire prayer is recited by all. (The sign of the cross is recited by all or by the leader alone, the others responding "Amen.")
 :::
 ::: slide
+
 ## How to Pray the Rosary
 Opening prayers:  
 1. Make the Sign of the Cross with the crucifix of the rosary.  The Sign of the Cross is made with the right hand by touching the forehead at the word "Father," the chest at "Son," and the left and right shoulders at "Holy Spirit."
