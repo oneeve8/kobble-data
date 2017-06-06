@@ -44,4 +44,5 @@ Blessed art thou among women
 And blessed is the fruit of thy womb Jesus
 Holy Mary, Mother of God
 Pray for us sinners
-Now and 
+Now and at the hour of our death
+Amen.
