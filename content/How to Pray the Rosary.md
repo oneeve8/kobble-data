@@ -43,7 +43,7 @@ Our Father who art in Heaven,
 Hallowed be thy name  
 Thy kingdom come, thy will be done  
 On earth as it is in heaven  
-R.  
+Response:  
 Give us this day our daily bread  
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
