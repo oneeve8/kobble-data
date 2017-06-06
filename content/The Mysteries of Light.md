@@ -22,8 +22,8 @@ from thence He shall come to judge the living and the dead.
 Amen.
 :::
 ::: slide
-1st Joyful Mystery  
-The Annunciation  
+1st Mystery of Light 
+Christ's   
 
 And coming in, he said to her,
 "Greetings, favored one! The Lord is with you."
