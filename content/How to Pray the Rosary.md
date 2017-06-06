@@ -40,7 +40,7 @@ Amen.
 
 Our Father who art in Heaven,  
 Hallowed be thy name.  
-Thy kingdom come, thy will be done  
+Thy kingdom come, thy will be done,  
 On earth as it is in heaven
 
 *Give us this day our daily bread  
