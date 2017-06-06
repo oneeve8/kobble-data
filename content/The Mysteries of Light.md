@@ -222,8 +222,8 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
-The 5th Joyful Mystery  
-Finding the Child Jesus  
+The 5th Mystery of Light  
+The   
 
 And He said to them, "Why is it that you were looking for Me? Did you not know that I had to be in My Father's house?" And He went down with them and came to Nazareth, and He continued in subjection to them; and His mother treasured all these things in her heart. (Luke 2,49-51)
 :::
