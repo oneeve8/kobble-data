@@ -52,4 +52,6 @@ Amen.
 Prayers of the Holy Rosary
 The Glory Be
 
-Glory Be to the Father, and to the Son, a
+Glory Be to the Father,  
+and to the Son, and to the Holy Spirit
+Amen
