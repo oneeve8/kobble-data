@@ -43,12 +43,11 @@ Hallowed be thy name
 Thy kingdom come, thy will be done  
 On earth as it is in heaven
 
-Res   
 *Give us this day our daily bread  
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
 And lead us not into temptation  
-But deliver us from evil*  
+But deliver us from evil.*  
 Amen.
 :::
 ::: slide
