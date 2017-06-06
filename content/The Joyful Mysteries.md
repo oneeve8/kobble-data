@@ -5,12 +5,8 @@ The Joyful Mysteries which are to be said on Monday and on Saturday
 :::
 ::: slide
 ##### Opening prayers 
-To begin the Rosary:
-1. Make the Sign of the Cross with the crucifix of the rosary.  The Sign of the Cross is made with the right hand by touching the forehead at the word "Father," the chest at "Son," and the left and right shoulders at "Holy Spirit."
-2. Say the "Apostles' Creed"  
-3. On the 1st bead from the crucifix, say one "Our Father"  
-4. On the 2nd, 3rd and 4th beads, say the "Hail Mary"  
-5. Say one "Glory Be to the Father"  
+To begin the Rosary
+Make the Sign of the Cross with the crucifix 
 :::
 ::: slide
 ##### How to Pray the Rosary
