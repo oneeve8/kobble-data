@@ -38,4 +38,6 @@ Amen.
 ::: slide
 Prayers of the Holy Rosary
 The Hail Mary:
-Hail Mary full of gra
+Hail Mary full of grace
+The lord is with thee
+Blessed art thou a
