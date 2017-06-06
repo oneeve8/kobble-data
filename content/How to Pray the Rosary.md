@@ -15,7 +15,8 @@ For each of the 5 decades:
 3. Say ten "Hail Marys," one for each small bead of the decade while meditating on the Mystery.
 4. Say the "Glory Be to the Father"  
 After each decade:
-Say the following prayer requested by the Blessed Virgin Mary at Fatima: "O my Jesus, forgive us our sins, save us from the fires of hell. Lead all souls to Heaven, especially those in most need of Your mercy".
+Say the following prayer requested by the Blessed Virgin Mary at Fatima:  
+"O my Jesus, forgive us our sins, save us from the fires of hell. Lead all souls to Heaven, especially those in most need of Your mercy."  
 Closing prayer:
 Say the "Hail, Holy Queen"
 :::
