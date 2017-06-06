@@ -51,7 +51,7 @@ And blessed is the fruit of thy womb, Jesus.
 Pray for us sinners,  
 Now and at the hour of our death.*
 
-Amen.
+Amen. (repea)
 ::: slide
 ##### The Our Father:  
 
