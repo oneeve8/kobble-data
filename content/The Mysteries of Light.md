@@ -175,7 +175,7 @@ especially those in most need of Your mercy.
 The 4th Mystery of Light  
 The Transfiguration
 
-Six days later Jesus took with Him Peter and James and John his brother, and led them up on a high mountain by themselves. And He was transfigured before them; and His face shone like the sun, and His g
+Six days later Jesus took with Him Peter and James and John his brother, and led them up on a high mountain by themselves. And He was transfigured before them; and His face shone like the sun, and His garments became as white as light. And behold, Moses an
 :::
 ::: slide
 Our Father who art in Heaven,  
