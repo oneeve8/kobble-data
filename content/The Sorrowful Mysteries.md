@@ -175,7 +175,7 @@ especially those in most need of Your mercy.
 The 4th Sorrowful Mystery   
 The Carrying of the Cross
 
-So he then handed Him over to them to be crucified. They took Jesus, there
+So he then handed Him over to them to be crucified. They took Jesus, therefore, and He went out, bearing His own cross, to the place called the P;
 :::
 ::: slide
 Our Father who art in Heaven,  
