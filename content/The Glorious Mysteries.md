@@ -225,7 +225,7 @@ especially those in most need of Your mercy.
 The 5th Glorious Mystery   
 The Crowning of Our Blessed Lady 
 
-A great sign appeared in heaven: a woman clothed with the sun, and the moon under her feet
+A great sign appeared in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars. (Rev)
 :::
 ::: slide
 Our Father who art in Heaven,  
