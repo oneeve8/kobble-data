@@ -39,7 +39,7 @@ Amen.
 #### The Our Father:  
 
 Our Father who art in Heaven,  
-Hallowed be thy name  
+Hallowed be thy name.  
 Thy kingdom come, thy will be done  
 On earth as it is in heaven
 
