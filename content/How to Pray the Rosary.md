@@ -8,7 +8,7 @@ Opening prayers:
 5. Say one "glory Be to the Father"  
 :::
 ::: slide
-## Slide 2
+## How to Pray the Rosary
 For each of the 5 decades:
 1. Announce the Mystery.
 2. On the large bead before each decade, say one "Our Father"
