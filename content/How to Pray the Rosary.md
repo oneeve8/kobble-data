@@ -98,7 +98,7 @@ and after this, our exile, show unto us the blessed fruit of thy womb, Jesus.
 O clement, O loving, O sweet Virgin Mary.
 
 Leader: *Pray for us, O holy Mother of God.*  
-Res*That we may be made worthy of the promises of Christ.*
+Response: *That we may be made worthy of the promises of Christ.*
 :::
 ::: slide
 The following prayer may be added at the end of the Rosary:  
