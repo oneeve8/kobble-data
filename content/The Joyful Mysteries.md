@@ -221,6 +221,55 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
+The 4th Joyful Mystery  
+The Presentation in the Temple
+And when the days for their purification according to the law of Moses were completed, they brought Him up to Jerusalem to present Him to the Lord as it is written in the Law of the Lord, "every firstborn male that opens the womb shall be called holy to the Lord" (Luke 2,22-23)
+:::
+::: slide
+Our Father who art in Heaven,  
+Hallowed be thy name.  
+Thy kingdom come, thy will be done,  
+On earth as it is in heaven.
+
+*Give us this day our daily bread,  
+And forgive us our tresspasses,  
+As we forgive those who tresspass against us,  
+And lead us not into temptation  
+But deliver us from evil.* 
+
+Amen.
+:::
+::: slide
+Hail Mary, full of grace,  
+The lord is with thee. 
+Blessed art thou among women,  
+And blessed is the fruit of thy womb, Jesus.
+
+*Holy Mary, Mother of God,  
+Pray for us sinners,  
+Now and at the hour of our death.*
+
+Amen. 
+(repeat 10 times)
+:::
+::: slide
+Glory Be to the Father,  
+and to the Son,  
+and to the Holy Spirit. 
+
+*As it was in the beginning,  
+is now and ever shall be,  
+world without end.* 
+
+Amen.
+:::
+::: slide
+O my Jesus, forgive us our sins,  
+save us from the fires of hell.  
+Lead all souls to Heaven,  
+especially those in most need of Your mercy.
+:::
+::: slide
 ##### The Hail Holy Queen
 
 Hail, holy Queen, Mother of mercy,  
