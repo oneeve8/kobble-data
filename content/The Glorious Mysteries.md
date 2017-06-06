@@ -175,7 +175,7 @@ especially those in most need of Your mercy.
 The 4th Glorious Mystery   
 The Assumption
 
-For behold, from this time on all generations will count me blessed. "For the Might"
+For behold, from this time on all generations will count me blessed. "For the Mighty One has done great things for me; And holy is His name."
 :::
 ::: slide
 Our Father who art in Heaven,  
