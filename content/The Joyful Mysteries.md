@@ -6,7 +6,8 @@ The Joyful Mysteries which are to be said on Monday and on Saturday
 ##### Opening prayers 
 To begin the Rosary
 Make the Sign of the Cross with the crucifix
-
+1st Joyful Mystery
+The Annunciation
 :::
 ::: slide
 ##### How to Pray the Rosary
