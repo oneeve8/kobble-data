@@ -76,6 +76,51 @@ especially those in most need of Your mercy.
 The Second Joyful Mystery
 The Visitation
 When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit. And she cried out with a loud voice and said, "Blessed are you among women, and blessed is the fruit of your womb!" (Luke 1,41-42)
+::: slide
+Our Father who art in Heaven,  
+Hallowed be thy name.  
+Thy kingdom come, thy will be done,  
+On earth as it is in heaven.
+
+*Give us this day our daily bread,  
+And forgive us our tresspasses,  
+As we forgive those who tresspass against us,  
+And lead us not into temptation  
+But deliver us from evil.* 
+
+Amen.
+:::
+::: slide
+Hail Mary, full of grace,  
+The lord is with thee. 
+Blessed art thou among women,  
+And blessed is the fruit of thy womb, Jesus.
+
+*Holy Mary, Mother of God,  
+Pray for us sinners,  
+Now and at the hour of our death.*
+
+Amen. (repeat 10 times)
+:::
+::: slide
+Glory Be to the Father,  
+and to the Son,  
+and to the Holy Spirit. 
+
+*As it was in the beginning,  
+is now and ever shall be,  
+world without end.* 
+
+Amen.
+:::
+::: slide
+The Prayer given by Our Blessed Mother at Fatima:
+
+O my Jesus, forgive us our sins,  
+save us from the fires of hell.  
+Lead all souls to Heaven,  
+especially those in most need of Your mercy.
+:::
 
 ##### The Hail Holy Queen
 
