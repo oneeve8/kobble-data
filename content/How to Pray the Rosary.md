@@ -110,7 +110,7 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
-#### The Hail Holy Queen
+##### The Hail Holy Queen
 
 Hail, holy Queen, Mother of mercy,  
 our life, our sweetness and our hope.    
