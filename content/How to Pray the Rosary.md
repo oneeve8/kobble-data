@@ -5,7 +5,7 @@ Opening prayers:
 2. Say the "Apostles' Creed"  
 3. On the 1st bead from the crucifix, say one "Our Father"  
 4. On the 2nd, 3rd and 4th beads, say the "Hail Mary"  
-5. Say one "glory Be to the Father"
+5. Say one "glory Be to the Father"  
 For each of the 5 decades:
 1. Announce the Mystery.
 2. On the large bead before each decade, say one "Our Father"
