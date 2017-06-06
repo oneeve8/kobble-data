@@ -74,7 +74,8 @@ especially those in most need of Your mercy.
 ::: slide
 The 2nd Mystery of Light 
 The Wedding at Cana 
-When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit. And she cried out with a loud voice and said, "Blessed are you among women, and blessed is the fruit of your womb!" (Luke 1,41-42)
+
+On the third day there 
 :::
 ::: slide
 Our Father who art in Heaven,  
