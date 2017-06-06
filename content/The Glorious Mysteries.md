@@ -225,7 +225,7 @@ especially those in most need of Your mercy.
 The 5th Glorious Mystery   
 The Crowning of Our Blessed Lady 
 
-A gre
+A great sign appeared in heaven: a woman clothed with the sun, and the moon under her feet
 :::
 ::: slide
 Our Father who art in Heaven,  
