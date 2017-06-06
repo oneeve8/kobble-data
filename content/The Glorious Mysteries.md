@@ -222,7 +222,7 @@ Lead all souls to Heaven,
 especially those in most need of Your mercy.
 :::
 ::: slide
-The 5th Sorrowful Mystery   
+The 5th Glorious Mystery   
 The Crucifixion  
 
 Therefore when Jesus had received the sour wine, He said, "It is finished!" And He bowed His head and gave up His spirit. (John 19,30)
