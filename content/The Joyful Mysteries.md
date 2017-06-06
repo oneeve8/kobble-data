@@ -174,7 +174,7 @@ especially those in most need of Your mercy.
 ::: slide
 The 4th Joyful Mystery  
 The Presentation in the Temple
-And 
+And when the days for their purification according to the law of Moses were completed
 :::
 ::: slide
 Our Father who art in Heaven,  
