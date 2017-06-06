@@ -97,7 +97,7 @@ Turn, then, most gracious advocate, thine eyes of mercy toward us,
 and after this, our exile, show unto us the blessed fruit of thy womb, Jesus.  
 O clement, O loving, O sweet Virgin Mary.
 
-V. Pray for us, O holy Mother of God.  
+Lea. *Pray for us, O holy Mother of God.  
 *That we may be made worthy of the promises of Christ.*
 :::
 ::: slide
