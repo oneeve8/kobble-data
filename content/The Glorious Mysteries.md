@@ -25,7 +25,7 @@ Amen.
 1st Glorious Mystery 
 The Resurrection  
 
-And being in agony He was praying very fervently; and His sweat became like drops of blood, falling down upon the ground. (Luke 22,44)
+The angel said to the women,
 :::
 ::: slide
 Our Father who art in Heaven,  
