@@ -1,6 +1,6 @@
 ::: slide
-#### How to Pray the Rosary
-#### The Mysteries of the Holy Rosary
+##### How to Pray the Rosary
+##### The Mysteries of the Holy Rosary
 There are four Mysteries upon which we meditate on the life of Jesus and they are:
 1. The Joyful Mysteries which are to be said on Monday and on Saturday  
 2. The Mysteries of Light which are to be said on Thursday  
