@@ -42,7 +42,8 @@ Amen.
 Our Father who art in Heaven,  
 Hallowed be thy name  
 Thy kingdom come, thy will be done  
-On earth as it is in heaven  
+On earth as it is in heaven
+
 Response:    
 Give us this day our daily bread  
 And forgive us our tresspasses  
@@ -72,7 +73,8 @@ Amen.
 
 Glory Be to the Father,  
 and to the Son,  
-and to the Holy Spirit.  
+and to the Holy Spirit. 
+
 Response:  
 As it was in the beginning,  
 is now and ever shall be,  
