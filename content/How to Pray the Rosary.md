@@ -97,7 +97,7 @@ Let us pray. O God, Whose Only-Begotten Son, by His life, death and resurrection
 :::
 ::: slide
 #### The Mysteries of the Holy Rosary
-There are four Mysteries
+There are four Mysteries upon which we meditate on the life of Jesus and the
 1. The Joyful Mysteries to be said on Monday and on Saturday  
 2. The Mysteries of Light to be said on Thursday  
 3. The Sorrowful Mysteries to be said on Tuesday and on Friday  
