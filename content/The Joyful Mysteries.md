@@ -25,7 +25,7 @@ Amen.
 The Annunciation
 And coming in, he said to her,
 "Greetings, favored one! The Lord is with you."
-"And behold, you will conceive in y"
+"And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus"
 :::
 ::: slide
 
