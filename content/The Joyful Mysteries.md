@@ -23,7 +23,8 @@ Amen.
 :::
 1st Joyful Mystery  
 The Annunciation
-And coming in, he said to he
+And coming in, he said to her,
+"Greetings, favored one! The Lord"
 :::
 ::: slide
 
