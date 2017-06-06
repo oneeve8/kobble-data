@@ -65,14 +65,6 @@ world without end.*
 Amen.
 :::
 ::: slide
-##### The Hail Mary:  
-
-
-:::
-::: slide
-
-:::
-::: slide
 The Prayer given by Our Blessed Mother at Fatima:
 
 O my Jesus, forgive us our sins,  
