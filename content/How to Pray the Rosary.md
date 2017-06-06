@@ -29,6 +29,7 @@ Thy kingdom come, thy will be done
 On earth as it is in heaven  
 Give us this day our daily bread  
 And forgive us our tresspasses  
-As we forgive those who tresspass against us
-
+As we forgive those who tresspass against us  
+And lead us not into temptation  
+But deliver i
 :::
