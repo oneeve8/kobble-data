@@ -174,7 +174,7 @@ especially those in most need of Your mercy.
 ::: slide
 The 4th Joyful Mystery  
 The Presentation in the Temple
-And when the days for their purification according to the law of Moses were completed, they brought Him up to Jerusalem to present Him to the Lord as it is 
+And when the days for their purification according to the law of Moses were completed, they brought Him up to Jerusalem to present Him to the Lord as it is written in the Law of the Lord, "every firstborn male "
 :::
 ::: slide
 Our Father who art in Heaven,  
