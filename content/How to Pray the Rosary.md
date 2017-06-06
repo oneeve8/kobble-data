@@ -23,7 +23,7 @@ At the end of the 5 decades, recite the closing prayer:
 #### How to Pray the Rosary  
 
 When the Rosary is said in a group, the most of the prayers are divided into two parts.
-One person, or part of the group, says the first part, followed by the others with the second part. The responses are indicated by a separate paragraph for the Response. Otherwise, the entire prayer is recited by all. 
+One person, or part of the group, says the first part, followed by the others with the second part. The responses are indicated by italics. Otherwise, the entire prayer is recited by all. 
 :::
 ::: slide
 #### Prayers of the Holy Rosary
