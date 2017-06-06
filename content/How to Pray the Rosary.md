@@ -30,7 +30,7 @@ One person, or part of the group, says the first part, followed by the others wi
 #### The Apostles' Creed
 
 I believe in God the Father Almighty, Creator of heaven and earth; and in Jesus Christ, His only Son, our Lord; Who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried. He descended into hell; the third day He rose again from the dead; He ascended into heaven and sits at the right hand of God, the Father Almighty; from thence He shall come to judge the living and the dead.
-R
+R.
 I believe the Holy Spirit, the holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.
 :::
 ::: slide
@@ -40,7 +40,8 @@ I believe the Holy Spirit, the holy Catholic Church, the communion of saints, th
 Our Father who art in Heaven,  
 Hallowed be thy name  
 Thy kingdom come, thy will be done  
-On earth as it is in heaven *     
+On earth as it is in heaven  
+
 Give us this day our daily bread  
 And forgive us our tresspasses  
 As we forgive those who tresspass against us  
