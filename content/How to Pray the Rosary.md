@@ -59,7 +59,7 @@ from thence He shall come to judge the living and the dead.
 Amen.
 :::
 ::: slide
-#### The Our Father:  
+##### The Our Father:  
 
 Our Father who art in Heaven,  
 Hallowed be thy name.  
@@ -75,7 +75,7 @@ But deliver us from evil.*
 Amen.
 :::
 ::: slide
-#### The Hail Mary:  
+##### The Hail Mary:  
 
 Hail Mary, full of grace,  
 The lord is with thee. 
