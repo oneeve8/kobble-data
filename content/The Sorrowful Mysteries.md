@@ -23,7 +23,7 @@ Amen.
 :::
 ::: slide
 1st Sorrowful Mystery 
-Christ's Baptism in the Jordan  
+The Agony in the Garden  
 
 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. Immediately coming up out of the water, He saw the heavens opening, and the Spirit like a dove descending upon Him; and a voice came out of the heavens: "You are My beloved Son, in You I am well-pleased." (Mark 1,9-10)
 :::
