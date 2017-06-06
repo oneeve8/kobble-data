@@ -121,6 +121,7 @@ save us from the fires of hell.
 Lead all souls to Heaven,  
 especially those in most need of Your mercy.
 :::
+::: slide
 
 ##### The Hail Holy Queen
 
