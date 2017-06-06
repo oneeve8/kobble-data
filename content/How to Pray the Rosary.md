@@ -45,7 +45,6 @@ from thence He shall come to judge the living and the dead.
 Amen.
 :::
 ::: slide
-#### Prayers of the Holy Rosary  
 #### The Our Father:  
 
 Our Father who art in Heaven,  
@@ -62,7 +61,6 @@ But deliver us from evil.*
 Amen.
 :::
 ::: slide
-#### Prayers of the Holy Rosary  
 #### The Hail Mary:  
 
 Hail Mary, full of grace,  
