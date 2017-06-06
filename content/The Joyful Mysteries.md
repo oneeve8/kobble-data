@@ -5,7 +5,8 @@ The Joyful Mysteries which are to be said on Monday and on Saturday
 ::: slide
 ##### Opening prayers 
 To begin the Rosary
-Make the Sign of the Cross with the crucifix 
+Make the Sign of the Cross with the crucifix
+
 :::
 ::: slide
 ##### How to Pray the Rosary
