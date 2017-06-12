@@ -83,6 +83,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+All Sing:
 Through her heart, His sorrow sharing,
 All His bitter anguish bearing,
 Now at length the sword had pass'd. 
