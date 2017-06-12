@@ -164,6 +164,7 @@ Minister:
 Lord,
 grant us discernment
 that we may see as you see, not as the world sees.  
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
