@@ -16,8 +16,6 @@ All:
 :::
 ::: slide
 
-Opening Prayer:
-
 Minister:  
 God of power and mercy,
 in love you sent your Son
