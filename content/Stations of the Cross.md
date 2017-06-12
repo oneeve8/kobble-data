@@ -260,6 +260,17 @@ Minister:
 Lord,
 grant us perseverance
 that we may never stop seeking you.
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
+::: slide
 Twelfth Station: Jesus Speaks to His Mother and the Disciple
 
 Reader: Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved, he said to his mother, "Woman, behold, your son." Then he said to the disciple, "Behold, your mother." And from that hour the disciple took her into his home.
