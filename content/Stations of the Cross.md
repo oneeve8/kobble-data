@@ -29,10 +29,11 @@ that we may learn from his example
 the way we should go.
 
 We ask this through that same Christ, our Lord.
-:::
-::: slide
 All:
 Amen.
+:::
+::: slide
+
 First Station: Jesus in the Garden of Gethsemane
 
 Reader:
