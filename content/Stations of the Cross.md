@@ -397,6 +397,7 @@ Lord,
 grant us trust in you
 that when our time on earth in ended
 our spirits may come to you without delay.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
@@ -425,6 +426,7 @@ Minister:
 Lord,
 grant us your compassion
 that we may always provide for those in need.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
