@@ -20,7 +20,7 @@ Minister:
 God of power and mercy,
 in love you sent your Son
 that we might be cleansed of sin
-and live with you forever.
+and live with you forever.  
 Bless us as we gather to reflect
 on his suffering and death
 that we may learn from his example
