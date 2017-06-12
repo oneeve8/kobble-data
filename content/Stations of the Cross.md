@@ -163,7 +163,7 @@ The chief priests with the elders and the scribes, that is, the whole Sanhedrin,
 Minister:  
 Lord,
 grant us discernment
-that we may see as you see, not as the world sees.
+that we may see as you see, not as the world sees.  
 Minister:  
 We adore you, O Christ, and we bless you.
 
