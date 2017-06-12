@@ -55,9 +55,9 @@ All:
 :::
 ::: slide
 All Sing:  
-At the cross her station keeping,
+*At the cross her station keeping,
 Stood the mournful Mother weeping,
-Close to Jesus to the last.
+Close to Jesus to the last.*
 :::
 ::: slide
 Second Station: Jesus, Betrayed by Judas, is Arrested
