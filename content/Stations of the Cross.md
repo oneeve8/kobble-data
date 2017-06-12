@@ -282,14 +282,14 @@ We adore you, O Christ, and we bless you.
 All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
-O thou Mother! fount of love!
+All Sing:   
+*O thou Mother! fount of love!
 Touch my spirit from above;
-Make my heart with thine accord.
+Make my heart with thine accord.*
 :::
 ::: slide
 Tenth Station: Jesus is Crucified
