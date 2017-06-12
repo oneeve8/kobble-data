@@ -298,7 +298,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-All Sing:
+All Sing:  
 Make me feel as thou hast felt;
 Make my soul to glow and melt
 With the love of Christ our Lord.
