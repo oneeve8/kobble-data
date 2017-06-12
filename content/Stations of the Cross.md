@@ -12,7 +12,7 @@ All:
 *Because by your holy cross you have redeemed the world.*
 
 All:
-*Lord Jesus, help us walk in your steps.
+*Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
 
