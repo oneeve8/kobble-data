@@ -272,6 +272,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+All Sing:  
 O thou Mother! fount of love!
 Touch my spirit from above;
 Make my heart with thine accord.
