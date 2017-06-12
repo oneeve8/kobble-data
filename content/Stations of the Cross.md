@@ -278,7 +278,7 @@ O thou Mother! fount of love!
 Touch my spirit from above;
 Make my heart with thine accord.
 :::
-:::
+::: slide
 Tenth Station: Jesus is Crucified
 
 Reader: When they came to the place called the Skull, they crucified him and the criminals there, one on his right, the other on his left. [Then Jesus said, "Father, forgive them, they know not what they do."]
