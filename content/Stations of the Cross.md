@@ -151,11 +151,23 @@ Sixth Station: Jesus is Scourged and Crowned with Thorns
 Reader:
 Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out of thorns and placed it on his head, and clothed him in a purple cloak, and they came to him and said,"Hail, King of the Jews!" And they struck him repeatedly.
 (John 19: 1-3)
-
+:::
+::: slide
 Minister:
 Lord,
 grant us patience in times of suffering
 that we may offer our lives as a sacrifice of praise.
+
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
 
 Seventh Station: Jesus Bears the Cross
 
