@@ -384,22 +384,22 @@ It was now about noon and darkness came over the whole land until three in the a
 (Luke 23: 44-46)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us trust in you
 that when our time on earth in ended
 our spirits may come to you without delay.
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
+All Sing:    
 Let me mingle tears with thee,
 Mourning Him who mourn'd for me,
 All the days that I may live. 
