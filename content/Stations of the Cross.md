@@ -28,7 +28,7 @@ the way we should go.
 
 We ask this through that same Christ, our Lord.  
 All:
-Amen.
+*Amen.*
 :::
 ::: slide
 
