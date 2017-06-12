@@ -251,6 +251,7 @@ Minister:
 Lord,
 grant us willing spirits
 that we may be your instruments on earth.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
