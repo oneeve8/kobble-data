@@ -39,7 +39,7 @@ Then Jesus came with them to a place called Gethsemane, and he said to his disci
 (Matthew 26:36-41)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us your strength and wisdom,
 that we may seek to follow your will in all things
