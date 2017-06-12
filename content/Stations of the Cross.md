@@ -44,6 +44,16 @@ Lord,
 grant us your strength and wisdom,
 that we may seek to follow your will in all things
 
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
 Second Station: Jesus, Betrayed by Judas, is Arrested
 
 Reader: Then, while [Jesus] was still speaking, Judas, one of the Twelve, arrived, accompanied by a crowd with swords and clubs, who had come from the chief priests, the scribes, and the elders. His betrayer had arranged a signal with them, saying, "the man I shall kiss is the one; arrest him and lead him away securely." He came and immediately went over to him and said, "Rabbi." And he kissed him. At this they laid hands on him and arrested him.
