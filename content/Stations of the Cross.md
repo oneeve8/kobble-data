@@ -300,17 +300,17 @@ When they came to the place called the Skull, they crucified him and the crimina
 (Luke 23: 33-34)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us merciful hearts
 that we may bring your reconciliation and forgiveness to all.
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
