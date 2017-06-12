@@ -407,7 +407,8 @@ Lord Jesus, help us walk in your steps.
 By the cross with thee to stay,
 There with thee to weep and pray,
 Is all I ask of thee to give. 
-
+:::
+::: slide
 Closing Prayer:
 
 Minister:
