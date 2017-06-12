@@ -46,7 +46,7 @@ Lord,
 grant us your strength and wisdom,
 that we may seek to follow your will in all things
 
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
 All:
