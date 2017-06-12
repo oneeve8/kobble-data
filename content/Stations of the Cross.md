@@ -222,7 +222,12 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-
+All Sing:
+Bruis'd, derided, curs'd, defil'd,
+She beheld her tender child
+All with bloody scourges rent.
+:::
+::: slide
 Eighth Station: Jesus is Helped by Simon the Cyrenian to Carry the Cross
 
 Reader: They pressed into service a passer-by, Simon, a Cyrenian, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.
