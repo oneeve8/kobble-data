@@ -124,20 +124,21 @@ Of the sole-begotten One!*
 Fourth Station:  
 Jesus is Denied by Peter
 
-Reader: Now Peter was sitting outside in the courtyard. One of the maids came over to him and said, "You too were with Jesus the Galilean." But he denied it in front of everyone, saying, "I do not know what you are talking about!" As he went out to the gate, another girl saw him and said to those who were there, "This man was with Jesus the Nazorean." Again he denied it with an oath, "I do not know the man!" A little later the bystanders came over and said to Peter, "Surely you too are one of them; even your speech gives you away." At that he began to curse and to swear, "I do not know the man." And immediately a cock crowed. Then Peter remembered the word that Jesus had spoken: "Before the cock crows you will deny me three times." He went out and began to weep bitterly.
+Reader:   
+Now Peter was sitting outside in the courtyard. One of the maids came over to him and said, "You too were with Jesus the Galilean." But he denied it in front of everyone, saying, "I do not know what you are talking about!" As he went out to the gate, another girl saw him and said to those who were there, "This man was with Jesus the Nazorean." Again he denied it with an oath, "I do not know the man!" A little later the bystanders came over and said to Peter, "Surely you too are one of them; even your speech gives you away." At that he began to curse and to swear, "I do not know the man." And immediately a cock crowed. Then Peter remembered the word that Jesus had spoken: "Before the cock crows you will deny me three times." He went out and began to weep bitterly.
 (Matthew 26: 69-75)
 :::
 ::: slide
 
-Minister:
+Minister:  
 Lord,
 grant us the gift of honesty
 that we may not fear to speak the truth even when difficult.
 
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
 All:
