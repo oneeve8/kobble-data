@@ -101,6 +101,7 @@ After each station:
 All:
 Lord Jesus, help us walk in your steps.
 :::
+::: slide
 
 Fourth Station: Jesus is Denied by Peter
 
