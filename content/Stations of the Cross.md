@@ -230,10 +230,10 @@ All:
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
-Bruis'd, derided, curs'd, defil'd,
+All Sing:   
+*Bruis'd, derided, curs'd, defil'd,
 She beheld her tender child
-All with bloody scourges rent.
+All with bloody scourges rent.*
 :::
 ::: slide
 Eighth Station: Jesus is Helped by Simon the Cyrenian to Carry the Cross
