@@ -400,12 +400,13 @@ All:
 :::
 ::: slide
 All Sing:    
-Let me mingle tears with thee,
+*Let me mingle tears with thee,
 Mourning Him who mourn'd for me,
-All the days that I may live. 
+All the days that I may live.*
 :::
 ::: slide
-Fourteenth Station: Jesus is Placed in the Tomb
+Fourteenth Station:
+Jesus is Placed in the Tomb
 
 Reader:
 When it was evening, there came a rich man from Arimathea named Joseph, who was himself a disciple of Jesus. He went to Pilate and asked for the body of Jesus; then Pilate ordered it to be handed over. Taking the body, Joseph wrapped it [in] clean linen and laid it in his new tomb that he had hewn in the rock. Then he rolled a huge stone across the entrance to the tomb and departed.
