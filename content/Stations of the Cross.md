@@ -280,6 +280,7 @@ Minister:
 Lord,
 grant us gentle spirits
 that we may comfort those who mourn.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
@@ -308,6 +309,7 @@ Minister:
 Lord,
 grant us merciful hearts
 that we may bring your reconciliation and forgiveness to all.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
