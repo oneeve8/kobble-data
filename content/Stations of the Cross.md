@@ -115,6 +115,17 @@ Lord,
 grant us the gift of honesty
 that we may not fear to speak the truth even when difficult.
 
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
+:::
 Fifth Station: Jesus is Judged by Pilate
 
 Reader: The chief priests with the elders and the scribes, that is, the whole Sanhedrin, held a council. They bound Jesus, led him away, and handed him over to Pilate. Pilate questioned him, "Are you the king of the Jews?" He said to him in reply, "You say so." The chief priests accused him of many things. Again Pilate questioned him, "Have you no answer? See how many things they accuse you of." Jesus gave him no further answer, so that Pilate was amazed.... Pilate, wishing to satisfy the crowd, released Barrabas... [and] handed [Jesus] over to be crucified.
