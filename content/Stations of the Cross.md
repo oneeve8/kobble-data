@@ -66,6 +66,17 @@ Minister:
 Lord,
 grant us the courage of our convictions
 that our lives may faithfully reflect the good news you bring.
+
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
 Third Station: Jesus is Condemned by the Sanhedrin
 
 Reader: When day came the council of elders of the people met, both chief priests and scribes, and they brought him before their Sanhedrin. They said, "If you are the Messiah, tell us," but he replied to them, "If I tell you, you will not believe, and if I question, you will not respond. But from this time on the Son of Man will be seated at the right hand of the power of God." They all asked, "Are you then the Son of God?" He replied to them, "You say that I am." Then they said, "What further need have we for testimony? We have heard it from his own mouth."
