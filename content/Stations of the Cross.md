@@ -320,10 +320,22 @@ Reader:
 When it was evening, there came a rich man from Arimathea named Joseph, who was himself a disciple of Jesus. He went to Pilate and asked for the body of Jesus; then Pilate ordered it to be handed over. Taking the body, Joseph wrapped it [in] clean linen and laid it in his new tomb that he had hewn in the rock. Then he rolled a huge stone across the entrance to the tomb and departed.
 (Matthew 27: 57-60)
 :::
+::: slide
 Minister:
 Lord,
 grant us your compassion
 that we may always provide for those in need.
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
+
 Closing Prayer:
 
 Minister:
