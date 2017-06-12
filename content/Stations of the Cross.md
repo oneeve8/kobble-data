@@ -1,6 +1,5 @@
 ::: slide
-## Slide 1
-Stations of the Cross
+## A Scriptural Stations of the Cross
 The presiding minister may be a priest, deacon, or layperson. This minister prays the opening and closing prayers, leads the acclamation, announces the stations, and says the prayer that concludes each station. One or more readers may read the Scriptural reflections. A period of silence should be observed between the Scripture reading and the prayer. A crossbearer accompanied by two candlebearers may stand in front of each station as it is announced. As the cross- and candlebearers move between the stations, all may sing a verse of the Stabat Mater (At the Cross Her Station Keeping - traditional) or an appropriate antiphon, such as Parce Domine (traditional, various settings) or Crucem Tuam (Berthier, GIA),
 
 Before each station:
