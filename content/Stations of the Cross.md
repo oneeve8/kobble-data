@@ -351,25 +351,26 @@ Of my Saviour crucified.*
 Twelfth Station:  
 Jesus Speaks to His Mother and the Disciple
 
-Reader: Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved, he said to his mother, "Woman, behold, your son." Then he said to the disciple, "Behold, your mother." And from that hour the disciple took her into his home.
+Reader:  
+Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved, he said to his mother, "Woman, behold, your son." Then he said to the disciple, "Behold, your mother." And from that hour the disciple took her into his home.
 (John 19: 25-27)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us constancy
 that we may be willing to stand by those in need.
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
+All Sing:    
 Let me share with thee His pain,
 Who for all my sins was slain,
 Who for me in torments died.
