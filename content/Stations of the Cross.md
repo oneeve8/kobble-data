@@ -18,7 +18,7 @@ All:
 
 Opening Prayer:
 
-Minister:
+Minister:  
 God of power and mercy,
 in love you sent your Son
 that we might be cleansed of sin
