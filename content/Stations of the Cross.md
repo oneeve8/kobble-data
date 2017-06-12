@@ -167,7 +167,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 :::  slide
-All Sin
+All Sing:
 Is there one who would not weep,
 Whelm'd in miseries so deep
 Christ's dear Mother to behold? 
