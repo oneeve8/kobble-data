@@ -112,6 +112,9 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+Oh, how sad and sore distress'd
+Was that Mother highly blest
+Of the sole-begotten One! 
 
 Fourth Station: Jesus is Denied by Peter
 
