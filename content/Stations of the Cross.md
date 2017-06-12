@@ -435,7 +435,7 @@ Is all I ask of thee to give.*
 ::: slide
 Closing Prayer:
 
-Minister:
+Minister:  
 Lord Jesus Christ,
 your passion and death is the sacrifice that unites earth and heaven
 and reconciles all people to you.
@@ -444,6 +444,6 @@ follow in your steps and so come to share your glory in heaven
 where you live and reign with the Father and the Holy Spirit
 one God, for ever and ever.
 
-All:
+All: 
 Amen.
 :::
