@@ -15,6 +15,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+
 Opening Prayer:
 
 Minister:
