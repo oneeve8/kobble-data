@@ -378,6 +378,11 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+Let me mingle tears with thee,
+Mourning Him who mourn'd for me,
+All the days that I may live. 
+:::
+::: slide
 Fourteenth Station: Jesus is Placed in the Tomb
 
 Reader:
