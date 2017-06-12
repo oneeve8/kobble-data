@@ -275,11 +275,13 @@ Twelfth Station: Jesus Speaks to His Mother and the Disciple
 
 Reader: Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary of Magdala. When Jesus saw his mother and the disciple there whom he loved, he said to his mother, "Woman, behold, your son." Then he said to the disciple, "Behold, your mother." And from that hour the disciple took her into his home.
 John 19: 25-27
-
+:::
+::: slide
 Minister:
 Lord,
 grant us constancy
 that we may be willing to stand by those in need.
+
 Thirteenth Station: Jesus Dies on the Cross
 
 Reader: It was now about noon and darkness came over the whole land until three in the afternoon because of an eclipse of the sun. Then the veil of the temple was torn down the middle. Jesus cried out in a loud voice, "Father, into your hands I commend my spirit"; and when he had said this he breathed his last.
