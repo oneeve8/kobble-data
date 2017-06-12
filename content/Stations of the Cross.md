@@ -338,6 +338,7 @@ Minister:
 Lord,
 grant us perseverance
 that we may never stop seeking you.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
@@ -366,6 +367,7 @@ Minister:
 Lord,
 grant us constancy
 that we may be willing to stand by those in need.
+
 Minister:  
 We adore you, O Christ, and we bless you.
 
