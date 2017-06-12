@@ -140,7 +140,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-All Sing:
+All Sing:  
 Christ above in torment hangs;
 She beneath beholds the pangs
 Of her dying glorious Son. 
