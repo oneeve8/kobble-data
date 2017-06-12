@@ -194,7 +194,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-All Sing:
+All Sing: 
 Can the human heart refrain
 From partaking in her pain,
 In that Mother's pain untold?
