@@ -254,17 +254,18 @@ We adore you, O Christ, and we bless you.
 All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
-For the sins of His own nation,
+All Sing:    
+*For the sins of His own nation,
 Saw Him hang in desolation,
-Till His spirit forth He sent. 
+Till His spirit forth He sent.* 
 :::
 ::: slide
-Ninth Station: Jesus Meets the Women of Jerusalem
+Ninth Station: 
+Jesus Meets the Women of Jerusalem
 
 Reader: A large crowd of people followed Jesus, including many women who mourned and lamented him. Jesus turned to them and said, "Daughters of Jerusalem, do not weep for me; weep instead for yourselves and for your children, for indeed, the days are coming when people will say, 'Blessed are the barren, the wombs that never bore and the breasts that never nursed.' At that time, people will say to the mountains, 'Fall upon us!' and to the hills, 'Cover us!' for if these things are done when the wood is green what will happen when it is dry?"
 (Luke 23: 27-31)
