@@ -13,7 +13,8 @@ After each station:
 
 All:
 Lord Jesus, help us walk in your steps.
-
+:::
+:
 Opening Prayer:
 
 Minister:
@@ -28,7 +29,7 @@ the way we should go.
 
 We ask this through that same Christ, our Lord.
 :::
-::: slid
+::: slide
 All:
 Amen.
 First Station: Jesus in the Garden of Gethsemane
