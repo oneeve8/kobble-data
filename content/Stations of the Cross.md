@@ -56,6 +56,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+All Sing:
 At the cross her station keeping,
 Stood the mournful Mother weeping,
 Close to Jesus to the last.
