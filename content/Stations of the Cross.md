@@ -350,7 +350,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-All Sing:
+All Sing:  
 Let me share with thee His pain,
 Who for all my sins was slain,
 Who for me in torments died.
