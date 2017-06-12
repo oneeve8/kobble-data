@@ -187,22 +187,22 @@ Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out o
 (John 19: 1-3)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us patience in times of suffering
 that we may offer our lives as a sacrifice of praise.
 
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing: 
+All Sing:  
 Can the human heart refrain
 From partaking in her pain,
 In that Mother's pain untold?
