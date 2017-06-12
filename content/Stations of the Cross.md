@@ -377,6 +377,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+All Sing:  
 Let me mingle tears with thee,
 Mourning Him who mourn'd for me,
 All the days that I may live. 
