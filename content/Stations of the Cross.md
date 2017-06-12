@@ -111,7 +111,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-All Sing:
+All Sing:  
 Oh, how sad and sore distress'd
 Was that Mother highly blest
 Of the sole-begotten One! 
