@@ -236,20 +236,22 @@ She beheld her tender child
 All with bloody scourges rent.*
 :::
 ::: slide
-Eighth Station: Jesus is Helped by Simon the Cyrenian to Carry the Cross
+Eighth Station:  
+Jesus is Helped by Simon the Cyrenian to Carry the Cross
 
-Reader: They pressed into service a passer-by, Simon, a Cyrenian, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.
+Reader:  
+They pressed into service a passer-by, Simon, a Cyrenian, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.
 (Mark 15: 21)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us willing spirits
 that we may be your instruments on earth.
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
 All:
