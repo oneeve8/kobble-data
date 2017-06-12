@@ -351,6 +351,11 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 :::  slide
+Let me share with thee His pain,
+Who for all my sins was slain,
+Who for me in torments died.
+:::
+::: slide
 Thirteenth Station: Jesus Dies on the Cross
 
 Reader: It was now about noon and darkness came over the whole land until three in the afternoon because of an eclipse of the sun. Then the veil of the temple was torn down the middle. Jesus cried out in a loud voice, "Father, into your hands I commend my spirit"; and when he had said this he breathed his last.
