@@ -219,6 +219,17 @@ Minister:
 Lord,
 grant us gentle spirits
 that we may comfort those who mourn.
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
+::: slide
 Tenth Station: Jesus is Crucified
 
 Reader: When they came to the place called the Skull, they crucified him and the criminals there, one on his right, the other on his left. [Then Jesus said, "Father, forgive them, they know not what they do."]
