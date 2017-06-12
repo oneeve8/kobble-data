@@ -345,10 +345,10 @@ Minister:
 We adore you, O Christ, and we bless you.
 
 All:
-Because by your holy cross you have redeemed the world.
+*Because by your holy cross you have redeemed the world.*
 
 All:
-Lord Jesus, help us walk in your steps.
+*Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
 All Sing:  
@@ -372,10 +372,10 @@ Minister:
 We adore you, O Christ, and we bless you.
 
 All:
-Because by your holy cross you have redeemed the world.
+*Because by your holy cross you have redeemed the world.*
 
 All:
-Lord Jesus, help us walk in your steps.
+*Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
 All Sing:  
