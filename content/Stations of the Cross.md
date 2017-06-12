@@ -220,14 +220,14 @@ When the chief priests and the guards saw [Jesus] they cried out, "Crucify him, 
 Minister:   
 Lord,
 grant us strength of purpose
-that we may faithfully bear our crosses each day.
-Minister:  
+that we may faithfully bear our crosses each day.  
+Minister:    
 We adore you, O Christ, and we bless you.
 
 All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
