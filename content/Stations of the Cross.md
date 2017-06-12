@@ -27,7 +27,8 @@ that we may learn from his example
 the way we should go.
 
 We ask this through that same Christ, our Lord.
-
+:::
+::: slid
 All:
 Amen.
 First Station: Jesus in the Garden of Gethsemane
