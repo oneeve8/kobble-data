@@ -32,7 +32,8 @@ All:
 :::
 ::: slide
 
-First Station: Jesus in the Garden of Gethsemane
+First Station:  
+Jesus in the Garden of Gethsemane
 
 Reader:  
 Then Jesus came with them to a place called Gethsemane, and he said to his disciples, "Sit here while I go over there and pray." He took along Peter and the two sons of Zebedee, and began to feel sorrow and distress. Then he said to them, "My soul is sorrowful even to death. Remain here and keep watch with me." He advanced a little and fell prostrate in prayer, saying, "My Father, if it is possible, let this cup pass from me; yet, not as I will, but as you will." When he returned to his disciples he found them asleep. He said to Peter, "So you could not keep watch with me for one hour? Watch and pray that you may not undergo the test. The spirit is willing, but the flesh is weak."
