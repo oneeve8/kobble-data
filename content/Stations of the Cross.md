@@ -196,6 +196,11 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
+Can the human heart refrain
+From partaking in her pain,
+In that Mother's pain untold?
+:::
+
 Seventh Station: Jesus Bears the Cross
 
 Reader: When the chief priests and the guards saw [Jesus] they cried out, "Crucify him, crucify him!" Pilate said to them, "Take him yourselves and crucify him. I find no guilt in him." ... They cried out, "Take him away, take him away! Crucify him!" Pilate said to them, "Shall I crucify your king?" The chief priests answered, "We have no king but Caesar." Then he handed him over to them to be crucified. So they took Jesus, and carrying the cross himself he went out to what is called the Place of the Skull, in Hebrew, Golgotha.
