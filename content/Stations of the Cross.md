@@ -332,17 +332,17 @@ Minister:
 Lord,
 grant us perseverance
 that we may never stop seeking you.
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
+All Sing:   
 Holy Mother! pierce me through;
 In my heart each wound renew
 Of my Saviour crucified. 
