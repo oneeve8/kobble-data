@@ -92,25 +92,25 @@ Now at length the sword had pass'd.*
 ::: slide
 Third Station: Jesus is Condemned by the Sanhedrin
 
-Reader: 
+Reader:  
 When day came the council of elders of the people met, both chief priests and scribes, and they brought him before their Sanhedrin. They said, "If you are the Messiah, tell us," but he replied to them, "If I tell you, you will not believe, and if I question, you will not respond. But from this time on the Son of Man will be seated at the right hand of the power of God." They all asked, "Are you then the Son of God?" He replied to them, "You say that I am." Then they said, "What further need have we for testimony? We have heard it from his own mouth."
 (Luke 22: 66-71)
 :::
 ::: slide
 
-Minister:
+Minister:  
 Lord,
 grant us your sense of righteousness
 that we may never cease to work
 to bring about the justice of the kingdom that you promised.
 
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
