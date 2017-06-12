@@ -176,12 +176,13 @@ All:
 All Sing:   
 *Is there one who would not weep,
 Whelm'd in miseries so deep
-Christ's dear Mother to behold? 
+Christ's dear Mother to behold?* 
 :::
 ::: slide
-Sixth Station: Jesus is Scourged and Crowned with Thorns
+Sixth Station:  
+Jesus is Scourged and Crowned with Thorns
 
-Reader:
+Reader:  
 Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out of thorns and placed it on his head, and clothed him in a purple cloak, and they came to him and said,"Hail, King of the Jews!" And they struck him repeatedly.
 (John 19: 1-3)
 :::
