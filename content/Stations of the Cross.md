@@ -248,7 +248,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-A
+All Sing:
 For the sins of His own nation,
 Saw Him hang in desolation,
 Till His spirit forth He sent. 
