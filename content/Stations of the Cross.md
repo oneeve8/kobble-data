@@ -1,6 +1,6 @@
 ::: slide
 ## A Scriptural Stations of the Cross
-A minister (Priest of layperson) prays the opening and closing prayers, announces the stations, and says the concluding prayer at each station. Participants may read the Scripture reflections and pause for a period of silence between the scripture reading and prayer. A crossbearer and two candlebearers may stand in front of each station as it is announced. As the cross- and candlebearers move between the stations, all may sing a verse of the Stabat Mater (At the Cross Her Station Keeping - traditional) or an appropriate antiphon, such as Parce Domine (traditional, various settings) or Crucem Tuam (Berthier, GIA),
+A minister (Priest of layperson) prays the opening and closing prayers, announces the stations, and says the concluding prayer at each station. Participants may read the Scripture reflections and pause for a period of silence between the scripture reading and prayer. A crossbearer and two candlebearers may stand in front of each station as it is announced. As the group moves between the stations, all may sing a verse of the Stabat Mater (At the Cross Her Station Keeping - traditional) or an appropriate antiphon, such as Parce Domine (traditional, various settings) or Crucem Tuam (Berthier, GIA),
 
 Before each station:
 
