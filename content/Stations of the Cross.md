@@ -198,6 +198,17 @@ Minister:
 Lord,
 grant us willing spirits
 that we may be your instruments on earth.
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
+::: slide
 
 Ninth Station: Jesus Meets the Women of Jerusalem
 
