@@ -145,6 +145,7 @@ After each station:
 All:
 Lord Jesus, help us walk in your steps.
 :::
+:::  slide
 Sixth Station: Jesus is Scourged and Crowned with Thorns
 
 Reader:
