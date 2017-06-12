@@ -222,7 +222,6 @@ We adore you, O Christ, and we bless you.
 
 All:
 Because by your holy cross you have redeemed the world.
-After each station:
 
 All:
 Lord Jesus, help us walk in your steps.
@@ -232,7 +231,8 @@ Tenth Station: Jesus is Crucified
 
 Reader: When they came to the place called the Skull, they crucified him and the criminals there, one on his right, the other on his left. [Then Jesus said, "Father, forgive them, they know not what they do."]
 (Luke 23: 33-34)
-
+:::
+::: sl
 Minister:
 Lord,
 grant us merciful hearts
