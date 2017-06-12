@@ -239,6 +239,17 @@ Minister:
 Lord,
 grant us merciful hearts
 that we may bring your reconciliation and forgiveness to all.
+Minister:
+We adore you, O Christ, and we bless you.
+
+All:
+Because by your holy cross you have redeemed the world.
+After each station:
+
+All:
+Lord Jesus, help us walk in your steps.
+:::
+::: slide
 Eleventh Station: Jesus Promises His Kingdom to the Good Thief
 
 Reader: Now one of the criminals hanging there reviled Jesus, saying, "Are you not the Messiah? Save yourself and us." The other, however, rebuking him, said in reply, "Have you no fear of God, for you are subject to the same condemnation? And indeed, we have been condemned justly, for the sentence we received corresponds to our crimes, but this man has done nothing criminal." Then he said, "Jesus, remember me when you come into your kingdom." He replied to him, "Amen, I say to you, today you will be with me in Paradise."
