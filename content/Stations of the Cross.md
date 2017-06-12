@@ -72,7 +72,6 @@ We adore you, O Christ, and we bless you.
 
 All:
 Because by your holy cross you have redeemed the world.
-After each station:
 
 All:
 Lord Jesus, help us walk in your steps.
