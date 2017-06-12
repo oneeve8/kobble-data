@@ -350,7 +350,8 @@ Because by your holy cross you have redeemed the world.
 All:
 Lord Jesus, help us walk in your steps.
 :::
-:::  slide
+::: slide
+All Sing:
 Let me share with thee His pain,
 Who for all my sins was slain,
 Who for me in torments died.
