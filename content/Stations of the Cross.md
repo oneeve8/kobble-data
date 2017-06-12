@@ -69,18 +69,18 @@ Then, while [Jesus] was still speaking, Judas, one of the Twelve, arrived, accom
 (Mark 14: 43-46)
 :::
 ::: slide
-Minister:
+Minister:  
 Lord,
 grant us the courage of our convictions
 that our lives may faithfully reflect the good news you bring.
 
-Minister:
+Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
