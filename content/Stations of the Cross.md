@@ -350,4 +350,3 @@ one God, for ever and ever.
 All:
 Amen.
 :::
-
