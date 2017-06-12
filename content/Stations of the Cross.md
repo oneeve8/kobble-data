@@ -335,7 +335,7 @@ After each station:
 All:
 Lord Jesus, help us walk in your steps.
 :::
-
+::: slide
 Closing Prayer:
 
 Minister:
@@ -350,7 +350,4 @@ one God, for ever and ever.
 All:
 Amen.
 :::
-::: slide
-## Slide 2
-A Scriptural Stations of the Cross
-:::
+
