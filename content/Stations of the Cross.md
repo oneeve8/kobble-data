@@ -191,7 +191,7 @@ Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out o
 Minister:   
 Lord,
 grant us patience in times of suffering
-that we may offer our lives as a sacrifice of praise.
+that we may offer our lives as a sacrifice of praise.  
 
 Minister:  
 We adore you, O Christ, and we bless you.
@@ -217,7 +217,7 @@ When the chief priests and the guards saw [Jesus] they cried out, "Crucify him, 
 (John 19: 6, 15-17)
 :::
 ::: slide
-Minister:  
+Minister:   
 Lord,
 grant us strength of purpose
 that we may faithfully bear our crosses each day.
