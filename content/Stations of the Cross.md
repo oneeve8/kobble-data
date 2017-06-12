@@ -166,15 +166,15 @@ that we may see as you see, not as the world sees.
 Minister:  
 We adore you, O Christ, and we bless you.
 
-All:
+All:  
 *Because by your holy cross you have redeemed the world.*
 
-All:
+All:  
 *Lord Jesus, help us walk in your steps.*
 :::
 ::: slide
-All Sing:  
-Is there one who would not weep,
+All Sing:   
+*Is there one who would not weep,
 Whelm'd in miseries so deep
 Christ's dear Mother to behold? 
 :::
