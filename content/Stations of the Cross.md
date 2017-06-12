@@ -13,6 +13,7 @@ After each station:
 
 All:
 Lord Jesus, help us walk in your steps.
+
 Opening Prayer:
 
 Minister:
