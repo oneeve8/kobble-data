@@ -188,7 +188,7 @@ Then Pilate took Jesus and had him scourged. And the soldiers wove a crown out o
 (John 19: 1-3)
 :::
 ::: slide
-Minister:  
+Minister:   
 Lord,
 grant us patience in times of suffering
 that we may offer our lives as a sacrifice of praise.
