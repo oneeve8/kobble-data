@@ -221,6 +221,7 @@ Minister:
 Lord,
 grant us strength of purpose
 that we may faithfully bear our crosses each day.  
+
 Minister:    
 We adore you, O Christ, and we bless you.
 
