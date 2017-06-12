@@ -4,15 +4,15 @@ Instructions:
 A minister (Priest of layperson) prays the opening and closing prayers, announces the stations, and says the concluding prayer at each station. Participants may read the scripture reflections and pause for a period of silence between the scripture reading and prayer. A crossbearer and two candlebearers may stand in front of each station. As the group moves between the stations, all sing a verse of the Stabat Mater (At the Cross Her Station Keeping)
 :::
 ::: slide
-Opening Prayers:
-Minister:  
+Opening Prayers:  
+Minister:   
 We adore you, O Christ, and we bless you.
 
 All:
 *Because by your holy cross you have redeemed the world.*
 
 All:
-Lord Jesus, help us walk in your steps.
+*Lord Jesus, help us walk in your steps.
 :::
 ::: slide
 
