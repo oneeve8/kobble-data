@@ -324,7 +324,7 @@ All:
 Lord Jesus, help us walk in your steps.
 :::
 ::: slide
-All Sing:
+All Sing:  
 Holy Mother! pierce me through;
 In my heart each wound renew
 Of my Saviour crucified. 
