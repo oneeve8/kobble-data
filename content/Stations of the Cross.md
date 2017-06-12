@@ -190,7 +190,8 @@ Eighth Station: Jesus is Helped by Simon the Cyrenian to Carry the Cross
 
 Reader: They pressed into service a passer-by, Simon, a Cyrenian, who was coming in from the country, the father of Alexander and Rufus, to carry his cross.
 (Mark 15: 21)
-
+:::
+::: 
 Minister:
 Lord,
 grant us willing spirits
@@ -200,7 +201,6 @@ We adore you, O Christ, and we bless you.
 
 All:
 Because by your holy cross you have redeemed the world.
-After each station:
 
 All:
 Lord Jesus, help us walk in your steps.
