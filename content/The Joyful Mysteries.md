@@ -27,7 +27,7 @@ The Annunciation
 
 And coming in, he said to her,
 "Greetings, favored one! The Lord is with you."
-"And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1,28-31)
+"And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1:28-31)
 :::
 ::: slide
 Our Father who art in Heaven,  
