@@ -75,7 +75,7 @@ especially those in most need of Your mercy.
 The 2nd Glorious Mystery  
 The Ascension into Heaven
 
-So then, when the Lord Jesus had spoken to them, He was received up into heaven and sat down at the right hand of God. (Mark 16-19)
+So then, when the Lord Jesus had spoken to them, He was received up into heaven and sat down at the right hand of God. (Mark 16:19)
 :::
 ::: slide
 Our Father who art in Heaven,  
