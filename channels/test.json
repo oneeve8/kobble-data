@@ -3,6 +3,15 @@
   "subtitle" : "Test",
   "tracks" : [
     {
+      "title" : "Test2",
+      "subtitle" : "Test2",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/test2",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Test",
       "subtitle" : "Test",
       "track" : {
