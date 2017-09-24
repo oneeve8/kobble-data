@@ -2,6 +2,14 @@
   "title" : "Test",
   "subtitle" : "Test",
   "tracks" : [
-
+    {
+      "title" : "Test",
+      "subtitle" : "Test",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/test",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
