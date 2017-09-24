@@ -3,14 +3,6 @@
     {
       "isShowing" : true,
       "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "test"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
         {
           "title" : "Test",
           "subtitle" : "Test",
