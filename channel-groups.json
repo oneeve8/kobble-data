@@ -48,15 +48,6 @@
           }
         },
         {
-          "title" : "Virtues",
-          "subtitle" : "Virtues",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Virtues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
           "channel" : {
