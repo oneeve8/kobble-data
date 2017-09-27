@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Virtues",
+          "subtitle" : "Virtues",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/virtues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Test",
           "subtitle" : "Test",
           "channel" : {
