@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.dioi.org\/vols\/we0.pdf"
+        }
+      },
+      "title" : "www.dioi.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.dioi.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
