@@ -22,20 +22,20 @@
           }
         },
         {
-          "title" : "The Holy Rosary",
-          "subtitle" : "Pray the Rosary",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Rosary.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Emissary of Love",
           "subtitle" : "A User's Manual on Virtue",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Emissary.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "The Holy Rosary",
+          "subtitle" : "Pray the Rosary",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Rosary.json",
             "repo" : "kobble-data"
           }
         },
