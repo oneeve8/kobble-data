@@ -17,6 +17,7 @@ Bold = ** (two stars before and after words), example:
 
 Underline (there is no underline in markdown)
 
+
 Highlight = ` (forward single quote before and after words), example:  
 
 `this is highlight`
