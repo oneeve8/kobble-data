@@ -13,5 +13,6 @@ Presentation
 Folder  
 Link  
 Cut and Copy and Edit Items  
-Edit Move o
+Edit, move and delete Items  
+
 
