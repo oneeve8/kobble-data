@@ -63,6 +63,8 @@ Result examples:
 *italic words*  
 _italic words_ 
 
+***
+
 Bold = __ or, ** (two underscores or stars before and after words), example:  
 __this is bolded using two underscores__  
 **this is bolded using two asterisks**
