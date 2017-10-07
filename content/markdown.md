@@ -175,7 +175,8 @@ Or:
 
 Or:  
 \* Dairy  
-	* Milk
+	\*
+
 
 Result Examples:
 
