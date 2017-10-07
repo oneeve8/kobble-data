@@ -143,7 +143,10 @@ Result example:
 
 # Horizontal rule
 
-To create a horizontal rule, use three hyphens separated by spaces, three asterisks, or three underscores), example:
+To create a horizontal rule, use three hyphens separated by spaces,  
+Or: three asterisks, or three underscores without spaces between them
+
+Syntax examples:
 
 - - -
 
