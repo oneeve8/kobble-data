@@ -1,4 +1,6 @@
 # Markdown Notes
+Soft Break (Adding a new line without a break) insert two sp
+
 Italic = _ (underscore) _italic_. 
 
 Bold = ** **bold**
