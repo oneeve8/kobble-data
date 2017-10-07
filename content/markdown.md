@@ -78,6 +78,6 @@ example:
 
 \*star\*
 
-Emojis:
-\:+1: = :+1:
+Emojis have Colon +1 = 
+:+1:
 
