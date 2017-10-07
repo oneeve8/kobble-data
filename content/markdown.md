@@ -1,12 +1,12 @@
 # Markdown Notes
 
-Click the pencil icon above to edit markdown
+Click the pencil icon above to edit markdown in Kobble
 
-Header = # before the heading (more pound signs are smaller).  
+Header = # before the heading (more hashtag signs are smaller).  
 Examples:
 ## Markdown Notes (H2)
-### Markdown Notes (H
-#### Markdown Notes (four pound)
+### Markdown Notes (H3)
+#### Markdown Notes (H4)
 
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
