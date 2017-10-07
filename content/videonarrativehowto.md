@@ -1,4 +1,6 @@
 # How To
 ## Video Narrative
 
-Create a Channel
+Create a GitHub Repo
+
+Cre
