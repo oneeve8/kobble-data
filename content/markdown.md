@@ -35,7 +35,7 @@ Block quote = > before the quote, example:
 
 As Mahatma Gandhi said:
 
-> An eye for an eye only ends up making the whole world blind.  This is how the second line woul
+> An eye for an eye only ends up making the whole world blind.  
 
 > An eye for an eye   
 > only ends up making   
