@@ -44,7 +44,7 @@ As Mahatma Gandhi said:
 > If you keep writing, then the text automatically wraps for you. If it is long enough it will wrap, so just keep writing to see what it will look like. You do not have to use the return key.
 
 Link = [website] (www.link.com), example:
-[Wikipedia](en.m)
+[Wikipedia](en.m.wikipedia.org)
 
 Horizontal rule =
 
@@ -55,6 +55,8 @@ Horizontal rule =
 ***
 
 ___
+
+
 List = * for a bullet point, or just use numbers  
 Indent and then use and asterisk * for a hollow bullet point
 
