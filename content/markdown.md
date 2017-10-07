@@ -13,7 +13,8 @@ Image = ! [image name] (image link.jpg).
 
 Block quote = >
 
-> An eye for an eye only ends up making the whole world blind  
+> An eye for an eye only ends up making the whole world blind
+
 ~ Mahatma Gandhi
 
 List =
