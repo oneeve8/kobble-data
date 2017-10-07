@@ -46,7 +46,7 @@ As Mahatma Gandhi said:
 Single quote is accented a ‘. 
 
 
-Inline link =[visit link] www.link.com
+Inline link =[visit link] (www.link.com)
 
 Reference link = [fun website] (www.link.com)
 
