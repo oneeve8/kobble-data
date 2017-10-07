@@ -8,10 +8,10 @@ GitHub Repo
 Channel   
 Track  
 Track Item  
-Markdown  
+Markdown 
 Presentation  
 Folder  
 Link  
-Cut and Copy Channels and Tracks
+Cut and Copy and Edit Items
 Edit 
 
