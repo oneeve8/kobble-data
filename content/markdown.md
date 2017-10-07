@@ -4,8 +4,8 @@ Click the pencil icon above to edit markdown
 
 Header = # before the heading (more pound signs are smaller).  
 Examples:
-## Markdown Notes (two pound)
-### Markdown Notes (three pound)
+## Markdown Notes (H2)
+### Markdown Notes (H
 #### Markdown Notes (four pound)
 
 Soft Break (Adding a new line without a break) =  
