@@ -54,7 +54,7 @@ Third Line
 ***
 # Italics
 
-Use _ , or * (one star or underscore before and after words),  
+Use _ , or * (one underscore or asterisk before and after words),  
 Syntax examples:  
 \_italic words\_  
 \*italic words\*
@@ -62,6 +62,7 @@ Syntax examples:
 Result examples:  
 *italic words*  
 _italic words_ 
+***
 
 Bold = __ or, ** (two underscores or stars before and after words), example:  
 __this is bolded using two underscores__  
