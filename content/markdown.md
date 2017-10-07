@@ -86,8 +86,10 @@ Backslash escapes allow for literal characters which would otherwise have meanin
 
 For emojis, use a colon before and after.  
 
- +1 ,, tada, metal,
-:+1: :sparkles: :tada: :metal:
+ +1, tada, metal, sparkles
+:+1: :tada: :metal: :sparkles:  
+
+For m
 
 [emoji cheat sheet](www.emoji-cheat-sheet.com)
 
