@@ -64,10 +64,12 @@ Indented * for a hollow bullet point
 2. Eggs
 3. Butter
 
-* 
-	* Dairy
-* Eggs
-	* Protein
+* Dairy
+	* Milk
+	* Cheese
+* Protein
+	* Eggs
+	* Tofu
 
 Backslash escapes allow for literal characters which would otherwise have meaning
 example:  
