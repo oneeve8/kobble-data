@@ -12,8 +12,10 @@ Markdown
 Presentation  
 Folder  
 Link  
-Cut and Copy and Edit Items  
-Edit, move and delete Items  
-Using Markdown
+
+You will also learn how to:
+Cut, copy, move and delete Items  
+
+Markdown
 
 
