@@ -133,8 +133,10 @@ Or:
 ***
 
 # Link  
-Syntax Example:
-\[website] (www.link.com), example:
+Syntax Example:  
+\[wikipedia]\(en.m.wikipedia.org), 
+
+Result example:  
 [Wikipedia](en.m.wikipedia.org)
 
 Horizontal rule =
