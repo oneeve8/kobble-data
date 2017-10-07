@@ -41,7 +41,7 @@ Video = @[youtube] (video id)
 
 
 
-|   Tables   |   Are   |   Cool   |.  
+|   Tables   |   Are   |   Cool   |   
 |   This   |   Is   |   The
 
 
