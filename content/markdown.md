@@ -7,7 +7,9 @@ and the result appears in the bottoms window.
 Both windows scroll down.  
 (Toggle back to the paper icon to select result view only)
 
-#Header = # hashtag before and after the heading:  
+#Header
+
+\hashtag before and after the heading:  
 Syntax Examples:  
 H1 = \#Markdown Notes\#  
 H2 = \##Markdown Notes\##  
