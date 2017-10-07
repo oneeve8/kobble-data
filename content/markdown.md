@@ -203,6 +203,7 @@ Result Example:
 
 ***
 
+# Emojis
 For emojis, use a colon before and after.  
 
  +1, tada, metal, sparkles
