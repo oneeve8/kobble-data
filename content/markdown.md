@@ -40,7 +40,8 @@ First Line..
 Second Line..  
 Third Line..  
 
-Result Example:  (
+Result Example:  (this is how it will look)
+
 First Line  
 Second Line  
 Third Line
