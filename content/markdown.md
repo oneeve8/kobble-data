@@ -1,6 +1,6 @@
 # Markdown Notes
 
-Header = # or ## (more pound signs are smaller)
+Header = # before the heading (more pound signs are smaller)
 ## Markdown Notes (two pound)
 ### Markdown Notes (three pound)
 #### Markdown Notes (four pound)
