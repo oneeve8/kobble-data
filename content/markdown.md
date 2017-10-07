@@ -139,9 +139,11 @@ Syntax Example:
 Result example:  
 [Wikipedia](en.m.wikipedia.org)
 
-Horizontal rule =
+***
 
-(Three hyphens separated by spaces, three asterisks, or three underscores), example:
+# Horizontal rule
+
+To create a horizontal rule, use three hyphens separated by spaces, three asterisks, or three underscores), example:
 
 - - -
 
