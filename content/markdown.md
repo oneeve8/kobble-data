@@ -21,6 +21,9 @@ Block quote = >
 
 /Tables / Are / Cool
 
+/: tables: / (centred). 
+
+Horizontal rule
 List =
 * milk
 * eggs
