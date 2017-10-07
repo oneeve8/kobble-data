@@ -71,7 +71,7 @@ Indented * for a hollow bullet point
 	* Eggs
 	* Tofu
 
-Backslash escapes allow for literal characters which would otherwise have meaning in Markdown’s formatting synta
+Backslash escapes allow for literal characters which would otherwise have meaning in Markdown’s formatting syntax, example:
 example:  
 
 \*star\*
