@@ -34,6 +34,15 @@ insert two spaces after each new line.  Since you will not be able to see spaces
 
 Syntax Example:  
 This is how it looks without a soft break. First Line. Second Line. Third Line.  
+Or you would have to use a double return which results in a hard break space between each line, like this:
+This is how it looks with a hard break:
+
+First Line
+
+Second Line
+
+Third Line
+
 
 This is the syntax for creating soft breaks with each dot representing a space:  
 First Line..  
