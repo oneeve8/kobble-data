@@ -89,10 +89,12 @@ Syntax example:
 
 Result example:
 
-```this is a code block```
+```this is a code block```  
+***
 
-Scratch = ~~ (two tildes before and after words), example:  
-~~scratch this~~
+Scratch = ~~ (two tildes before and after words)
+Syntax Example:
+\~\~scratch this~~
 
 
 Block quote = > before the quote, example:
