@@ -132,12 +132,12 @@ Or:
 
 ***
 
-# Link  Ask Bill why this does not work 
+# Link  Ask Bill why this does not work the link does not open in a new window? Or try another link?
 Syntax Example:  
 \[wikipedia]\(en.m.wikipedia.org), 
 
 Result example:  
-[Wikipedia](www.wikipedia.org)
+[Wikipedia](en.m.wikipedia.org)
 
 Horizontal rule =
 
