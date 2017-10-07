@@ -7,11 +7,11 @@ and the result appears in the bottoms window.
 Both windows scroll down.  
 (Toggle back to the paper icon to select result view only)
 
-#Header
+# Header
 
-\hashtag before and after the heading:  
+\# hashtag and space before the heading:  
 Syntax Examples:  
-H1 = \#Markdown Notes\#  
+H1 = \# Markdown Notes
 H2 = \##Markdown Notes\##  
 (adding more hashtags makes headings smaller).  
 
