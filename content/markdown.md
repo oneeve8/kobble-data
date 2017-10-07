@@ -1,7 +1,7 @@
 # Markdown Notes
 
-Click the pencil icon above to edit markdown in Kobble.  
-The Markdown view is separated into two windows: the Markdown syntax is in the top window and the result in the bottoms window.  
+Click the pencil icon above in your files to edit markdown in Kobble.  
+The Markdown view is separated into two windows: the Markdown syntax is in the top window and the result appears in the bottoms window.  
 Both windows scroll down.  
 Keep the markdown syntax format screen open so you can see both as you read this.  
 (Toggle back to the paper icon to select result view only)
@@ -11,6 +11,7 @@ Syntax Examples:
 H1 = \#Markdown Notes\#  
 H2 = \##Markdown Notes\##  
 (adding more hashtags makes headings smaller).  
+
 Result Examples: 
 ## Markdown Notes (H2)
 ### Markdown Notes (H3)
