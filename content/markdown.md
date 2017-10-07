@@ -84,6 +84,11 @@ You can combine them if you want both italic and bold
 # Fenced code block
 Use ```(forward quote before and after)
 
+Syntax example:
+\```this is syntax for a code block\```
+
+Result example:
+
 ```this is a code block```
 
 Scratch = ~~ (two tildes before and after words), example:  
