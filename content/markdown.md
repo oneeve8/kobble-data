@@ -105,10 +105,15 @@ Result Example:
 # Block quote  
 Use > before the quote, example:
 
-As Mahatma Gandhi said:
 
-Syntax Example:
-\> 
+
+Syntax Example:  
+As Mahatma Gandhi said:  
+\> An eye for an eye only ends up making the whole world blind.
+
+Or:
+
+As Mahatma G
 
 > An eye for an eye only ends up making the whole world blind.  
 
