@@ -40,6 +40,7 @@ Image = ! [image name] (image link.jpg).
 Video = @[youtube] (video id)
 
 
+|:tables:| (centred). 
 
 Horizontal rule =
 
