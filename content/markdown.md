@@ -126,7 +126,7 @@ Result Examples:
 > only ends up making   
 > the whole world blind.  
 
-> If you keep writing, then the text automatically wraps for you. If it is long enough it will wrap, so just keep writing to see what it will look like. You do not have to use the return key.
+If you keep writing, then the text automatically wraps for you. If it is long enough it will
 
 Link = [website] (www.link.com), example:
 [Wikipedia](en.m.wikipedia.org)
