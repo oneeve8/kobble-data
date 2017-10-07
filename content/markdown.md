@@ -213,6 +213,8 @@ For more emojis check here:
 
 [emoji cheat sheet](www.emoji-cheat-sheet.com)
 
+***
+
 Image = ! [image name](image link.jpg), example:
 
 ![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
