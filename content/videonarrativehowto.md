@@ -18,10 +18,10 @@ You will also learn how to:
 Cut, copy, move and delete Items  
 
 Use productivity features on the iPad as they relate to using Kobble,
-Draggiitems and links from the web to Kobble
-Streaming an archived book in Kobble
 
-
+And you’ll learn to
+Drag items and links from the web to Kobble
+Stream an archived book in Kobble
 
 Retrieve a lost item from GitHub
 
