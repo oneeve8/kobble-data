@@ -16,7 +16,7 @@ Italic = _ , or * (one star or underscore before and after words), example:
 _this is italic_ 
 
 Bold = __ or, ** (two underscores or stars before and after words), example:  
-__this is bolded using two underscores__
+__this is bolded using two underscores__  
 **this is bolded using two asterisks**
 
 Combined = 
