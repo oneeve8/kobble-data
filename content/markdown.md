@@ -46,9 +46,9 @@ As Mahatma Gandhi said:
 Inline link =[visit link] (www.link.com)
 
 Reference link = [fun website] (www.link.com)
-https://en.m.wikipedia.org/wiki/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg
+(https://en.m.wikipedia.org/wiki/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)
 Image = ! [image name] (image link.jpg), example:
-![The Young Shepherdess, William Adolphe Bouguereau](https://commons.wikimedia.org/wiki/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)   
+![The Young Shepherdess, William Adolphe Bouguereau]
 Video = @[youtube] (video id)
 
 Horizontal rule =
