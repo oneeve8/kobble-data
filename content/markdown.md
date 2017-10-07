@@ -143,7 +143,7 @@ Result example:
 
 # Horizontal rule
 
-To create a horizontal rule, use three hyphens separated by spaces,  
+To create a horizontal rule, as is used between these tutorial sections, use three hyphens separated by spaces,  
 Or: three asterisks, or three underscores without spaces between them
 
 Syntax examples:
@@ -154,9 +154,9 @@ Syntax examples:
 
 \___
 
-Result examples:
+Result example:
 - - -
-
+***
 
 
 List = * for a bullet point, or just use numbers  
