@@ -2,7 +2,7 @@
 
 Click the pencil icon above to edit markdown in Kobble
 
-Header = # before the heading (more hashtag signs are smaller).  
+Header = # before the heading (adding more hashtag signs make headings smaller).  
 Examples:
 ## Markdown Notes (H2)
 ### Markdown Notes (H3)
