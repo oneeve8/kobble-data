@@ -21,9 +21,9 @@ Combined = example:
 *you can **combine** them* 
 
 
-Fenced code block = `forward single quote before and after words), example:  
+Fenced code block = ```(forward quote before and after words), example:  
 
-`this is highlight`
+```this is a```
 
 Scratch = ~~ (two tildes before and after words), example:  
 ~~scratch this~~
