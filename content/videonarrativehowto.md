@@ -13,12 +13,14 @@ Presentation
 Folder  
 Link  
 
+P
+
 You will also learn how to:
 Cut, copy, move and delete Items  
 
 Retrieve a lost item from GitHub
 
 You will also learn some basics of how to use Markdown,  
-And how to create Presentation s
+And how to create Presentation slides.
 
 
