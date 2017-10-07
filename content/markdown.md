@@ -18,6 +18,8 @@ Bold = ** (two stars before and after words), example:
 Bold = __ (two underscore before and after each word, example:  
 __another way to bold__
 
+
+
 Highlight = ` (forward single quote before and after words), example:  
 
 `this is highlight`
