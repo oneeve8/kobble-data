@@ -12,5 +12,4 @@ Markdown
 Presentation
 Folder
 Link
-Markdown File
-Slide Show
+
