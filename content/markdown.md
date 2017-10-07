@@ -50,7 +50,7 @@ Link = [website] (www.link.com), example:
 
 
 Image = ! [image name] (image link.jpg), example:
-![The Young Shepherdess, by William Ado
+
 
 Video = @[youtube] (video id)
 
