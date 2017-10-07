@@ -91,11 +91,13 @@ For emojis, use a colon before and after.
 
 [emoji cheat sheet](www.emoji-cheat-sheet.com)
 
-Image = ! [image name] (image link.jpg), example:
+Image = ! [image name](image link.jpg), example:
 
-Video = @[youtube] (video id)
+![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
+Video = @[youtube](video id), example:
 
 @[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 
-![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 
