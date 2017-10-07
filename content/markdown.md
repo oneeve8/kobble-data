@@ -1,8 +1,8 @@
 # Markdown Notes
 
-Click the pencil icon above to edit markdown in Kobble
+Click the pencil icon above to edit markdown in Kobble.  
 The Markdown view is separated into two windows: the Markdown syntax is in the top window and the result in the bottoms window.  Both windows scroll down.
-Keep the markdown syntax format screen open so you can see both as you read th
+Keep the markdown syntax format screen open so you can see both as you read this.
 (Toggle back to the paper icon to select result view only)
 
 Header = # before the heading (adding more hashtags makes headings smaller).  
