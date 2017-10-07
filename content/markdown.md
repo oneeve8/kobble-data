@@ -22,6 +22,8 @@ Block quote = > before the quote, example:
 
 > An eye for an eye only ends up making the whole world blind.  This is how the second line would look
 
+>>> you can
+
 Inline link =[visit link] www.link.com
 
 Reference link = [fun website] [ www.link.com]
