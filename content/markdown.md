@@ -15,7 +15,10 @@ _italic_
 Bold = ** (two stars before and after word) example:  
 **bold**
 
-Underline ++ (two plus signs be
+Underline ++ (two plus signs before and after word,  
+example:
+++underline++ 
+
 
 Block quote = > before the quote, example:
 
