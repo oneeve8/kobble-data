@@ -3,7 +3,7 @@
 
 In this video, you will learn the following:
 
-How to create a:
+How to create a:  
 GitHub Repo   
 Channel   
 Track  
@@ -12,5 +12,6 @@ Markdown
 Presentation  
 Folder  
 Link  
-Cut Copy and Edit an Item
+Cut and Copy Channels and Tracks
+Edit 
 
