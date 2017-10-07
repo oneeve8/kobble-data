@@ -64,9 +64,10 @@ List = * for a bullet point, or just use numbers
 Indent and then use and asterisk * for a hollow bullet point
 
 Table | Header   
-
 - - - |- - -
 Cell 1| cell 2
+
+
 
 
 * milk
