@@ -3,7 +3,7 @@ Soft Break (Adding a new line without a break) insert two spaces after each new 
 
 Italic = _ (underscore) _italic_. 
 
-Bold = ** **bold**
+Bold = ** (two st**bold**
 
 Header = # 
 
