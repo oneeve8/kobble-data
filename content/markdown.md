@@ -3,15 +3,17 @@
 Click the pencil icon in your files to edit markdown in Kobble.  
 The Markdown view is separated into two windows:  
 the Markdown syntax is in the top window  
-and the result appears in the bottoms window.  
+and the result appears in the bottom window.  
 Both windows scroll down.  
 (Toggle back to the paper icon to select result view only)
 ***
 
 # Header
 
-\# hashtag and space before the heading:  
+Use a \# hashtag and a space before the heading:  
+
 Syntax Examples:  
+
 H1 = \# Markdown Notes  
 H2 = \## Markdown Notes  
 (adding more hashtags makes headings smaller).  
