@@ -53,7 +53,7 @@ Reference link = [fun website] (www.link.com)
 Image = ! [image name] (image link.jpg), example:
 ![The Young Shepherdess, by William Adolphe Bouguereau](https://en.m.wikipedia.org/wiki/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)
 
-!(https://en.m.wikipedia.org/wiki/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)
+!(www.en.m.wikipedia.org/wiki/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)
 
 Video = @[youtube] (video id)
 
