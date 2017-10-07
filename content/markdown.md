@@ -51,7 +51,7 @@ Video = @[youtube] (video id)
 
 Horizontal rule =
 
-(Three hyphens separated by spaces, three stars or three underscores), example:
+(Three hyphens separated by spaces, three asterisks, or three underscores), example:
 
 - - -
 
