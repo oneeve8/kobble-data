@@ -71,3 +71,7 @@ Indented * for a hollow bullet point
 	* Dairy
 * Eggs
 	* Protein
+
+Backslash escapes allow for literal characters which would otherwise have meaning
+example:
+\*
