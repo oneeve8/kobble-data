@@ -22,7 +22,7 @@ Block quote = > before the quote, example:
 
 > An eye for an eye only ends up making the whole world blind.  This is how the second line would look, it indents with the first line.
 
-> if you keep
+> if you keep writing, then the text automatically wraps for you if it is long enough it will wrap 
 
 Inline link =[visit link] www.link.com
 
