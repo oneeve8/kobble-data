@@ -57,7 +57,7 @@ Image = ! [image name] (image link.jpg), example:
 
 Video = @[youtube] (video id)
 
-@[youtube]
+@[youtube](
 
 Horizontal rule =
 
