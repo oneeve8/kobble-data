@@ -148,11 +148,15 @@ Or: three asterisks, or three underscores without spaces between them
 
 Syntax examples:
 
+\- - -
+
+\***
+
+\___
+
+Result examples:
 - - -
 
-***
-
-___
 
 
 List = * for a bullet point, or just use numbers  
