@@ -40,7 +40,10 @@ First Line..
 Second Line..  
 Third Line..  
 
-Result Example
+Result Example:  (
+First Line  
+Second Line  
+Third Line
 
 
 Italic = _ , or * (one star or underscore before and after words),  
