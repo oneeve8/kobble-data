@@ -168,10 +168,12 @@ Syntax Example:
 \* Eggs  
 \* Butter  
 
+Or:
+1. Milk
+2. Eggs
+3. Butter
+
 Result Examples:
-
-Using an a
-
 
 * milk
 * eggs
