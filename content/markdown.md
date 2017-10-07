@@ -55,9 +55,8 @@ Image = ! [image name] (image link.jpg), example:
 
 ![The Young Shepherdess](Www.The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)
 
-Video = @[youtube] (video id) https://youtu.be/7maTyA_RBGo
-https://youtu.be/7maTyA_RBGo
-@[youtube](https://youtu.be/7maTyA_RBGo
+Video = @[youtube] (video id)
+@[youtube](https://youtu.be/7maTyA_RBGo)
 
 Horizontal rule =
 
