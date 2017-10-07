@@ -15,7 +15,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "Notes",
+      "subtitle" : "Cheat Sheet",
       "expanded" : true,
       "children" : [
 
