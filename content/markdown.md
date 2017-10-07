@@ -35,7 +35,8 @@ Horizontal rule =
 ***
 
 ___
-List =
+List = * , or just numbers  
+Indented * 
 * milk
 * eggs
 * butter
