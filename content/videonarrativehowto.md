@@ -20,7 +20,7 @@ Cut, copy, move and delete Items
 
 Use productivity features on the iPad as they relate to using Kobble,
 
-And you’ll learn to
+And you will learn to
 Drag items and links from the web to Kobble,  
 Stream an archived book in Kobble,  
 
