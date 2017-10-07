@@ -28,7 +28,8 @@ Result Examples:
 ***
 
 # Soft Break
-Soft Break (Adding a new line without a break) =  
+
+A Soft Break adds a new line without a break. To add a Soft Break
 (insert two spaces after each new line)
 
 Italic = _ , or * (one star or underscore before and after words),  
