@@ -2,6 +2,7 @@
 
 Click the pencil icon above to edit markdown in Kobble
 
+
 Header = # before the heading (adding more hashtags makes headings smaller).  
 Examples:
 ## Markdown Notes (H2)
@@ -58,7 +59,7 @@ ___
 
 
 List = * for a bullet point, or just use numbers  
-Indent and then use and asterisk * for a hollow bullet point
+Indent and then use an asterisk * for a hollow bullet point
 
 
 Lists:
