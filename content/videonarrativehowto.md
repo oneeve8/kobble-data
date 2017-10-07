@@ -13,12 +13,15 @@ Presentation
 Folder  
 Link  
 
-Productivity features on the iPad as they relate to using Kobble,
-Dragging items and links from the web to Kobble
+You will also learn how to:
+
+Cut, copy, move and delete Items  
+
+Use productivity features on the iPad as they relate to using Kobble,
+Draggiitems and links from the web to Kobble
 Streaming an archived book in Kobble
 
-You will also learn how to:
-Cut, copy, move and delete Items  
+
 
 Retrieve a lost item from GitHub
 
