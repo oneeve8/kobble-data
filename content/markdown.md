@@ -102,9 +102,13 @@ Result Example:
 ***
 
 
-Block quote = > before the quote, example:
+# Block quote  
+Use > before the quote, example:
 
 As Mahatma Gandhi said:
+
+Syntax Example:
+\> 
 
 > An eye for an eye only ends up making the whole world blind.  
 
