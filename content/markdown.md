@@ -79,5 +79,5 @@ example:
 \*star\*
 
 Emojis:
-:+1:
+\:+1: = :+1:
 
