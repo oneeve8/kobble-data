@@ -32,7 +32,8 @@ Video = @[youtube] (video id)
 
 
 
-|Tables—Are|Cool
+|Tables.  | Are.  |Cool.  |. 
+
 
 |:tables:| (centred). 
 
