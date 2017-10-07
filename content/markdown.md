@@ -11,6 +11,8 @@ Examples:
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
+
+
 Italic = _ , or * (one star or underscore before and after words), example:  
 *this is italic*  
 _this is italic_ 
