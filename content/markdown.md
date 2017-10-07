@@ -70,7 +70,8 @@ _italic words_
 Use __ or, ** (two underscores or stars before and after words),  
 
 Syntax example:  
-\__This is syntax using two underscores\__
+\___This is syntax using two underscores\___  
+\**this is syntax usin
 
 __this is bolded using two underscores__  
 **this is bolded using two asterisks**
