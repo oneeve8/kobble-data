@@ -14,7 +14,8 @@ Use a \# hashtag and a space before the heading:
 
 Syntax Examples:  
 
-H1 = \# Markdown Notes  
+H1 = ```\# Markdown Notes```
+
 H2 = \## Markdown Notes  
 (adding more hashtags makes headings smaller).  
 
