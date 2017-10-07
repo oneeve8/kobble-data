@@ -78,3 +78,6 @@ example:
 
 \*star\*
 
+Emojis:
+:+1:
+
