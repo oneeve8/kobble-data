@@ -9,11 +9,11 @@ Examples:
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
-Italic = _ (underscore before and after words), example:  
-*this is italic*
+Italic = _ , or * (one star or underscore before and after words), example:  
+*this is italic*  
 _this is italic_ 
 
-Bold = ** (two stars before and after words), example:  
+Bold = __ or** (two underscores or stars before and after words), example:  
 **this is bold**
 
 Bold = __ (two underscore before and after each word, example:  
