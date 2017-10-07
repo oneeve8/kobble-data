@@ -17,8 +17,11 @@ Bold = ** (two stars before and after word), example:
 
 Underline (there is no underline in markdown)
 
-Outline = ` (forward single quote before and after word), example:
+Outline = ` (forward single quote before and after word), example:  
+
 `outline this`
+
+^wh
 
 
 Block quote = > before the quote, example:
