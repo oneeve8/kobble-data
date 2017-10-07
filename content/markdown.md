@@ -87,7 +87,7 @@ Backslash escapes allow for literal characters which would otherwise have meanin
 For emojis, use a colon before and after.  
 
  +1 , sparkles, camel, tada, rocket, metal,
-:+1: :sparkles: :camel: :tada: :rocket: :metal:
+:+1: :sparkles: :tada: :rocket: :metal:
 
 [emoji cheat sheet](www.emoji-cheat-sheet.com)
 
