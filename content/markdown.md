@@ -21,7 +21,6 @@ Combined = example:
 *you can **combine** them* 
 
 
-
 Highlight = ` (forward single quote before and after words), example:  
 
 `this is highlight`
@@ -87,4 +86,6 @@ For emojis, use colon before and after.
 
  +1 , sparkles, camel, tada, rocket, metal,
 :+1: :sparkles: :camel: :tada: :rocket: :metal:
+
+
 
