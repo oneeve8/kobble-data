@@ -23,7 +23,9 @@ Block quote = >
 
 /: tables: / (centred). 
 
-Horizontal rule
+Horizontal rule =
+
+(Three stars or three underscores)
 
 ***
 
