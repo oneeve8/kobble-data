@@ -6,7 +6,7 @@ Both windows scroll down.
 Keep the markdown syntax format screen open so you can see both as you read this.  
 (Toggle back to the paper icon to select result view only)
 
-Header = # before the heading: \#Markdown Notes\# (adding more hashtags makes headings smaller).  
+Header = # before the heading: H1 = \#Markdown Notes\# H2 = \##Markdown Notes|##(adding more hashtags makes headings smaller).  
 Examples: 
 ## Markdown Notes (H2)
 ### Markdown Notes (H3)
