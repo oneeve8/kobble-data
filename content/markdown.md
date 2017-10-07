@@ -9,17 +9,17 @@ Examples:
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
-Italic = _ (underscore before and after word), example:  
-_italic_ 
+Italic = _ (underscore before and after words), example:  
+_this is italic_ 
 
-Bold = ** (two stars before and after word), example:  
+Bold = ** (two stars before and after words), example:  
 **bold**
 
 Underline (there is no underline in markdown)
 
-Outline = ` (forward single quote before and after word), example:  
+Highlight = ` (forward single quote before and after words), example:  
 
-`outline this`
+`highlight this`
 
 
 
