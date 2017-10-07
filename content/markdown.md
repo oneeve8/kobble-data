@@ -10,6 +10,7 @@ Soft Break (Adding a new line without a break) =
 (insert two spaces after each new line)
 
 Italic = _ (underscore before and after words), example:  
+*this is italic*
 _this is italic_ 
 
 Bold = ** (two stars before and after words), example:  
