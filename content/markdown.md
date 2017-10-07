@@ -19,7 +19,8 @@ Block quote = >
 
 ~ Mahatma Gandhi
 
-Tables 
+/Tables / Are / Cool
+
 List =
 * milk
 * eggs
