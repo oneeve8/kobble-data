@@ -1,6 +1,9 @@
 # How To
 ## Video Narrative
 
-Create a GitHub Repo
+In this video, you will learn the following:
 
-Cre
+How to create a:
+GitHub Repo
+Channel
+Track
