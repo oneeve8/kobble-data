@@ -47,10 +47,7 @@ Link = [website] (www.link.com), example:
 [Kobble](kobble.io)
 
 
-Image = ! [image name] (image link.jpg), example:
 
-
-Video = @[youtube] (video id)
 
 Horizontal rule =
 
@@ -93,6 +90,10 @@ For emojis, use a colon before and after.
 :+1: :sparkles: :camel: :tada: :rocket: :metal:
 
 [emoji cheat sheet](www.emoji-cheat-sheet.com)
+
+Image = ! [image name] (image link.jpg), example:
+
+Video = @[youtube] (video id)
 
 @[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 
