@@ -38,9 +38,9 @@ Reference link = [fun website] [ www.link.com]
 Image = ! [image name] (image link.jpg). 
 
 Video = @[youtube] (video id)
+Block quote = >
 
 
-|:tables:| (centred). 
 
 Horizontal rule =
 
