@@ -47,7 +47,8 @@ Inline link =[visit link] (www.link.com)
 
 Reference link = [fun website] (www.link.com)
 
-Image = ! [image name] (image link.jpg)   
+Image = ! [image name] (image link.jpg), example:
+![Young Shepherdess, William 
 
 Video = @[youtube] (video id)
 
