@@ -47,7 +47,8 @@ As Mahatma Gandhi said:
 
 Inline link =[visit link] (www.link.com)
 
-Reference link = [fun website] (www.link.com)
+Reference link = [fun website] (www.link.com), example:
+[Kobb
 
 
 Image = ! [image name] (image link.jpg), example:
