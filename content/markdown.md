@@ -44,7 +44,7 @@ As Mahatma Gandhi said:
 > If you keep writing, then the text automatically wraps for you. If it is long enough it will wrap, so just keep writing to see what it will look like. You do not have to use the return key.
 
 Link = [website] (www.link.com), example:
-[Kobble](kobble.io)
+[Wikipedia](en.m)
 
 Horizontal rule =
 
