@@ -43,8 +43,7 @@ Second Line
 
 Third Line
 
-
-This is the syntax for creating soft breaks with each dot representing a space:  
+You may want your lines to appear without the space, so that is why you would want to use a soft break. This is the syntax for creating soft breaks with each dot representing a space:  
 First Line..  
 Second Line..  
 Third Line..  
