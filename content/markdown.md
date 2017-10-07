@@ -73,5 +73,7 @@ Indented * for a hollow bullet point
 	* Protein
 
 Backslash escapes allow for literal characters which would otherwise have meaning
-example:
-\*
+example:  
+
+\*star\*
+
