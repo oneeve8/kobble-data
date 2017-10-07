@@ -78,7 +78,7 @@ example:
 
 \*star\*
 
-For emojis, use colon before and after
- +1 = 
+For emojis, use colon before and after. 
+ +1 , sparkles, 
 :+1:
 
