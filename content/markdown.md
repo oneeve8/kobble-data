@@ -30,7 +30,7 @@ Result Examples:
 # Soft Break
 
 A Soft Break adds a new line without a break. To add a Soft Break,
-insert two spaces after each new line.  
+insert two spaces after each new line.  Since
 
 Syntax Example:  
 This is how it looks without a soft break. First Line. Second Line. Third Line.  
@@ -40,12 +40,12 @@ First Line..
 Second Line..  
 Third Line..  
 
-Result Example:  (this is how it will look)
+Result Example:  (this is actually how it will look)
 
 First Line  
 Second Line  
 Third Line
-
+***
 
 Italic = _ , or * (one star or underscore before and after words),  
 Syntax examples:  
