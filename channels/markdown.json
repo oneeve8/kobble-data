@@ -2,6 +2,14 @@
   "title" : "Markdown",
   "subtitle" : "Markdown Notes",
   "tracks" : [
-
+    {
+      "title" : "Markdown  Notes",
+      "subtitle" : "How To ",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/markdown",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
