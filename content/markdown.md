@@ -46,9 +46,6 @@ As Mahatma Gandhi said:
 Link = [website] (www.link.com), example:
 [Kobble](kobble.io)
 
-
-
-
 Horizontal rule =
 
 (Three hyphens separated by spaces, three asterisks, or three underscores), example:
@@ -89,7 +86,7 @@ For emojis, use a colon before and after.
  +1, tada, metal, sparkles
 :+1: :tada: :metal: :sparkles:  
 
-For m
+For more emojis check here:
 
 [emoji cheat sheet](www.emoji-cheat-sheet.com)
 
