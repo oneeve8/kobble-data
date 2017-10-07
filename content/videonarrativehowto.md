@@ -18,7 +18,7 @@ Cut, copy, move and delete Items
 
 Retrieve a lost item from GitHub
 
-And you will also learn some basics of u
-Markdown
+You will also learn some basics of how to use Markdown,  
+And how to create Presentation s
 
 
