@@ -1,9 +1,9 @@
 # Markdown Notes
 
 Header = # or ## (more pound signs are smaller)
-## Markdown Notes
-### Markdown Notes
-#### Markdown Notes. 
+## Markdown Notes (two pound)
+### Markdown Notes (three pound)
+#### Markdown Notes (four pound)
 Soft Break (Adding a new line without a break) insert two spaces after each new line
 
 Italic = _ (underscore before and after word) _italic_. 
