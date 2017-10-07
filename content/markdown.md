@@ -20,7 +20,7 @@ Underline (there is no underline in markdown)
 
 Block quote = > before the quote, example:
 
-> An eye for an eye only ends up making the whole world blind.
+> An eye for an eye only ends up making the whole world blind.  This is how the second line would look
 
 Inline link =[visit link] www.link.com
 
