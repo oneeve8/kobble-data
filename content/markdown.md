@@ -21,7 +21,7 @@ Outline = ` (forward single quote before and after word), example:
 
 `outline this`
 
-^wh
+
 
 
 Block quote = > before the quote, example:
