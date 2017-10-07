@@ -33,8 +33,12 @@ A Soft Break adds a new line without a break. To add a Soft Break,
 insert two spaces after each new line.  
 
 Syntax Example:  
+
 First Line.. (dots represent a space)  
-Second Line
+Second Line..  
+Third Line..  
+
+Result Example
 
 
 Italic = _ , or * (one star or underscore before and after words),  
