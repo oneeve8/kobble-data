@@ -1,5 +1,5 @@
 # Markdown Notes
-Italic = underscore _italic_. 
+Italic = _ (underscore) _italic_. 
 
 Bold = ** **bold**
 
