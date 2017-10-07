@@ -12,6 +12,6 @@ Markdown
 Presentation  
 Folder  
 Link  
-Cut and Copy and Edit Items
-Edit 
+Cut and Copy and Edit Items  
+Edit Move o
 
