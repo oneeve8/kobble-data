@@ -8,5 +8,9 @@ GitHub Repo
 Channel
 Track
 Track Item
+Markdown 
+Presentation
+Folder
+Link
 Markdown File
 Slide Show
