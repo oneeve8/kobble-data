@@ -13,7 +13,8 @@ Presentation
 Folder  
 Link  
 
-P
+Productivity features on the iPad as they relate to using Kobble
+Dragging items and links from the web to Kobble
 
 You will also learn how to:
 Cut, copy, move and delete Items  
