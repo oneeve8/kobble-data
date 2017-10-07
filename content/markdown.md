@@ -70,7 +70,7 @@ _italic words_
 Use __ or, ** (two underscores or asterisks before and after words),  
 
 Syntax example:  
-\___This is syntax using two underscores\___  
+\___this is syntax using two underscores\___  
 \*\*this is syntax using two asterisks\*\*
 
 Result Example:  
@@ -84,7 +84,7 @@ You can combine them if you want both italic and bold
 # Fenced code block
 Use ```(forward quote before and after)
 
-Syntax example:
+Syntax example:  
 \```this is syntax for a code block\```
 
 Result example:
