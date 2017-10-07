@@ -7,10 +7,11 @@ Header = # or ## (more pound signs are smaller)
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
-Italic = _ (underscore before and after word) 
-_italic_. 
+Italic = _ (underscore before and after word)  
+_italic_ 
 
-Bold = ** (two stars before and after word) **bold**
+Bold = ** (two stars before and after word)  
+**bold**
 
 Inline link =[visit link] www.link.com
 
