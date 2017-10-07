@@ -73,12 +73,12 @@ Syntax example:
 \___This is syntax using two underscores\___  
 \*\*this is syntax using two asterisks\*\*
 
-Result Example: 
+Result Example:  
 __this is bolded using two underscores__  
 **this is bolded using two asterisks**
 
-Combined = 
-*you can **combine** them* 
+You can combine them if you want both italic and bold
+
 
 
 Fenced code block = ```(forward quote before and after), example:  
