@@ -15,7 +15,7 @@ Bold = ** (two stars before and after word)
 
 Block quote = >
 
-> An eye for an eye only ends up making the whole world blind. ~Mahatma Gandhi
+> An eye for an eye only ends up making the whole world blind.
 
 Inline link =[visit link] www.link.com
 
