@@ -173,11 +173,6 @@ Or:
 2. Eggs
 3. Butter
 
-Or:  
-\* Dairy  
-	\*
-
-
 Result Examples:
 
 * milk
@@ -194,8 +189,10 @@ Result Examples:
 * Protein
 	* Eggs
 	* Tofu
+***
 
-Backslash escapes allow for literal characters which would otherwise have meaning in Markdown formatting syntax, example:
+## Backslash escapes 
+Use Backslash \ escapes to allow for literal characters which would otherwise have meaning in Markdown formatting syntax, example:
 
 \*star\*
 
