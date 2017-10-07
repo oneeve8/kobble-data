@@ -5,6 +5,7 @@ Examples:
 ## Markdown Notes (two pound)
 ### Markdown Notes (three pound)
 #### Markdown Notes (four pound)
+
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
