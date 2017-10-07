@@ -1,6 +1,6 @@
 # Markdown Notes
 
-Click the pencil icon aboto edit markdown
+Click the pencil icon above to edit markdown
 
 Header = # before the heading (more pound signs are smaller).  
 Examples:
@@ -48,7 +48,7 @@ Single quote is accented a ‘.
 
 Inline link =[visit link] www.link.com
 
-Reference link = [fun website] [ www.link.com]
+Reference link = [fun website] (www.link.com)
 
 Image = ! [image name] (image link.jpg). 
 
