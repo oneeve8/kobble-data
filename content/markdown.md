@@ -86,5 +86,8 @@ For emojis, use colon before and after.
  +1 , sparkles, camel, tada, rocket, metal,
 :+1: :sparkles: :camel: :tada: :rocket: :metal:
 
+Emoji Cheat Sheet:
+Webpages.com
+
 
 
