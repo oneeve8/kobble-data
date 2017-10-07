@@ -120,13 +120,17 @@ As Mahatma Gandhi said:
 
 Result Examples:
 
+As Mahatma Gandhi said,
+
 > An eye for an eye only ends up making the whole world blind.  
+
+Or:
 
 > An eye for an eye   
 > only ends up making   
 > the whole world blind.  
 
-If you keep writing, then the text automatically wraps for you. If it is long enough it will
+***
 
 Link = [website] (www.link.com), example:
 [Wikipedia](en.m.wikipedia.org)
