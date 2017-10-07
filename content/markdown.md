@@ -7,4 +7,6 @@ Header = #
 
 Inline link =[visit link] www.link.com
 
-Reference link 
+Reference link = [fun website] [ www.link.com]
+
+Image = 
