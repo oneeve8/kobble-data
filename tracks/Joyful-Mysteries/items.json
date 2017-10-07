@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
+            "path" : "content\/How to Pray the Rosary.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "How to Pray the Rosary",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "How to Pray the Rosary",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
             "path" : "content\/The Joyful Mysteries.md",
             "repo" : "kobble-data"
           }
