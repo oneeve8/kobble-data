@@ -26,6 +26,8 @@ Amen.
 #### The Annunciation  
 
 And coming in, he said to her, "Greetings, favored one! The Lord is with you." And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1:28-31) { .left}
+
+![](https://lh4.googleusercontent.com/proxy/BC7Wl6dWuA1CZ4rOjyqMLCJyppFAzrQysECmWxIYUMt5E3Uz3B2eTzBZxQ0RgfOQt9oF0yOgII-Ov8MunBZ5PN5XuGo4o_mFkNQG_aMdRtERM62fvXP0tFivaGI2K4zOcGRSPDQc7cdGvdJMqQmLERKNgt-x9mgnOXUz9RHI=w128-h128-nc)
 :::
 ::: slide
 Our Father who art in Heaven,  
