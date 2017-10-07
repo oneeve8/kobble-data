@@ -19,11 +19,12 @@ Result Examples:
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
-Italic = _ , or * (one star or underscore before and after words), 
-Syntax example:  
+Italic = _ , or * (one star or underscore before and after words),  
+Syntax examples:  
+\_italic words\_  
 \*italic words\*
 
-
+Result example:  
 *this is italic*  
 _this is italic_ 
 
