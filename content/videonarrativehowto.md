@@ -17,6 +17,7 @@ Channel Group
 You will also learn how to:
 
 Cut, copy, move and delete Items  
+And how to retrieve a lost item from your GitHub Repo
 
 Use productivity features on the iPad as they relate to using Kobble,
 
@@ -24,7 +25,6 @@ And you will learn how to:
 Drag items and links from the web to Kobble,  
 Stream an archived book in Kobble,  
 
-As well as how to retrieve a lost item from GitHub
 
 Finally,
 You will also learn some basics of how to use Markdown,  
