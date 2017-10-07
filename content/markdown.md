@@ -64,7 +64,6 @@ List = * for a bullet point, or just use numbers
 Indent and then use and asterisk * for a hollow bullet point
 
 First Header | Second Header   
--
 
 Milk|eggs|butter|cheese
 
