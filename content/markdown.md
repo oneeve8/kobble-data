@@ -13,22 +13,20 @@ Italic = _ (underscore before and after words), example:
 _this is italic_ 
 
 Bold = ** (two stars before and after words), example:  
-**bold**
+**this is bold**
 
 Underline (there is no underline in markdown)
 
 Highlight = ` (forward single quote before and after words), example:  
 
-`highlight this`
-
-
+`this is highlight`
 
 
 Block quote = > before the quote, example:
 
 > An eye for an eye only ends up making the whole world blind.  This is how the second line would look, it indents with the first line.
 
-> If you keep writing, then the text automatically wraps for you if it is long enough it will wrap, so just keep writing to see what it will look like. You don’t have to use the return key.
+> If you keep writing, then the text automatically wraps for you. if it is long enough it will wrap, so just keep writing to see what it will look like. You don’t have to use the return key.
 
 Inline link =[visit link] www.link.com
 
