@@ -98,5 +98,5 @@ For emojis, use a colon before and after.
 
 @[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 
-![xyz](http://example.com)
+![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
