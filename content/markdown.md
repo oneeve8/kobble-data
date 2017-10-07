@@ -13,6 +13,10 @@ _italic_
 Bold = ** (two stars before and after word)  
 **bold**
 
+Block quote = >
+
+> An eye for an eye only ends up making the whole world blind. ~Mahatma Gandhi
+
 Inline link =[visit link] www.link.com
 
 Reference link = [fun website] [ www.link.com]
@@ -21,11 +25,7 @@ Image = ! [image name] (image link.jpg).
 
 Video = @[youtube] (video id)
 
-Block quote = >
 
-> An eye for an eye only ends up making the whole world blind
-
-~ Mahatma Gandhi
 
 /Tables / Are / Cool
 
