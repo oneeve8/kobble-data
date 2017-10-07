@@ -15,6 +15,8 @@ _italic_
 Bold = ** (two stars before and after word) example:  
 **bold**
 
+Underline ++ (two plus signs be
+
 Block quote = > before the quote, example:
 
 > An eye for an eye only ends up making the whole world blind.
