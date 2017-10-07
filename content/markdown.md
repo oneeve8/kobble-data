@@ -1,5 +1,5 @@
 # Markdown Notes
-Soft Break (Adding a new line without a break) insert two sp
+Soft Break (Adding a new line without a break) insert two spaces after each new line
 
 Italic = _ (underscore) _italic_. 
 
@@ -19,6 +19,7 @@ Block quote = >
 
 ~ Mahatma Gandhi
 
+Tables 
 List =
 * milk
 * eggs
