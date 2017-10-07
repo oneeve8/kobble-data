@@ -194,10 +194,14 @@ Result Examples:
 ## Backslash escapes 
 Use Backslash \ escapes to allow for literal characters which would otherwise have meaning in Markdown formatting syntax, example:
 
-Syntax Example:
+Syntax Example:  
 \\*\*star\\*\*
 
+Result Example:  
+
 \*star\*
+
+***
 
 For emojis, use a colon before and after.  
 
