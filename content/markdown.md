@@ -67,11 +67,11 @@ _italic words_
 
 # Bold
 
-Use __ or, ** (two underscores or stars before and after words),  
+Use __ or, ** (two underscores or asterisks before and after words),  
 
 Syntax example:  
 \___This is syntax using two underscores\___  
-\**this is syntax usin
+\***this is syntax using two asterisks\**\
 
 __this is bolded using two underscores__  
 **this is bolded using two asterisks**
