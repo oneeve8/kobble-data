@@ -35,12 +35,12 @@ Video = @[youtube] (video id)
 
 Horizontal rule =
 
-(Three stars or three underscores)
+(Three stars or three underscores), example:
 
 ***
 
 ___
-List = * for a bullet point, or just numbers  
+List = * for a bullet point, or just use numbers  
 Indented * for a hollow bullet point
 * milk
 * eggs
