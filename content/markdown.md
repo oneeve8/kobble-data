@@ -21,7 +21,7 @@ Combined = example:
 *you can **combine** them* 
 
 
-Highlight = ` (forward single quote before and after words), example:  
+Fenced code block = `forward single quote before and after words), example:  
 
 `this is highlight`
 
