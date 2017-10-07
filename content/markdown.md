@@ -24,6 +24,10 @@ Block quote = >
 /: tables: / (centred). 
 
 Horizontal rule
+
+***
+
+___
 List =
 * milk
 * eggs
