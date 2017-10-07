@@ -78,10 +78,11 @@ __this is bolded using two underscores__
 **this is bolded using two asterisks**
 
 You can combine them if you want both italic and bold
+***
 
 
-
-Fenced code block = ```(forward quote before and after), example:  
+# Fenced code block
+Use ```(forward quote before and after)
 
 ```this is a code block```
 
