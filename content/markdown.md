@@ -35,8 +35,8 @@ Horizontal rule =
 ***
 
 ___
-List = * , or just numbers  
-Indented * 
+List = * for a bullet point, or just numbers  
+Indented * for a hollow bullet point
 * milk
 * eggs
 * butter
