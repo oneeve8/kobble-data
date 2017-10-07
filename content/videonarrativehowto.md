@@ -13,8 +13,9 @@ Presentation
 Folder  
 Link  
 
-Productivity features on the iPad as they relate to using Kobble
+Productivity features on the iPad as they relate to using Kobble,
 Dragging items and links from the web to Kobble
+Streaming an archived book in Kobble
 
 You will also learn how to:
 Cut, copy, move and delete Items  
