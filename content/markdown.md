@@ -45,9 +45,7 @@ As Mahatma Gandhi said:
 
 > If you keep writing, then the text automatically wraps for you. If it is long enough it will wrap, so just keep writing to see what it will look like. You do not have to use the return key.
 
-link =[visit link] (www.link.com)
-
-Reference link = [website] (www.link.com), example:
+Link = [website] (www.link.com), example:
 [Kobble](kobble.io)
 
 
@@ -58,6 +56,8 @@ Image = ! [image name] (image link.jpg), example:
 ![The Young Shepherdess](Www.The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg)
 
 Video = @[youtube] (video id)
+
+@[youtube]
 
 Horizontal rule =
 
