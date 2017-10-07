@@ -6,27 +6,6 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/markdown2.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "Markdown2",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
-      },
-      "subtitle" : "Markdown2 Test",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "oneeve8",
             "path" : "content\/markdown.md",
             "repo" : "kobble-data"
           }
