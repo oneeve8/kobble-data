@@ -35,6 +35,10 @@ As Mahatma Gandhi said:
 
 > An eye for an eye only ends up making the whole world blind.  This is how the second line would look, it indents with the first line.
 
+> An eye for an eye. 
+> only ends up making. 
+> the whole world blind
+
 > If you keep writing, then the text automatically wraps for you. If it is long enough it will wrap, so just keep writing to see what it will look like. You do not have to use the return key.
 
 Single quote is accented a ‘. 
