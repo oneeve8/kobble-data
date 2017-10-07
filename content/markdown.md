@@ -67,7 +67,11 @@ _italic words_
 
 # Bold
 
-Use __ or, ** (two underscores or stars before and after words), example:  
+Use __ or, ** (two underscores or stars before and after words),  
+
+Syntax example:  
+\__This is syntax using two underscores\__
+
 __this is bolded using two underscores__  
 **this is bolded using two asterisks**
 
