@@ -65,6 +65,7 @@ Indent and then use and asterisk * for a hollow bullet point
 
 Table | Header
 - - - 
+- - - 
 * milk
 * eggs
 * butter
