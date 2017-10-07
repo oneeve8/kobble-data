@@ -16,6 +16,9 @@ Link
 You will also learn how to:
 Cut, copy, move and delete Items  
 
+Retrieve a lost item from GitHub
+
+And you will also learn some basics of u
 Markdown
 
 
