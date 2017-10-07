@@ -17,7 +17,7 @@ Bold = __ or, ** (two underscores or stars before and after words), example:
 __this is bolded using two underscores__
 **this is bolded using two asterisks**
 
-Bold = __ (two underscore before and after each word, example:  
+Combined = _, example:  
 __another way to bold__
 
 
