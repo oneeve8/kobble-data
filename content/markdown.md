@@ -39,15 +39,11 @@ Image = ! [image name] (image link.jpg).
 
 Video = @[youtube] (video id)
 
-<Table>
-<thead>
-<tr>
+Block quote = >
 
+> An eye for an eye only ends up making the whole world blind
 
-|   Tables   |   Are   |   Cool   |   
-|   This   |   Is   |   The
-
-
+~ Mahatma Gandhi
 |:tables:| (centred). 
 
 Horizontal rule =
