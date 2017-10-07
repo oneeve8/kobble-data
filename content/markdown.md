@@ -45,10 +45,10 @@ As Mahatma Gandhi said:
 
 > If you keep writing, then the text automatically wraps for you. If it is long enough it will wrap, so just keep writing to see what it will look like. You do not have to use the return key.
 
-Inline link =[visit link] (www.link.com)
+link =[visit link] (www.link.com)
 
-Reference link = [fun website] (www.link.com), example:
-[Kobb
+Reference link = [website] (www.link.com), example:
+[Kobble](kobble.io)
 
 
 Image = ! [image name] (image link.jpg), example:
