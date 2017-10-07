@@ -64,7 +64,7 @@ Indented * for a hollow bullet point
 2. Eggs
 3. Butter
 
-* Milk
+* 
 	* Dairy
 * Eggs
 	* Protein
