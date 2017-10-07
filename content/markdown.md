@@ -33,7 +33,9 @@ A Soft Break adds a new line without a break. To add a Soft Break,
 insert two spaces after each new line.  
 
 Syntax Example:  
+This is how it looks without a soft break. First Line. Second Line. Third Line.  
 
+This is the syntax for creating soft
 First Line.. (dots represent a space)  
 Second Line..  
 Third Line..  
