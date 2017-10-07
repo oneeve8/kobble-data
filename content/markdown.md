@@ -35,8 +35,8 @@ insert two spaces after each new line.
 Syntax Example:  
 This is how it looks without a soft break. First Line. Second Line. Third Line.  
 
-This is the syntax for creating soft
-First Line.. (dots represent a space)  
+This is the syntax for creating soft breaks with each dot representing a space:  
+First Line..  
 Second Line..  
 Third Line..  
 
