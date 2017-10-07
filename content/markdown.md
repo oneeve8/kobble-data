@@ -21,6 +21,9 @@ Highlight = ` (forward single quote before and after words), example:
 
 `this is highlight`
 
+Scratch = ~~ (two tildes)
+~~scratch this~
+
 
 Block quote = > before the quote, example:
 
