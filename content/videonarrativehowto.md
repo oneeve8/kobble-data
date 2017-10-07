@@ -25,9 +25,8 @@ And you will learn how to:
 Drag items and links from the web to Kobble,  
 Stream an archived book in Kobble,  
 
-
 Finally,
-You will also learn some basics of how to use Markdown,  
+You will also learn some basics on how to use Markdown,  
 And how to create Presentation slides.
 
 
