@@ -113,7 +113,10 @@ As Mahatma Gandhi said:
 
 Or:
 
-As Mahatma G
+As Mahatma Gandhi said:
+\> An eye for an eye  
+\> Only ends up making
+\> The whole world blind.
 
 > An eye for an eye only ends up making the whole world blind.  
 
