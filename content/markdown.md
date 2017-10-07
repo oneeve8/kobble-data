@@ -77,8 +77,7 @@ Table | Header
 	* Eggs
 	* Tofu
 
-Backslash escapes allow for literal characters which would otherwise have meaning in Markdown’s formatting syntax, example:
-example:  
+Backslash escapes allow for literal characters which would otherwise have meaning in Markdown formatting syntax, example:
 
 \*star\*
 
