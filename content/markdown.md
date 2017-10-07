@@ -17,13 +17,13 @@ Bold = __ or, ** (two underscores or stars before and after words), example:
 __this is bolded using two underscores__
 **this is bolded using two asterisks**
 
-Combined = example:  
+Combined = 
 *you can **combine** them* 
 
 
-Fenced code block = ```(forward quote before and after words), example:  
+Fenced code block = ```(forward quote before and after), example:  
 
-```this is a```
+```this is a code block```
 
 Scratch = ~~ (two tildes before and after words), example:  
 ~~scratch this~~
