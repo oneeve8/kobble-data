@@ -1,19 +1,20 @@
 # Markdown Notes
 
-Header = # before the heading (more pound signs are smaller)
+Header = # before the heading (more pound signs are smaller).  
+Examples:
 ## Markdown Notes (two pound)
 ### Markdown Notes (three pound)
 #### Markdown Notes (four pound)
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
-Italic = _ (underscore before and after word)  
+Italic = _ (underscore before and after word) example:  
 _italic_ 
 
-Bold = ** (two stars before and after word)  
+Bold = ** (two stars before and after word) example:  
 **bold**
 
-Block quote = > before the quote, example
+Block quote = > before the quote, example:
 
 > An eye for an eye only ends up making the whole world blind.
 
