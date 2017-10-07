@@ -78,6 +78,7 @@ example:
 
 \*star\*
 
-Emojis have Colon +1 = 
+For emojis, use colon before and after
+ +1 = 
 :+1:
 
