@@ -10,14 +10,13 @@ Italic = _ (underscore before and after word) _italic_.
 
 Bold = ** (two stars before and after word) **bold**
 
-Header = #
-
-
 Inline link =[visit link] www.link.com
 
 Reference link = [fun website] [ www.link.com]
 
 Image = ! [image name] (image link.jpg). 
+
+Video = @
 
 Block quote = >
 
