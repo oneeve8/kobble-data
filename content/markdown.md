@@ -30,12 +30,10 @@ Result Examples:
 # Soft Break
 
 A Soft Break adds a new line without a break. To add a Soft Break,
-insert two spaces after each new line.  Since you will not be able to see spaces, we will use dots to represent them in the Syntax example.
+insert two spaces after each new line.  Since you will not be able to see spaces, we will use dots to represent the spacesin the Syntax example.
 
 Syntax Example:  
-This
-
-Or you would have to use a double return which results in a hard break space between each line, like this:
+Ordinarily, you would have to use a double return which results in a hard break space between each line, like this:
 
 First Line
 
@@ -43,7 +41,7 @@ Second Line
 
 Third Line
 
-You may want your lines to appear without the space, so that is why you would want to use a soft break. This is the syntax for creating soft breaks with each dot representing a space:  
+However, you may want your lines to appear without the space, so that is why you would want to use a soft break. This is the syntax for creating soft breaks with each dot representing a space:  
 First Line..  
 Second Line..  
 Third Line..  
