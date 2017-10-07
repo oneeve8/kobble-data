@@ -27,7 +27,7 @@ Amen.
 
 And coming in, he said to her, "Greetings, favored one! The Lord is with you." And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1:28-31) { .left}
 
-![](https://lh4.googleusercontent.com/proxy/BC7Wl6dWuA1CZ4rOjyqMLCJyppFAzrQysECmWxIYUMt5E3Uz3B2eTzBZxQ0RgfOQt9oF0yOgII-Ov8MunBZ5PN5XuGo4o_mFkNQG_aMdRtERM62fvXP0tFivaGI2K4zOcGRSPDQc7cdGvdJMqQmLERKNgt-x9mgnOXUz9RHI=w128-h128-nc)
+![](https://www.google.co.nz/imgres?imgurl=http%3A%2F%2Fcorjesusacratissimum.org%2Fwp-content%2Fuploads%2Fsites%2F12%2Fannunciation-feast-virgin-mary-jpg.jpg&imgrefurl=http%3A%2F%2Fcorjesusacratissimum.org%2F2015%2F03%2Ffeast-of-the-annunciation-of-the-blessed-virgin-mary%2F&docid=D2Op2ZBqia6-fM&tbnid=z8cPAt-p2FTGOM%3A&vet=10ahUKEwiF8NmKkd_WAhXCurwKHeQTD7cQMwj2ASgAMAA..i&w=708&h=900&hl=en-nz&client=safari&bih=732&biw=1112&q=the%20annunciation&ved=0ahUKEwiF8NmKkd_WAhXCurwKHeQTD7cQMwj2ASgAMAA&iact=mrc&uact=8)
 :::
 ::: slide
 Our Father who art in Heaven,  
