@@ -6,6 +6,7 @@ the Markdown syntax is in the top window
 and the result appears in the bottoms window.  
 Both windows scroll down.  
 (Toggle back to the paper icon to select result view only)
+***
 
 # Header
 
@@ -20,6 +21,9 @@ Result Examples:
 ### Markdown Notes (H3)
 #### Markdown Notes (H4)
 
+***
+
+# Soft Break
 Soft Break (Adding a new line without a break) =  
 (insert two spaces after each new line)
 
