@@ -160,10 +160,10 @@ Result example:
 
 
 # List 
-To create a list us an asterisk * to create a bullet point and a sbefore each listed item, or just use numbers.    
+To create a list us an asterisk * with a space before the list item to create a bullet point, or just use numbers.    
 Indent and then use an asterisk * for a hollow bullet point.
 
-
+Sy
 Result Examples:
 
 Using an a
