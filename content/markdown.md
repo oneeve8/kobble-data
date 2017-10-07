@@ -5,4 +5,6 @@ Bold = ** **bold**
 
 Header = # 
 
-Inline link =[visit li
+Inline link =[visit link] www.link.com
+
+Reference link 
