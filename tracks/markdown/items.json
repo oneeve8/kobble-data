@@ -2,6 +2,23 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/File:The_young_shepherdess,_by_William-Adolphe_Bouguereau.jpg"
+        }
+      },
+      "title" : "en.m.wikipedia.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.m.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
