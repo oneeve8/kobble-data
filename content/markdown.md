@@ -155,11 +155,12 @@ Syntax examples:
 \___
 
 Result example:
-- - -
+
 ***
 
 
-List = * for a bullet point, or just use numbers  
+# List 
+To create a list us an asterisk * for a bullet point, or just use numbers  
 Indent and then use an asterisk * for a hollow bullet point
 
 
