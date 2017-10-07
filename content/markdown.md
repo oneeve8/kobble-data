@@ -132,12 +132,12 @@ Or:
 
 ***
 
-# Link  
+# Link  Ask Bill why this does not work 
 Syntax Example:  
 \[wikipedia]\(en.m.wikipedia.org), 
 
 Result example:  
-[Wikipedia](en.m.wikipedia.org)
+[Wikipedia](www.wikipedia.org)
 
 Horizontal rule =
 
