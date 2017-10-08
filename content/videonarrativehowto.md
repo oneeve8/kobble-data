@@ -67,7 +67,7 @@ First find the archived book you want to stream,
 Drag the link to Kobble.
 You will need to modify the link slightly, by changing [what word?] to “stream”
 
-Now you can read the novel right in your Kobble environment.
+Now you can read the novel right in your Kobble environment. You can open and close it whenever you want. The reader automatically saves your spot where you last left off.
 
 While you are reading, you may want to take notes. So the next step I will show you is how to create a markdown file.
 
