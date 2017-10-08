@@ -193,13 +193,13 @@ I want to copy some of the information so I have it available in both tracks.
 
 Next I want to create a new channel with just the information that I want to share with my friend Tammy so she can collaborate with me. She only needs my markdown file and my presentation file.
 
+She can collaborate through GitHub if I give her access to my file, or she can wor
+
 Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
 From there I can drag whole channels of information.
 
 Just tap done when you are finished editing.
-
-
 
 You can also delete items by sliding your items to the left to reveal the red delete button.
 
