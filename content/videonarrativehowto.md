@@ -9,9 +9,9 @@ With Kobble, you can collect scattered information from various sources and brin
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
 In this video, you will learn the following:
-A Brief introduction to Kobble
+You will be given a brief introduction to Kobble
 
-How to create a:  
+You will learn how to create a:  
 GitHub Repo   
 Channel   
 Track  
