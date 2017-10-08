@@ -49,9 +49,9 @@ You can adjust the width of your windows by grabbing the center and moving the w
 
 So let’s say I’m a Literature Teacher and I’m creating a unit on Mark Twain. 
 
-So I’ve created a Channel and some Tracks to share with my students.
+So I’ve already created a Channel and some Tracks to share with my students.
 
-We’ve already created a Channel and a Track Named Mark Twain for my project so I can show you how easy it is to collect information from the internet using Kobble. We’ve shown you how to do that in our onboarding video, but in case you’ve forgotten, we’ll show you how to create Channels and Tracks in a little bit.
+We’ve shown you how to crdo that in our onboarding video, but in case you’ve forgotten, we’ll review how to create Channels and Tracks in a little bit.
 
 First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
