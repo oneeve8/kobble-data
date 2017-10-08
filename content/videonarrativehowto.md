@@ -17,6 +17,10 @@ Onboarding.
 Your Personal GitHub account.  
 Privacy and Sharing.  
 The Kobble Tree data format.  
+
+Any Channel with a white icon are those developed at Kobble that are visible and available to everyone.
+
+Any Channel with a green i
 Creating a Channel.  
 Creating a Track.  
 Creating an item.  
