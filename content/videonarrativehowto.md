@@ -46,7 +46,9 @@ I’ve already created a Channel and a Track Named Mark Twain for my project so 
 
 First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
-[Search for quote by Mark Twain
+[Search for quote by Mark Twain, drag and drop it into Kobble]
+
+It’s as simple as click, drag and drop
 
 You will learn how to create a:  
 GitHub Repo   
