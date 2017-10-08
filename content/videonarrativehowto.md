@@ -69,7 +69,7 @@ You will need to modify the link slightly, but changing [what word?] to “strea
 
 Now you can read the novel right in your Kobble environment.
 
-While you are reading, you may want to take notes. So the next step we will show you is how to create a markdown file.
+While you are reading, you may want to take notes. So the next step I will show you is how to create a markdown file.
 
 ## How to create a Markdown file
 
@@ -86,6 +86,7 @@ The result will appear in the bottom window.
 You can toggle between Markdown view and Result view.
 If you are unfamiliar with Markdown syntax, don’t worry!
 It’s super easy and we’ve created a little cheat sheet for you.
+One thing you may want to remember right away is to have a double space at the end of each line where you want a soft
 
 I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can close and open them if you want to.
 
