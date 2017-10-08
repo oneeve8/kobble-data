@@ -50,7 +50,11 @@ First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
 It’s as simple as click, drag and drop
 
-Now I’d like to show you how you can stream a book in Kobble
+Now I’d like to show you how you can stream a book in Kobble.
+
+[Show a book streamed in Kobble]
+
+First find the archived book you want to stream, 
 
 You will learn how to create a:  
 GitHub Repo   
