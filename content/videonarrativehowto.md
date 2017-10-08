@@ -70,7 +70,7 @@ First find the archived book you want to stream,
 Next I’ll show you how to create a Markdown file.
 First click on a channel, 
 then click on the plus sign of the Track you want to add your markdown file to.
-Enter a 
+The file type is defaulted to markdown, but if you click on file type, there you w
 
 
 Channel   
