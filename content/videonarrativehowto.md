@@ -47,7 +47,7 @@ And there you go!
 That was easy!
 You can adjust the width of your windows by grabbing the center and moving the width left or right
 
-So let’s say I’m a Literature Teacher and I’m creating a unit on Mark Twain. 
+So say I am a Literature Teacher and I’m creating a unit on Mark Twain. 
 
 So I’ve already created a Channel and some Tracks to share with my students.
 
