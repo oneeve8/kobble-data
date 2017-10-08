@@ -59,7 +59,7 @@ You can adjust the width of your windows by grabbing the center and moving the w
 
 So say I am a Literature Teacher and I am creating a unit on Mark Twain. 
 
-I have already created a Channel and some Tracks that I want toshare with my students.
+I have already created a Channel and some Tracks that I want to share with my students.
 
 We have shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we will review that in a little bit.
 
@@ -85,7 +85,7 @@ Now you can read the novel right in your Kobble environment.
 
 You can open and close it whenever you want. 
 
-The reader automatically saves your spot where you last left off.
+And The reader automatically saves your spot where you last left off.
 
 While you are reading, you may want to take notes. 
 
