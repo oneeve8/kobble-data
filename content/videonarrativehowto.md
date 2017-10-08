@@ -122,7 +122,7 @@ Now, Simply Click on the pencil on the top left of your Kobble view and start ty
 
 The result will appear in the bottom window.
 
-You can toggle between the split screen Markdown view or Result view only
+You can toggle between the split screen Markdown view or Result view only.
 
 If you are unfamiliar with Markdown syntax, don’t worry!
 
