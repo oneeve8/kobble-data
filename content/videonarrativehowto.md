@@ -29,10 +29,12 @@ Finally,
 You will also learn some basics on how to use Markdown,  
 And how to create Presentation slides.
 
- Welcome to Kobble
+## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
 Kobble is so unique, that you may not have ever seen anything like it before.
 With Kobble, you can collect scattered information from various sources and bring it all together into one place.
+
+[images of doing various things, droppi
 
 ### Kobble increases productivity for everyone
 Kobble is designed for just about anyone to use.
