@@ -6,7 +6,12 @@ Kobble is an amazingly versatile productivity environment that is just what you 
 Kobble is so unique, that you may not have ever seen anything like it before.
 With Kobble, you can collect scattered information from various sources and bring it all together into one place.
 
-First we will show you 
+[images of doing various things, dropping links, moving files and folders, saving a video link.]
+
+First we will show you how to onboard with Kobble
+
+
+Different video
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
