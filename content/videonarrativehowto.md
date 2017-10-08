@@ -71,8 +71,8 @@ Next I will show you how to create a Markdown file.
 First click on a channel, 
 then click on the plus sign of the Track you want to add your markdown file to.
 The file type is defaulted to markdown, but if you click on file type, there you will see other file types.
-Anyways, we are going to name our markdown file. Remember, we can always edit it if we change our minds.
-Simply Click on the pencil on the top left of your Kobble view and start typing.
+Anyways, we are going to name our markdown file. Remember, I can always edit it if I change my mind.
+Now, Simply Click on the pencil on the top left of your Kobble view and start typing.
 The result will appear in the bottom window.
 You can toggle between Markdown view and Result view.
 If you are unfamiliar with Markdown syntax, don’t worry!
