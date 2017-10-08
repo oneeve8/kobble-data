@@ -185,7 +185,7 @@ Oops! I think I accidentally deleted something that I want to keep.
 
 Don’t worry, everything is backed up on GitHub. 
 
-Next, we will show you how to retrieve information from GitHub.
+So, Next, we will show you how to retrieve information from GitHub.
 
 ## Retrieving information from GitHub
 
