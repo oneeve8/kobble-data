@@ -11,9 +11,10 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble
 
 Onboarding
-Your Personal GitHub account
-The Kobble Tree data format
-Creating a Channel
+Your Personal GitHub account. 
+Privacy and Sharing. 
+The Kobble Tree data format. 
+Creating a Channel. 
 Creating a Track
 Creating an item
 
@@ -63,7 +64,8 @@ Now I’d like to show you how you can stream a book in Kobble.
 First find the archived book you want to stream, 
 
 Next I’ll show you how to create a Markdown file.
-First click on a channel, then click on the plus sign of the Track you wa
+First click on a channel, 
+then click on the plus sign of the Track you want to add your markdown file to.
 
 
 Channel   
