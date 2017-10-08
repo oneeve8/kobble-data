@@ -217,7 +217,7 @@ For more emojis check here:
 
 # Image and Video
 
-To insert an image, us an exclamation point before an image name in brackets and the image link in parenthesis, like this: ![image name] (image link.jpg), 
+To insert an image, us an exclamation point before an image name in brackets and after that, the image link in parenthesis, like this: ![image name] (image link.jpg), 
 
 Syntax Example:
 
@@ -226,6 +226,7 @@ Syntax Example:
 Result Example:
 ![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
+To insert a video in Markdown, use the @ symbol before the title in brackets, followed by the vi
 Video = @[youtube] (video id), example:
 
 @[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
