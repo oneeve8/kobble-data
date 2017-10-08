@@ -176,13 +176,13 @@ For an image, simply use an exclamation point before a set of brackets containin
 For a video, simply use an @ at symbol before a set of brackets containing the video name that you designate, followed by parenthesis containing the video embed link. Make sure you are using the embed link.
 
 Now that we have gathered quite a bit of information, we might want to reorganise it a little. Keeping everything organised just the way you want it is easy with Kobble.
-
+***
 ## Organizing your data
 
 I had collected a bunch of links about Mark Twain, and right now they are a bit disorganised.
 
 So, I think I want to put all my quotes in one folder
-So first I will create an folder item and name it
+So first I will create an folder item and name it Quotes.
 Now I can drag and drop all my quotes into one folder.
 
 I think I would also like to organise my information about the life of Mark Twain and keep that separate from his works.
