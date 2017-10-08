@@ -171,6 +171,8 @@ I think I’d like to organise my information about the life of Mark Twain and k
 
 You get the idea, it’s all just drag and drop.
 
+Now if I want to move a who
+
 
 Folder  
 Channel Group
