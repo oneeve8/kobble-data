@@ -78,8 +78,7 @@ You can toggle between Markdown view and Result view.
 If you are unfamiliar with Markdown syntax, don’t worry!
 It’s super easy and we’ve created a little cheat sheet for you.
 
-I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can c
-
+I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can close and open them if you want to.
 
 Channel   
 Track  
