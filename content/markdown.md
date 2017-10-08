@@ -94,6 +94,7 @@ Result example:
 
 # Scratch
 Use ~~ (two tildes before and after words)  
+
 Syntax Example:  
 \~\~scratch this\~\~
 
