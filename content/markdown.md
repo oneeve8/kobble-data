@@ -191,7 +191,7 @@ Result Examples:
 	* Tofu
 ***
 
-## Backslash escapes 
+# Backslash escapes 
 Use Backslash \ escapes to allow for literal characters which would otherwise have meaning in Markdown formatting syntax, example:
 
 Syntax Example:  
