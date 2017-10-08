@@ -139,6 +139,8 @@ Use the green arrows at the bottom of each slide to navigate your presentation.
 You may want to insert pictures and videos into your presentation, so we will show you how to do that next
 
 ## Pictures and Videos 
+
+Keep in mind that you can drop links to images and videos from the internet into Kobble. B
 Folder  
 Link  
 Channel Group
