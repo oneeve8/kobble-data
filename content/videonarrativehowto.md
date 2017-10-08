@@ -11,12 +11,12 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
 
 Onboarding.  
-Your Personal GitHub account. 
-Privacy and Sharing. 
-The Kobble Tree data format. 
-Creating a Channel. 
-Creating a Track. 
-Creating an item. 
+Your Personal GitHub account.  
+Privacy and Sharing.  
+The Kobble Tree data format.  
+Creating a Channel.  
+Creating a Track.  
+Creating an item.  
 
 ## The Basics Video
 
@@ -51,7 +51,7 @@ So let’s say I’m a Literature Teacher and I’m creating a unit on Mark Twai
 
 So I’ve already created a Channel and some Tracks to share with my students.
 
-We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review how to create Channels and Tracks in a little bit.
+We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review how tin a little bit.
 
 First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
