@@ -11,6 +11,8 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video, you will learn the following:
 You will be given a brief introduction to Kobble
 
+You will learn how to dra
+
 You will learn how to create a:  
 GitHub Repo   
 Channel   
@@ -27,7 +29,7 @@ You will also learn how to:
 Cut, copy, move and delete Items  
 And how to retrieve a lost item from your GitHub Repo
 
-Use productivity features on the iPad as they relate to using Kobble,
+You will also learn how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
 And you will learn how to:  
 Drag items and links from the web to Kobble,  
