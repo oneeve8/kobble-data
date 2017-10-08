@@ -10,6 +10,15 @@
         "path" : "tracks\/howto",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Markdown ",
+      "subtitle" : "Markdown Syntax",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/markdown",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
