@@ -22,7 +22,7 @@ Creating an item.
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
-[Welcome to Kobble slide with name and Kobble icon
+[Welcome to Kobble slide with name and Kobble icon]
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
@@ -38,6 +38,8 @@ First I will show you how to drag and drop links from the internet into Kobble
 As well as how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
 The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. 
+
+
 
 [start from a blank iPad screen then open up Kobble, Drag open an internet window and swipe down to establish the split windows] 
 
