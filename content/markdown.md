@@ -215,13 +215,15 @@ For more emojis check here:
 
 ***
 
-# Image
+# Image and Video
 
-Image = ![image name] (image link.jpg), example:
+Imag![image name] (image link.jpg), 
+
+Syntax Example:
 
 \![xyz](https://github.com/Adam-p/markdown-here/raw/master/src/common/images/icon48.png
 
-
+Result Example:
 ![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 Video = @[youtube] (video id), example:
