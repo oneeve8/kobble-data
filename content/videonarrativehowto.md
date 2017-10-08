@@ -75,6 +75,8 @@ Anyways, we are going to name our markdown file. Remember, we can always edit it
 Simply Click on the pencil on the top left of your Kobble view and start typing.
 The result will appear in the bottom window.
 You can toggle between Markdown view and Result view.
+If you are unfamiliar with Markdown syntax, don’t worry!
+It’s super easy and we’ve created a little cheat sheet for you.
 
 
 Channel   
