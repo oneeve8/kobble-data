@@ -8,15 +8,15 @@ Kobble is an amazingly versatile productivity environment that is just what you 
 Kobble is so unique, that you may not have ever seen anything like it before.
 With Kobble, you can collect scattered information from various sources and bring it all together into one place.
 
-In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble
+In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
 
-Onboarding
+Onboarding.  
 Your Personal GitHub account. 
 Privacy and Sharing. 
 The Kobble Tree data format. 
 Creating a Channel. 
-Creating a Track
-Creating an item
+Creating a Track. 
+Creating an item. 
 
 ## The Basics Video
 
