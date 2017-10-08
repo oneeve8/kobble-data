@@ -214,19 +214,11 @@ So, Next, we will show you how to retrieve information from GitHub.
 ## Retrieving information from GitHub
 
 Log onto your personal GitHub account
-You will also learn how to:
 
-Cut, copy, move and delete Items  
-And how to retrieve a lost item from your GitHub Repo
 
-## Kobble increases productivity for everyone
-Kobble is designed for just about anyone to use.
-Students, researchers, and professionals will find Kobble especially useful to keep track of projects and data.
-If you like to keep a lot of information on a variety of topics of interest to you, Kobble was made with you in mind!
-Kobble can help you organize your internet bookmarks; gather internet research; create new content; and present and share your information with others. Kobble has just what you need to get the job done.
-If you are a creative, productive person, then Kobble is right for you!
 
-[Show a list of links, drop a link, editing a Markdown file, show a slide presentation]
+
+#
 
 ### Kobble can be used for a variety of purposes
 With Kobble, you can easily create content for a variety of purposes.
