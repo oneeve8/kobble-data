@@ -64,7 +64,7 @@ And there you go!
 That was easy!
 You can adjust the width of your windows 
 by grabbing the center and moving the width left or right
-To go back to a single sc
+To go back to a single window simply swipe the window away.
 
 ## Drag and Drop
 
