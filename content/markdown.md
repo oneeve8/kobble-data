@@ -219,7 +219,7 @@ For more emojis check here:
 
 Image = ![image name] (image link.jpg), example:
 
-\!
+\![xyz](https://github.com/Adam-p/markdown-here/raw/master/src/common/images/icon48.png
 
 
 ![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
