@@ -231,9 +231,9 @@ Syntax Example:
 Result Example:
 ![xyz](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-To insert a video in Markdown, use the @ symbol before the title in brackets, followed by the video id in parenthesis, like this: @[youtube] (video id), example:
+To insert a video in Markdown, use the @ symbol before the title in brackets, followed by the video id embed code in parenthesis, like this: @[youtube] (video id), example:
 
-\[youtube]\(http://
+\[youtube]\(http://www.youtube.com/embed/dQw4wgXcQ)
 
 @[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 ***
