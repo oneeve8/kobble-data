@@ -177,7 +177,9 @@ Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
 From there I can drag whole channels of information, tap done when you are finished editing.
 
-You can also delete items.
+You can also delete items by sliding your items to the left to reveal the red delete button.
+
+To delete whole channels, close all your tracks and 
 
 Oops! I think I accidentally deleted something that I want to keep. 
 
