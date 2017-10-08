@@ -43,6 +43,8 @@ If you like to keep a lot of information on a variety of topics of interest to y
 Kobble can help you organize your internet bookmarks; gather internet research; create new content; and present and share your information with others. Kobble has just what you need to get the job done.
 If you are a creative, productive person, then Kobble is right for you!
 
+[Show a list of links, drop a link, editing a Markdown file, a slide presentation
+
 ### Kobble can be used for a variety of purposes
 With Kobble, you can easily create content for a variety of purposes.
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
