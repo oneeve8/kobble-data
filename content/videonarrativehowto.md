@@ -3,7 +3,7 @@
 
 ## Welcome to Kobble Onboarding Video
 
-Intro Segment
+### Intro Segment
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.].
 
@@ -22,9 +22,10 @@ If you are a creative, productive person, then Kobble is right for you!
 
 [Show a list of links, drop a link, editing a Markdown file, show a slide presentation]
 
+## Onboarding
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
 
-Onboarding.  
+
 Your Personal GitHub account.  
 Privacy and Sharing.  
 The Kobble Tree data format.  
