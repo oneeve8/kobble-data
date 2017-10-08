@@ -161,6 +161,9 @@ For a video, simply use an @ at symbol before a set of brackets containing the v
 
 Now that we have gathered quite a bit of information, we might want to reorganise it a little.
 
+## Organizing your data
+
+I think I want to put all my quotes in one folder
 Folder  
 Channel Group
 
