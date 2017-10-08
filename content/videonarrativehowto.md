@@ -155,9 +155,10 @@ But if you want to embed them into your Markdown presentation file, you can do t
 I will show you how, and if you forget, simply refer back to the instructions in our Markdown notes file.
 
 
-For an image, simply use an exclamation point before a set of brackets containing the video name, followed by parenthesis containing the image link.
+For an image, simply use an exclamation point before a set of brackets containing an image name that you designate, followed by parenthesis containing the image link.
 
-For a video, simply use an @ at symbol before a set of brackets containing the video name, followed by parenthesis containing the video embed link. Make sure you are using the embed link
+For a video, simply use an @ at symbol before a set of brackets containing the video name that you desig, followed by parenthesis containing the video embed link. Make sure you are using the embed link.
+
 Folder  
 Link  
 Channel Group
