@@ -85,7 +85,7 @@ You can combine them if you want both italic and bold
 Use ```(forward quote before and after)
 
 Syntax example:  
-\```this is syntax for a code block\```
+\```this is a code block\```
 
 Result example:
 
@@ -103,7 +103,7 @@ Result Example:
 
 
 # Block quote  
-Use > before the quote, example:
+Use > and a space before the quote, example:
 
 
 
