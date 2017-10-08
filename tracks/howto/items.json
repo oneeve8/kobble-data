@@ -11,7 +11,7 @@
           }
         }
       },
-      "title" : "How To Create A Slide Presentation",
+      "title" : "Slide Presentation",
       "view" : {
         "tag" : "UI.ContentViews.Views.RevealView"
       },
