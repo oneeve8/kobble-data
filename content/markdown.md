@@ -172,9 +172,9 @@ Or:
 
 Result Examples:
 
-* milk
-* eggs
-* butter
+* Milk
+* Eggs
+* Butter
 
 1. Milk
 2. Eggs
