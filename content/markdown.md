@@ -1,6 +1,6 @@
 # Markdown Notes
 
-Click the pencil icon in your files to edit markdown in Kobble.  
+Click the pencil icon in your Kobble Views to edit a markdown file in Kobble.  
 The Markdown view is separated into two windows:  
 The Markdown syntax is in the top window  
 The result appears in the bottom window.  
