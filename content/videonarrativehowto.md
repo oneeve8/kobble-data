@@ -144,7 +144,7 @@ Keep in mind that you can drop links to images and videos from the internet into
 
 But if you want to embed them into your Markdown presentation file, you can do that too!
 
-I will show you how, and if you forget, simply refer to the instructions in our Markdown notes file.
+I will show you how, and if you forget, simply refer back to the instructions in our Markdown notes file.
 
 
 For an image, simply 
