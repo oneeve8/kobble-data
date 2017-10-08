@@ -121,10 +121,15 @@ Did you know how easy it is to create a Presentation in Kobble?
 
 ## Creating a Presentation
 
-Now that we have collected all our information that we want on Mark Twain, we are ready to create a slide presentation for our Mark Twain unit to present to the class.will create a presentation.
-Simply click the plus sign again
-Select Presentation as our file type 
-And name our file
+Now that we have collected all our information that we want on Mark Twain, we are ready to create a slide presentation for our Mark Twain unit to present to the class.
+
+Simply click the plus sign again.
+
+Select Presentation as our file type.
+
+And name our file, and create an Id.
+
+And start typi
 
 Channel   
 Track  
