@@ -11,7 +11,7 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble
 
 
-## The Basics
+## The Basics Video
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
