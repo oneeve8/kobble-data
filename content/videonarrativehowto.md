@@ -1,7 +1,7 @@
 # How To
 ## Video Narrative
 
-## Welcome to Kobble
+## Welcome to Kobble Onboarding Video
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
@@ -11,7 +11,7 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble
 
 
-Different video
+## The Basics
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
