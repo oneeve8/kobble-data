@@ -217,7 +217,7 @@ For more emojis check here:
 
 # Image and Video
 
-Imag![image name] (image link.jpg), 
+To insert an image, us an exclamation point before an image name in brackets and the image link in parenthesis, like this: ![image name] (image link.jpg), 
 
 Syntax Example:
 
