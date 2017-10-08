@@ -190,7 +190,7 @@ Result Example using indentation to create a hollow bullet point:
 ***
 
 # Backslash escapes 
-Use Backslash \ escapes to allow for literal characters which would otherwise have meaning in Markdown formatting syntax, for example, normally an asterisk before and after a word would italicise the word. But if you just want the asterisks to appear, you would use the backslash escape.
+Use Backslash \ escapes to allow for literal characters which would otherwise have meaning in Markdown formatting syntax. For example, normally an asterisk before and after a word would italicise the word. But if you just want the asterisks to appear, you can use the backslash escape.
 
 Syntax Example:  
 \\*\*star\\*\*
