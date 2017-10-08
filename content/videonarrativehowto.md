@@ -193,7 +193,7 @@ I want to copy some of the information so I have it available in both tracks.
 
 Next I want to create a new channel with just the information that I want to share with my friend Tammy so she can collaborate with me. She only needs my markdown file and my presentation file.
 
-Tammy can collaborate through GitHub if I give her access to my file, or if she also has Kobble, she can copy it into her tree and work on it in Kobble
+Tammy can collaborate through GitHub if I give her access to my file, and we want the final product to be a team effort. Or if she also has Kobble, she can copy it into her tree and work on it in Kobble and modify it just the way she wants to.
 
 Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
