@@ -15,7 +15,11 @@ In this video we will show you how to onboard with Kobble, and give you a brief 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
 Onboarding
-Your Git
+Your Personal GitHub account
+The Kobble Tree data format
+Creating a Channel
+Creating a Track
+Creating an item
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
