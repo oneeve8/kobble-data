@@ -159,10 +159,9 @@ For an image, simply use an exclamation point before a set of brackets containin
 
 For a video, simply use an @ at symbol before a set of brackets containing the video name that you designate, followed by parenthesis containing the video embed link. Make sure you are using the embed link.
 
-Now that we have gathered quite a bit o
+Now that we have gathered quite a bit of information, we might want to reorganise it a little.
 
 Folder  
-Link  
 Channel Group
 
 You will also learn how to:
