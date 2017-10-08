@@ -51,9 +51,9 @@ So say I am a Literature Teacher and I am creating a unit on Mark Twain.
 
 I have already created a Channel and some Tracks to share with my students.
 
-We have shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review that in a little bit.
+We have shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we will review that in a little bit.
 
-So, First let’s find a quote by Mark Twain and drag and drop it into Kobble.
+So, First we will find a quote by Mark Twain and drag and drop it into Kobble.
 
 [Search for quote by Mark Twain, drag and drop it into Kobble]
 
@@ -65,7 +65,7 @@ Now I’d like to show you how you can stream a book in Kobble.
 
 First find the archived book you want to stream, 
 Drag the link to Kobble.
-You will need to modify the link slightly, but changing [what word?] to “stream”
+You will need to modify the link slightly, by changing [what word?] to “stream”
 
 Now you can read the novel right in your Kobble environment.
 
