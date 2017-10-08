@@ -18,7 +18,7 @@ The iPad has multitasking features that will help you increase your productivity
 
 [start from a blank iPad screen then open up Kobble, Drag open an internet window and swipe down to establish the split windows] 
 
-First lets open up KobbleDrag from the bottom of your
+First lets open up Kobble, then lets swipe from the bottom of our screen to open up the application bar. Swipe from the top down to cr from the bottom of your
 
 
 You will learn how to create a:  
