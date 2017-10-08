@@ -34,13 +34,14 @@ The iPad has multitasking features that will help you increase your productivity
 
 First open up Kobble, 
 then swipe from the bottom of our screen to open up the application bar. 
-Tap Kobble to
+Open up an internet browser window
 Swipe from the top down to create a split screen. 
 And there you go! 
 That was easy!
 You can adjust the width of your windows by grabbing the center and moving the width fleet or right
 
 So let’s say we are Literature Teacher and we are creating a unit on Mark Twain.
+
 
 You will learn how to create a:  
 GitHub Repo   
