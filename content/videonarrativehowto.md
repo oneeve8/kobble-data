@@ -142,9 +142,11 @@ You may want to insert pictures and videos into your presentation, so we will sh
 
 Keep in mind that you can drop links to images and videos from the internet into Kobble.
 
-But if you want to embed them into your Markdown file, you can do that too!
+But if you want to embed them into your Markdown presentation file, you can do that too!
 
-Simply follow the instructions in our Markd
+Simply follow the instructions in our Markdown notes file.
+
+For an image, simply 
 Folder  
 Link  
 Channel Group
