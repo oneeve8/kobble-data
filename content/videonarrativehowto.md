@@ -187,7 +187,9 @@ I want to copy some of the information so I have it available in both tracks.
 
 Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
-From there I can drag whole channels of information, tap done when you are finished editing.
+From there I can drag whole channels of information.
+
+Just tap done when you are finished editing.
 
 You can also delete items by sliding your items to the left to reveal the red delete button.
 
@@ -201,7 +203,7 @@ So, Next, we will show you how to retrieve information from GitHub.
 
 ## Retrieving information from GitHub
 
-
+Log onto your personal GitHub account
 You will also learn how to:
 
 Cut, copy, move and delete Items  
