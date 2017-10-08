@@ -205,9 +205,9 @@ Result Example:
 ***
 
 # Emojis
-For emojis, use a colon before and after.  
+For emojis, use a colon : before and after.  
 
-For example, using a colon before and after each of these like this \:\tada:
+For example, using a colon before and after each of these:
 
  +1, tada, metal, sparkles
 
