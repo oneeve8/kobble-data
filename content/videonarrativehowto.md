@@ -117,7 +117,7 @@ If you are unfamiliar with Markdown syntax, don’t worry!
 
 It’s super easy and we’ve created a little cheat sheet for you.
 
-One thing you may want to remember right away, is to have a double space at the end of each line where you want a soft break.  
+One thing you may want to remember right away, is to double space at the end of each line where you want a soft break.  
 
 And here, I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. 
 
@@ -127,7 +127,7 @@ Did you know how easy it is to create a Presentation in Kobble?
 
 ## Creating a Presentation
 
-Now that we have collected all our information that we want on Mark Twain, we are ready to create a slide presentation for our Mark Twain unit to present to the class.
+Now that we have collected all our information that we are interested in about Mark Twain, we are ready to create a slide presentation for our Mark Twain unit to present to the class.
 
 Simply click the plus sign again.
 
