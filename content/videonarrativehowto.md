@@ -191,19 +191,7 @@ You will also learn how to:
 Cut, copy, move and delete Items  
 And how to retrieve a lost item from your GitHub Repo
 
-
-
-And you will learn how to:  
-Drag items and links from the web to Kobble,  
-Stream an archived book in Kobble,  
-
-Finally,
-You will also learn some basics on how to use Markdown,  
-And how to create Presentation slides.
-
-
-
-### Kobble increases productivity for everyone
+## Kobble increases productivity for everyone
 Kobble is designed for just about anyone to use.
 Students, researchers, and professionals will find Kobble especially useful to keep track of projects and data.
 If you like to keep a lot of information on a variety of topics of interest to you, Kobble was made with you in mind!
