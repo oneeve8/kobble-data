@@ -71,7 +71,7 @@ Use __ or, ** (two underscores or two asterisks before and after words),
 
 Syntax example:  
 \_\_this is bolded using two underscores\_\_  
-\*\*this is syntax using two asterisks\*\*
+\*\*this is bolded using two asterisks\*\*
 
 Result Example:  
 __this is bolded using two underscores__  
