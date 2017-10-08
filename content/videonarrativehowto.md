@@ -74,7 +74,7 @@ The file type is defaulted to markdown, but if you click on file type, there you
 Anyways, we are going to name our markdown file. Remember, we can always edit it if we change our minds.
 Simply Click on the pencil on the top left of your Kobble view and start typing.
 The result will appear in the bottom window.
-
+You can toggle between Markdown view and Result view.
 
 
 Channel   
