@@ -195,7 +195,7 @@ Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
 From there I can drag whole channels of information.
 
-Next I want to create a new channel with just the information that I want to share with my friend Tammy so she can collaborate with me.
+Next I want to create a new channel with just the information that I want to share with my friend Tammy so she can collaborate with me. She only needs my markdown file and my presentation file.
 
 Just tap done when you are finished editing.
 
