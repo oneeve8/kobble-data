@@ -3,7 +3,7 @@
 Click the pencil icon in your files to edit markdown in Kobble.  
 The Markdown view is separated into two windows:  
 The Markdown syntax is in the top window  
-andthe result appears in the bottom window.  
+The result appears in the bottom window.  
 Both windows scroll down.  
 (Toggle back to the paper icon to select result view only)
 ***
