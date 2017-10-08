@@ -43,7 +43,7 @@ The iPad has multitasking features that will help you increase your productivity
 
 [show split screen and drag and drop a link]
 
-## Split Screen, Drag and Drop
+## Split Screen
 
 [start from a blank iPad screen then open up Kobble, Drag open an internet window and swipe down to establish the split windows] 
 
@@ -55,9 +55,11 @@ And there you go!
 That was easy!
 You can adjust the width of your windows by grabbing the center and moving the width left or right
 
+## Drag and Drop
+
 So say I am a Literature Teacher and I am creating a unit on Mark Twain. 
 
-I have already created a Channel and some Tracks to share with my students.
+I have already created a Channel and some Tracks that I want toshare with my students.
 
 We have shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we will review that in a little bit.
 
