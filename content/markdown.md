@@ -183,6 +183,7 @@ Result Examples:
 2. Eggs
 3. Butter
 
+Result Example using indentation to create a hollow bullet point:
 * Dairy
 	* Milk
 	* Cheese
