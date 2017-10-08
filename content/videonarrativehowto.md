@@ -78,7 +78,7 @@ So, First we will find a quote by Mark Twain and drag and drop it into Kobble.
 
 [Search for quote by Mark Twain, drag and drop it into Kobble]
 
-It’s as simple as click, drag and drop
+It is as simple as click, drag and drop
 
 Did you know that you can stream an archived book in Kobble?
 
