@@ -136,11 +136,9 @@ And designate each slide with three colons at the beginning and end of each slid
 
 Use the green arrows at the bottom of each slide to navigate your presentation.
 
-Channel   
-Track  
-Track Item  
-Markdown 
-Presentation  
+You may want to insert pictures and videos into your presentation, so we will show you how to do that next
+
+## Pictures and Videos 
 Folder  
 Link  
 Channel Group
