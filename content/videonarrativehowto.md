@@ -47,11 +47,11 @@ And there you go!
 That was easy!
 You can adjust the width of your windows by grabbing the center and moving the width left or right
 
-So say I am a Literature Teacher and I’m creating a unit on Mark Twain. 
+So say I am a Literature Teacher and I am creating a unit on Mark Twain. 
 
 I have already created a Channel and some Tracks to share with my students.
 
-We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review that in a little bit.
+We have shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review that in a little bit.
 
 So, First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
@@ -86,7 +86,8 @@ The result will appear in the bottom window.
 You can toggle between Markdown view and Result view.
 If you are unfamiliar with Markdown syntax, don’t worry!
 It’s super easy and we’ve created a little cheat sheet for you.
-One thing you may want to remember right away is to have a double space at the end of each line where you want a soft
+One thing you may want to remember right away is to have a double space at the end of each line where you want a soft break.  
+
 
 I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can close and open them if you want to.
 
