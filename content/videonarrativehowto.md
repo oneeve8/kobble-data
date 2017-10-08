@@ -41,8 +41,12 @@ That was easy!
 You can adjust the width of your windows by grabbing the center and moving the width fleet or right
 
 So let’s say we are Literature Teacher and we are creating a unit on Mark Twain.
-Let’s find a quote by Mark Twain and drag and drop it into Kobble.
+
 I’ve already created a Channel and a Track Named Mark Twain for my project so I can show you how easy it is to collect information from the internet using Kobble. We’ll show you how to create Channels in a little bit.
+
+First let’s find a quote by Mark Twain and drag and drop it into Kobble.
+
+[Search for quote by Mark Twain
 
 You will learn how to create a:  
 GitHub Repo   
