@@ -167,7 +167,11 @@ I think I want to put all my quotes in one folder
 So first I will create an folder item and name it
 Now I can drag and drop all my quotes into one folder.
 
-I think I’d like to organise my information about the life of Mark Twain and keep that separate from
+I think I’d like to organise my information about the life of Mark Twain and keep that separate from his works.
+
+You get the idea, it’s all just drag and drop.
+
+
 Folder  
 Channel Group
 
