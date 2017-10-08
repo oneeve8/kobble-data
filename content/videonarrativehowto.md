@@ -39,7 +39,7 @@ As well as how to use multi tasking productivity features on the iPad as they re
 
 The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. 
 
-
+## Split Screen, Drag and Drop
 
 [start from a blank iPad screen then open up Kobble, Drag open an internet window and swipe down to establish the split windows] 
 
@@ -66,6 +66,8 @@ It’s as simple as click, drag and drop
 Now I’d like to show you how you can stream a book in Kobble.
 
 [Show a book streamed in Kobble]
+
+## How to Stream a book in Kobb
 
 First find the archived book you want to stream, 
 Drag the link to Kobble.
