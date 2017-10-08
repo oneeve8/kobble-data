@@ -222,7 +222,7 @@ For more emojis check here:
 
 # Image and Video
 
-To insert an image, us an exclamation point before an image name in brackets and after that, the image link in parenthesis, like this: ![image name] (image link.jpg), 
+To insert an image, use an exclamation point before an image name in brackets and after that, the image link in parenthesis, like this: ![image name] (image link.jpg), 
 
 Syntax Example:
 
