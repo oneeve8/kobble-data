@@ -157,7 +157,9 @@ I will show you how, and if you forget, simply refer back to the instructions in
 
 For an image, simply use an exclamation point before a set of brackets containing an image name that you designate, followed by parenthesis containing the image link.
 
-For a video, simply use an @ at symbol before a set of brackets containing the video name that you desig, followed by parenthesis containing the video embed link. Make sure you are using the embed link.
+For a video, simply use an @ at symbol before a set of brackets containing the video name that you designate, followed by parenthesis containing the video embed link. Make sure you are using the embed link.
+
+Now that we have gathered quite a bit o
 
 Folder  
 Link  
