@@ -134,7 +134,7 @@ And start typing!
 The only difference from a regular markdown file is that we need to present the information in smaller chunks and create individual slides.
 And designate each slide with three colons at the beginning and end of each slide.
 
-
+Use the green arrows at the bottom of each slide to navigate your presentation.
 
 Channel   
 Track  
