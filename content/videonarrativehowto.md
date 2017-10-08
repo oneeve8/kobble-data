@@ -22,6 +22,8 @@ Creating an item.
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
+[Welcome to Kobble slide with name and Kobble icon
+
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
 Kobble is so unique, that you may not have ever seen anything like it before.  
