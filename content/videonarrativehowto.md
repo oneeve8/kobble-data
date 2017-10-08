@@ -10,16 +10,16 @@ With Kobble, you can collect scattered information from various sources and brin
 
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble
 
-## The Basics Video
-
-[images of doing various things, dropping links, moving files and folders, saving a video link.]
-
 Onboarding
 Your Personal GitHub account
 The Kobble Tree data format
 Creating a Channel
 Creating a Track
 Creating an item
+
+## The Basics Video
+
+[images of doing various things, dropping links, moving files and folders, saving a video link.]
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!
@@ -48,7 +48,7 @@ You can adjust the width of your windows by grabbing the center and moving the w
 
 So let’s say we are Literature Teacher and we are creating a unit on Mark Twain.
 
-I’ve already created a Channel and a Track Named Mark Twain for my project so I can show you how easy it is to collect information from the internet using Kobble. We’ll show you how to create Channels in a little bit.
+I’valready created a Channel and a Track Named Mark Twain for my project so I can show you how easy it is to collect information from the internet using Kobble. We’ll show you how to create Channels in a little bit.
 
 First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
