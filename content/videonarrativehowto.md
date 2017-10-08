@@ -49,7 +49,7 @@ You can adjust the width of your windows by grabbing the center and moving the w
 
 So say I am a Literature Teacher and I’m creating a unit on Mark Twain. 
 
-So I’ve already created a Channel and some Tracks to share with my students.
+I have already created a Channel and some Tracks to share with my students.
 
 We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review that in a little bit.
 
@@ -64,6 +64,8 @@ Now I’d like to show you how you can stream a book in Kobble.
 [Show a book streamed in Kobble]
 
 First find the archived book you want to stream, 
+Drag the link to Kobble.
+You will need to modify the link slightly, but changing
 
 ## How to create a Markdown file
 
