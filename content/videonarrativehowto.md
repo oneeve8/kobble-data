@@ -14,6 +14,8 @@ You will be given a brief introduction to Kobble
 First I’ll show you how to drag and drop links from the internet into a Kobble
 As well as how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
+The iPad has multitasking features that will help you increase your productivity. 
+
 
 You will learn how to create a:  
 GitHub Repo   
