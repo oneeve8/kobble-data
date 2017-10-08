@@ -179,7 +179,7 @@ From there I can drag whole channels of information, tap done when you are finis
 
 You can also delete items by sliding your items to the left to reveal the red delete button.
 
-To delete whole channels, close all your tracks and 
+To delete whole channels, close all your tracks and tap edit at the top left of your data tree and tap the red button next to the Channel you want to delete.
 
 Oops! I think I accidentally deleted something that I want to keep. 
 
