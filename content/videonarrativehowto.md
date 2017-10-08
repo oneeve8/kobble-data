@@ -138,15 +138,17 @@ And name our file, and create an Id.
 And then start typing!
 
 The only difference from a regular markdown file and a presentation file, is that we need to present the information in smaller chunks and create individual slides.
-Tdesignate each slide with three colons at the beginning and end of each slide.
+To designate each slide, use three colons at the beginning and end of each slide.
 
 Use the green arrows at the bottom of each slide to navigate your presentation.
 
-You may want to insert pictures and videos into your presentation, so we will show you how to do that next
+You may want to insert pictures and videos into your presentation, so we will show you how to do that next.
 
 ## Pictures and Videos 
 
 Keep in mind that you can drop links to images and videos from the internet into Kobble.
+
+[show dragging and dropping video links and pictures
 
 But if you want to embed them into your Markdown presentation file, you can do that too!
 
