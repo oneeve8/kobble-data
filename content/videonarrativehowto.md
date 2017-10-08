@@ -51,9 +51,9 @@ So let’s say I’m a Literature Teacher and I’m creating a unit on Mark Twai
 
 So I’ve already created a Channel and some Tracks to share with my students.
 
-We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review how tin a little bit.
+We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review that in a little bit.
 
-First let’s find a quote by Mark Twain and drag and drop it into Kobble.
+So, First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
 [Search for quote by Mark Twain, drag and drop it into Kobble]
 
@@ -65,9 +65,12 @@ Now I’d like to show you how you can stream a book in Kobble.
 
 First find the archived book you want to stream, 
 
+## How to create a Markdown file
+
 Next I’ll show you how to create a Markdown file.
 First click on a channel, 
 then click on the plus sign of the Track you want to add your markdown file to.
+
 
 
 Channel   
