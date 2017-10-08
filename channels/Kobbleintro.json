@@ -3,8 +3,8 @@
   "subtitle" : "A Guide To Kobble",
   "tracks" : [
     {
-      "title" : "Kobble How To",
-      "subtitle" : "Video Narrative",
+      "title" : "Kobble Basics",
+      "subtitle" : "How To",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/howto",
