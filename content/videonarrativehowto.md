@@ -23,8 +23,7 @@ then lets swipe from the bottom of our screen to open up the application bar.
 Swipe from the top down to create a split screen. 
 And there you go! 
 That was easy!
-You can adjust the width of 
-
+You can adjust the width of your windows by grabbing the center and moving the width fleet or righ
 
 You will learn how to create a:  
 GitHub Repo   
