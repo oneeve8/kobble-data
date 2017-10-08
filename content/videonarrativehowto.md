@@ -51,7 +51,7 @@ So let’s say I’m a Literature Teacher and I’m creating a unit on Mark Twai
 
 So I’ve already created a Channel and some Tracks to share with my students.
 
-We’ve shown you how to crdo that in our onboarding video, but in case you’ve forgotten, we’ll review how to create Channels and Tracks in a little bit.
+We’ve shown you how to create Channels and Tracks in our onboarding video, but in case you’ve forgotten, we’ll review how to create Channels and Tracks in a little bit.
 
 First let’s find a quote by Mark Twain and drag and drop it into Kobble.
 
