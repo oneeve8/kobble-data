@@ -34,6 +34,8 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video,
 You will be given a brief introduction to Kobble
 
+## Multitasking and Drag And Drop
+
 First I will show you how to drag and drop links from the internet into Kobble
 As well as how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
