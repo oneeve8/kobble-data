@@ -46,12 +46,11 @@ You will be given a brief introduction to Kobble
 
 First I will show you how to drag and drop links from the internet into Kobble.
 
+[show split screen and drag and drop a link]
 
 As well as how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
 The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. 
-
-
 
 ## Split Screen
 
@@ -63,7 +62,9 @@ Open up an internet browser window
 Swipe from the top down to create a split screen. 
 And there you go! 
 That was easy!
-You can adjust the width of your windows by grabbing the center and moving the width left or right
+You can adjust the width of your windows 
+by grabbing the center and moving the width left or right
+To go back to a single sc
 
 ## Drag and Drop
 
