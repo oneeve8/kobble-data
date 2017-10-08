@@ -11,7 +11,7 @@ With Kobble, you can collect scattered information from various sources and brin
 In this video, you will learn the following:
 You will be given a brief introduction to Kobble
 
-You will learn how to dra
+You will learn how to drag and drop links from the internet into a Kobble
 
 You will learn how to create a:  
 GitHub Repo   
