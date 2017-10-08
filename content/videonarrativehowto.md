@@ -80,7 +80,11 @@ It’s super easy and we’ve created a little cheat sheet for you.
 
 I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can close and open them if you want to.
 
-Now we will create
+Now we will create a presentation.
+Simply click the plus sign again
+Select Presentation as our file type 
+And name our file
+
 Channel   
 Track  
 Track Item  
