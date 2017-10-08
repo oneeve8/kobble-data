@@ -207,11 +207,11 @@ Result Example:
 # Emojis
 For emojis, use a colon before and after.  
 
-For 
+For example, using a colon before and after each of these like this \:\tada:
 
  +1, tada, metal, sparkles
 
-Result Examples:
+Results in these examples:
 :+1: :tada: :metal: :sparkles:  
 
 For more emojis check here:
