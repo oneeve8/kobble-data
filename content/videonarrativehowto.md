@@ -164,6 +164,10 @@ Now that we have gathered quite a bit of information, we might want to reorganis
 ## Organizing your data
 
 I think I want to put all my quotes in one folder
+So first I will create an folder item and name it
+Now I can drag and drop all my quotes into one folder.
+
+
 Folder  
 Channel Group
 
