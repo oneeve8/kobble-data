@@ -157,7 +157,7 @@ I will show you how, and if you forget, simply refer back to the instructions in
 
 For an image, simply use an exclamation point before a set of brackets containing the video name, followed by parenthesis containing the image link.
 
-For a video
+For a video, simply use an @ at symbol before a set of brackets containing the video name, followed by parenthesis containing the video embed link. Make sure you are using the embed link
 Folder  
 Link  
 Channel Group
