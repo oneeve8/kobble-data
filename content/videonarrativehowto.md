@@ -57,7 +57,7 @@ Now I’d like to show you how you can stream a book in Kobble.
 First find the archived book you want to stream, 
 
 You will learn how to create a:  
-GitHub Repo   
+
 Channel   
 Track  
 Track Item  
