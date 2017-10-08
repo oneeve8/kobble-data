@@ -129,16 +129,16 @@ Did you know how easy it is to create a Presentation in Kobble?
 
 Now that we have collected all our information that we are interested in about Mark Twain, we are ready to create a slide presentation for our Mark Twain unit to present to the class.
 
-Simply click the plus sign again.
+Simply click the plus sign in our Track again.
 
 Select Presentation as our file type.
 
 And name our file, and create an Id.
 
-And start typing!
+And then start typing!
 
-The only difference from a regular markdown file is that we need to present the information in smaller chunks and create individual slides.
-And designate each slide with three colons at the beginning and end of each slide.
+The only difference from a regular markdown file and a presentation file, is that we need to present the information in smaller chunks and create individual slides.
+Tdesignate each slide with three colons at the beginning and end of each slide.
 
 Use the green arrows at the bottom of each slide to navigate your presentation.
 
