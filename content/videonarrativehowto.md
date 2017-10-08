@@ -41,6 +41,8 @@ As well as how to use multi tasking productivity features on the iPad as they re
 
 The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. 
 
+[show split screen and drag and drop a link]
+
 ## Split Screen, Drag and Drop
 
 [start from a blank iPad screen then open up Kobble, Drag open an internet window and swipe down to establish the split windows] 
