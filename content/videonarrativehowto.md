@@ -129,7 +129,9 @@ Select Presentation as our file type.
 
 And name our file, and create an Id.
 
-And start typi
+And start typing!
+
+The only difference from a regular markdown file is that we need to present the information in smaller chunks and create individual slides.
 
 Channel   
 Track  
