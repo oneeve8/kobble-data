@@ -20,7 +20,9 @@ The Kobble Tree data format.
 
 Any Channel with a white icon are those developed at Kobble that are visible and available to everyone.
 
-Any Channel with a green i
+Any Channel with a green icon is yours and is only visible to you and nobody else.
+
+Channels can easily be shared with others
 Creating a Channel.  
 Creating a Track.  
 Creating an item.  
