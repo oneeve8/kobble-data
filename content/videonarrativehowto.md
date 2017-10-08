@@ -63,6 +63,7 @@ Now I’d like to show you how you can stream a book in Kobble.
 First find the archived book you want to stream, 
 
 Next I’ll show you how to create a Markdown file.
+First click on a channel, then click on the plus sign of the Track you wa
 
 
 Channel   
