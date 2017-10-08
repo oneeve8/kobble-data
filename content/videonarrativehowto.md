@@ -30,8 +30,12 @@ Creating an item.
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
+
 Kobble is so unique, that you may not have ever seen anything like it before.  
-With Kobble, you can collect scattered information from various sources and bring it all together into one place.  Then you can compile the information into a presentable format that you can share with others.
+
+With Kobble, you can collect scattered information from various sources and bring it all together into one place.  
+
+Then you can compile the information into a presentable format that you can share with others.
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
@@ -40,12 +44,14 @@ You will be given a brief introduction to Kobble
 
 ## Multitasking and Drag And Drop
 
-First I will show you how to drag and drop links from the internet into Kobble
+First I will show you how to drag and drop links from the internet into Kobble.
+
+
 As well as how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
 The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. 
 
-[show split screen and drag and drop a link]
+
 
 ## Split Screen
 
