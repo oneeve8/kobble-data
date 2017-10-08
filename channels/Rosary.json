@@ -10,15 +10,6 @@
         "path" : "tracks\/Joyful-Mysteries",
         "repo" : "kobble-data"
       }
-    },
-    {
-      "title" : "The Holy Rosary",
-      "subtitle" : "How To Pray the Rosary",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/The-Holy-Rosary",
-        "repo" : "kobble-data"
-      }
     }
   ]
 }
