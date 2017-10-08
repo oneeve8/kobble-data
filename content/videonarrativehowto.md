@@ -169,9 +169,9 @@ Now I can drag and drop all my quotes into one folder.
 
 I think I’d like to organise my information about the life of Mark Twain and keep that separate from his works.
 
-I want to copy some of the information so I have it availain both tracks.
-
 You get the idea, it’s all just drag and drop.
+
+I want to copy some of the information so I have it available in both tracks.
 
 Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
@@ -181,7 +181,7 @@ Oops! I think I accidentally deleted something that I want to keep.
 
 Don’t worry, everything is backed up on GitHub. 
 
-Next, we will show you how to retrieve it.
+Next, we will show you how to retrieve information from GitHub.
 
 ## Retrieving information from GitHub
 
