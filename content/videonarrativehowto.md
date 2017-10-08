@@ -175,11 +175,17 @@ Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
 From there I can drag whole channels of information, or even delete them.
 
-Oops! I think I accidentally delete
+Oops! I think I accidentally deleted something that I want to keep. 
+
+Don’t worry, everything is backed up on GitHub. 
+
+Next, we will show you how to retrieve it.
+
+## Retrieving information from GitHub
 
 
 Folder  
-Channel Group
+Chan
 
 You will also learn how to:
 
