@@ -14,7 +14,7 @@ You will be given a brief introduction to Kobble
 First I’ll show you how to drag and drop links from the internet into a Kobble
 As well as how to use multi tasking productivity features on the iPad as they relate to using Kobble.
 
-The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. Drag from the bottom of your
+The iPad has multitasking features that will help you increase your productivity. First I will show you how to create a split screen. [start from a blank iPad screen then open up Kobble, Drag open aDrag from the bottom of your
 
 
 You will learn how to create a:  
