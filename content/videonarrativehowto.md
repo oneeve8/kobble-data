@@ -23,10 +23,9 @@ Creating an item.
 
 ## The Basics Video
 
-[Welcome to Kobble slide with name and Kobble icon o
+[Welcome to Kobble slide with name and Kobble icon or intro animation]
 
-[images of doing various things, dropping links, moving files and folders, saving a video link.]
-
+[images of doing various things, dropping links, moving files and folders, saving a video link. While narrative is read]
 
 
 ## Welcome to Kobble
