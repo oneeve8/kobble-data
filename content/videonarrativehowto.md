@@ -97,18 +97,23 @@ The file type is defaulted to markdown, but if you click on file type, there you
 
 Anyways, we are going to name our markdown file. 
 
-And thecreate an Id that will be our reference of how it will be saved in GitHub.
+And then create an Id that will be our reference of how it will be saved in GitHub.
 
 Remember, I can always edit the names of my Channels and Tracks if I change my mind.
+
 Now, Simply Click on the pencil on the top left of your Kobble view and start typing.
+
 The result will appear in the bottom window.
+
 You can toggle between Markdown view and Result view.
+
 If you are unfamiliar with Markdown syntax, don’t worry!
+
 It’s super easy and we’ve created a little cheat sheet for you.
+
 One thing you may want to remember right away is to have a double space at the end of each line where you want a soft break.  
 
-
-I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can close and open them if you want to.
+And here, I just want to point out now that Kobble keeps what you’ve opened in tabs on top of your Kobble view screen. You can close and open them if you want to.
 
 Now we will create a presentation.
 Simply click the plus sign again
