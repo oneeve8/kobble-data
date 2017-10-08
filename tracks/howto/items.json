@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
+            "path" : "content\/slidepresentation.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "How To Create A Slide Presentation",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Slide Presentation Basics",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
             "path" : "content\/videonarrativehowto.md",
             "repo" : "kobble-data"
           }
