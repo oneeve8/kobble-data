@@ -13,38 +13,11 @@
           }
         },
         {
-          "title" : "Markdown",
-          "subtitle" : "Markdown Notes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/markdown.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Virtues",
           "subtitle" : "Virtues",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/virtues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Test",
-          "subtitle" : "Test",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/test.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "The Stations of the Cross",
-          "subtitle" : "Pray the Stations of the Cross",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/The-Stations-of-the-Cross.json",
             "repo" : "kobble-data"
           }
         },
