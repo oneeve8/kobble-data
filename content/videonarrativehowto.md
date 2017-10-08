@@ -195,6 +195,8 @@ Now if I want to move a whole channel, I will need to tap Edit on the top left.
 
 From there I can drag whole channels of information.
 
+Next I want to create a new channel with just the information that I want to share with my friend Tammy so she can collaborate with me.
+
 Just tap done when you are finished editing.
 
 You can also delete items by sliding your items to the left to reveal the red delete button.
