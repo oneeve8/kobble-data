@@ -11,6 +11,14 @@ Kobble is so unique, that you may not have ever seen anything like it before.
 
 With Kobble, you can collect scattered information from various sources and bring it all together into one place.  
 
+Kobble is designed for just about anyone to use.
+Students, researchers, and pespecially useful to keep track of projects and data.
+If you like to keep a lot of information on a variety of topics of interest to you, Kobble was made with you in mind!
+Kobble can help you organize your internet bookmarks; gather internet research; create new content; and present and share your information with others. Kobble has just what you need to get the job done.
+If you are a creative, productive person, then Kobble is right for you!
+
+[Show a list of links, drop a link, editing a Markdown file, show a slide presentation]
+
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
 
 Onboarding.  
