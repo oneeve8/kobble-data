@@ -63,17 +63,20 @@ So, First we will find a quote by Mark Twain and drag and drop it into Kobble.
 
 It’s as simple as click, drag and drop
 
-Now I’d like to show you how you can stream a book in Kobble.
+Did you know that you can stream an archived book in Kobble?
 
 [Show a book streamed in Kobble]
 
-## How to Stream a book in Kobb
+## How to Stream a book in Kobble
 
 First find the archived book you want to stream, 
 Drag the link to Kobble.
+
 You will need to modify the link slightly, by changing [what word?] to “stream”
 
-Now you can read the novel right in your Kobble environment. You can open and close it whenever you want. The reader automatically saves your spot where you last left off.
+Now you can read the novel right in your Kobble environment. You can open and close it whenever you want. 
+
+The reader automatically saves your spot where you last left off.
 
 While you are reading, you may want to take notes. So the next step I will show you is how to create a markdown file.
 
