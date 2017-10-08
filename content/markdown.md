@@ -233,6 +233,8 @@ Result Example:
 
 To insert a video in Markdown, use the @ symbol before the title in brackets, followed by the video id in parenthesis, like this: @[youtube] (video id), example:
 
+\[youtube]\(http://
+
 @[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 ***
 
