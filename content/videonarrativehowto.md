@@ -171,7 +171,11 @@ I think I’d like to organise my information about the life of Mark Twain and k
 
 You get the idea, it’s all just drag and drop.
 
-Now if I want to move a who
+Now if I want to move a whole channel, I will need to tap Edit on the top left.
+
+From there I can drag whole channels of information, or even delete them.
+
+Oops! I think I accidentally delete
 
 
 Folder  
