@@ -46,23 +46,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.onlinelogomaker.com\/buy-premium\/subscribe-to\/1-online-logo-maker-premium-access?new=1&filename=onlinelogomaker-100917-1605-9913"
-        }
-      },
-      "title" : "www.onlinelogomaker.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.onlinelogomaker.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/support.apple.com\/en-us\/HT207935"
         }
       },
