@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Mark Twain",
+          "subtitle" : "Life and Works",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/marktwain2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Kobble Introduction",
           "subtitle" : "A Guide To Kobble",
           "channel" : {
