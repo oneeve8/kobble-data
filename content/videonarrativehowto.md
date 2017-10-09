@@ -26,7 +26,7 @@ If you are a creative, productive person, then Kobble is right for you!
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
 
 You will need to know a few things before you get started with Kobble.
-
+ 
 Your Personal GitHub account.  
 Privacy and Sharing.  
 The Kobble Tree data format.  
