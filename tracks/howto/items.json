@@ -11,7 +11,7 @@
           }
         }
       },
-      "title" : "Introduction",
+      "title" : "Catholic Place Introduction",
       "view" : {
         "tag" : "UI.ContentViews.Views.RevealView"
       },
