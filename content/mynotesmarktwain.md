@@ -17,6 +17,9 @@ Read more at: https://www.brainyquote.com/quotes/quotes/m/marktwain118964.html
 Get your facts first, then you can distort them as you please.
 
 
+Whenever you find yourself on the side of the majority, it is time to pause and reflect.
+Read more at: https://www.brainyquote.com/quotes/quotes/m/marktwain122378.html
+
 
 
 
