@@ -1,12 +1,14 @@
 # Huckleberry Finn
 ## My Notes
 
-Characters
+### Characters
 
 Huckleberry Finn
 
 Tom Sawyer
 
 Jim
+
+Window Douglass and Miss Watson
 
 
