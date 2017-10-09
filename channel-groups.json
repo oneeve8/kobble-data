@@ -13,20 +13,20 @@
           }
         },
         {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Meditations",
           "subtitle" : "Meditations",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Rosary.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Kobbleintro.json",
             "repo" : "kobble-data"
           }
         },
