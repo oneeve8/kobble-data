@@ -21,10 +21,27 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.sparknotes.com\/nofear\/lit\/huckleberry-finn\/"
+        }
+      },
+      "title" : "Huckleberry Finn Summary",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Spark Notes",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.cliffsnotes.com\/literature\/c\/a-connecticut-yankee-in-king-arthurs-court\/book-summary"
         }
       },
-      "title" : "www.cliffsnotes.com",
+      "title" : "Connecticut Yankee ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -38,14 +55,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.sparknotes.com\/nofear\/lit\/huckleberry-finn\/"
+          "url" : "http:\/\/www.sparknotes.com\/lit\/yankee\/"
         }
       },
-      "title" : "Huckleberry Finn Summary",
+      "title" : "Connecticut Yankee",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Spark Notes",
+      "subtitle" : "www.sparknotes.com",
       "expanded" : true,
       "children" : [
 
