@@ -4,7 +4,7 @@
 :::
 ::: slide
 ### His Life
-![signature](https://en.m.wikipedia.org/wiki/File:Mark_Twain_Signatures-2.svg)
+![signature](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mark_Twain_Signatures-2.svg/320px-Mark_Twain_Signatures-2.svg.png)
 :::
 
 
