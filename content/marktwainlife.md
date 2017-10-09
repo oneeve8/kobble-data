@@ -6,6 +6,7 @@
 ### His Life
 ![signature](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mark_Twain_Signatures-2.svg/320px-Mark_Twain_Signatures-2.svg.png)
 :::
+::: slide
 
 
 :::
