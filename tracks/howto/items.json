@@ -6,16 +6,16 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/slidepresentation.md",
+            "path" : "content\/videonarrativehowto.md",
             "repo" : "kobble-data"
           }
         }
       },
-      "title" : "Slide Presentation",
+      "title" : "How To",
       "view" : {
-        "tag" : "UI.ContentViews.Views.RevealView"
+        "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "Slide Presentation Basics",
+      "subtitle" : "Video Narrative",
       "expanded" : true,
       "children" : [
 
@@ -27,16 +27,16 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/videonarrativehowto.md",
+            "path" : "content\/slidepresentation.md",
             "repo" : "kobble-data"
           }
         }
       },
-      "title" : "How To",
+      "title" : "Slide Presentation",
       "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
+        "tag" : "UI.ContentViews.Views.RevealView"
       },
-      "subtitle" : "Video Narrative",
+      "subtitle" : "Slide Presentation Basics",
       "expanded" : true,
       "children" : [
 
