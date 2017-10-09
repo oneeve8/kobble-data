@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.cliffsnotes.com\/literature\/a\/the-adventures-of-huckleberry-finn\/the-adventures-of-huckleberry-finn-at-a-glance"
-        }
-      },
-      "title" : "www.cliffsnotes.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.cliffsnotes.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.brainyquote.com\/authors\/mark_twain"
         }
       },
