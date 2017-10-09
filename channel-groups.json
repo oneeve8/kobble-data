@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Great Books",
+          "subtitle" : "Great Book Classics",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooks.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Mark Twain",
           "subtitle" : "Study Unit",
           "channel" : {
