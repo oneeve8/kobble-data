@@ -58,11 +58,11 @@
           "url" : "https:\/\/archive.org\/stream\/completeworksofm09twaiiala"
         }
       },
-      "title" : "archive.org",
+      "title" : "Complete Works",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "archived",
       "expanded" : true,
       "children" : [
 
