@@ -1,7 +1,16 @@
 {
   "title" : "Great Books",
-  "subtitle" : "The Great Classics",
+  "subtitle" : "Great Book Classics",
   "tracks" : [
+    {
+      "title" : "Great Books",
+      "subtitle" : "Summaries And Reviews",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksummaries",
+        "repo" : "kobble-data"
+      }
+    },
     {
       "title" : "Great Books",
       "subtitle" : "Audio",
