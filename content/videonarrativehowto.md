@@ -109,7 +109,7 @@ First find the archived book you want to stream,
 
 Simply drag the link to Kobble.
 
-You will need to modify the link slightly, by changing [what word?] to “stream”
+You will need to modify the link slightly, by changing the word *detail* to *stream*
 
 Now you can read the novel right in your Kobble environment. 
 
