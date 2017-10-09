@@ -17,6 +17,8 @@ Get your facts first, then you can distort them as you please.
 
 Whenever you find yourself on the side of the majority, it is time to pause and reflect.
 
+My mother had a great deal of trouble with me, but I think she enjoyed it.
+Read more at: https://www.brainyquote.com/quotes/quotes/m/marktwain137899.html
 
 
 
