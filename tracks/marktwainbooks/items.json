@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/tom_sawyer_librivox"
-        }
-      },
-      "title" : "Adventures Of Tom Sawyer",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "archive.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/princeandpauper01twaigoog"
         }
       },
@@ -63,23 +46,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Tom Sawyer’s comrade",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.sparknotes.com\/lit\/huckfinn\/summary.html"
-        }
-      },
-      "title" : "Huckleberry Finn Summary",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.sparknotes.com",
       "expanded" : true,
       "children" : [
 
