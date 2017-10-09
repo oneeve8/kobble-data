@@ -32,7 +32,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "My Notes",
+      "subtitle" : "Quote Collection",
       "expanded" : true,
       "children" : [
 
