@@ -3,6 +3,15 @@
   "subtitle" : "Life and Works",
   "tracks" : [
     {
+      "title" : "Mark Twain Biography",
+      "subtitle" : "Biographical Information",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/marktwainlife",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Mark Twain Books",
       "subtitle" : "Archived Books",
       "track" : {
