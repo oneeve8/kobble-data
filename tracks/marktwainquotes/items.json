@@ -45,11 +45,11 @@
           }
         }
       },
-      "title" : "Notes On Mark Twain",
+      "title" : "Quote Collection",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "Quote Collection",
+      "subtitle" : "Quotes I Like",
       "expanded" : true,
       "children" : [
 
