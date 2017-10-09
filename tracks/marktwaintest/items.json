@@ -16,6 +16,44 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.brainyquote.com\/authors\/mark_twain"
+        }
+      },
+      "title" : "www.brainyquote.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.brainyquote.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/mynotesmarktwain.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Notes On Mark Twain",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Quote Collection",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
