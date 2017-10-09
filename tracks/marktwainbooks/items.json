@@ -4,10 +4,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/adventuresoftoms00twaiiala"
+          "url" : "https:\/\/archive.org\/stream\/adventuresoftoms00twaiiala"
         }
       },
-      "title" : "archive.org",
+      "title" : "The Adventures Of Tom Sawyer",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
