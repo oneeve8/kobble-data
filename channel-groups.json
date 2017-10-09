@@ -22,15 +22,6 @@
           }
         },
         {
-          "title" : "Emissary of Love",
-          "subtitle" : "A User's Manual on Virtue",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Emissary.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Meditations",
           "subtitle" : "Meditations",
           "channel" : {
