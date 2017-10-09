@@ -40,8 +40,8 @@
           }
         },
         {
-          "title" : "The Holy Rosary",
-          "subtitle" : "Pray the Rosary",
+          "title" : "Meditations",
+          "subtitle" : "Meditations",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Rosary.json",
