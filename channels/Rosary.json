@@ -1,7 +1,16 @@
 {
-  "title" : "The Holy Rosary",
-  "subtitle" : "Pray the Rosary",
+  "title" : "Meditations",
+  "subtitle" : "Meditations",
   "tracks" : [
+    {
+      "title" : "Emissary of Love",
+      "subtitle" : "A User's Manual for Virtue",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Emissary",
+        "repo" : "kobble-data"
+      }
+    },
     {
       "title" : "Pray the Rosary",
       "subtitle" : "The Mysteries Of The Rosary",
