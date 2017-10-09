@@ -6,55 +6,17 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/videonarrativehowto.md",
+            "path" : "content\/Introduction2.md",
             "repo" : "kobble-data"
           }
         }
       },
-      "title" : "How To",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
-      },
-      "subtitle" : "Video Narrative",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "oneeve8",
-            "path" : "content\/slidepresentation.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "Slide Presentation",
+      "title" : "Introduction",
       "view" : {
         "tag" : "UI.ContentViews.Views.RevealView"
       },
-      "subtitle" : "Slide Presentation Basics",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/support.apple.com\/en-us\/HT207935"
-        }
-      },
-      "title" : "support.apple.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "support.apple.com",
-      "expanded" : true,
+      "subtitle" : "Introduction",
+      "expanded" : false,
       "children" : [
 
       ]
