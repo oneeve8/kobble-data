@@ -14,6 +14,9 @@ It's no wonder that truth is stranger than fiction. Fiction has to make sense.
 The secret of getting ahead is getting started.
 Read more at: https://www.brainyquote.com/quotes/quotes/m/marktwain118964.html
 
+Get your facts first, then you can distort them as you please.
+
+
 
 
 
