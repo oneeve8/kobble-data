@@ -2,23 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/support.apple.com\/en-us\/HT207935"
-        }
-      },
-      "title" : "support.apple.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "support.apple.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
