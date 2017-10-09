@@ -3,11 +3,11 @@
   "subtitle" : "Study Unit",
   "tracks" : [
     {
-      "title" : "Marktwaintest",
-      "subtitle" : "Test",
+      "title" : "Mark Twain Presentations",
+      "subtitle" : "His Life and Works",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/marktwaintest",
+        "path" : "tracks\/twainpresentation",
         "repo" : "kobble-data"
       }
     },
