@@ -3,4 +3,10 @@
 
 Characters
 
-Huckl
+Huckleberry Finn
+
+Tom Sawyer
+
+Jim
+
+
