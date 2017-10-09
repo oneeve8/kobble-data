@@ -21,14 +21,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/adventureshuckle00twaiiala"
+          "url" : "https:\/\/archive.org\/stream\/adventureshuckle00twaiiala"
         }
       },
-      "title" : "archive.org",
+      "title" : "Adventures of Huckleberry Finn",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Tom Sawyer’s comrade",
       "expanded" : true,
       "children" : [
 
