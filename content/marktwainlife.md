@@ -13,5 +13,5 @@
 :::
 ::: slide
 
-![Tom Sawyer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tom_Sawyer_1876_frontispiece.jpg/174px-Tom_Sawyer_1876_frontispiece.jpg)
+![Tom Sawyer](
 :::
