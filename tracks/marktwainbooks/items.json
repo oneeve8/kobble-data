@@ -4,10 +4,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tom_sawyer_librivox"
+          "url" : "https:\/\/archive.org\/stream\/tom_sawyer_librivox"
         }
       },
-      "title" : "archive.org",
+      "title" : "Adventures Of Tom Sawyer",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
