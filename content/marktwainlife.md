@@ -11,7 +11,7 @@
 
 ![Mark Twain2](https://upload.wikimedia.org/wikipedia/commons/4/4d/Autochrome_of_Mark_Twain.jpg)
 :::
-::: Slide
+::: slide
 
 ![Tom Sawyer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tom_Sawyer_1876_frontispiece.jpg/174px-Tom_Sawyer_1876_frontispiece.jpg)
 :::
