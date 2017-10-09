@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.biography.com\/people\/mark-twain-9512564"
-        }
-      },
-      "title" : "www.biography.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.biography.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/adventureshuckle00twaiiala"
         }
       },
@@ -38,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.history.com\/topics\/mark-twain"
-        }
-      },
-      "title" : "www.history.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.history.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/completeworksofm09twaiiala"
         }
       },
@@ -63,23 +29,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "archived",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/en.wikipedia.org\/wiki\/Mark_Twain"
-        }
-      },
-      "title" : "en.wikipedia.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "en.wikipedia.org",
       "expanded" : true,
       "children" : [
 
