@@ -1,7 +1,16 @@
 {
   "title" : "Mark Twain",
-  "subtitle" : "His Life and Works",
+  "subtitle" : "Study Unit",
   "tracks" : [
+    {
+      "title" : "Mark Twain Book Summaries",
+      "subtitle" : "Book Summaries and Reviews",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/marktwainbooksummaries",
+        "repo" : "kobble-data"
+      }
+    },
     {
       "title" : "Mark Twain Quotes",
       "subtitle" : "Wit  and Wisdom",
