@@ -2,27 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "oneeve8",
-            "path" : "content\/mynotesmarktwain.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "Notes On Mark Twain",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
-      },
-      "subtitle" : "My Notes",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/www.biography.com\/people\/mark-twain-9512564"
