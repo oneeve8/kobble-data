@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/playsofsophocles00sophiala"
+          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Great_books"
         }
       },
-      "title" : "The Plays Of Sophocles",
+      "title" : "Great Books List",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "en.m.wikipedia.org",
       "expanded" : true,
       "children" : [
 
@@ -38,14 +38,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Great_books"
+          "url" : "https:\/\/archive.org\/stream\/playsofsophocles00sophiala"
         }
       },
-      "title" : "Great Books List",
+      "title" : "The Plays Of Sophocles",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "en.m.wikipedia.org",
+      "subtitle" : "archive.org",
       "expanded" : true,
       "children" : [
 
