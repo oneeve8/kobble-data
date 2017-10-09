@@ -4,10 +4,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/trag00ediesofaeschaescrich"
+          "url" : "https:\/\/archive.org\/stream\/trag00ediesofaeschaescrich"
         }
       },
-      "title" : "archive.org",
+      "title" : "The Tragedies Of Aeschylus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
