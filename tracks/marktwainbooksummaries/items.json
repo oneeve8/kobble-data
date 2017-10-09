@@ -28,7 +28,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book Summary",
+      "subtitle" : "Spark Notes",
       "expanded" : true,
       "children" : [
 
