@@ -13,8 +13,8 @@
           }
         },
         {
-          "title" : "Meditations",
-          "subtitle" : "Meditations",
+          "title" : "Personal ",
+          "subtitle" : "Projects",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Rosary.json",
