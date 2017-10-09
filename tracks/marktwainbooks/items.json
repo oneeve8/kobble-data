@@ -4,10 +4,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/saintjoanofarc01twai"
+          "url" : "https:\/\/archive.org\/stream\/saintjoanofarc01twai"
         }
       },
-      "title" : "archive.org",
+      "title" : "Saint Joan Of Arc",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
