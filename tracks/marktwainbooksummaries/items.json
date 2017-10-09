@@ -2,6 +2,27 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/noteshuckleberryfinn.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Huckleberry Finn",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "My Notes",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/www.cliffsnotes.com\/literature\/a\/the-adventures-of-huckleberry-finn\/the-adventures-of-huckleberry-finn-at-a-glance"
