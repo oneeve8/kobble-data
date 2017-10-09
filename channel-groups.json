@@ -5,7 +5,7 @@
       "channels" : [
         {
           "title" : "Mark Twain",
-          "subtitle" : "His Life and Works",
+          "subtitle" : "Study Unit",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/marktwain2.json",
