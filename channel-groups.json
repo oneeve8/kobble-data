@@ -22,15 +22,6 @@
           }
         },
         {
-          "title" : "Virtues",
-          "subtitle" : "Virtues",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/virtues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Emissary of Love",
           "subtitle" : "A User's Manual on Virtue",
           "channel" : {
