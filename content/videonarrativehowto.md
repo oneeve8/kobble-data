@@ -23,7 +23,9 @@ Kobble has just what you need to get the job done.
 If you are a creative, productive person, then Kobble is right for you!
 
 In this video,
-You will be given a brief introduction to Kobble
+You will be given a brief introduction and overview of Kobble so you can get an idea of what you can do with it.
+
+We also have more detailed instruction vid
 
 
 ## Welcome to Kobble
