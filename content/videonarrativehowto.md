@@ -25,8 +25,6 @@ You can keep all your data in Kobble such as study notes, projects, internet res
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
 You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
 
-
-
 ### Kobble has drag and drop features
 The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
 Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
@@ -35,17 +33,10 @@ So, you can keep links organized where you need them, right alongside with other
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
 
-### Kobble uses GitHub data storage
-Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
-For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
-You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
-Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
-
 ### Share and collaborate or keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
-Your Kobble data can be stored in GitHub as a Secret Gist, a Private Repo, or a Public Repo.
-All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
+Y
 Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
 You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
 Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
@@ -57,6 +48,17 @@ Kobble gives you mastery over all stages of your creative process and productivi
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
 
+### Kobble allows you to organize the way you want to
+Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
+Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
+You can create an unlimited number of Channels, Tracks and Items to organize your work. 
+
+
+### Kobble uses GitHub data storage
+Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
+For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
+You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
+Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
