@@ -242,11 +242,6 @@ Log onto your personal GitHub account
 
 
 
-
-#
-
-
-
 ## Onboarding
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
 
