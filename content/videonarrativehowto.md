@@ -36,7 +36,7 @@ Documents and presentations in your Kobble environment are formatted using Markd
 ### Share and collaborate or keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
-Y
+
 Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
 You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
 Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
@@ -45,7 +45,6 @@ With Kobble, you always maintain control over your own data.
 ### Just imagine what you can do with Kobble
 You can be so much more productive when you have control over how your data is collected, created, presented, stored and shared!
 Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
-
 
 ### Kobble allows you to organize the way you want to
 Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
@@ -59,7 +58,6 @@ You will have stress free storage with the security that your data is never lost
 Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
 Your Kobble data can be stored in GitHub as a Private Repository, or a Public Repository.
 All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
-
 
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
