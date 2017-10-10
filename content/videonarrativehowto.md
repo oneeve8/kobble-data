@@ -22,31 +22,6 @@ If you are a creative, productive person, then Kobble is right for you!
 
 [Show a list of links, drop a link, editing a Markdown file, show a slide presentation]
 
-## Onboarding
-In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
-
-You will need to know a few things before you get started with Kobble.
- 
-Your Personal GitHub account.  
-Privacy and Sharing.  
-The Kobble Tree data format.  
-
-Any Channel with a white icon are those developed at Kobble that are visible and available to everyone.
-
-Any Channel with a green icon is yours and is only visible to you and nobody else.
-
-Channels can easily be shared with others
-Creating a Channel.  
-Creating a Track.  
-Creating an item.  
-
-## The Basics Video
-
-[Welcome to Kobble slide with name and Kobble icon or intro animation]
-
-[images of doing various things, dropping links, moving files and folders, saving a video link. While narrative is read]
-
-
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
 
@@ -274,3 +249,27 @@ Just imagine how much more productive you will be by having control over how you
 Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
+
+## Onboarding
+In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
+
+You will need to know a few things before you get started with Kobble.
+ 
+Your Personal GitHub account.  
+Privacy and Sharing.  
+The Kobble Tree data format.  
+
+Any Channel with a white icon are those developed at Kobble that are visible and available to everyone.
+
+Any Channel with a green icon is yours and is only visible to you and nobody else.
+
+Channels can easily be shared with others
+Creating a Channel.  
+Creating a Track.  
+Creating an item.  
+
+## The Basics Video
+
+[Welcome to Kobble slide with name and Kobble icon or intro animation]
+
+[images of doing various things, dropping links, moving files and folders, saving a video link. While narrative is read]
