@@ -6,7 +6,7 @@ Kobble is an amazingly versatile productivity environment that is just what you 
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
-With Kobble, you can collect scattered information from various sources and bring it all together into one place.  
+With Kobble, you can collect scattered information from various sources And create new content and bring it all together into one place.  
 
 If you like to keep a lot of information on a variety of topics of interest to you, Kobble was made with you in mind!
 Kobble can help you organize your internet bookmarks; gather internet research; create new content; and present and share your information with others. 
@@ -21,11 +21,9 @@ You will be given a brief introduction and overview of Kobble so you can get an 
 We also have more detailed instruction videos, so be sure to check them out.
 
 ### Kobble can be used for a variety of purposes
-With Kobble, you can easily create content for a variety of purposes.
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
 You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
-[saving an image, saving a video link, taking notes]
 
 ### Kobble allows you to organize the way you want to
 Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
