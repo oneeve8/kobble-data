@@ -25,10 +25,7 @@ You can keep all your data in Kobble such as study notes, projects, internet res
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
 You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
 
-### Kobble allows you to organize the way you want to
-Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
-Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
-You can create an unlimited number of Channels, Tracks and Items to organize your work. 
+
 
 ### Kobble has drag and drop features
 The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
