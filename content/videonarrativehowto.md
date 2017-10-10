@@ -7,6 +7,8 @@
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.].
 
+Welcome to Kobble
+
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
@@ -20,7 +22,9 @@ Kobble has just what you need to get the job done.
 
 If you are a creative, productive person, then Kobble is right for you!
 
-[Show a list of links, drop a link, editing a Markdown file, show a slide presentation]
+In this video,
+You will be given a brief introduction to Kobble
+
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
@@ -33,8 +37,7 @@ Then you can compile the information into a presentable format that you can shar
 
 [images of doing various things, dropping links, moving files and folders, saving a video link.]
 
-In this video,
-You will be given a brief introduction to Kobble
+
 
 ## Multitasking and Drag And Drop
 
