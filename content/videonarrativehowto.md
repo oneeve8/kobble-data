@@ -25,7 +25,49 @@ If you are a creative, productive person, then Kobble is right for you!
 In this video,
 You will be given a brief introduction and overview of Kobble so you can get an idea of what you can do with it.
 
-We also have more detailed instruction vid
+We also have more detailed instruction videos, so be sure to check them out.
+
+### Kobble can be used for a variety of purposes
+With Kobble, you can easily create content for a variety of purposes.
+You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
+Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
+You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
+[saving an image, saving a video link, taking notes]
+
+### Kobble allows you to organize the way you want to
+Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
+Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
+You can create an unlimited number of Channels, Tracks and Items to organize your work. 
+
+### Kobble has drag and drop features
+The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
+Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
+So, you can keep links organized where you need them, right alongside with other related information within your project Tracks.
+
+### Kobble uses Markdown format
+Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
+
+### Kobble data storage using GitHub
+Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
+For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
+You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
+Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
+
+### Share and collaborate or keep it private with Kobble
+Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
+Kobble has the versatility for sharing as much or as little as you want. 
+Your Kobble data can be stored in GitHub as a Secret Gist, a Private Repo, or a Public Repo.
+All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
+Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
+You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
+Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
+With Kobble, you always maintain control over your own data.
+
+### Just imagine what you can do with Kobble
+Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
+Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
+Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
+Check out our videos and tutorials to help you get started, right away!
 
 
 ## Welcome to Kobble
@@ -213,47 +255,7 @@ Log onto your personal GitHub account
 
 #
 
-### Kobble can be used for a variety of purposes
-With Kobble, you can easily create content for a variety of purposes.
-You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
-Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
-You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
-[saving an image, saving a video link, taking notes]
 
-### Kobble allows you to organize the way you want to
-Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
-Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
-You can create an unlimited number of Channels, Tracks and Items to organize your work. 
-
-### Kobble has drag and drop features
-The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
-Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
-So, you can keep links organized where you need them, right alongside with other related information within your project Tracks.
-
-### Kobble uses Markdown format
-Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
-
-### Kobble data storage using GitHub
-Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
-For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
-You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
-Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
-
-### Share and collaborate or keep it private with Kobble
-Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
-Kobble has the versatility for sharing as much or as little as you want. 
-Your Kobble data can be stored in GitHub as a Secret Gist, a Private Repo, or a Public Repo.
-All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
-Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
-You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
-Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
-With Kobble, you always maintain control over your own data.
-
-### Just imagine what you can do with Kobble
-Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
-Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
-Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
-Check out our videos and tutorials to help you get started, right away!
 
 ## Onboarding
 In this video we will show you how to onboard with Kobble, and give you a brief overview of what you can do with Kobble.
