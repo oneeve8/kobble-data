@@ -45,20 +45,24 @@ With Kobble, you always maintain control over your own data.
 ### Just imagine what you can do with Kobble
 You can be so much more productive when you have control over how your data is collected, created, presented, stored and shared!
 Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
-Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
-Check out our videos and tutorials to help you get started, right away!
+
 
 ### Kobble allows you to organize the way you want to
 Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
 Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
 You can create an unlimited number of Channels, Tracks and Items to organize your work. 
 
-
 ### Kobble uses GitHub data storage
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
 For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
 You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
 Your data can be edited, updated and controlled both through your personal GitHub account as well as through your personal Kobble environment. GitHub also keeps all of your revisions!
+Your Kobble data can be stored in GitHub as a Private Repository, or a Public Repository.
+All of your data is sent directly from your browser to GitHub, so it is never stored on our servers. 
+
+
+Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
+Check out our videos and tutorials to help you get started, right away!
 
 ## Welcome to Kobble
 Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
