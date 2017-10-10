@@ -33,23 +33,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/en.wikipedia.org\/wiki\/Mark_Twain"
-        }
-      },
-      "title" : "en.wikipedia.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "en.wikipedia.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
