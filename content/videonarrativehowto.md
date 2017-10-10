@@ -1,11 +1,4 @@
-# How To
-## Video Narrative
-
-## Welcome to Kobble Onboarding Video
-
 ### Intro Segment
-
-[images of doing various things, dropping links, moving files and folders, saving a video link.].
 
 Welcome to Kobble
 
