@@ -40,7 +40,7 @@ So, you can keep links organized where you need them, right alongside with other
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
 
-### Kobble data storage using GitHub
+### Kobble uses GitHub data storage
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
 For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
 You will have stress free storage with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
