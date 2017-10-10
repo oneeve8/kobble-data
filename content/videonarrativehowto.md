@@ -55,7 +55,7 @@ Sharing Kobble Channels with people you are collaborating with on your projects 
 With Kobble, you always maintain control over your own data.
 
 ### Just imagine what you can do with Kobble
-Just imagine how much more productive you will be by having control over how your data is collected, created, presented, stored and shared!
+You can be so much more productive when you have you will be by control over how your data is collected, created, presented, stored and shared!
 Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
