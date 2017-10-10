@@ -53,7 +53,7 @@
           }
         }
       },
-      "title" : "Catholic Place Introduction",
+      "title" : "CP Introduction",
       "view" : {
         "tag" : "UI.ContentViews.Views.RevealView"
       },
