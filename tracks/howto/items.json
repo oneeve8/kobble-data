@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
+            "path" : "content\/kobblelogointro.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Kobble Logo ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Introduction",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
             "path" : "content\/videonarrativehowto.md",
             "repo" : "kobble-data"
           }
