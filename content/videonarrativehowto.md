@@ -72,9 +72,6 @@ With Kobble, you can collect scattered information from various sources and brin
 
 Then you can compile the information into a presentable format that you can share with others.
 
-[images of doing various things, dropping links, moving files and folders, saving a video link.]
-
-
 
 ## Multitasking and Drag And Drop
 
