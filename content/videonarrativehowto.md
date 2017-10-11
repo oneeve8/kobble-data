@@ -20,8 +20,6 @@ You can also keep images, videos and all other project related links and notes a
 Drag and drop makes all your multi-tasking so quick and easy. 
 You can collect internet links easily by dragging and dropping them directly from the internet right into Kobble.
 So, you can keep links organized where you need them, right alongside with other related information.
-The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
-
 
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  Markdown is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
