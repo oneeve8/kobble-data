@@ -2,16 +2,13 @@
 
 Welcome to Kobble
 
-Kobble is an amazinglyversatile productivity environment that is just what you have been looking for!  
-
-Kobble is so unique, that you may not have ever seen anything like it before.  
+Kobble is an versatile productivity environment.
 
 With Kobble, you can collect scattered information from various sources And create new content and bring it all together into one place.  
 
-If you like to keep a lot of information on a variety of topics of interest to you, Kobble was made with you in mind!
+If you like to keep a lot of information on a variety of topics, Kobble was made with you in mind!
 Kobble can help you organize your internet bookmarks; gather internet research; create new content; and present and share your information with others. 
 
-Kobble has just what you need to get the job done.
 
 If you are a creative, productive person, then Kobble is right for you!
 
