@@ -36,7 +36,7 @@ With Kobble, you always maintain control over your own data.
 
 ### Just imagine what you can do with Kobble
 You can be so much more productive when you have control over how your data is collected, created, presented, stored and shared!
-Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; to then collaborating with others; up to the completion of your projects in a final presentation; and finally, to sharing your finished product with others. 
+Kobble gives you mastery over all stages of your creative process and productivity: starting from the conception of your ideas; to gathering information; collaborating with others; up to the completion of your projects and sharing your finished product with others. 
 
 ### Kobble allows you to organize the way you want to
 Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
