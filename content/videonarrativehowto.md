@@ -18,8 +18,8 @@ Kobble also helps you increase your productivity as you browse the internet coll
 You can also keep images, videos and all other project related links and notes all together in one place. 
 
 Drag and drop makes all your multi-tasking so quick and easy. 
-You can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
-So, you can keep links organized where you need them, right alongside with other related information within your project Tracks.
+You can collect internet links easily by dragging and dropping them directly from the internet right into Kobble.
+So, you can keep links organized where you need them, right alongside with other related information.
 The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
 
 
