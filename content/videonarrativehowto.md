@@ -2,7 +2,7 @@
 
 Welcome to Kobble
 
-Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
+Kobble is an amazinglyversatile productivity environment that is just what you have been looking for!  
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
