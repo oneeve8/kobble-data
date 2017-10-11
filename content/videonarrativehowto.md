@@ -9,20 +9,16 @@ With Kobble, you can collect scattered information from various sources And crea
 If you like to keep a lot of information on a variety of topics, Kobble was made with you in mind!
 Kobble can help you organize your internet bookmarks; gather internet research; create new content; and present and share your information with others. 
 
-
 If you are a creative, productive person, then Kobble is right for you!
 
 In this video,
 You will be given a brief introduction and overview of Kobble so you can get an idea of what you can do with it.
-
-We also have more detailed instruction videos, so be sure to check them out.
 
 ### Kobble can be used for a variety of purposes
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
 You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
 
-### Kobble has drag and drop features
 The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
 Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
 So, you can keep links organized where you need them, right alongside with other related information within your project Tracks.
