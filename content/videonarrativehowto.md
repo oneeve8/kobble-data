@@ -1,6 +1,6 @@
 ### Intro Segment
 
-Kobble is an versatile productivity environment.
+Kobble is a versatile productivity environment.
 
 With Kobble, you can collect scattered information from various sources And create new content and bring it all together into one place.  
 
