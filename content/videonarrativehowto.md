@@ -15,7 +15,9 @@ You will be given a brief introduction to Kobble so you can get an idea of what 
 ### Kobble can be used for a variety of purposes
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
 Kobble also helps you increase your productivity as you browse the internet collecting information for your research projects.
-You can also keep images, videos and all other project related links and notes all together in one place. Drag and drop makes all your multi-tasking so quick and easy. 
+You can also keep images, videos and all other project related links and notes all together in one place. 
+
+Drag and drop makes all your multi-tasking so quick and easy. 
 
 The versatility of the Kobble tree format allows you to drag and drop easily so you can organize and rearrange your Channels, Tracks and Items however you want.
 Another great feature of Kobble is that you can collect internet links easily by dragging and dropping them directly from the internet right into your Kobble Tracks. 
