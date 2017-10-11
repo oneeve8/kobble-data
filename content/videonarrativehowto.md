@@ -24,13 +24,12 @@ Another great feature of Kobble is that you can collect internet links easily by
 So, you can keep links organized where you need them, right alongside with other related information within your project Tracks.
 
 ### Kobble uses Markdown format
-Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  The benefits of Markdown is that it is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
+Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  Markdown is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
 
-### Share and collaborate or keep it private with Kobble
+### You can Share and collaborate or keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
 
-Your data actually completely bypasses our servers, so if you choose to keep privacy, then nobody else ever sees any of your data unless you decide to make it public.
 You can choose to keep your information private, and yet still easily share parts of it by sharing Channels of information with people who are interested in your work. 
 Sharing Kobble Channels with people you are collaborating with on your projects is effortless. 
 With Kobble, you always maintain control over your own data.
