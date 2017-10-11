@@ -10,7 +10,7 @@ Kobble can help you organize your internet bookmarks; gather internet research; 
 If you are a creative, productive person, then Kobble is right for you!
 
 In this video,
-You will be given a brief introduction and overview of Kobble so you can get an idea of what you can do with it.
+You will be given a brief introduction to Kobble so you can get an idea of what you can do with it.
 
 ### Kobble can be used for a variety of purposes
 You can keep all your data in Kobble such as study notes, projects, internet research, reports, and presentations. You can even stream archived books and view them in your Kobble environment. 
