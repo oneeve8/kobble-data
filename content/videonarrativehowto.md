@@ -43,8 +43,8 @@ You can create an unlimited number of Channels, Tracks and Item, and you can org
 
 ### Kobble uses GitHub data storage
 Kobble stores all of your data on [GitHub](https://github.com) in *your personal account*. 
-For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily. 
-An in-app purchase for a pwith the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
+For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily, giving you the security that your data is nev
+An in-app purchase for a private GitHub account with the security that your data is never lost. GitHub is easy to use and keeps everything updated as you edit. 
 
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
