@@ -24,7 +24,7 @@ So, you can keep links organized where you need them, right alongside with other
 ### Kobble uses Markdown format
 Documents and presentations in your Kobble environment are formatted using Markdown, an easy to use and versatile syntax format.  Markdown is platform independent, intuitive to use, uses plain text, provides basic formatting, and is easily converted to HTML.
 
-### You can Share and collaborate or keep it private with Kobble
+### You can Share and collaborateor keep it private with Kobble
 Some people like privacy; some people like sharing and collaborating; and some people like a little of both. 
 Kobble has the versatility for sharing as much or as little as you want. 
 
