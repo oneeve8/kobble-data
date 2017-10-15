@@ -42,9 +42,8 @@ Kobble's unique tree data model contains Channels and what we call Tracks - whic
 You can create an unlimited number of Channels, Tracks and Item, and you can organize and rearrange your work however you want.
 
 ### Kobble uses GitHub data storage
-Kobble stores all of your data on [GitHub](https://github.com) An in-app purchase allows you to set up your own in  personal account*. 
+Kobble stores all of your data on [GitHub](https://github.com) An in-app purchase allows you to set up your own *personal GitHub account*. 
 For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily, giving you the security that your data is never lost. It’s easy to use and keeps everything updated as you edit.
-An in-app purchase for a private GitHub account.
 
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
