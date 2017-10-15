@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Interesting Links",
+          "subtitle" : "Interesting Links",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/interestinglinks.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Great Books",
           "subtitle" : "Great Book Classics",
           "channel" : {
