@@ -42,7 +42,7 @@ Kobble gives you mastery over all stages of your creative process and productivi
 Kobble allows you to create various items in a tree data format such as links, file folders, documents and slide presentations.
 Kobble's unique tree data model contains Channels and what we call Tracks - which is simply a collection of these items relating to your projects that you want to keep track of.
 You can create an unlimited number of Channels, Tracks and Item, and you can organize and rearrange your work however you want.
-**
+***
 ### Kobble uses GitHub data storage
 Kobble stores all of your data on [GitHub](https://github.com) An in-app purchase allows you to set up your own *personal GitHub account*. 
 For those already familiar with GitHub, you will love this! Perhaps GitHub is new to other users, but you will soon see the benefits of having all your data stored and backed up so easily, giving you the security that your data is never lost. It’s easy to use and keeps everything updated as you edit.
