@@ -1053,6 +1053,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/demonarchiaedite00dantuoft"
+        }
+      },
+      "title" : "De monarchia. Edited with translation an",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
