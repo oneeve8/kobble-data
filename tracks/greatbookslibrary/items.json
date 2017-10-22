@@ -1291,6 +1291,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/instituteschrist01calvuoft"
+        }
+      },
+      "title" : "Institutes of the Christian religion; a ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/essaysmichaelde03montgoog"
+        }
+      },
+      "title" : "The Essays of Michael de Montaigne : Mic",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google from the library of the U",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
