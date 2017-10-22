@@ -237,6 +237,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/gargantuaandpantagruel_1007_librivox"
+        }
+      },
+      "title" : "Gargantua and Pantagruel, Book I : Franç",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Gargantua and Pantagruel, Bo",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
