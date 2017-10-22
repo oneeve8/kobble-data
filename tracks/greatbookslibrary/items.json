@@ -203,6 +203,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksofaristotle002390mbp"
+        }
+      },
+      "title" : "The Works Of Aristotle Volume 1 : Free D",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
