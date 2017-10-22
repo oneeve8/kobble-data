@@ -747,6 +747,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/NicomachusIntroToArithmetic"
+        }
+      },
+      "title" : "Nicomachus Intro to Arithmetic : Nicomac",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Nicomachus of Gerasa the Neo Pythagorean Introduct",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
