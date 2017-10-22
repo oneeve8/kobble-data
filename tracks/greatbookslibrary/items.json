@@ -237,6 +237,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Vol. 3",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
