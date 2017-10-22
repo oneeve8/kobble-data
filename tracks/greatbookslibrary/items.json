@@ -713,6 +713,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/histories01taciuoft"
+        }
+      },
+      "title" : "The Histories : Tacitus, Cornelius : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Vol. 2-4 have title: Tacitus, The Histories, with ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
