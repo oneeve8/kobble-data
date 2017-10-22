@@ -1036,6 +1036,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/newlifelavitanuo00dantuoft"
+        }
+      },
+      "title" : "The new life (La vita nuova) by Dante Al",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
