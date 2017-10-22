@@ -1007,14 +1007,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/summatheologic01thom"
+          "url" : "https:\/\/archive.org\/details\/summatheologicao02thom"
         }
       },
       "title" : "The \"Summa theologica\" of St. Thomas Aqu",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Imprint various slightly",
+      "subtitle" : "",
       "expanded" : true,
       "children" : [
 
