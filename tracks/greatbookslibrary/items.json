@@ -866,6 +866,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/AugustineTheWorksNewTranslation"
+        }
+      },
+      "title" : "Saint st Augustine Complete Works : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Complete works of Saint Augustine. The City of God",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
