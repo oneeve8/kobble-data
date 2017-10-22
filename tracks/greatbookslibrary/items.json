@@ -798,6 +798,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksoflucianofs04luciuoft"
+        }
+      },
+      "title" : "The works of Lucian of Samosata, complet",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
