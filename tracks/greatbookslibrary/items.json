@@ -968,6 +968,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/summacontragenti02thomuoft"
+        }
+      },
+      "title" : "The Summa contra gentiles of Saint Thoma",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Includes bibliographical references",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
