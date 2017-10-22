@@ -441,6 +441,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksofarchimede00arch"
+        }
+      },
+      "title" : "The works of Archimedes : Archimedes : F",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Introduction: I. Archimedes. II. Manuscripts and p",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
