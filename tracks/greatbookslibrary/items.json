@@ -327,14 +327,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksaristotle08arisgoog"
+          "url" : "https:\/\/archive.org\/stream\/worksofaristotle08arisuoft"
         }
       },
-      "title" : "Works : Aristotle : Free Download & Stre",
+      "title" : "The Works Of Aristotle ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of the U",
+      "subtitle" : "Volume 8",
       "expanded" : true,
       "children" : [
 
