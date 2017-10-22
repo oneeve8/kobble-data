@@ -106,10 +106,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tragedieseuripi00buckgoog"
+          "url" : "https:\/\/archive.org\/stream\/tragedieseuripi00buckgoog"
         }
       },
-      "title" : "The tragedies of Euripides; : Euripides ",
+      "title" : "The Tragedies of Euripides",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
