@@ -327,14 +327,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksofaristotle08arisuoft"
+          "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
         }
       },
-      "title" : "The Works Of Aristotle ",
+      "title" : "The works of Aristotle : Aristotle : Fre",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Volume 8",
+      "subtitle" : "vol. 9",
       "expanded" : true,
       "children" : [
 
