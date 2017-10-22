@@ -220,6 +220,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/workstranslatedi02arisuoft"
+        }
+      },
+      "title" : "Works. Translated into English under the",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26 45",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
