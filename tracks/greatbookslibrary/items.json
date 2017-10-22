@@ -339,6 +339,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/theworksofaristo10arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "vol 10",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
