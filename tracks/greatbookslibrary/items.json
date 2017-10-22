@@ -191,14 +191,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksplato01carygoog"
+          "url" : "https:\/\/archive.org\/stream\/worksplato01carygoog"
         }
       },
-      "title" : "The works of Plato : Plato : Free Downlo",
+      "title" : "The works of Plato : Plato ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "subtitle" : "Book digitized by Google ",
       "expanded" : true,
       "children" : [
 
@@ -208,14 +208,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksofaristotle002390mbp"
+          "url" : "https:\/\/archive.org\/stream\/worksofaristotle002390mbp"
         }
       },
-      "title" : "The Works Of Aristotle Volume 1 : Free D",
+      "title" : "The Works Of Aristotle",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Volume 1",
       "expanded" : true,
       "children" : [
 
