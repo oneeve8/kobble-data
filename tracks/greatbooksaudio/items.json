@@ -203,6 +203,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/prince_pa_librivox"
+        }
+      },
+      "title" : "The Prince : Niccolo Machiavelli : Free ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Prince, by Niccolò Machi",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
