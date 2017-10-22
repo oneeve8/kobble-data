@@ -611,6 +611,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/cu31924028290066"
+        }
+      },
+      "title" : "Livy",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The metadata below describe the original scanning.",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
