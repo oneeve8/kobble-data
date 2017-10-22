@@ -1138,6 +1138,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/princemac00machuoft"
+        }
+      },
+      "title" : "The prince : Machiavelli, Niccolò, 1469-",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "27",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
