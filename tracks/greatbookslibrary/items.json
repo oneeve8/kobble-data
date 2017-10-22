@@ -883,6 +883,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/volsungasagatran009188mbp"
+        }
+      },
+      "title" : "The Volsunga Saga Translated From The Ic",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
