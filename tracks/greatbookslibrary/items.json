@@ -1223,6 +1223,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/on-the-revolutions-of-celestial-spheres"
+        }
+      },
+      "title" : "On the Revolutions of the Celestial Sphe",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "De revolutionibus orbium coelestium (On the revolu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
