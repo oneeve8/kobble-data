@@ -1002,6 +1002,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/summatheologic01thom"
+        }
+      },
+      "title" : "The \"Summa theologica\" of St. Thomas Aqu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Imprint various slightly",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
