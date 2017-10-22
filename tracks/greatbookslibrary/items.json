@@ -101,6 +101,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tragedieseuripi00buckgoog"
+        }
+      },
+      "title" : "The tragedies of Euripides; : Euripides ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google from the library of Oxfor",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
