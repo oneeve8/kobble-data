@@ -322,6 +322,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksaristotle08arisgoog"
+        }
+      },
+      "title" : "Works : Aristotle : Free Download & Stre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google from the library of the U",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
