@@ -67,6 +67,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/1914historyofhe02hero"
+        }
+      },
+      "title" : "The history of Herodotus : Herodotus : F",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26 52",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
