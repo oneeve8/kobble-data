@@ -475,6 +475,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/ciceroonoratorya00ciceuoft"
+        }
+      },
+      "title" : "Cicero on oratory and orators : Cicero, ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Includes bibliographical references and index",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
