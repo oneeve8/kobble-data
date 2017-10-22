@@ -356,6 +356,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/theworksofaristo11arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "vol. 11",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksofaristotle12arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "v. 1. Categoriae and De interpretatione, by E. M. ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
