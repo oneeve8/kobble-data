@@ -62,7 +62,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of Herodotus",
+      "subtitle" : "LibriVox recording of Herodotus Vol 2",
       "expanded" : true,
       "children" : [
 
@@ -79,7 +79,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of Herodotus",
+      "subtitle" : "LibriVox recording of Herodotus Vol 3",
       "expanded" : true,
       "children" : [
 
