@@ -1257,6 +1257,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tabletalkofmarti1872luth"
+        }
+      },
+      "title" : "The table talk of Martin Luther : Luther",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Translation of: Tischreden",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/gargantuapantagr03rabeuoft"
+        }
+      },
+      "title" : "Gargantua and Pantagruel. Translated int",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
