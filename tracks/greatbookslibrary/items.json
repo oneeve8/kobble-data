@@ -186,6 +186,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksplato01carygoog"
+        }
+      },
+      "title" : "The works of Plato : Plato : Free Downlo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
