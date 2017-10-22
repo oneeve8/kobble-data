@@ -55,14 +55,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/herodotus00herouoft"
+          "url" : "https:\/\/archive.org\/stream\/herodotus00herouoft"
         }
       },
-      "title" : "The history of Herodotus Volume 1 : Hero",
+      "title" : "The History of Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Volume 1",
       "expanded" : true,
       "children" : [
 
@@ -72,7 +72,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/1914historyofhe02hero"
+          "url" : "https:\/\/archive.org\/stream\/1914historyofhe02hero"
         }
       },
       "title" : "The history of Herodotus : Herodotus : F",
