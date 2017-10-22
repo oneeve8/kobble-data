@@ -1104,6 +1104,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/TheImitationOfChristChalloner"
+        }
+      },
+      "title" : "The Imitation Of Christ Challoner : Thom",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Imitation Of Christ by Thomas a Kempis. Transl",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/noteboo00leon"
+        }
+      },
+      "title" : "The notebooks of Leonardo da Vinci : Leo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "First published by Reynal & Hitchcock, 1939",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
