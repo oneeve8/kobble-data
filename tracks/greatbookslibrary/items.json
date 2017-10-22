@@ -58,11 +58,11 @@
           "url" : "https:\/\/archive.org\/details\/herodotus00herouoft"
         }
       },
-      "title" : "archive.org",
+      "title" : "The history of Herodotus Volume 1 : Hero",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "",
       "expanded" : true,
       "children" : [
 
