@@ -917,6 +917,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/storyburntnjal00daseiala"
+        }
+      },
+      "title" : "The story of Burnt Njal; from the Icelan",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
