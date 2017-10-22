@@ -92,11 +92,11 @@
           "url" : "https:\/\/archive.org\/details\/historyofherod03hero"
         }
       },
-      "title" : "History of Herodotus : a new English ver",
+      "title" : "The History of Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26 45 52",
+      "subtitle" : "Volume 3",
       "expanded" : true,
       "children" : [
 
