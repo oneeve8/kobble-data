@@ -531,14 +531,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/cicerostusculand00ciceiala"
+          "url" : "https:\/\/archive.org\/stream\/cicerostusculand00ciceiala"
         }
       },
       "title" : "Cicero",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Tusculan Disputationa",
       "expanded" : true,
       "children" : [
 
