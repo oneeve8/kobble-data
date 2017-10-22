@@ -594,6 +594,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/completeworksho00horagoog"
+        }
+      },
+      "title" : "The complete works of Horace : the origi",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
