@@ -135,6 +135,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/genuineworkship02hippgoog"
+        }
+      },
+      "title" : "Hippocrates",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Genuine Works",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
