@@ -75,11 +75,11 @@
           "url" : "https:\/\/archive.org\/stream\/1914historyofhe02hero"
         }
       },
-      "title" : "The history of Herodotus : Herodotus : F",
+      "title" : "The History of Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26 52",
+      "subtitle" : "Volume 2",
       "expanded" : true,
       "children" : [
 
