@@ -126,11 +126,11 @@
           "url" : "https:\/\/archive.org\/details\/completewritings010850mbp"
         }
       },
-      "title" : "The Complete Writings Of Thucydides The ",
+      "title" : "Thucydides ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Complete Writings",
       "expanded" : true,
       "children" : [
 
