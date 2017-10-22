@@ -225,14 +225,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/workstranslatedi02arisuoft"
+          "url" : "https:\/\/archive.org\/stream\/workstranslatedi02arisuoft"
         }
       },
-      "title" : "Works. Translated into English under the",
+      "title" : "The Works Of Aristotle",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26 45",
+      "subtitle" : "Volume 2",
       "expanded" : true,
       "children" : [
 
