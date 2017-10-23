@@ -1410,6 +1410,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/baconsnovumorgan00bacoiala"
+        }
+      },
+      "title" : "Bacon",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Bibliography of the Novum organum: p. 145-155",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
