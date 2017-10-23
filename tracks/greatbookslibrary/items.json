@@ -1359,6 +1359,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/edmundspensersam00spenuoft"
+        }
+      },
+      "title" : "Edmund Spenser",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Includes indexes",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
