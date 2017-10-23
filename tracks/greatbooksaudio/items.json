@@ -305,6 +305,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/don_quixote_vol1_librivox"
+        }
+      },
+      "title" : "Don Quixote, Volume 1 : Miguel de Cervan",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Don Quixote Volume 1, by Mig",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
