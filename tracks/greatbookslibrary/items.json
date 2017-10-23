@@ -1427,6 +1427,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/advancementnewat00bacouoft"
+        }
+      },
+      "title" : "Advancement of learning, and The new Atl",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "26",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
