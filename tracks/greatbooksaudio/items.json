@@ -339,6 +339,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/newatlantis_1111_librivox"
+        }
+      },
+      "title" : "The New Atlantis : Francis Bacon : Free ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The New Atlantis by Francis ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
