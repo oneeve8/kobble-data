@@ -475,6 +475,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/essay_criticism_0906_librivox"
+        }
+      },
+      "title" : "An Essay on Criticism : Alexander Pope :",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "This is a librivox recording of An Essay on Critic",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
