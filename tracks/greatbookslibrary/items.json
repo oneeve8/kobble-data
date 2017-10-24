@@ -1580,6 +1580,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/discourseonmetho1912desc"
+        }
+      },
+      "title" : "A discourse on method ; Meditations on t",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Translation of: Discours de la methode ; Meditatio",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
