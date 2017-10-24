@@ -1758,11 +1758,11 @@
           "url" : "https:\/\/archive.org\/details\/chiefworksofbene01spin"
         }
       },
-      "title" : "archive.org",
+      "title" : "The chief works of Benedict de Spinoza :",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Spine title: Spinoza",
       "expanded" : true,
       "children" : [
 
