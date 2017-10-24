@@ -1495,6 +1495,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksofwilliamha00harviala"
+        }
+      },
+      "title" : "The works of William Harvey .. : Harvey,",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Includes bibliographical footnotes and index",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
