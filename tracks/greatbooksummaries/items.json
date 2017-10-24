@@ -71,6 +71,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/meditations_descartes_dew_librivox"
+        }
+      },
+      "title" : "Meditations on First Philosophy : Ren&ea",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Meditations on First Philoso",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
