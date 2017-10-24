@@ -2124,6 +2124,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/aeb0151.0001.001.umich.edu"
+        }
+      },
+      "title" : "Pope",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Mode of access: Internet",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
