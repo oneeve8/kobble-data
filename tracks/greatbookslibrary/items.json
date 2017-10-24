@@ -1546,6 +1546,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/englishworkstho21hobbgoog"
+        }
+      },
+      "title" : "The English works of Thomas Hobbes of Ma",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
