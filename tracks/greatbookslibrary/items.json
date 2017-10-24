@@ -2090,6 +2090,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/newtheoryofvisio00geor"
+        }
+      },
+      "title" : "A New Theory of Vision and Other Select ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "No. 483 of Everyman",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
