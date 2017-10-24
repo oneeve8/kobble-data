@@ -1741,11 +1741,11 @@
           "url" : "https:\/\/archive.org\/details\/treatiseonlight031310mbp"
         }
       },
-      "title" : "archive.org",
+      "title" : "Treatise On Light : Huygens, Christiaan ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "",
       "expanded" : true,
       "children" : [
 
