@@ -1767,6 +1767,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/toleration"
+        }
+      },
+      "title" : "A Letter Concerning Toleration : John Lo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A Letter Concerning Toleration by John Locke was o",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
