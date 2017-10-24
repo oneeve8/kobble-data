@@ -105,6 +105,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/ethics_1010_librivox"
+        }
+      },
+      "title" : "The Ethics : Spinoza, Benedict de : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Ethics, by Benedict de S",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
