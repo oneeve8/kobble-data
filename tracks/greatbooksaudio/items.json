@@ -458,6 +458,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/way_of_world_1201_librivox"
+        }
+      },
+      "title" : "The Way of the World : William Congreve ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Way of the World, by Wil",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
