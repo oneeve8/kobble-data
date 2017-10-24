@@ -492,6 +492,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/essay_on_man_0909_librivox"
+        }
+      },
+      "title" : "An Essay on Man : Alexander Pope : Free ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of An Essay on Man, by Alexande",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
