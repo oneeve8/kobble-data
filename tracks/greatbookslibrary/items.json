@@ -2107,6 +2107,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/atreatiseconcer00berkgoog"
+        }
+      },
+      "title" : "A Treatise Concerning the Principles of ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google from the library of the U",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
