@@ -1512,6 +1512,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/rightsofwarpeace00grotiala"
+        }
+      },
+      "title" : "The rights of war and peace : including ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
