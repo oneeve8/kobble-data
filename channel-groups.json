@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Art",
+          "subtitle" : "Paintings And Artists",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Art.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Great Books",
           "subtitle" : "Great Book Classics",
           "channel" : {
