@@ -270,15 +270,15 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/workstranslatedi02arisuoft"
+              "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
             }
           },
-          "title" : "The Works Of Aristotle",
+          "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "Volume 2",
-          "expanded" : true,
+          "subtitle" : "Vol. 3",
+          "expanded" : false,
           "children" : [
 
           ]
