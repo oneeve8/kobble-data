@@ -3,15 +3,6 @@
   "subtitle" : "Study Unit",
   "tracks" : [
     {
-      "title" : "Tom Sawyer",
-      "subtitle" : "Notes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/notestomsawyer",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Mark Twain Presentations",
       "subtitle" : "His Life and Works",
       "track" : {
