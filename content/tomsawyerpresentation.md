@@ -3,6 +3,6 @@
 Tom Sawyer, by Mark Twain
 :::
 ::: slide
-### Presentation
-Tom Sawyer
+### A Boy
+Tom Sawyer is about a boy...
 :::
