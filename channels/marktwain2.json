@@ -3,20 +3,20 @@
   "subtitle" : "Study Unit",
   "tracks" : [
     {
-      "title" : "Mark Twain Presentations",
-      "subtitle" : "His Life and Works",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/twainpresentation",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Mark Twain Quotes",
       "subtitle" : "Wit  and Wisdom",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/marktwainquotes",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Mark Twain Presentations",
+      "subtitle" : "His Life and Works",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/twainpresentation",
         "repo" : "kobble-data"
       }
     },
