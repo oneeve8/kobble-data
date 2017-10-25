@@ -13,15 +13,6 @@
           }
         },
         {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Great Books",
           "subtitle" : "Great Book Classics",
           "channel" : {
@@ -54,6 +45,15 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Kobbleintro.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
             "repo" : "kobble-data"
           }
         },
