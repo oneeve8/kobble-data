@@ -240,20 +240,6 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Aristotle",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Various Works",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/worksofaristotle002390mbp"
@@ -271,19 +257,32 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/workstranslatedi02arisuoft"
-        }
+        "tag" : "UI.Track.NoData"
       },
-      "title" : "The Works Of Aristotle",
+      "title" : "Aristotle",
       "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
+        "tag" : "UI.ContentViews.Views.FolderView"
       },
-      "subtitle" : "Volume 2",
+      "subtitle" : "Various Works",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/workstranslatedi02arisuoft"
+            }
+          },
+          "title" : "The Works Of Aristotle",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Volume 2",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        }
       ]
     },
     {
