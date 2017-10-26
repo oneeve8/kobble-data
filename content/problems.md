@@ -17,4 +17,5 @@ After I copied my items into another track, I just deleted that folder and the d
 ### Kobble Base Tracks Issue
 I tried to tap open the items, content flashed on the Kobble view, but then disappeared. After several attempts at tapping, the information finally appeared
 
-###
+### Tutorial needs updating
+The tutorial slide show has old information such as creating a 
