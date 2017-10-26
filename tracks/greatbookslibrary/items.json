@@ -500,11 +500,11 @@
           "url" : "https:\/\/archive.org\/stream\/completeworksho00horagoog"
         }
       },
-      "title" : "The complete works of Horace : the origi",
+      "title" : "Horace ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
