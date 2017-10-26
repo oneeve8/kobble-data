@@ -1,4 +1,4 @@
-### Intro Segment
+### Intro Video
 
 Kobble is an amazing productivity environment.
 
