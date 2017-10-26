@@ -36,7 +36,7 @@ In other words, I ended up with two volume 7s that had replaced volumes 11 and 1
 
 I hope that helps to explain better what happened.
 
-(1-6 got deleted in my first attempt as mentioned before, I haven’t replaced them yet)
+(1-6 got deleted in my first attempt as mentioned before, I have not replaced them yet)
 
 
 
