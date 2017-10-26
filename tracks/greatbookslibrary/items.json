@@ -92,11 +92,11 @@
           "url" : "https:\/\/archive.org\/stream\/1914historyofhe02hero"
         }
       },
-      "title" : "The History of Herodotus ",
+      "title" : "Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Volume 2",
+      "subtitle" : "History Volume 2",
       "expanded" : true,
       "children" : [
 
@@ -109,11 +109,11 @@
           "url" : "https:\/\/archive.org\/stream\/historyofherod03hero"
         }
       },
-      "title" : "The History of Herodotus ",
+      "title" : "Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Volume 3",
+      "subtitle" : "History Volume 3",
       "expanded" : true,
       "children" : [
 
