@@ -1690,11 +1690,11 @@
           "url" : "https:\/\/archive.org\/details\/somethoughtsconc00lockuoft"
         }
       },
-      "title" : "Some thoughts concerning education : Loc",
+      "title" : "John Locke",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Some thoughts concerning education",
       "expanded" : true,
       "children" : [
 
