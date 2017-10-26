@@ -871,14 +871,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/summatheologicao02thom"
+          "url" : "https:\/\/archive.org\/stream\/summatheologicao02thom"
         }
       },
-      "title" : "The \"Summa theologica\" of St. Thomas Aqu",
+      "title" : "St. Thomas Aquinas",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Summa Theologica",
       "expanded" : true,
       "children" : [
 
