@@ -2,6 +2,7 @@
 ## To Do
 ***
 
+Finish
 
 ### Great Books
 
