@@ -219,6 +219,40 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo11arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol. 11",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo10arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol 10",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/archive.org\/stream\/theworksofaristo09arisuoft"
             }
           },
@@ -266,40 +300,6 @@
 
           ]
         }
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/theworksofaristo10arisuoft"
-        }
-      },
-      "title" : "Aristotle ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works vol 10",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/theworksofaristo11arisuoft"
-        }
-      },
-      "title" : "Aristotle ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works vol. 11",
-      "expanded" : true,
-      "children" : [
-
       ]
     },
     {
