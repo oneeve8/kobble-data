@@ -89,6 +89,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Vol. 3",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/iliadinterlinear00homerich"
         }
       },
@@ -253,31 +270,14 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo08arisuoft"
+              "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
             }
           },
           "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "vol. 8",
-          "expanded" : false,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/worksofaristotle002390mbp"
-            }
-          },
-          "title" : "The Works Of Aristotle",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Volume 1",
+          "subtitle" : "Vol. 3",
           "expanded" : false,
           "children" : [
 
