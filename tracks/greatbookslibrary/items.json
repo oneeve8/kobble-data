@@ -888,14 +888,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/divinecomedyofda030159mbp"
+          "url" : "https:\/\/archive.org\/stream\/divinecomedyofda030159mbp"
         }
       },
-      "title" : "The Divine Comedy Of Dante Alighieri : A",
+      "title" : "Dante Alighieri ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Divine Comedy",
       "expanded" : true,
       "children" : [
 
