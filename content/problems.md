@@ -11,4 +11,5 @@ Expanding and contracting caused extra copies to appear or disappear
 Tried to delete extra copies and wrong files got deleted
 Tried to copy and paste instead and that did not work either
 I lost some files so 
-Then I just decided to cut and paste the items into another track and s
+Then I just decided to cut and paste the items into another track and start over.
+
