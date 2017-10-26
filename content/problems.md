@@ -23,4 +23,5 @@ The tutorial slide show has old information such as creating a channel or track 
 ### Home Page
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 
+### Character Issue
 
