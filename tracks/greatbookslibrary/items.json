@@ -990,14 +990,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/noteboo00leon"
+          "url" : "https:\/\/archive.org\/stream\/noteboo00leon"
         }
       },
-      "title" : "The notebooks of Leonardo da Vinci : Leo",
+      "title" : "Leonardo da Vinci ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "First published by Reynal & Hitchcock, 1939",
+      "subtitle" : "Notebooks",
       "expanded" : true,
       "children" : [
 
