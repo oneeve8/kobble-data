@@ -59,7 +59,7 @@ The Kobble tree is organised into channels, tracks and items. you can organise t
 
 To create your own channel, click the plus sign next to Channels in your tree. Enter an ID for Github storage, a title, and a subtitle, then tap done. The owner and Repository information is defaulted.
 
-Next you can add a track. Tracks simply contain items that you want to keep track of. Add a track by tapping the plus sign next to the channel you just added. Type in your ID, title and subtitle  tap done.
+Next you can add a track. Tracks simply contain items that you want to keep track of. Add a track by tapping the plus sign next to the channel you just added. Type in your ID, title and subtitle, then tap done.
 
 Your new track will appear in your tree.
 
