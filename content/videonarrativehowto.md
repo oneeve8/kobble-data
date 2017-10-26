@@ -65,7 +65,9 @@ Next you can add a track. Tracks simply contain items that you want to keep trac
 
 Your new track will appear in your tree.
 
-Next I’ll sho you how to drag and drop a link. Kobble takes a
+Next I’ll show you how to drag and drop a link. Kobble takes advantage of the iPad’s multi tasking features.
+
+Swipe up
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
