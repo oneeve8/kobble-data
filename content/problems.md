@@ -15,7 +15,7 @@ I had a bunch of links for Librivox books saved in my Great Books channel that a
 
 I checked in GitHub and the other items that used to be there in the tree are in GitHub
 
-Maybe I did go into edit mode and move them when I was doing my tutorial video to show how to move things. If that is the ca
+Maybe I did go into edit mode and move them when I was doing my tutorial video and practicing how to show how to move things. If that is the case, then it could be something to do with the time it takes to save things?
 ***
 
 ### Folder problems 26/11
