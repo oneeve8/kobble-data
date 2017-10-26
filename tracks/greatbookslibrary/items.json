@@ -253,14 +253,31 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/worksofaristotle002390mbp"
+              "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
             }
           },
-          "title" : "The Works Of Aristotle",
+          "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "Volume 1",
+          "subtitle" : "vol. 9",
+          "expanded" : false,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
+            }
+          },
+          "title" : "The works of Aristotle : Aristotle : Fre",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "vol. 12",
           "expanded" : true,
           "children" : [
 
@@ -501,23 +518,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "vol. 11",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
-        }
-      },
-      "title" : "The works of Aristotle : Aristotle : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 12",
       "expanded" : true,
       "children" : [
 
