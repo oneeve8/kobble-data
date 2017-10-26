@@ -15,4 +15,6 @@ Then I just decided to cut and paste the items into another track and start over
 After I copied my items into another track, I just deleted that folder and the duplicate items.
 
 ### Kobble Base Tracks Issue
-I tried to tap open the items, content flashed on the Kobble view, but then disappear
+I tried to tap open the items, content flashed on the Kobble view, but then disappeared. After several attempts at tapping, the information finally appeared
+
+###
