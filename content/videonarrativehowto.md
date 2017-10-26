@@ -89,7 +89,7 @@ Toggle between the pencil and square icon to change your view.
 As you can see, your results appear as you type.
 
 
-Next I’ll show you how to create a presentation. Click the green plus sign next to the channel where you want your presentation file. Select presentation as your item type. Enter your title, subtitle and ID. Type your information into your markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
+Next I’ll show you how to create a presentation. Click the green plus sign next to the channel where you want your presentation file. Select presentation as your item type. Enter your title, subtitle and ID. Type your informatyour markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
