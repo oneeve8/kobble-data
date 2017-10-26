@@ -803,14 +803,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/guideforperplexe00maim"
+          "url" : "https:\/\/archive.org\/stream\/guideforperplexe00maim"
         }
       },
-      "title" : "The guide for the perplexed : Maimonides",
+      "title" : "Maimonides",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "A Guide For The Perplexed",
       "expanded" : true,
       "children" : [
 
