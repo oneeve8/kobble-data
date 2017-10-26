@@ -28,7 +28,7 @@ Contents of this Channel:
 Problems Found (A file to keep track of Kobble Issues found)
 
 #### Track: Projects
-A 
+A To Do list of Kobble projects in process or things I want to do
 
 ***
 
