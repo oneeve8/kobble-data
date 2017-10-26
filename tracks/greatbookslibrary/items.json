@@ -1772,14 +1772,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/discourseonmetap00leib"
+          "url" : "https:\/\/archive.org\/stream\/discourseonmetap00leib"
         }
       },
-      "title" : "Discourse on metaphysics, correspondence",
+      "title" : "Liebniz",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Discourse on metaphysics, correspondence",
       "expanded" : true,
       "children" : [
 
