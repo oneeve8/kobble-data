@@ -313,11 +313,11 @@
           "url" : "https:\/\/archive.org\/stream\/theworksofaristo12arisuoft"
         }
       },
-      "title" : "The works of Aristotle : Aristotle : Fre",
+      "title" : "Aristotle ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "vol. 12",
+      "subtitle" : "Works vol. 12",
       "expanded" : true,
       "children" : [
 
