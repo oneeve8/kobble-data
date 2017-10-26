@@ -718,14 +718,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/plotinustheennea033190mbp"
+          "url" : "https:\/\/archive.org\/stream\/plotinustheennea033190mbp"
         }
       },
-      "title" : "Plotinus The Enneads : Mackenna,Stephen.",
+      "title" : "Plotinus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Enneads",
       "expanded" : true,
       "children" : [
 
