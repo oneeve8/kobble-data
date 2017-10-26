@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
+            "path" : "content\/tutorialvidnarrative.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Tutorial Video",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Narrative",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
             "path" : "content\/videonarrativehowto.md",
             "repo" : "kobble-data"
           }
