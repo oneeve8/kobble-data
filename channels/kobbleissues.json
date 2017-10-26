@@ -2,6 +2,14 @@
   "title" : "Kobble Testing",
   "subtitle" : "Issues",
   "tracks" : [
-
+    {
+      "title" : "Issues",
+      "subtitle" : "Problems Found In Testing",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Issues",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
