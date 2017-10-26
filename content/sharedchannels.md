@@ -18,6 +18,8 @@ Markdown Syntax (A markdown file with a cheat sheet on markdown syntax formattin
 
 [Kobble Testing](kobble://kobble.io/channel?title=Kobble%20Testing&subtitle=Issues&owner=oneeve8&repo=kobble-data&path=channels/kobbleissues.json)
 
+Contents of this Channel:
+
 #### Track: Issues 
 Problems Found (A file to keep track of Kobble Issues found)
 
