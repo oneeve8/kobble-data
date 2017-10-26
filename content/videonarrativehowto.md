@@ -80,7 +80,7 @@ Next I’ll show you how to create a Markdown file. Select the plus sign next to
 
 Markdown is an easy to use syntax and is easily converted to HTML. Markdown is intuitive, uses plain text and provides basic formatting. Tap the pencil icon in your Kobble view to edit and start typing. Your split screen view shows Markdown on the top half, and the result in the bottom half of your screen. Toggle between the pencil and square icon to change your view. As you can see, your results appear as you type.
 
-Next I’ll show you how to create a presentation. Click the green plus sign next to the channel where you want your presentation file. Select presen
+Next I’ll show you how to create a presentation. Click the green plus sign next to the channel where you want your presentation file. Select presentation as your item type. Enter your title, subtitle and ID. Type your information into your markdown
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
