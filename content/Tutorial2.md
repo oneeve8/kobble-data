@@ -21,10 +21,10 @@ White Channel,
 Plus symbol,  
 Green track (train track),  
 Triple Bar,  
-Home
-Presentation icon (presentation screen)
-Markdown icon (M)
-Link icon (chain)
-Open a new window
-Kobble view (square view)
-Markdown edit (pencil)
+Home,  
+Presentation icon (presentation screen),  
+Markdown icon (M),  
+Link icon (chain),  
+Open a new window,  
+Kobble view (square view),  
+Markdown edit (pencil).  
