@@ -2013,11 +2013,11 @@
           "url" : "https:\/\/archive.org\/details\/popesrapeoflock00pope"
         }
       },
-      "title" : "Pope",
+      "title" : "Alexander Pope",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Rape Of The Lock",
       "expanded" : true,
       "children" : [
 
