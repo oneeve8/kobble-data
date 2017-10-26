@@ -1860,11 +1860,11 @@
           "url" : "https:\/\/archive.org\/stream\/fortunesandmisfo00defouoft\/fortunesandmisfo00defouoft_djvu.txt"
         }
       },
-      "title" : "archive.org",
+      "title" : "Daniel Defoe",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Moll Flanders & Roxana",
       "expanded" : true,
       "children" : [
 
