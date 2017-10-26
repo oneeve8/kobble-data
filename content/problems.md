@@ -15,7 +15,7 @@ I had a bunch of links for Librivox books saved in my Great Books channel that a
 
 I checked in GitHub and the other items that used to be there in the tree are in GitHub
 
-Maybe I did go into edit mode and move them when I was doing my tutorial video and practicing how to show how to move things. If that is the case, then it could be something to do with the time it takes to save moves made in edit mode? When pressing done maybe that should be a commit button
+Maybe I did go into edit mode and move them when I was doing my tutorial video and practicing how to show how to move things. If that is the case, then it could be something to do with the time it takes to save moves made in edit mode? When pressing done maybe that should be a commit button, I don’t know if done just closes the edit mode or if it is a save. Maybe that would help save things
 ***
 
 ### Folder problems 26/11
