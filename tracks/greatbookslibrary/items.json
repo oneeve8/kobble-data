@@ -1891,14 +1891,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/ost-english-a-modest-proposal-by-dr"
+          "url" : "https:\/\/archive.org\/stream\/ost-english-a-modest-proposal-by-dr"
         }
       },
-      "title" : "A Modest Proposal : Jonathan Swift : Fre",
+      "title" : "Jonathan Swift ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "A Modest Proposal ",
       "expanded" : true,
       "children" : [
 
