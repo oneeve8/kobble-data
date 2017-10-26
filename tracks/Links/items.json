@@ -6,17 +6,17 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/youtubelinks.md",
+            "path" : "content\/Introduction2.md",
             "repo" : "kobble-data"
           }
         }
       },
-      "title" : "Links",
+      "title" : "CP Introduction",
       "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
+        "tag" : "UI.ContentViews.Views.RevealView"
       },
-      "subtitle" : "YouTube",
-      "expanded" : true,
+      "subtitle" : "Introduction",
+      "expanded" : false,
       "children" : [
 
       ]
