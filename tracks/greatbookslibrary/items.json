@@ -820,14 +820,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/concerningbeinga032855mbp"
+          "url" : "https:\/\/archive.org\/stream\/concerningbeinga032855mbp"
         }
       },
-      "title" : "Concerning Being And Essence : Thomas Aq",
+      "title" : "Thomas Aquinas",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Concerning Being And Essence",
       "expanded" : true,
       "children" : [
 
