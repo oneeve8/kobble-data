@@ -20,7 +20,7 @@ Markdown Syntax (A markdown file with a cheat sheet on markdown syntax formattin
 
 ### Channel: Kobble Projects
 
-[Kobble Testing](kobble://kobble.io/channel?title=Kobble%20Testing&subtitle=Issues&owner=oneeve8&repo=kobble-data&path=channels/kobbleissues.json)
+[Kobble Projects](kobble://kobble.io/channel?title=Kobble%20Testing&subtitle=Issues&owner=oneeve8&repo=kobble-data&path=channels/kobbleissues.json)
 
 Contents of this Channel:
 
