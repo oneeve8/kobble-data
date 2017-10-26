@@ -1976,14 +1976,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/atreatiseconcer00berkgoog"
+          "url" : "https:\/\/archive.org\/stream\/atreatiseconcer00berkgoog"
         }
       },
-      "title" : "A Treatise Concerning the Principles of ",
+      "title" : "George Berkeley",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of the U",
+      "subtitle" : "A Treatise Concerning The Principles Of Human Knowledge",
       "expanded" : true,
       "children" : [
 
