@@ -31,4 +31,4 @@ Recipes
 
 New Zealand Travel
 
-Exercises
+Fitness
