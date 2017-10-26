@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Shared Tracks And Channels",
+          "subtitle" : "Info I Want To Share",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shared .json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Art",
           "subtitle" : "Paintings And Artists",
           "channel" : {
