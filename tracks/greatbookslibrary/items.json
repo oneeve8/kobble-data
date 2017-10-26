@@ -1925,14 +1925,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/journaltostella00swifgoog"
+          "url" : "https:\/\/archive.org\/stream\/journaltostella00swifgoog"
         }
       },
-      "title" : "The Journal to Stella : Jonathan Swift :",
+      "title" : "Jonathan Swift",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of the U",
+      "subtitle" : "The Journal to Stella ",
       "expanded" : true,
       "children" : [
 
