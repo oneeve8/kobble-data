@@ -29,3 +29,6 @@ The single quotation appears as a wrong character so you can’t type contractio
 ### Moved item disappeared
 I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I don’t know why. It was an old Presentation I had done for Catholic Place.
 
+### Kobble failure/closure
+
+
