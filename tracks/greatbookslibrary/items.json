@@ -58,11 +58,11 @@
           "url" : "https:\/\/archive.org\/stream\/iliadinterlinear00homerich"
         }
       },
-      "title" : "Homer’s Iliad",
+      "title" : "Homer",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Iliad",
       "expanded" : true,
       "children" : [
 
