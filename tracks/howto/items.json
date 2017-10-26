@@ -20,27 +20,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "oneeve8",
-            "path" : "content\/Introduction2.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "CP Introduction",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.RevealView"
-      },
-      "subtitle" : "Introduction",
-      "expanded" : false,
-      "children" : [
-
-      ]
     }
   ]
 }
