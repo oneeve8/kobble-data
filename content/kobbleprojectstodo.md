@@ -2,6 +2,7 @@
 ## To Do
 ***
 
+Upload videos to Kobble YouTube (need password)
 
 Finish 2nd Tutorial Video
 
