@@ -466,11 +466,11 @@
           "url" : "https:\/\/archive.org\/stream\/onnatureofthings01lucruoft"
         }
       },
-      "title" : "On the nature of things",
+      "title" : "Lucretius",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26",
+      "subtitle" : "On the nature of things",
       "expanded" : true,
       "children" : [
 
