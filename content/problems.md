@@ -1,5 +1,6 @@
 # Problems
 ## Problems Found
+***
 
 ### Folder problems
 Created a folder and tried to move items into it.  
