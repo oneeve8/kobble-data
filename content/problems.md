@@ -21,4 +21,4 @@ I tried to tap open the items, content flashed on the Kobble view, but then disa
 The tutorial slide show has old information such as creating a channel or track using : instead of +
 
 ### Home Page
-The home 
+The home page no longer appears when I open Kobble... the one with the video and short intro that 
