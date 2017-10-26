@@ -75,11 +75,11 @@
           "url" : "https:\/\/archive.org\/stream\/herodotus00herouoft"
         }
       },
-      "title" : "The History of Herodotus ",
+      "title" : "Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Volume 1",
+      "subtitle" : "History Volume 1",
       "expanded" : true,
       "children" : [
 
