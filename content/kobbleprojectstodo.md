@@ -19,4 +19,9 @@ Add images to slide presentation
 
 Add to shared channel
 
-### Art
+***
+
+### Other Channel Ideas
+
+Create an Art Channel
+Recipes
