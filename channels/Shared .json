@@ -1,7 +1,15 @@
 {
-  "title" : "Shared Tracks And Channels",
-  "subtitle" : "Info I Want To Share",
+  "title" : "Simmy’s ",
+  "subtitle" : "Tracks And Channels To Share",
   "tracks" : [
-
+    {
+      "title" : "Tracks And Channels ",
+      "subtitle" : "Shared",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Infosharing",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
