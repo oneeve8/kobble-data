@@ -347,11 +347,11 @@
           "url" : "https:\/\/archive.org\/stream\/worksofarchimede00arch"
         }
       },
-      "title" : "The works of Archimedes : Archimedes : F",
+      "title" : "Archimedes ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Introduction: I. Archimedes. II. Manuscripts and p",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
