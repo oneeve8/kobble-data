@@ -480,14 +480,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksofvirgil00vir"
+          "url" : "https:\/\/archive.org\/stream\/worksofvirgil00vir"
         }
       },
-      "title" : "The works of Virgil : Virgil : Free Down",
+      "title" : "Virgil ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
