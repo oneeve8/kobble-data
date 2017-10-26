@@ -228,11 +228,11 @@
           "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
         }
       },
-      "title" : "The works of Aristotle : Aristotle : Fre",
+      "title" : "Aristotle ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "vol. 8",
+      "subtitle" : "Works vol. 8",
       "expanded" : true,
       "children" : [
 
