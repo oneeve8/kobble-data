@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
-        }
-      },
-      "title" : "The works of Aristotle : Aristotle : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Vol. 3",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
         }
       },
@@ -266,6 +249,23 @@
       "subtitle" : "Various Works",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
+            }
+          },
+          "title" : "The works of Aristotle : Aristotle : Fre",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Vol. 3",
+          "expanded" : false,
+          "children" : [
+
+          ]
+        },
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
