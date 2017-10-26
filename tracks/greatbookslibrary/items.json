@@ -786,14 +786,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/storyburntnjal00daseiala"
+          "url" : "https:\/\/archive.org\/stream\/storyburntnjal00daseiala"
         }
       },
-      "title" : "The story of Burnt Njal; from the Icelan",
+      "title" : "The story of Burnt Njal",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Translated From The Icelandic",
       "expanded" : true,
       "children" : [
 
