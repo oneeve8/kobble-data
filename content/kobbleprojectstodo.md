@@ -42,3 +42,5 @@ New Zealand Travel
 Fitness
 
 Gardening
+
+Basic Knowledge Study Units
