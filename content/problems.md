@@ -1,6 +1,9 @@
 # Problems
 ## Problems Found
 ***
+
+### Home icon
+Are you keeping the channel group thing? It does not seem to do anything when
 ### GitHub free or not? 27/11
 Written introduction is confusing on GitHub in my opinion. First it says GitHub support can be purchased in app, then it says it is free.
 
