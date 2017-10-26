@@ -46,7 +46,7 @@ I hope that helps to explain better what happened.
 
 (1-6 got deleted in my first attempt as mentioned before, I have not replaced them yet)
 
-
+Maybe make changes and edits only available in edit mode and have a sa
 
 
 ***
