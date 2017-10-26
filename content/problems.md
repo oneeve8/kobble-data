@@ -27,7 +27,8 @@ I lost some files so
 Then I just decided to cut and paste the items into another track and start over.  
 After I copied my items into another track, I just deleted that folder and the   duplicate items.  
 
-
+Okay I am going to try to duplicate what happened
+1. First of all, I’m trying to drag and drop
 ***
 
 
