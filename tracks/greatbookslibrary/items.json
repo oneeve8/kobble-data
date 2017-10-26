@@ -2,20 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Aristotle",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Works",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
@@ -214,6 +200,20 @@
       },
       "subtitle" : "Works",
       "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Aristotle",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Works",
+      "expanded" : false,
       "children" : [
 
       ]
