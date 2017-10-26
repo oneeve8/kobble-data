@@ -276,14 +276,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tayloreuclid00euclrich"
+          "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
         }
       },
-      "title" : "Euclids elements of geometry : Euclid : ",
+      "title" : " Euclid  ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Elements Of Geometry",
       "expanded" : true,
       "children" : [
 
