@@ -1721,14 +1721,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/racinesandromaq02racigoog"
+          "url" : "https:\/\/archive.org\/stream\/racinesandromaq02racigoog"
         }
       },
       "title" : "Racine",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of Harva",
+      "subtitle" : "Andromaque",
       "expanded" : true,
       "children" : [
 
