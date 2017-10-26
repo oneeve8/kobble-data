@@ -837,14 +837,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/summacontragenti02thomuoft"
+          "url" : "https:\/\/archive.org\/stream\/summacontragenti02thomuoft"
         }
       },
-      "title" : "The Summa contra gentiles of Saint Thoma",
+      "title" : "Saint Thomas Aquinas",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Includes bibliographical references",
+      "subtitle" : "The Summa",
       "expanded" : true,
       "children" : [
 
