@@ -97,7 +97,9 @@ Here is a slide presentation with images of Mark Twain.
 
 Next I’ll show you how to create a folder. Creating a folder is simple, all you need to do is select folder as your item type, enter your title and subtitle. Folders can help you consolidate your work
 
-Notice the top bar in your Kobble your markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
+Notice the top bar in your Kobble view has tabs open as you work. You can keep them open or close them as needed. 
+
+Just one more thing to help yyour markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
