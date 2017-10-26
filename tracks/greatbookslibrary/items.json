@@ -253,14 +253,14 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
+              "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
             }
           },
           "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "vol. 12",
+          "subtitle" : "Vol. 3",
           "expanded" : false,
           "children" : [
 
@@ -270,14 +270,14 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
+              "url" : "https:\/\/archive.org\/stream\/worksofaristotle07arisuoft"
             }
           },
           "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "vol. 12",
+          "subtitle" : "Vol. 7",
           "expanded" : false,
           "children" : [
 
