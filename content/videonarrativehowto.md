@@ -74,7 +74,9 @@ Simply tap and drag the URL into your Kobble tree. If you need to change the tit
 Next I’ll show you how to delete and move items in your tree.
 
 Select Edit on the top left of your tree.
-Select the item you want to delete and tap 
+Select the item you want to delete and tap the delete button.
+
+To move an item, select edit, then tap and drag the triple bar on the right. You can also move track
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
