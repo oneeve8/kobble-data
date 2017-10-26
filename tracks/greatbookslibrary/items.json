@@ -1908,14 +1908,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/gulliverstravel04swifgoog"
+          "url" : "https:\/\/archive.org\/stream\/gulliverstravel04swifgoog"
         }
       },
-      "title" : "Gulliver",
+      "title" : "Johnathan Swift",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of the U",
+      "subtitle" : "Gulliver’s Travels",
       "expanded" : true,
       "children" : [
 
