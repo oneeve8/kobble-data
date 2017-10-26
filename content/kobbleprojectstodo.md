@@ -23,7 +23,10 @@ Add to shared channel
 
 ### Other Channel Ideas I am interested in creating
 
+Virtues
 
 Art
 
 Recipes
+
+New Zealand Tr
