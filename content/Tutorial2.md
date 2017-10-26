@@ -18,7 +18,10 @@ This tutorial video may also give you ideas for creating your own wiki knowledge
 Familiarise yourself with a few icons in Kobble
 Green Channel
 White Channel
-Plus 
+Plus symbol
+Green track
+Triple Bar
+Ho
 Presentation icon (presentation screen)
 Markdown icon (M)
 Link icon (chain)
