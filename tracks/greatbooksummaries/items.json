@@ -2,20 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Aristotle",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Works",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Great_books"
