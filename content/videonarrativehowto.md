@@ -99,7 +99,7 @@ Next I’ll show you how to create a folder. Creating a folder is simple, all yo
 
 Notice the top bar in your Kobble view has tabs open as you work. You can keep them open or close them as needed. 
 
-Just one more thing to help yyour markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
+Just one more thing to help you get started. Be sure to take advantage of your iPad’s multi-tasking features. Aftyour markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
