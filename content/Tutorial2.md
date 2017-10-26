@@ -19,4 +19,6 @@ Familiarise yourself with a few icons in Kobble
 Presentation icon
 Markdown icon
 Link icon
-Ope
+Open a new window
+Kobble view (square vie
+Markdown edit (pencil)
