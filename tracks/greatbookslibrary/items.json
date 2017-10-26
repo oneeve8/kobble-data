@@ -1789,14 +1789,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/newtonspmathema00newtrich"
+          "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
         }
       },
       "title" : "Newton",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Principia",
       "expanded" : true,
       "children" : [
 
