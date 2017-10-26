@@ -3,7 +3,7 @@
 ***
 
 ### Content disappearing 27/11
-I had a bunch of links for Librivox books saved in my Great Books channel that are now missing. I have no idea why they are gone. 
+I had a bunch of links for Librivox books saved in my Great Books channel that are now missing. I have no idea why they are gone. I did not delete them or do anything with them. They were c
 
 ### Folder problems 26/11
 Created a folder and tried to move items into it.  
