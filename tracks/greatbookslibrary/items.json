@@ -922,14 +922,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/demonarchiaedite00dantuoft"
+          "url" : "https:\/\/archive.org\/stream\/demonarchiaedite00dantuoft"
         }
       },
       "title" : "De monarchia. Edited with translation an",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26",
+      "subtitle" : "De Monarchia",
       "expanded" : true,
       "children" : [
 
