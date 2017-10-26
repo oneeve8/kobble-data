@@ -395,14 +395,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/twoessaysonoldag00ciceiala"
+          "url" : "https:\/\/archive.org\/stream\/twoessaysonoldag00ciceiala"
         }
       },
-      "title" : "Two essays on old age & friendship : Cic",
+      "title" : "Cicero",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Two Essays On Old Age & Friendship",
       "expanded" : true,
       "children" : [
 
