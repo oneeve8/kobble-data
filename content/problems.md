@@ -2,7 +2,7 @@
 ## Problems Found
 ***
 ###
-GitHub
+GitHub section of introductory page is confusing. First it says GitHub support can be purchased in app, then
 ### Content disappearing 27/11
 I had a bunch of links for Librivox books saved in my Great Books channel that are now missing from my tree. I have no idea why they are gone. I did not delete them or move them or do anything with them. They were created a while ago and I just now noticed that they were missing.
 
