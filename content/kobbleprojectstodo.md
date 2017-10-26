@@ -37,7 +37,7 @@ Art
 
 Recipes
 
-New Zealand Travel
+New Zealand /Travel
 
 Fitness
 
