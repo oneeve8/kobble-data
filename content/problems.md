@@ -30,5 +30,5 @@ The single quotation appears as a wrong character so you can’t type contractio
 I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I don’t know why. It was an old Presentation I had done for Catholic Place.
 
 ### Kobble failure/closure
-After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the 
+After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the Base tracks?
 
