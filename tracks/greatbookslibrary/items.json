@@ -126,11 +126,11 @@
           "url" : "https:\/\/archive.org\/stream\/tragedieseuripi00buckgoog"
         }
       },
-      "title" : "The Tragedies of Euripides",
+      "title" : "Euripides",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of Oxfor",
+      "subtitle" : "Tragedies",
       "expanded" : true,
       "children" : [
 
