@@ -568,7 +568,7 @@
           "url" : "https:\/\/archive.org\/stream\/plutarchslives01plut2\/plutarchslives01plut2_djvu.txt"
         }
       },
-      "title" : "archive.org",
+      "title" : "Plutarch",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
