@@ -32,7 +32,7 @@ Okay I am going to try to duplicate what happened:
 
 2. I was able to cut and paste the items into the folder, so I did that for each item. Everything seemed to go okay. But they ended up in reverse order of volume (7-12 became 12-7), so I went into edit mode to move them in the correct number order (7-12). Everything appeared find in the tree. But then when I expanded and contracted the folder, it seemed to go out of order again and each time it opened again, it had replaced an item with the last item on the list (#7) so now I have volume 7, volume 7, volume 10, volume 9, volume 8, volume 7 instead of what I wanted which is the volumes in order 7,8,9,10,11,12 
 
-I ended up with two volume 7 that had
+I ended up with two volume 7 that had replaced volumes 11 and twelve because I had expanded and contracted the folder twice.
 
 I hope that helps to explain better what happened.
 
