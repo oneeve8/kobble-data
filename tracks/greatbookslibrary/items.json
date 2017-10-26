@@ -4,40 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
-        }
-      },
-      "title" : "Parallel Lives of the Noble Greeks and R",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Parallel Lives of the Noble ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/parallel_lives01_0810_librivox1"
-        }
-      },
-      "title" : "Parallel Lives of the Noble Greeks and R",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Plutarch",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/Comedies_of_Aristophanes"
         }
       },
@@ -310,6 +276,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tayloreuclid00euclrich"
+        }
+      },
+      "title" : "Euclids elements of geometry : Euclid : ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/theworksofaristo11arisuoft"
         }
       },
@@ -352,23 +335,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Epicurus - The Extant Remains - Text, Translation ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tayloreuclid00euclrich"
-        }
-      },
-      "title" : "Euclids elements of geometry : Euclid : ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "",
       "expanded" : true,
       "children" : [
 
