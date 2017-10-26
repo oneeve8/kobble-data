@@ -270,15 +270,15 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/worksplato01carygoog"
+              "url" : "https:\/\/archive.org\/details\/worksofaristotle03arisuoft"
             }
           },
-          "title" : "The works of Plato : Plato ",
+          "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "Book digitized by Google ",
-          "expanded" : true,
+          "subtitle" : "Vol. 3",
+          "expanded" : false,
           "children" : [
 
           ]
