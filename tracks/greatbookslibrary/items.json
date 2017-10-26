@@ -194,11 +194,11 @@
           "url" : "https:\/\/archive.org\/stream\/worksplato01carygoog"
         }
       },
-      "title" : "The works of Plato : Plato ",
+      "title" : "Plato ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google ",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
