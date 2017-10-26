@@ -12,4 +12,5 @@ Markdown Syntax (A markdown file with a cheat sheet on markdown syntax formattin
 
 ### Channel: Kobble Testing Issues
 #### Track: Issues 
-Problems Found (A file to keep track of Ko
+Problems Found (A file to keep track of Kobble Issues found)
+
