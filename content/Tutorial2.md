@@ -9,8 +9,8 @@ How to add an image to a Markdown File,
 
 And how to add a video to a Markdown File.  
 
-You will also learn some basic Markdown syntax. 
+
 
 This video may also give you ideas on creating your own wiki knowledge base,
 
-as well as somecontent management ideas.
+as well as some content management ideas.
