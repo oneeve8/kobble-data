@@ -1840,14 +1840,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/lifeandadventur07defogoog"
+          "url" : "https:\/\/archive.org\/stream\/lifeandadventur07defogoog"
         }
       },
-      "title" : "The life and ... adventures of Robinson ",
+      "title" : "Daniel Defoe",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of Oxfor",
+      "subtitle" : "Robinson  Crusoe",
       "expanded" : true,
       "children" : [
 
