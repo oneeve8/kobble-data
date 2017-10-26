@@ -3,4 +3,4 @@
 
 Kobble Introduction, A Guide to Kobble
 Kobble Basics:
-Intro Vi
+Intro Video Narrative (Kobble Introduction video I created on iMovie)
