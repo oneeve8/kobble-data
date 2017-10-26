@@ -76,7 +76,9 @@ Select the item you want to delete and tap the delete button.
 
 To move an item, select edit, then tap and drag the triple bar on the right. You can also move tracks. Items can also be moved in the same way. So you can organise your channels tracks and items however you want.
 
-Next I’ll show you how to create a Markdown file. Select the plus sign next to the track you want to add a 
+Next I’ll show you how to create a Markdown file. Select the plus sign next to the track you want to add a Markdown file to. The default item type is Markdown. Add your title, subtitle and ID. 
+
+Markd
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
