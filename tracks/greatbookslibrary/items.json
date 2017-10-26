@@ -531,7 +531,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/ovidsmetamorphos00ovid"
+          "url" : "https:\/\/archive.org\/stream\/ovidsmetamorphos00ovid"
         }
       },
       "title" : "Ovid",
@@ -548,7 +548,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/quintiliansinst05quingoog"
+          "url" : "https:\/\/archive.org\/stream\/quintiliansinst05quingoog"
         }
       },
       "title" : "Quintilian",
