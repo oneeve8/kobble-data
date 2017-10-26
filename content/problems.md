@@ -13,6 +13,8 @@ Tried to copy and paste instead and that did not work either.
 I lost some files so    
 Then I just decided to cut and paste the items into another track and start over.  
 After I copied my items into another track, I just deleted that folder and the   duplicate items.  
+***
+
 
 ### Kobble Base Tracks Issue
 I tried to tap open the items, content flashed on the Kobble view, but then disappeared. After several attempts at tapping, the information finally appeared.
@@ -36,6 +38,10 @@ I had moved an item into a different track. The next time I opened the destinati
 
 ### Kobble failure/closure
 After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the Base tracks?
+***
+
 
 ### Editing Markdown of Shared items?
 I noticed that I could edit the intro page in markdown. It probably should not be that way... or what happens if somebody edits the Markdown of a shared item?
+***
+
