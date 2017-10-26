@@ -21,7 +21,7 @@ White Channel
 Plus symbol
 Green track
 Triple Bar
-Ho
+Home
 Presentation icon (presentation screen)
 Markdown icon (M)
 Link icon (chain)
