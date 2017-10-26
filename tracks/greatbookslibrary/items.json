@@ -619,11 +619,11 @@
           "url" : "https:\/\/archive.org\/stream\/NicomachusIntroToArithmetic"
         }
       },
-      "title" : "Nicomachus Intro to Arithmetic : Nicomac",
+      "title" : "Nicomachus Of Gerasa ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Nicomachus of Gerasa the Neo Pythagorean Introduct",
+      "subtitle" : "Introduction To Arithmetic",
       "expanded" : true,
       "children" : [
 
