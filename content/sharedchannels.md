@@ -3,7 +3,8 @@
 
 
 ### Channel: Kobble Introduction, A Guide to Kobble
-[Kobble Intro]
+[Kobble Intro](oneeve8 would like to share a channel.
+kobble://kobble.io/channel?title=Kobble%20Introduction&subtitle=A%20Guide%20To%20Kobble&owner=oneeve8&repo=kobble-data&path=channels/Kobbleintro.json
 #### Track: Kobble Basics:
 Intro Video Narrative (The narrative I used for the Kobble Introduction video that I created on iMovie)
 Tutorial Video Narratives (Other narratives that I used for tutorial videos that I created on iMovie)
