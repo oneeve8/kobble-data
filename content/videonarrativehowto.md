@@ -57,7 +57,7 @@ On your Kobble home page, you will notice some sample channels. Just tap and dra
 
 The Kobble tree is organised into channels, tracks and items. you can organise them however you want and expand and contract them as needed.
 
-To create your own channel, click the plus sing
+To create your own channel, click the plus sign next to channels in your tree. Enter an I’d for Github storage, a title, and a subtitle, then 
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
