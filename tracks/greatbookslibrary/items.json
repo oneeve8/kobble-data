@@ -276,23 +276,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
-        }
-      },
-      "title" : "Euclid  ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Elements Of Geometry",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/theworksofaristo11arisuoft"
         }
       },
@@ -318,6 +301,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Works vol. 12",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
+        }
+      },
+      "title" : "Euclid  ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Elements Of Geometry",
       "expanded" : true,
       "children" : [
 
