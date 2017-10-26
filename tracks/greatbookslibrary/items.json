@@ -344,7 +344,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksofarchimede00arch"
+          "url" : "https:\/\/archive.org\/stream\/worksofarchimede00arch"
         }
       },
       "title" : "The works of Archimedes : Archimedes : F",
@@ -361,7 +361,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/treatiseonconics00apolrich"
+          "url" : "https:\/\/archive.org\/stream\/treatiseonconics00apolrich"
         }
       },
       "title" : "Treatise on conic sections : Apollonius,",
