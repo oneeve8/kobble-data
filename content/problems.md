@@ -2,7 +2,7 @@
 ## Problems Found
 ***
 
-### Folder problems
+### Folder problems 26/11
 Created a folder and tried to move items into it.  
 Could not drag and drop items into it.  
 So tried cut and paste.  
