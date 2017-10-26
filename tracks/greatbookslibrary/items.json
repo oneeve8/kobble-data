@@ -412,14 +412,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/treatisesofcicer00ciceuoft"
+          "url" : "https:\/\/archive.org\/stream\/treatisesofcicer00ciceuoft"
         }
       },
-      "title" : "The treatises of M.T. Cicero: On the nat",
+      "title" : "Cicero",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Treatises",
       "expanded" : true,
       "children" : [
 
