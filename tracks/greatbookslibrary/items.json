@@ -973,14 +973,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/TheImitationOfChristChalloner"
+          "url" : "https:\/\/archive.org\/stream\/TheImitationOfChristChalloner"
         }
       },
-      "title" : "The Imitation Of Christ Challoner : Thom",
+      "title" : "Thomas A. Kempis",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The Imitation Of Christ by Thomas a Kempis. Transl",
+      "subtitle" : "The Imitation Of Christ ",
       "expanded" : true,
       "children" : [
 
