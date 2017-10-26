@@ -58,8 +58,8 @@
           }
         },
         {
-          "title" : "Kobble Testing",
-          "subtitle" : "Issues",
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/kobbleissues.json",
