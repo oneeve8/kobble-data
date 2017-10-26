@@ -29,4 +29,6 @@ Art
 
 Recipes
 
-New Zealand Tr
+New Zealand Travel
+
+Exercises
