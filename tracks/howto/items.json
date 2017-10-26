@@ -53,7 +53,7 @@
           }
         }
       },
-      "title" : "Tutorial  Video Narrative",
+      "title" : "Tutorial Video Narrative",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
