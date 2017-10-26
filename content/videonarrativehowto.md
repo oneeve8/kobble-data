@@ -55,7 +55,9 @@ In this tutorial you will learn how to add channels, tracks and items; move and 
 
 On your Kobble home page, you will notice some sample channels. Just tap and drag. Another way to add a sample channel is to tap the channel you want to add, dismiss the pop up message, long tap a channel in the data tree and select paste.
 
-The Kobble tree is organised into channels, tracks and items. you 
+The Kobble tree is organised into channels, tracks and items. you can organise them however you want and expand and contract them as needed.
+
+To create your own channel, click the plus sing
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
