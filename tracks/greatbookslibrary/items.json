@@ -364,11 +364,11 @@
           "url" : "https:\/\/archive.org\/stream\/treatiseonconics00apolrich"
         }
       },
-      "title" : "Treatise on conic sections : Apollonius,",
+      "title" : "Apollonius",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "List of principal authorities: p. [xiii]",
+      "subtitle" : "Treatise On Conic Sections",
       "expanded" : true,
       "children" : [
 
