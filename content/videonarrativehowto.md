@@ -67,7 +67,9 @@ Your new track will appear in your tree.
 
 Next I’ll show you how to drag and drop a link. Kobble takes advantage of the iPad’s multi tasking features.
 
-Swipe upwards from the bottom of your screen, tap and hold your browser and drag it to open a small window. Now you can browse the internet to find i
+Swipe upwards from the bottom of your screen, tap and hold your browser and drag it to open a small window. Now you can browse the internet to find information that you want to add.
+
+Simply tap and drag the URL into your Kobble tree. If you need to cha
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
