@@ -6,7 +6,10 @@ Finish 2nd Tutorial Video
 
 Write Narrative
 
-Take screen recor
+Take screen recordings
+
+***
+
 
 ### Great Books
 
