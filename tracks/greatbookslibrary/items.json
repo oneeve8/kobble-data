@@ -633,14 +633,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/discoursesofepic033057mbp"
+          "url" : "https:\/\/archive.org\/stream\/discoursesofepic033057mbp"
         }
       },
-      "title" : "The Discourses Of Epictetus : Long,Georg",
+      "title" : "Epictetus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Discourses",
       "expanded" : true,
       "children" : [
 
