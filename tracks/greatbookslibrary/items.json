@@ -905,14 +905,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/newlifelavitanuo00dantuoft"
+          "url" : "https:\/\/archive.org\/stream\/newlifelavitanuo00dantuoft"
         }
       },
-      "title" : "The new life (La vita nuova) by Dante Al",
+      "title" : "Dante ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26",
+      "subtitle" : "The New Life (La Vita Nuova)",
       "expanded" : true,
       "children" : [
 
