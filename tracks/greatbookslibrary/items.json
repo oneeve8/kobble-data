@@ -704,11 +704,11 @@
           "url" : "https:\/\/archive.org\/stream\/galenonnaturalfa00galeuoft?ref=ol#page\/n6\/mode\/1up"
         }
       },
-      "title" : "archive.org",
+      "title" : "Galen",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "On The Natural Faculties",
       "expanded" : true,
       "children" : [
 
