@@ -857,11 +857,11 @@
           "url" : "https:\/\/archive.org\/stream\/politicalideasof00unse\/politicalideasof00unse_djvu.txt"
         }
       },
-      "title" : "archive.org",
+      "title" : "St. Thomas Aquinas",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "The Political Ideas",
       "expanded" : true,
       "children" : [
 
