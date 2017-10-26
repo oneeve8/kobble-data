@@ -7,11 +7,11 @@
           "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
         }
       },
-      "title" : "The Comedies of Aristophanes : Aristopha",
+      "title" : "Aristophanes ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The Clouds (Νεφέλαι \/ Nephelai) is a comedy writte",
+      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
       "expanded" : true,
       "children" : [
 
@@ -24,11 +24,11 @@
           "url" : "https:\/\/archive.org\/stream\/trag00ediesofaeschaescrich"
         }
       },
-      "title" : "The Tragedies Of Aeschylus",
+      "title" : "Aeschylus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Tragedies",
       "expanded" : true,
       "children" : [
 
