@@ -585,11 +585,11 @@
           "url" : "https:\/\/archive.org\/stream\/histories01taciuoft"
         }
       },
-      "title" : "The Histories : Tacitus, Cornelius : Fre",
+      "title" : "Tacitus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Vol. 2-4 have title: Tacitus, The Histories, with ",
+      "subtitle" : "The Histories",
       "expanded" : true,
       "children" : [
 
