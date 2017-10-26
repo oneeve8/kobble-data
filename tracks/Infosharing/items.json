@@ -1,5 +1,25 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/sharedchannels.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Channels ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Shared",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
