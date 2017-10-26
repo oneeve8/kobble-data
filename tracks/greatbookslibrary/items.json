@@ -262,11 +262,11 @@
           "url" : "https:\/\/archive.org\/stream\/theworksofaristo10arisuoft"
         }
       },
-      "title" : "The works of Aristotle : Aristotle : Fre",
+      "title" : "Aristotle ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "vol 10",
+      "subtitle" : "Works vol 10",
       "expanded" : true,
       "children" : [
 
