@@ -30,6 +30,7 @@ After I copied my items into another track, I just deleted that folder and the  
 Okay I am going to try to duplicate what happened:
 1. First of all, I’m trying to drag and drop items I already created into my Aristotle folder in Edit mode. It does not work. I opened the folder so it has the plus sign, went into edit mode and tried to drag and drop an item into it. The items just move, it does not drop it into the folder.
 
+2. I was able to 
 
 ***
 
