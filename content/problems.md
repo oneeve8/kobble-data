@@ -18,9 +18,11 @@ After I copied my items into another track, I just deleted that folder and the  
 
 ### Kobble Base Tracks Issue
 I tried to tap open the items, content flashed on the Kobble view, but then disappeared. After several attempts at tapping, the information finally appeared.
+***
 
 ### Tutorial needs updating
 The tutorial slide show under your kobble base tracks has old information such as creating a channel or track using : instead of +
+***
 
 ### Home Page
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
