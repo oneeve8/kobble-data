@@ -26,3 +26,5 @@ The home page no longer appears when I open Kobble... the one with the video and
 ### Character Issue in Markdown
 The single quotation appears as a wrong character so you can’t type contractions like don’t and can’t.
 
+### Moved item
+
