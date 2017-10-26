@@ -6,16 +6,16 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/Tutorial2.md",
+            "path" : "content\/videonarrativehowto.md",
             "repo" : "kobble-data"
           }
         }
       },
-      "title" : "Tutorial  Video Narrative",
+      "title" : "Intro Video Narrative ",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "#2",
+      "subtitle" : "Introduction",
       "expanded" : true,
       "children" : [
 
@@ -48,16 +48,16 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/videonarrativehowto.md",
+            "path" : "content\/Tutorial2.md",
             "repo" : "kobble-data"
           }
         }
       },
-      "title" : "Intro Video Narrative ",
+      "title" : "Tutorial  Video Narrative",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "How To",
+      "subtitle" : "#2",
       "expanded" : true,
       "children" : [
 
