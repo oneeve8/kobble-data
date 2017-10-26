@@ -49,7 +49,7 @@ For those already familiar with GitHub, you will love this! Perhaps GitHub is ne
 
 Once you see what you can do with Kobble, you'll wonder how you ever lived without it. 
 Check out our videos and tutorials to help you get started, right away!
-## Kobble Tutorial
+## Kobble Tutorial Video
 ## Welcome to Kobble
 In this tutorial you will learn how to add channels, tracks and items; move and delete items; how to create a Markdown file; how to create a presentation file; and how to create a folder.
 
