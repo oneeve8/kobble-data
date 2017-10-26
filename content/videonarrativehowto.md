@@ -53,7 +53,7 @@ Check out our videos and tutorials to help you get started, right away!
 ## Welcome to Kobble
 In this tutorial you will learn how to add channels, tracks and items; move and delete items; how to create a Markdown file; how to create a presentation file; and how to create a folder.
 
-On your Kobble home page, you will notice some sample channels. Just tap and drag. Another way to add a sample channel is to tap the channel you w
+On your Kobble home page, you will notice some sample channels. Just tap and drag. Another way to add a sample channel is to tap the channel you want to add, dismiss the pop up message, long tap a channel in the data tree and select paste.
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
