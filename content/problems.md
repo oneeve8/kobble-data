@@ -27,8 +27,10 @@ I lost some files so
 Then I just decided to cut and paste the items into another track and start over.  
 After I copied my items into another track, I just deleted that folder and the   duplicate items.  
 
-Okay I am going to try to duplicate what happened
+Okay I am going to try to duplicate what happened:
 1. First of all, I’m trying to drag and drop items I already created into my Aristotle folder in Edit mode. It does not work. I opened the folder so it has the plus sign, went into edit mode and tried to drag and drop an item into it. The items just move, it does not drop it into the folder.
+
+
 ***
 
 
