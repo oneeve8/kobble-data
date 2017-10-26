@@ -14,8 +14,8 @@ Markdown Syntax (A markdown file with a cheat sheet on markdown syntax formattin
 
 ### Channel: Kobble Testing Issues
 
-[Kobble Testing](oneeve8 would like to share a channel.
-kobble://kobble.io/channel?title=Kobble%20Testing&subtitle=Issues&owner=oneeve8&repo=kobble-data&path=channels/kobbleissues.json
+[Kobble Testing](kobble://kobble.io/channel?title=Kobble%20Testing&subtitle=Issues&owner=oneeve8&repo=kobble-data&path=channels/kobbleissues.json)
+
 #### Track: Issues 
 Problems Found (A file to keep track of Kobble Issues found)
 
