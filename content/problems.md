@@ -17,29 +17,29 @@ After I copied my items into another track, I just deleted that folder and the  
 ***
 
 
-### Kobble Base Tracks Issue
+### Kobble Base Tracks Issue 26/11
 I tried to tap open the items, content flashed on the Kobble view, but then disappeared. After several attempts at tapping, the information finally appeared.
 ***
 
-### Tutorial needs updating
+### Tutorial needs updating 26/11
 The tutorial slide show under your kobble base tracks has old information such as creating a channel or track using : instead of +
 ***
 
-### Home Page
+### Home Page 26/11
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 ***
 
 
-### Character Issue in Markdown
+### Character Issue in Markdown 26/11
 The single quotation appears as a wrong character so you cannot type contractions like don’t and can’t.
 ***
 
 
-### Moved item disappeared
+### Moved item disappeared 26/11
 I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I do not know why. It was an old Presentation I had done for Catholic Place.
 ***
 
-### Kobble failure/closure
+### Kobble failure/closure 26
 After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the Base tracks?
 ***
 
