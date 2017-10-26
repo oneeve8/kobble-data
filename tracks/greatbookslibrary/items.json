@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "vol. 12",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
         }
       },
@@ -501,23 +518,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "vol. 11",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
-        }
-      },
-      "title" : "The works of Aristotle : Aristotle : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 12",
       "expanded" : true,
       "children" : [
 
