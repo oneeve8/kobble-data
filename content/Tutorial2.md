@@ -11,4 +11,6 @@ You will also learn some basic Markdown syntax, including:
 
 2. And how to add a video to a Markdown File.  
 
+You will also learn how to retrieve information from your GitHu
+
 This tutorial video may also give you ideas on creating your own wiki knowledge base, as well as some content management ideas.
