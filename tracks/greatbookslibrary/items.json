@@ -213,8 +213,25 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Works",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol. 8",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
@@ -232,23 +249,6 @@
 
           ]
         }
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
-        }
-      },
-      "title" : "Aristotle ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works vol. 8",
-      "expanded" : true,
-      "children" : [
-
       ]
     },
     {
