@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
-        }
-      },
-      "title" : "The works of Aristotle : Aristotle : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 12",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
         }
       },
@@ -270,40 +253,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
-            }
-          },
-          "title" : "The works of Aristotle : Aristotle : Fre",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "vol. 12",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
-            }
-          },
-          "title" : "The works of Aristotle : Aristotle : Fre",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "vol. 9",
-          "expanded" : false,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
             }
           },
@@ -408,23 +357,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
-        }
-      },
-      "title" : "The works of Aristotle : Aristotle : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 9",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/worksofaristotle06arisuoft"
         }
       },
@@ -518,6 +450,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "vol. 11",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/theworksofaristo12arisuoft"
+        }
+      },
+      "title" : "The works of Aristotle : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "vol. 12",
       "expanded" : true,
       "children" : [
 
