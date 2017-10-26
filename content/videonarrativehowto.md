@@ -51,7 +51,7 @@ Once you see what you can do with Kobble, you'll wonder how you ever lived witho
 Check out our videos and tutorials to help you get started, right away!
 
 ## Welcome to Kobble
-Kobble is an amazingly versatile productivity environment that is just what you have been looking for!  
+In this tutorial you will learn
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
