@@ -76,7 +76,7 @@ Next I’ll show you how to delete and move items in your tree.
 Select Edit on the top left of your tree.
 Select the item you want to delete and tap the delete button.
 
-To move an item, select edit, then tap and drag the triple bar on the right. You can also move track
+To move an item, select edit, then tap and drag the triple bar on the right. You can also move tracks. Items can also be moved in the same way. So you can organise your channels tracks and items however you want.
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
