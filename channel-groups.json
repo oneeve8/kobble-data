@@ -4,8 +4,8 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Shared Tracks And Channels",
-          "subtitle" : "Info I Want To Share",
+          "title" : "Simmy’s ",
+          "subtitle" : "Tracks And Channels To Share",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Shared .json",
