@@ -1024,14 +1024,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/cu31924030435659"
+          "url" : "https:\/\/archive.org\/stream\/cu31924030435659"
         }
       },
-      "title" : "Discourses on the first decade of Titus ",
+      "title" : "Machiavelli",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The metadata below describe the original scanning.",
+      "subtitle" : "Discourses on the first decade of Titus ",
       "expanded" : true,
       "children" : [
 
