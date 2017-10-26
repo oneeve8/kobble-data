@@ -15,4 +15,8 @@ You will also learn how to retrieve information from your GitHub account.
 
 This tutorial video may also give you ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
-Familiarising with 
+Familiarise yourself with a few icons in Kobble
+Presentation icon
+Markdown icon
+Link icon
+Ope
