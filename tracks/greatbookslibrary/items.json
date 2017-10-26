@@ -599,14 +599,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tacitusagricolag00taciiala"
+          "url" : "https:\/\/archive.org\/stream\/tacitusagricolag00taciiala"
         }
       },
-      "title" : "Tacitus, the Agricola and Germania : Tac",
+      "title" : "Tacitus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Agricola And Germania",
       "expanded" : true,
       "children" : [
 
@@ -616,7 +616,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/NicomachusIntroToArithmetic"
+          "url" : "https:\/\/archive.org\/stream\/NicomachusIntroToArithmetic"
         }
       },
       "title" : "Nicomachus Intro to Arithmetic : Nicomac",
