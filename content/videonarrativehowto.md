@@ -91,7 +91,11 @@ As you can see, your results appear as you type.
 
 Next I’ll show you how to create a presentation. Click the green plus sign next to the channel where you want your presentation file. Select presentation as your item type. Enter your title, subtitle and ID. Each slide is separated by a triple colon before and after each slide
 
-Just type the information you want on eachyour markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
+Just type the information you want on each slide and use the green arrow to advance your slides.
+
+Here is a slide presentation with images of Mark Twain.
+
+Nyour markdown view. Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax. Triple colons s
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
