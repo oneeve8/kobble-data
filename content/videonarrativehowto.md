@@ -82,7 +82,6 @@ Markdown is an easy to use syntax and is easily converted to HTML. Markdown is i
 
 Your split screen view shows Markdown on the top half, and the result in the bottom half of your screen. 
 
-
 Be sure to check out our Markdown cheat sheet if you need help with Markdown syntax.
 
 Toggle between the pencil and square icon to change your view. As you can see, your results appear as you type.
