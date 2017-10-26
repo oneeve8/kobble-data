@@ -71,7 +71,10 @@ Swipe upwards from the bottom of your screen, tap and hold your browser and drag
 
 Simply tap and drag the URL into your Kobble tree. If you need to change the title of your link, simply long tap the link, select edit and change your title.
 
-Next I’ll show you how to delete and move item
+Next I’ll show you how to delete and move items in your tree.
+
+Select Edit on the top left of your tree.
+Select the item you want to delete and tap 
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
