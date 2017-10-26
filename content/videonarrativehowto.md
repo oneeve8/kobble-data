@@ -78,7 +78,7 @@ To move an item, select edit, then tap and drag the triple bar on the right. You
 
 Next I’ll show you how to create a Markdown file. Select the plus sign next to the track you want to add a Markdown file to. The default item type is Markdown. Add your title, subtitle and ID. 
 
-Markd
+Markdown is an easy to use syntax and is easily converted to HTML. Markdown is intuitive, uses plain text and provides 
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
