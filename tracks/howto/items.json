@@ -11,7 +11,7 @@
           }
         }
       },
-      "title" : "Video Narrative ",
+      "title" : "Intro Video Narrative ",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
