@@ -2027,14 +2027,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/popesessayonmani00pope"
+          "url" : "https:\/\/archive.org\/stream\/popesessayonmani00pope"
         }
       },
       "title" : "Pope",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Essay On Man",
       "expanded" : true,
       "children" : [
 
