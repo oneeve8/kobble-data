@@ -13,15 +13,6 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Audio",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksaudio",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
       "subtitle" : "Library",
       "track" : {
         "owner" : "oneeve8",
