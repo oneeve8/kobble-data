@@ -21,7 +21,8 @@ Add to shared channel
 
 ***
 
-### Other Channel Ideas I’m interested in creating
+### Other Channel Ideas I am interested in creating
 
 Art
+
 Recipes
