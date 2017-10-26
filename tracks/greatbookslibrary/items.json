@@ -213,26 +213,25 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Works",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksofaristotle07arisuoft"
-        }
-      },
-      "title" : "Aristotle ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works Vol. 7",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/worksofaristotle07arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works Vol. 7",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        }
       ]
     },
     {
