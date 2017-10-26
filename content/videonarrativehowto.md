@@ -69,7 +69,9 @@ Next I’ll show you how to drag and drop a link. Kobble takes advantage of the 
 
 Swipe upwards from the bottom of your screen, tap and hold your browser and drag it to open a small window. Now you can browse the internet to find information that you want to add.
 
-Simply tap and drag the URL into your Kobble tree. If you need to cha
+Simply tap and drag the URL into your Kobble tree. If you need to change the title of your link, simply long tap the link, select edit and change your title.
+
+Next I’ll show you how to delete and move item
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
