@@ -253,15 +253,15 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
+              "url" : "https:\/\/archive.org\/stream\/worksofaristotle002390mbp"
             }
           },
-          "title" : "The works of Aristotle : Aristotle : Fre",
+          "title" : "The Works Of Aristotle",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "vol. 9",
-          "expanded" : false,
+          "subtitle" : "Volume 1",
+          "expanded" : true,
           "children" : [
 
           ]
@@ -408,15 +408,15 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksofaristotle002390mbp"
+          "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
         }
       },
-      "title" : "The Works Of Aristotle",
+      "title" : "The works of Aristotle : Aristotle : Fre",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Volume 1",
-      "expanded" : true,
+      "subtitle" : "vol. 9",
+      "expanded" : false,
       "children" : [
 
       ]
