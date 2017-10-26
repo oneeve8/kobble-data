@@ -24,7 +24,7 @@ The tutorial slide show under your kobble base tracks has old information such a
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 
 ### Character Issue in Markdown
-The single quotation appears as a wrong character so you can’t type contractions like don’t and can’t.
+The single quotation appears as a wrong character so you can’ttype contractions like don’t and can’t.
 
 ### Moved item disappeared
 I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I don’t know why. It was an old Presentation I had done for Catholic Place.
