@@ -61,7 +61,7 @@ To create your own channel, click the plus sign next to channels in your tree. E
 
 The owner and Repository information is defaulted.
 
-Next y
+Next you can add a track. Tracks simply contain items that you want to keep track of.
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
