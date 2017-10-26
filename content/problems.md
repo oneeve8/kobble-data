@@ -2,7 +2,8 @@
 ## Problems Found
 ***
 
-### Content disappearing 
+### Content disappearing 27/11
+I had a bunch of links for Librivox books saved in my Great Books 
 
 ### Folder problems 26/11
 Created a folder and tried to move items into it.  
