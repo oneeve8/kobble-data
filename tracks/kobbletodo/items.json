@@ -28,11 +28,11 @@
           "url" : "https:\/\/github.com\/"
         }
       },
-      "title" : "Build software better, together",
+      "title" : "GitHub",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "GitHub is where people build software. More than 2",
+      "subtitle" : "GitHub",
       "expanded" : true,
       "children" : [
 
