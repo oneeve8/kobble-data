@@ -41,11 +41,11 @@
           "url" : "https:\/\/archive.org\/stream\/playsofsophocles00sophiala"
         }
       },
-      "title" : "The Plays Of Sophocles",
+      "title" : "Sophocles",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Plays",
       "expanded" : true,
       "children" : [
 
