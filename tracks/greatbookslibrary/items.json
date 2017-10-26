@@ -1959,14 +1959,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/newtheoryofvisio00geor"
+          "url" : "https:\/\/archive.org\/stream\/newtheoryofvisio00geor"
         }
       },
-      "title" : "A New Theory of Vision and Other Select ",
+      "title" : "George Berkeley",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "No. 483 of Everyman",
+      "subtitle" : "A New Theory of Vision and Other Select ",
       "expanded" : true,
       "children" : [
 
