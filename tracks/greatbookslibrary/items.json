@@ -264,7 +264,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Various Works",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
         {
           "data" : {
