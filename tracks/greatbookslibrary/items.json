@@ -752,14 +752,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/volsungasagatran009188mbp"
+          "url" : "https:\/\/archive.org\/stream\/volsungasagatran009188mbp"
         }
       },
-      "title" : "The Volsunga Saga Translated From The Ic",
+      "title" : "The Volsunga Saga ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Translated From The Icelandic",
       "expanded" : true,
       "children" : [
 
