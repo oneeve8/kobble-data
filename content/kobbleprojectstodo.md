@@ -2,7 +2,11 @@
 ## To Do
 ***
 
-Finish
+Finish 2nd Tutorial Video
+
+Write Narrative
+
+Take screen recor
 
 ### Great Books
 
