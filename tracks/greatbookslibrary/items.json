@@ -270,14 +270,14 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/archive.org\/details\/theworksofaristo10arisuoft"
+              "url" : "https:\/\/archive.org\/details\/theworksofaristo09arisuoft"
             }
           },
           "title" : "The works of Aristotle : Aristotle : Fre",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
-          "subtitle" : "vol 10",
+          "subtitle" : "vol. 9",
           "expanded" : false,
           "children" : [
 
