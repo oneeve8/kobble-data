@@ -51,7 +51,7 @@ Once you see what you can do with Kobble, you'll wonder how you ever lived witho
 Check out our videos and tutorials to help you get started, right away!
 
 ## Welcome to Kobble
-In this tutorial you will learn
+In this tutorial you will learn how to add channels, tracks and items; move and delete items; how to create a Markdown file, a presentation file and
 
 Kobble is so unique, that you may not have ever seen anything like it before.  
 
