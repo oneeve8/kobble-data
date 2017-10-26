@@ -939,14 +939,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/canterburytaleso00chauuoft"
+          "url" : "https:\/\/archive.org\/stream\/canterburytaleso00chauuoft"
         }
       },
-      "title" : "The Canterbury tales of Geoffrey Chaucer",
+      "title" : "Geoffrey Chaucer",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "31",
+      "subtitle" : "The Canterbury Tales",
       "expanded" : true,
       "children" : [
 
