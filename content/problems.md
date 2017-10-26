@@ -24,13 +24,13 @@ The tutorial slide show under your kobble base tracks has old information such a
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 
 ### Character Issue in Markdown
-The single quotation appears as a wrong character so you can’ttype contractions like don’t and can’t.
+The single quotation appears as a wrong character so you cannot type contractions like don’t and can’t.
 
 ### Moved item disappeared
-I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I don’t know why. It was an old Presentation I had done for Catholic Place.
+I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I do not know why. It was an old Presentation I had done for Catholic Place.
 
 ### Kobble failure/closure
 After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the Base tracks?
 
 ### Editing Markdown of Shared items?
-I noticed that I could edit the intro page in markdown. It probably shouldn’t be that way... or what happens if somebody edits the Markdown of a shared item?
+I noticed that I could edit the intro page in markdown. It probably should not be that way... or what happens if somebody edits the Markdown of a shared item?
