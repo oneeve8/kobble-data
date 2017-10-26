@@ -684,14 +684,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/meditations00marcuoft"
+          "url" : "https:\/\/archive.org\/stream\/meditations00marcuoft"
         }
       },
       "title" : "Meditations : Marcus Aurelius, Emperor o",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Meditations",
       "expanded" : true,
       "children" : [
 
