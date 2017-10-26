@@ -670,11 +670,11 @@
           "url" : "https:\/\/archive.org\/stream\/worksoflucianofs04luciuoft"
         }
       },
-      "title" : "The works of Lucian of Samosata, complet",
+      "title" : "Lucian of Samosata",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
