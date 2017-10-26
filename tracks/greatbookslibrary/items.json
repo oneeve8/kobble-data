@@ -1007,14 +1007,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/princemac00machuoft"
+          "url" : "https:\/\/archive.org\/stream\/princemac00machuoft"
         }
       },
-      "title" : "The prince : Machiavelli, Niccolò, 1469-",
+      "title" : "Machiavelli",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "27",
+      "subtitle" : "The Prince",
       "expanded" : true,
       "children" : [
 
