@@ -63,7 +63,7 @@ The tutorial slide show under your kobble base tracks has old information such a
 ### Home Page 26/11
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 
-Update: it seems to be there now, I don’t know why that happe
+Update: it seems to be there now, I don’t know why that happened before. I think before when I closed all my tabs maybe I had accidentally closed it as a tab?
 ***
 
 
