@@ -13,6 +13,8 @@ Written introduction is confusing on GitHub in my opinion. First it says GitHub 
 ### Content disappearing 27/11
 I had a bunch of links for Librivox books saved in my Great Books channel that are now missing from my tree. I have no idea why they are gone. I did not delete them or move them or do anything with them. They were created a while ago and I just now noticed that they were missing.
 
+Update:
+
 I checked in GitHub and the other items that used to be there in the tree are in GitHub
 
 Maybe I did go into edit mode and move them when I was doing my tutorial video and practicing how to show how to move things. If that is the case, then it could be something to do with the time it takes to save moves made in edit mode? When pressing done maybe that should be a commit button, I do not know if done just closes the edit mode or if it is a save. Maybe that would help save things in edit mode, but I am not sure how you programmed it.
