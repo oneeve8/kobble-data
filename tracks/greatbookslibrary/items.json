@@ -1741,11 +1741,11 @@
           "url" : "https:\/\/archive.org\/details\/musiquedestherd00racigoog"
         }
       },
-      "title" : "Musique d",
+      "title" : "Racine",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of the U",
+      "subtitle" : "Musique de Esther",
       "expanded" : true,
       "children" : [
 
