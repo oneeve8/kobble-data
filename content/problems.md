@@ -23,6 +23,6 @@ The tutorial slide show has old information such as creating a channel or track 
 ### Home Page
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 
-### Character Issue
-The single quotation appears as a wrong character so you can’t type contracti
+### Character Issue in Markdown
+The single quotation appears as a wrong character so you can’t type contractions like don’t and can’t.
 
