@@ -19,7 +19,7 @@ Familiarise yourself with a few icons in Kobble
 Green Channel
 White Channel
 Plus symbol
-Green track
+Green track (train track)
 Triple Bar
 Home
 Presentation icon (presentation screen)
