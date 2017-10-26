@@ -11,7 +11,7 @@
           }
         }
       },
-      "title" : "Tutorial  Video",
+      "title" : "Tutorial  Video Narrative",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
@@ -32,11 +32,11 @@
           }
         }
       },
-      "title" : "Tutorial Video",
+      "title" : "Tutorial Video Narrative",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
-      "subtitle" : "Narrative",
+      "subtitle" : "#1",
       "expanded" : true,
       "children" : [
 
