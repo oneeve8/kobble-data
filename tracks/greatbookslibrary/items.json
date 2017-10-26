@@ -1755,14 +1755,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/Optics_285"
+          "url" : "https:\/\/archive.org\/stream\/Optics_285"
         }
       },
-      "title" : "Optics : Sir Isaac Newton : Free Downloa",
+      "title" : "Sir Isaac Newton :",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Sir Isaac Newton Optics Dover Publications Inc. 19",
+      "subtitle" : "Optics",
       "expanded" : true,
       "children" : [
 
@@ -1792,7 +1792,7 @@
           "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
         }
       },
-      "title" : "Newton",
+      "title" : "Sir Isaac Newton",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
