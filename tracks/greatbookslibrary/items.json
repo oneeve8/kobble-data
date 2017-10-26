@@ -1670,14 +1670,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/humanunderstandi00lockuoft"
+          "url" : "https:\/\/archive.org\/stream\/humanunderstandi00lockuoft"
         }
       },
-      "title" : "An essay concerning human understanding ",
+      "title" : "John Locke",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "An essay concerning human understanding ",
       "expanded" : true,
       "children" : [
 
