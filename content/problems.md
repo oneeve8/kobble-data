@@ -2,11 +2,11 @@
 ## Problems Found
 
 ### Folder problems
-Created a folder and tried to move items into it
-Could not drag and drop items into it
-So tried cut and paste
-The items seemed to cut and paste into the folder, but then
-Strange things happened such as duplicate files created
+Created a folder and tried to move items into it.  
+Could not drag and drop items into it.  
+So tried cut and paste.  
+The items seemed to cut and paste into the folder, but then.  
+Strange things happened such as duplicate files created 
 Expanding and contracting caused extra copies to appear or disappear
 Tried to delete extra copies and wrong files got deleted
 Tried to copy and paste instead and that did not work either
@@ -21,4 +21,6 @@ I tried to tap open the items, content flashed on the Kobble view, but then disa
 The tutorial slide show has old information such as creating a channel or track using : instead of +
 
 ### Home Page
-The home page no longer appears when I open Kobble... the one with the video and short intro that 
+The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
+
+
