@@ -25,7 +25,9 @@ Drag and drop the URL into your Kobble tree.
 
 You may want to change the title and subtitle.
 
-Long tap the newly create
+Long tap the newly created link and tap edit.
+
+Check the link, if the link says “str
 
 
 
