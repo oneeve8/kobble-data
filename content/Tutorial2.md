@@ -105,7 +105,9 @@ If you’ve watched some of our introductory videos, by now, you probably have l
 
 You might just want to keep all your internet bookmarks organised.
 
-Or you may want to keep track of work related information
+Or you may want to keep track of work related information.
+
+If you are a student, you may want to keep track of your 
 
 
 
