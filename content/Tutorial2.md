@@ -96,9 +96,9 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 ***
 
-Now Lets review some of the feATin Kobble. 
+Now Lets review some of the features in Kobble. 
 
-Lets first review the tree icons:
+Lets first review the tree on the left side of your screen:
 
 A green channel is your own content.  
 A white channel is a channel that was shared by someone else.  
