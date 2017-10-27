@@ -118,10 +118,12 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 Now Lets review some of the icons in Kobble. 
 
-A green channel is your own content
-A white channel is a channel that was shared by someone else
+Lets first review the tree icons:
 
-The plus symbol next to your channel or track tells you that your channel is open.
+A green channel is your own content.  
+A white channel is a channel that was shared by someone else.  
+
+The plus symbol next to your channel or track tells you that your channel is open.  
 
 If there is no plus sign, then it’s closed. 
 
