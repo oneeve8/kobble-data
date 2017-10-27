@@ -5,11 +5,9 @@ In this tutorial video
 
 You will learn how to stream an archived book
 
-You will alslearn how to share a channel or track
+You will also learn how to share a channel or track
 
-
-
-You will also learn some basic Markdown syntax, including:
+You will learn some basic Markdown syntax, including:
 
 1. How to add an image to a Markdown File,
 
