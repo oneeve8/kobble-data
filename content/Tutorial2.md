@@ -123,7 +123,7 @@ The Presentation icon is a presentation screen,
 The Markdown icon is the letter M,  
 And the Link icon is a chain link.  
 On the link item,  
-You will notice an icon with a square and an arrow,  
+You will notice another icon on the right of square and an up arrow,  
 tapping that opens your link in a new window.  
 Or you can just open your link in your Kobble view by tapping it.  
 Another icon is a folder.
