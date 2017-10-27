@@ -126,6 +126,8 @@ Or you can just open your link in your Kobble view by tapping it.
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into it.  
 
+
+
 In edit mode, the red circle is your delete button, to confirm your delete, the item slides to the left to reveal another red delete. Tap that to delete it.
 
 Tap, hold and drag the triple bar on the right to move a channel track or item.
