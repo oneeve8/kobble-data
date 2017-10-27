@@ -207,11 +207,13 @@ One of the things people want most, is control over their own data. Usually peop
 
 ***
 
-Next I’ll show you how to share your information with others.
+So next I’ll show you how to share your information with others.
 
 To share a track or channel, simply long tap it, 
 
 select *share* and select the medium you want to share it in. 
+
+
 
 You can send a message or an email, or save it to your own notes or files.
 
