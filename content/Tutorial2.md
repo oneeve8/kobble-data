@@ -19,6 +19,8 @@ And finally, I’ll give you a quick review.
 
 Let’s get started.
 
+***
+
 To share a track or channel, simply long tap it, 
 
 select *share* and select the medium you want to share it in. 
