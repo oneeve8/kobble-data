@@ -121,6 +121,7 @@ The Markdown icon is the letter M,
 And the Link icon is a chain link.  
 You will notice an icon with a square and an arrow, tapping that opens your link in a new window.  
 Or you can just open your link in your Kobble view by tapping it.
+Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into it.  
 
 In edit mode, the red circle is your delete button, to confirm your delete, the item slides to the left to reveal another red delete. Tap that to delete it.
