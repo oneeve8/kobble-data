@@ -49,13 +49,17 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 Next I’ll show you some Markdown syntax
 
+To create headings use the hashtag symbol
+
+The more hasht
+
 To create a hard break use return twice
 
 To create a soft break use at least two spaces after a line.  
 
 To italicise use an asterisk before and after the word you want to italicise.
 
-To boldface your word use two asterisks before and after th
+To boldface your word use two asterisks before and after the word you want bolded.
 
 add an image or video to a Markdown file.
 
