@@ -5,7 +5,7 @@ In this tutorial video
 
 You will learn how to stream an archived book
 
-You will learn some basic Markdown syntax, including:
+You will also learn some basic Markdown syntax, including:
 
 1. How to add an image to a Markdown File,
 
