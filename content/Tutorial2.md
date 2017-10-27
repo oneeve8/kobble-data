@@ -53,7 +53,7 @@ To create a hard break use return twice
 
 To create a soft break use at least two spaces after a line.  
 
-To 
+To italicise use an asterisk before and after the word you want to italicise
 
 add an image or video to a Markdown file.
 
