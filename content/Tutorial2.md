@@ -192,6 +192,10 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 If you want to be able to easily share and store your information, you will want to opt for a GitHub account.
 
+A public GitHub account is free.
+
+A private GitHub account has a small fee.
+
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
 Just create a Markdown file with a list of all the channels that you want to share and include their links.
