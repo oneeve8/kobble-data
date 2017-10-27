@@ -219,7 +219,7 @@ I’m selecting mail,
 
 A pop up window will open with your GitHub repo URL.
 
-you can enter the email address you wish to send it to.
+you can then simply enter the email address of another Koyou wish to send it to and send it out.
 
 ***
 
