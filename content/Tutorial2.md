@@ -33,7 +33,7 @@ A pop up window will open and then you can enter the email address you wish to s
 
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
-Just create a Markdown file with a list of all the channels that you want to share with their links.
+Just create a Markdown file with a list of all the channels that you want to share wit.
 
 Then share your *Follow Me* channel
 
