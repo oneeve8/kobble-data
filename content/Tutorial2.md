@@ -193,7 +193,9 @@ So if you plan on sharing your information, you will need to create an account.
 
 GitHub is a web based repository and internet hosting service. 
 
-It has mostly been u
+It has mostly been used for code for developers
+
+It has version control that allows devel
 
 ***
 
