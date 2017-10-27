@@ -133,12 +133,10 @@ A Track has a green train track icon
 
 The Presentation icon is a presentation screen,  
 The Markdown icon is the letter M,  
-And the Link icon is a chain. 
-You will notice an icon with a square and an arrow, tapping that opens your link in a new window
-Or you can open your link in your Kobble view.
-
-Open a new window,  
-Folder icon
+And the Link icon is a chain.  
+You will notice an icon with a square and an arrow, tapping that opens your link in a new window.  
+Or you can open your link in your Kobble view.  
+F
 Kobble view (square view),  
 Markdown edit (pencil),
 Kobble Views,
