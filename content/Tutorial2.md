@@ -157,7 +157,8 @@ Now if you are viewing a Markdown file in your Kobble view,
 You will notice a pencil icon below the tab bar on the left
 
 To edit a Markdown file, tap the pencil icon
-To view your Markdown results, tap the square view icon to toggle it.
+You can view your results in the bottom half of your split screen view or
+tap the square view icon to toggle it.
 
 
 Home (house icon),  
