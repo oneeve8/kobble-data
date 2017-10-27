@@ -39,7 +39,9 @@ Then share that channel
 
 When the recipient follows your shared channel
 
-they can simply drag and drop any links that you shared into their own Kobble tree.
+They can simply drag and drop any channel or track links that you shared into their own Kobble tree.
+
+You can continually add new 
 
 Your recipients will receive all your updates of your channels as you update.
 
