@@ -61,6 +61,10 @@ To italicise use an asterisk before and after the word you want to italicise.
 
 To boldface your word use two asterisks before and after the word you want bolded.
 
+To create a division line use three asterisks.
+
+Check o
+
 add an image or video to a Markdown file.
 
 To add an image, the Markdown syntax is an exclamation point,
