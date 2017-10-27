@@ -197,7 +197,7 @@ If you are not familiar with GitHub, it is basically a web based repository and 
 
 It has mostly been used for code for developers
 
-It has version control and allows developers to easily collaborate.
+Because it allows for version control easi
 
 But actually, GitHub is not just for developers.
 
