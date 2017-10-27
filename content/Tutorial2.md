@@ -13,7 +13,7 @@ You will also learn some basic Markdown syntax, including:
 
 I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
-Then I’ll give you a quick review.
+Then I’ll give you a quick review of the features in Kobble.
 
 Finally, If you opted for GitHub support, I will briefly show you a few things about GitHub such as how to retrieve information from your GitHub account.
 
