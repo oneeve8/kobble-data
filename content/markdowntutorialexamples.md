@@ -3,3 +3,8 @@
 
 *italicise*
 
+**bold**
+
+***
+
+Division line
