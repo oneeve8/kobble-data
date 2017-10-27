@@ -67,7 +67,7 @@ To boldface your word, use two asterisks before and after the word you want bold
 
 To create a division line use three asterisks.
 
-Check out our Markdown notes for more syntax tips
+
 
 add an image or video to a Markdown file.
 
@@ -92,6 +92,7 @@ For example, in youtube, you can find the video embed URL under the share icon w
 Don’t worry, if you forget, you can always refer to our Markdown cheat sheet 
 
 If you are new to Markdown, no worries, it’s very easy to learn.
+
 
 ***
 
