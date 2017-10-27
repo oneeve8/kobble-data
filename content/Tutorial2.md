@@ -189,7 +189,7 @@ If you plan on creating, storing, and sharing a lot of information, you will wan
 
 So let’s talk about GitHub
 
-A public GitHub account is free. This means that your information would be publicly accessible if you share your repository URL with others.
+A public GitHub account is free. This means that your information would be publicly accessible and easily found if you share your repository URL with others.
 
 There is a small charge for a private GitHub account which keeps all your information private.
 
