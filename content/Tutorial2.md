@@ -37,9 +37,11 @@ Drag and drop the URL into your Kobble tree.
 
 The name and subtitle will be automatically updated.
 
-But you may want to change the title and subti
+But you may want to change it.
 
 Long tap the newly created link and tap edit.
+
+Edit your title and subtitle as needed.
 
 Check the link, if the link says stream, it will stream just fine in Kobble.
 
