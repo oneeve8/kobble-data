@@ -135,6 +135,7 @@ Presentation icon (presentation screen),
 Markdown icon (M),  
 Link icon (chain),  
 Open a new window,  
+Folder icon
 Kobble view (square view),  
 Markdown edit (pencil),
 Kobble Views,
