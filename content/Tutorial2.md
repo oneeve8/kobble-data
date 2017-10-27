@@ -194,7 +194,9 @@ If you want to be able to easily share and store your information, you will want
 
 A public GitHub account is free.
 
-A private GitHub account has a small fee.
+There is a small charge for a private GitHub account.
+
+
 
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
