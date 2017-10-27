@@ -15,7 +15,7 @@ You will also learn some basic Markdown syntax, including:
 
 3. And how to add a video to a Markdown file
 
-After showing you tips on Markdown, 
+After showing you some tips on Markdown, 
 
 I’ll give you a quick review of the features in Kobble.
 
