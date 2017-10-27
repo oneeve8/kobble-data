@@ -96,7 +96,7 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 ***
 
-Now Lets review some of the icons in Kobble. 
+Now Lets review some of the feATin Kobble. 
 
 Lets first review the tree icons:
 
@@ -121,7 +121,7 @@ You will notice an icon with a square and an arrow, tapping that opens your link
 Or you can just open your link in your Kobble view by tapping it.
 Tapping the folder will open or close it. The folder must be open in order to move content into it.  
 
-In edit mode, the red circle is your delete button, to confirm your delete, the item slides to the left to reveal another red delete. Tap that to delete something.
+In edit mode, the red circle is your delete button, to confirm your delete, the item slides to the left to reveal another red delete. Tap that to delete it.
 
 Tap, hold and drag the triple bar on the right to move a channel track or item.
 
