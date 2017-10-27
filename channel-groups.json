@@ -4,11 +4,11 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Follow Simmy",
-          "subtitle" : "Tracks And Channels To Share",
+          "title" : "Sports",
+          "subtitle" : "Sports",
           "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shared .json",
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
             "repo" : "kobble-data"
           }
         },
@@ -67,20 +67,20 @@
           }
         },
         {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Test Channel",
           "subtitle" : "Dummy Channel For Testing",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Test Channel.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Follow Simmy",
+          "subtitle" : "Tracks And Channels To Share",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shared .json",
             "repo" : "kobble-data"
           }
         },
