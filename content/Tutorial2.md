@@ -120,6 +120,9 @@ Now Lets review some of the icons in Kobble.
 
 Green Channel,  
 White Channel,  
+A g
+A white channel is a channel that was shared by someone else
+
 Plus symbol (open and closed),  
 Long Tap (cut, copy, edit, share)
 Green track (train track),  
