@@ -9,9 +9,9 @@ You will also learn some basic Markdown syntax, including:
 
 1. How to add a link
 
-2How to add an image to a Markdown File,
+2. How to add an image
 
-2. And how to add a video to a Markdown File.  
+3. And how to add a video to a Markdown file
 
 Then I’ll give you a quick review of the features in Kobble.
 
