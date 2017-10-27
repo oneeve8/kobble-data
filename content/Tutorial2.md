@@ -196,7 +196,7 @@ A public GitHub account is free.
 
 There is a small charge for a private GitHub account.
 
-The sharing feature in Kobble is activat
+The sharing feature in Kobble is activated when you have a GitHub account.
 
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
