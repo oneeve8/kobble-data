@@ -41,7 +41,7 @@ When the recipient follows your shared channel
 
 They can simply drag and drop any channel or track links that you shared into their own Kobble tree.
 
-You can continually add new 
+You can continually add new channels and tracks to your Markdown file, and your recipients will always have your latest updates.
 
 Your recipients will receive all your updates of your channels as you update.
 
