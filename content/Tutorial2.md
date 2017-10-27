@@ -105,7 +105,7 @@ A white channel is a channel that was shared by someone else.
 
 Tap the white plus sign next to Channels to create a new Channel.
 
-The plus symbol next to your channel or track tells you that your channel is open.   
+The green plus symbol next to your own channels or track tells you that your channel is open.   
 
 If there is no plus sign, then it’s closed.  
 
