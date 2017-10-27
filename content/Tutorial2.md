@@ -53,6 +53,9 @@ This is a text archived book link that already contains the word *stream* in the
 
 Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
 
+***
+
+
 Next I’ll show you some Markdown syntax
 
 To create headings use the hashtag symbol
