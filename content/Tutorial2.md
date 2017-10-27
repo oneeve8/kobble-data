@@ -23,6 +23,31 @@ Let’s get started.
 
 ***
 
+Next I’ll show you how to stream a book in your kobble view.
+
+To stream an archived book, first find the archived book that you want to stream. 
+
+Drag and drop the URL into your Kobble tree.
+
+The name and subtitle will be automatically updated.
+
+But you may want to change it.
+
+Long tap the newly created link and tap edit.
+
+Edit your title and subtitle as needed.
+
+Check the link, if the link says stream, it will stream just fine in Kobble.
+
+This archived book link needs to be changed from *details* to *stream*
+
+Now you can read your archived book in your Kobble view.
+
+This is an archived book link that already contains the word *stream* in the link.
+
+Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
+
+
 To share a track or channel, simply long tap it, 
 
 select *share* and select the medium you want to share it in. 
@@ -48,29 +73,6 @@ You can continually add new channels and tracks to your own *Follow Me* Markdown
 Your recipients will be able to view all your updates of information within each of your channels and tracks that you shared... as you update. So you can share information even if it is a work in progress.
 
 ***
-Next I’ll show you how to stream a book in your kobble view.
-
-To stream an archived book, first find the archived book that you want to stream. 
-
-Drag and drop the URL into your Kobble tree.
-
-The name and subtitle will be automatically updated.
-
-But you may want to change it.
-
-Long tap the newly created link and tap edit.
-
-Edit your title and subtitle as needed.
-
-Check the link, if the link says stream, it will stream just fine in Kobble.
-
-This archived book link needs to be changed from *details* to *stream*
-
-Now you can read your archived book in your Kobble view.
-
-This is an archived book link that already contains the word *stream* in the link.
-
-Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
 
 ***
 
