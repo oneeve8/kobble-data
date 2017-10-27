@@ -3,20 +3,20 @@
 
 ***
 
-### Couldnt drop a link after deleting it and trying to re-add it
+### Couldnt drop a link after deleting it and trying to re-add it 27/10
 I was working on doing screen recordings for my next tutorial video. I deleted an item thinking I could drag and drop the item again so I could record it. But when I tried to drag and drop it back in, it did not work. It didnt add it to the tree. I tried to add it by tapping the plus sign next to the channel to create a link item and paste the URL there, the URL pasted in to the pop up but when I tapped done and looked for it, the item did not appear in the tree.
 
 ***
 
-### Home icon 27/11
+### Home icon 27/10
 Are you keeping the channel group thing? It does not seem to do anything.
 ***
 
-### GitHub free or not? 27/11
+### GitHub free or not? 27/10
 Written introduction is confusing on GitHub in my opinion. First it says GitHub support can be purchased in app, then it says it is free.
 ***
 
-### Content disappearing 27/11
+### Content disappearing 27/10
 I had a bunch of links for Librivox books saved in my Great Books channel that are now missing from my tree. I have no idea why they are gone. I did not delete them or move them or do anything with them. They were created a while ago and I just now noticed that they were missing.
 
 Update:
