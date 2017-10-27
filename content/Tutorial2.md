@@ -143,6 +143,8 @@ Tapping the folder will open or close it. The folder must be open in order to mo
 
 In edit mode, the red circle is your delete button, to make sure you want to delete it slides to the left to reveal another red delete. Tap that to delete something.
 
+Tap, hold and drag the triple bar on the 
+
 In the main window is your
 Kobble view
 To edit a Markdown file, tap the pencil icon
