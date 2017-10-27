@@ -33,5 +33,5 @@ Close Tab
 Tabs
 Home (house icon),  
 Edit Mode,  
-Triple Bar,  
-Red Delete
+Red Delete,  
+Triple Bar. 
