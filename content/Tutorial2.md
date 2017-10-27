@@ -13,7 +13,7 @@ You will also learn some basic Markdown syntax, including:
 
 3. And how to add a video to a Markdown file
 
-Then I’ll give you a quick review of the features in Kobble.
+After showing you tips on Markdown, I’ll give you a quick review of the features in Kobble.
 
 I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
