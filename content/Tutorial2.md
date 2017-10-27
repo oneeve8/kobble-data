@@ -35,9 +35,9 @@ Another way to share your channels and tracks is to create your own *Follow Me* 
 
 Just create a Markdown file with a list of all the channels that you want to share with their links.
 
-Then share your *
+Then share your *Follow Me* channel
 
-When the recipient follows your shared channel
+When the recipient follows you,
 
 They can simply drag and drop any channel or track links that you shared into their own Kobble tree.
 
