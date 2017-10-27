@@ -75,8 +75,13 @@ You can continually add new channels and tracks to your own *Follow Me* Markdown
 Your recipients will be able to view all your updates of information within each of your channels and tracks that you shared... as you update them. So you can share information even if it is a work in progress, they will be able to view your most recent updates automatically.
 
 ***
-Next I’ll show you how to add an image or video 
-To add an image, the Markdown syntax is an exclamation point followed by brackets with the image description, followed by parentheses with the image URL.
+Next I’ll show you how to add an image or video to a Markdown file.
+
+To add an image, the Markdown syntax is an exclamation point,
+
+followed by brackets with the image description, 
+
+followed by parentheses with the image URL.
 
 ***
 
