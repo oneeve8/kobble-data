@@ -26,7 +26,7 @@ I checked in GitHub and the other items that used to be there in the tree are in
 Maybe I did go into edit mode and move them when I was doing my tutorial video and practicing how to show how to move things. If that is the case, then it could be something to do with the time it takes to save moves made in edit mode? When pressing done maybe that should be a commit button, I do not know if done just closes the edit mode or if it is a save. Maybe that would help save things in edit mode, but I am not sure how you programmed it.
 ***
 
-### Folder problems 26/11
+### Folder problems 26/10
 Created a folder and tried to move items into it.  
 Could not drag and drop items into it.  
 So tried cut and paste.  
@@ -39,7 +39,7 @@ I lost some files so
 Then I just decided to cut and paste the items into another track and start over.  
 After I copied my items into another track, I just deleted that folder and the   duplicate items.  
 
-Update 27/11:
+Update 27/10:
 
 Okay I am going to try to duplicate what happened:
 1. First of all, I am trying to drag and drop items I already created into my Aristotle folder in Edit mode. It does not work. I opened the folder so it has the plus sign, went into edit mode and tried to drag and drop an item into it. The items just move, it does not drop it into the folder.
@@ -58,15 +58,15 @@ Maybe make changes moves, cuts and edits only available in edit mode and have a 
 ***
 
 
-### Kobble Base Tracks Issue 26/11
+### Kobble Base Tracks Issue 26/10
 I tried to tap open the items, content flashed on the Kobble view, but then disappeared. After several attempts at tapping, the information finally appeared.
 ***
 
-### Tutorial needs updating 26/11
+### Tutorial needs updating 26/10
 The tutorial slide show under your kobble base tracks has old information such as creating a channel or track using : instead of +
 ***
 
-### Home Page 26/11
+### Home Page 26/10
 The home page no longer appears when I open Kobble... the one with the video and short intro that you did.
 
 Update: it seems to be there now, I don’t know why that happened before. I think before when I closed all my tabs maybe I had accidentally closed it as a tab?
@@ -75,16 +75,16 @@ Update: I was able to close the intro page as a tab. Maybe that should actually 
 ***
 
 
-### Character Issue in Markdown 26/11
+### Character Issue in Markdown 26/10
 The single quotation appears as a wrong character so you cannot type contractions like don’t and can’t.
 ***
 
 
-### Moved item disappeared 26/11
+### Moved item disappeared 26/10
 I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I do not know why. It was an old Presentation I had done for Catholic Place.
 ***
 
-### Kobble failure/closure 26/11
+### Kobble failure/closure 26/1
 After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the Base tracks?
 ***
 
