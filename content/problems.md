@@ -84,12 +84,12 @@ The single quotation appears as a wrong character so you cannot type contraction
 I had moved an item into a different track. The next time I opened the destination track the new item that I had moved there was missing. I do not know why. It was an old Presentation I had done for Catholic Place.
 ***
 
-### Kobble failure/closure 26/1
+### Kobble failure/closure 26/10
 After moving a track, kobble closed for some reason. After I opened it again, the kobble introductory page that I thought I was missing re-appeared. Maybe the Intro page is not in the Base tracks?
 ***
 
 
-### Editing Markdown of Shared items? 26/11
+### Editing Markdown of Shared items? 26/10
 I noticed that I could edit the intro page in markdown. It probably should not be that way... or what happens if somebody edits the Markdown of a shared item?
 ***
 
