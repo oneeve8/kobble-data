@@ -20,7 +20,7 @@ Familiarise yourself with a few icons and things in Kobble.
 Green Channel,  
 White Channel,  
 Plus symbol (open and closed),  
-Long Tap (cut, copy, edit, share
+Long Tap (cut, copy, edit, share)
 Green track (train track),  
 Presentation icon (presentation screen),  
 Markdown icon (M),  
@@ -34,10 +34,4 @@ Tabs
 Home (house icon),  
 Edit Mode,  
 Triple Bar,  
-Red Delete,  
-Kobble Views,  
-
-
-Long tap features:
-
-Cut, copy, edit, share
+Red Delete
