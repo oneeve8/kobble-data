@@ -37,7 +37,9 @@ Just create a Markdown file with a list of all the channels that you want to sha
 
 Then share that channel
 
-When the recipient follows your shared channel, they can simply drag and drop any 
+When the recipient follows your shared channel, 
+
+they can simply drag and drop any links that you shared into their own Kobble tree.
 
 To stream an archived book, first find the archived book that you want to stream. 
 
