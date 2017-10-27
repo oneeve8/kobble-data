@@ -1,7 +1,15 @@
 {
   "title" : "Test Channel",
-  "subtitle" : "Dummy Channel To Test Problems",
+  "subtitle" : "Dummy Channel For Testing",
   "tracks" : [
-
+    {
+      "title" : "Markdown Tutorial",
+      "subtitle" : "Examples",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Markdownexamples",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
