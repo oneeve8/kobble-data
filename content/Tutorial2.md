@@ -150,7 +150,7 @@ Kobble view
 On the top right are the words *close tab*   
 tap that to close the tab which is highlighted in green below.
 The tab bar shows you all the items you have open.  
-The green bar indicates which tab you are currently viewing.  
+The green bar below the heading of the tab indicates which tab you are currently viewing.  
 You will notice that the tab bar can be scrolled left or right.  
 Below the tab bar, you will see a pencil icon on the left
 To edit a Markdown file, tap the pencil icon
