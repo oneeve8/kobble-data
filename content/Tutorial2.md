@@ -183,7 +183,7 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 ***
 
-With your free Kobble app, all of your persKobble information is stored on your own personal computer. 
+With your free Kobble app, all of your Kobble information is stored on your own personal computer. 
 
 If you plan on creating, storing, and sharing a lot of information, you will want to activate a GitHub account. 
 
