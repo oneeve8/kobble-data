@@ -132,10 +132,10 @@ Or:
 
 # Link
 Syntax Example:  
-\[Tom Sawyer](https://en.m.wikipedia.org/wiki/Tom_Sawyer
+\[Tom Sawyer](https://en.m.wikipedia.org/wiki/Tom_Sawyer)
 
 Result example:  
-[Wikipedia](en.m.wikipedia.org)
+
 
 ***
 
