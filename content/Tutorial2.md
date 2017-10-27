@@ -156,7 +156,6 @@ Below the tab bar, you will see a pencil icon on the left
 To edit a Markdown file, tap the pencil icon
 To view your Markdown results, tap the square view icon to toggle it.
 
-You can tap Close Tab to close any tabs you don’t w
 
 Home (house icon),  
 Edit Mode,  
