@@ -4,7 +4,7 @@
 ***
 
 ### Couldn’t drop a link 
-I was working on doing screen shots for my next tutorial video
+I was working on doing screen recordings for my next tutorial video. I deleted an item thinking I could drag and drop the item
 
 ### Home icon 27/11
 Are you keeping the channel group thing? It does not seem to do anything.
