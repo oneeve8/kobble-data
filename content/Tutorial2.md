@@ -95,7 +95,6 @@ Don’t worry, if you forget, you can always refer to our Markdown cheat sheet
 
 If you are new to Markdown, no worries, it’s very easy to learn.
 
-
 ***
 
 Now Lets review some of the features in Kobble. 
