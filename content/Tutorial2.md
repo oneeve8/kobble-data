@@ -105,7 +105,7 @@ If you’ve watched some of our introductory videos, by now, you probably have l
 
 You might just want to do something as simple as keeping all your internet bookmarks organised.
 
-You may want to organise and manage other kinds of
+You may want to organise and manage other kinds of content, such as projects and to do lists.
 
 Or you may want to keep track of work related information.
 
