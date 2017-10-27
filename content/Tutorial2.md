@@ -105,6 +105,8 @@ If you’ve watched some of our introductory videos, by now, you probably have l
 
 You might just want to do something as simple as keeping all your internet bookmarks organised.
 
+You may want to organise and manage other kinds of
+
 Or you may want to keep track of work related information.
 
 If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising.
