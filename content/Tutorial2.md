@@ -129,7 +129,8 @@ In order to move or delete a channel in edit mode, it must be closed.
 
 A long Tap reveals the options to cut, copy, edit, or share
 
-A Track has green traitrack (train track),  
+A Track has a green train track icon
+
 Presentation icon (presentation screen),  
 Markdown icon (M),  
 Link icon (chain),  
