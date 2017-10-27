@@ -132,7 +132,9 @@ On top of your Kobble tree you will see the word Edit.
 Tap Edit to move or delete channels, tracks or items.
 
 In edit mode, the red circle is your delete button,  
-to confirm your delete, afslides to the left to reveal another red delete. Tap that to delete it.
+to confirm your delete, after your tap,  
+the item will slide to the left to reveal another red delete.  
+Tap that to delete it.
 
 Tap, hold and drag the triple bar on the right to move a channel track or item.
 
