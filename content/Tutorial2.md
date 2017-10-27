@@ -191,6 +191,11 @@ The sharing feature in Kobble is activated when you have a GitHub account.
 
 So if you plan on sharing your information, you will need an account.
 
+***
+
+
+Next I’ll show you how to share your information with others.
+
 To share a track or channel, simply long tap it, 
 
 select *share* and select the medium you want to share it in. 
