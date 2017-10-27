@@ -2,20 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Student Presentations",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Assignment #1",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
@@ -90,6 +76,20 @@
       },
       "subtitle" : "Quotes I Like",
       "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Student Presentations",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Assignment #1",
+      "expanded" : false,
       "children" : [
 
       ]
