@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Oedipus.Rex.Sophocles.trans.Watling"
-        }
-      },
-      "title" : "Sophocles ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Oedipus Rex",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
         }
       },
@@ -264,7 +247,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Works",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
