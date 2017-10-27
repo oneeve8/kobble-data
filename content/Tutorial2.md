@@ -162,15 +162,7 @@ Tap the square view icon to toggle the split screen view away.
 
 
 
-To share a track or channel, simply long tap it, 
 
-select *share* and select the medium you want to share it in. 
-
-You can send a message or an email, or save it to your own notes or files.
-
-I’m selecting mail,  
-
-A pop up window will open and then you can enter the email address you wish to send it to.
 
 ***
 
