@@ -29,3 +29,6 @@ Link icon (chain),
 Open a new window,  
 Kobble view (square view),  
 Markdown edit (pencil).  
+
+Long tap features:
+Cut, copy, edit, share
