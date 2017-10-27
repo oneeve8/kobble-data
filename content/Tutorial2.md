@@ -191,7 +191,7 @@ So let’s talk about GitHub
 
 A public GitHub account is free. This means that your information would be publicly available for anyone to find; and would be easily accessible if you share your repository URL with others.
 
-There is a small charge for a private GitHub account which keeps all your information private unless you permit others to access your information.
+There is a small charge for a private GitHub account which keeps all your information private unless you permitted others to access your information.
 
 The sharing feature in Kobble is activated when you have a GitHub account. 
 
