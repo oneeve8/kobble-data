@@ -11,11 +11,11 @@ You will also learn some basic Markdown syntax, including:
 
 2. And how to add a video to a Markdown File.  
 
-You will also learn how to retrieve information from your GitHub account.
-
 I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
 And finally, I’ll give you a quick review.
+
+You will also learn how to retrieve information from your GitHub account.
 
 Let’s get started.
 
