@@ -5,8 +5,6 @@ In this tutorial video
 
 You will learn how to stream an archived book
 
-
-
 You will learn some basic Markdown syntax, including:
 
 1. How to add an image to a Markdown File,
@@ -48,6 +46,31 @@ Now you can read your archived book in your Kobble view.
 This is a text archived book link that already contains the word *stream* in the link.
 
 Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
+
+Next I’ll show you how to add an image or video to a Markdown file.
+
+To add an image, the Markdown syntax is an exclamation point,
+
+followed by brackets with the image description, 
+
+followed by parentheses with the image URL.
+
+***
+
+To add a video, the Markdown syntax is 
+
+brackets with the video description, 
+
+followed by the video embed URL in parenthesis. 
+
+For example, in youtube, you can find the video embed URL under the share icon when you select embed code.
+
+***
+
+Don’t worry, if you forget, you can always refer to our Markdown cheat sheet 
+
+If you are new to Markdown, no worries, it’s very easy to learn.
+
 ***
 
 To share a track or channel, simply long tap it, 
