@@ -183,7 +183,7 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 ***
 
-All of your Kobble information is store
+All of your Kobble information is stored on your personal computer.
 If you plan on creating and storing a lot of information, you will want to create a GitHub account. 
 
 So let’s talk about GitHub
