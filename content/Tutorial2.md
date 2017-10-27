@@ -43,7 +43,7 @@ Long tap the newly created link and tap edit.
 
 Edit your title and subtitle as needed.
 
-Check the link, if the link says stream, it will stream just fine in Kobble.
+Check the link, if the link has the word stream, it will stream just fine in Kobble.
 
 This archived book link needs to be changed from *details* to *stream*
 
