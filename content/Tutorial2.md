@@ -72,6 +72,8 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 ***
 
+To add an image, the Markdown s
+
 
 Lets review some of the icons in Kobble. 
 
