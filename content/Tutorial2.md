@@ -49,7 +49,9 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 Next I’ll show you some Markdown syntax
 
-To create a hard break re
+To create a hard break use return twice
+
+To create a soft break
 
 add an image or video to a Markdown file.
 
