@@ -22,7 +22,7 @@ White Channel,
 Plus symbol,  
 Green track (train track),  
 Triple Bar,  
-Home,  
+Ho
 Presentation icon (presentation screen),  
 Markdown icon (M),  
 Link icon (chain),  
@@ -31,4 +31,5 @@ Kobble view (square view),
 Markdown edit (pencil).  
 
 Long tap features:
+
 Cut, copy, edit, share
