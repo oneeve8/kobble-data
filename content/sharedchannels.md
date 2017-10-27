@@ -10,4 +10,4 @@ A list of the Great Books with streamed archived books, audio files, and cliff n
 ***
 
 ### Channel: Mark Twain Study Unit
-A list of books writt
+A list of books written by Mark Twain, streamed archived books, audio files, a presentation and notes
