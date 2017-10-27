@@ -187,7 +187,7 @@ With your free Kobble app, all of your Kobble information is stored on your own 
 
 If you plan on creating, storing, and sharing a lot of information, you will want to activate a GitHub account. 
 
-So let’s talk about GitHub
+So lets talk about GitHub
 
 If you are not familiar with GitHub, it is basically a web based repository and internet hosting service. 
 
