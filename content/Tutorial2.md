@@ -152,11 +152,11 @@ In the main window is your
 Kobble view
 On the top right is *close tab* tap that to close the tab highlighted in green below.
 The tab bar shows you all the items you have open
-Below the tab bar, you will
+Below the tab bar, you will see a pencil icon on the left
 To edit a Markdown file, tap the pencil icon
-To view your Markdown results, tap the square view icon
+To view your Markdown results, tap the square view icon to toggle it.
 
-You can tap Close Tab to close any tabs you don’t want opened.
+You can tap Close Tab to close any tabs you don’t w
 
 Home (house icon),  
 Edit Mode,  
