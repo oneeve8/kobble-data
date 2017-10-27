@@ -118,10 +118,10 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 Now Lets review some of the icons in Kobble. 
 
-Green Channel,  
-White Channel,  
-A g
+A green channel is your own content
 A white channel is a channel that was shared by someone else
+
+
 
 Plus symbol (open and closed),  
 Long Tap (cut, copy, edit, share)
