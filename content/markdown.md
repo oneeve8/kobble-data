@@ -135,7 +135,7 @@ Syntax Example:
 \[Tom Sawyer](https://en.m.wikipedia.org/wiki/Tom_Sawyer)
 
 Result example:  
-
+[Tom Sawyer](https://en.m.wikipedia.org/wiki/Tom_Sawyer)
 
 ***
 
