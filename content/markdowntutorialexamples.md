@@ -4,7 +4,8 @@
 
 ## How to Embed a Video
 
-[you tube](https://youtube/embed/dQw4w9WgXcQ)
+[you tube](https://www.youtube.com/embed/dQw4w9WgXcQ)
+
 
 
 
