@@ -49,6 +49,8 @@ This archived book link needs to be changed from *details* to *stream*
 
 Now you can read your archived book in your Kobble view and take notes while you read.
 
+Here is an archived book that alrea
+
 Just create a Markdown file for your notes and tap the tab whenever you want to take a note.
 
 
