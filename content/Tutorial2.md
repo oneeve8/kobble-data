@@ -103,7 +103,7 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 If you’ve watched some of our introductory videos, by now, you probably have lots of ideas about how you want to use Kobble.
 
-You might just want to do something as simple askeep all your internet bookmarks organised.
+You might just want to do something as simple as keeping all your internet bookmarks organised.
 
 Or you may want to keep track of work related information.
 
