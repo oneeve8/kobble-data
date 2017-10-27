@@ -55,7 +55,6 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 ***
 
-
 Next I’ll show you some Markdown syntax
 
 To create headings use the hashtag symbol
