@@ -31,7 +31,9 @@ I’m selecting mail,
 
 A pop up window will open and then you can enter the email address you wish to send it to.
 
-Another way to share your channels and tracks is to create a *Follow Me*
+Another way to share your channels and tracks is to create a *Follow Me* Markdown file.
+
+Just create a Markdown file with a list of all the channels t
 
 To stream an archived book, first find the archived book that you want to stream. 
 
