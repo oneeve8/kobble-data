@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Test"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Sports",
           "subtitle" : "Sports",
