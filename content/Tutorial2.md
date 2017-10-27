@@ -132,7 +132,7 @@ In edit mode, the red circle is your delete button, to confirm your delete, the 
 
 Tap, hold and drag the triple bar on the right to move a channel track or item.
 
-The House icon on the top right of your kobble tree is 
+The House icon on the top right of your kobble tree contains your GitHub access information.
 
 ***
 
