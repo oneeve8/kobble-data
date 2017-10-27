@@ -181,7 +181,9 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 ***
 
-If you plan on creating and storing a lot of information, you will want to create a GitHub account. So let’s talk about GitHub
+If you plan on creating and storing a lot of information, you will want to create a GitHub account. 
+
+So let’s talk about GitHub
 
 A public GitHub account is free.
 
@@ -191,7 +193,7 @@ The sharing feature in Kobble is activated when you have a GitHub account.
 
 So if you plan on sharing your information, you will need to create an account.
 
-GitHub is a web based repository and internet hosting service. 
+BGitHub is a web based repository and internet hosting service. 
 
 It has mostly been used for code for developers
 
