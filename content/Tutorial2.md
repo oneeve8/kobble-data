@@ -1,4 +1,4 @@
-# Tutorial  Video (work in progress)
+# Tutorial  Video Narrative
 ## #2
 
 ***
@@ -25,7 +25,7 @@ Finally, If you opted for GitHub support, you will be interested in learning how
 
 I’ll show you how.
 
-Let’s get started.
+So, Let’s get started.
 
 ***
 
