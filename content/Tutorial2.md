@@ -41,7 +41,7 @@ When the recipient follows you,
 
 They can simply drag and drop any channel or track links that you shared into their own Kobble tree.
 
-You can continually add new channels and tracks to your *Follow Me* Markdown file, and your recipients will always have your latest updates.
+You can continually add new channels and tracks to your own *Follow Me* Markdown file, and your recipients will always have your latest updates.
 
 Your recipients will also receive all your updates of information within each of your channels and tracks that you shared... as you update. So you can share information even if it is a work in progress.
 
