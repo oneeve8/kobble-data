@@ -68,7 +68,7 @@ Now you can read your archived book in your Kobble view and take notes while you
 
 This is an archived book link that already contains the word *stream* in the link.
 
-Just create a Markdown file for your notes and tap the tab whenever you want to take a note.
+Now you can create a Markdown file for your notes and tap t tab whenever you want to take a note while you read.
 
 
 
