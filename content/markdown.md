@@ -132,7 +132,7 @@ Or:
 
 # Link
 Syntax Example:  
-\[wikipedia]\(en.m.wikipedia.org), 
+\[Tom Sawyer](https://en.m.wikipedia.org/wiki/Tom_Sawyer
 
 Result example:  
 [Wikipedia](en.m.wikipedia.org)
