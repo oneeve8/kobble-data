@@ -103,13 +103,13 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 If you’ve watched some of our introductory videos, by now, you probably have lots of ideas about how you want to use Kobble.
 
-You might just want to keep all your internet bookmarks organised.
+You might just want to do something as simple askeep all your internet bookmarks organised.
 
 Or you may want to keep track of work related information.
 
 If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising.
 
-If you are a teacher, you could create a whole study unit on a particular topic with information that you want your students to read and learn. You 
+If you are a teacher, you could create a whole study unit on a particular topic with information that you want your students to read and learn. You could put your lecture notes on a slide presentation.
 
 
 
