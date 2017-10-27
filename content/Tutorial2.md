@@ -207,9 +207,7 @@ There is a small charge for a private GitHub account. A private account keeps al
 
 The sharing feature in Kobble is activated when you have either a private? or public GitHub account. 
 
-So if you plan on sharing your information, you will need to create an account.
-
-
+So if you plan on sharing your information, you will need to create a GitHub account.
 
 ***
 
