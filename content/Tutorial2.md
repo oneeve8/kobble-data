@@ -11,9 +11,9 @@ You will learn some basic Markdown syntax, including:
 
 2. And how to add a video to a Markdown File.  
 
-I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
-
 Then I’ll give you a quick review of the features in Kobble.
+
+I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
 Finally, If you opted for GitHub support, I will briefly show you a few things such as how to share a channel or track
 
