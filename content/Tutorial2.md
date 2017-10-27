@@ -28,9 +28,11 @@ Link icon (chain),
 Open a new window,  
 Kobble view (square view),  
 Markdown edit (pencil),
-Home (house icon)
-Edit Mode
-Kobbl
+Home (house icon),  
+Edit Mode,  
+Kobble Views,  
+Tabs,  
+Close Tab,  
 
 Long tap features:
 
