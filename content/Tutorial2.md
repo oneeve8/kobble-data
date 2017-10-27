@@ -21,7 +21,7 @@ Let’s get started.
 
 To share a track or channel, simply long tap it, select *share* and select the medium you want to share it in. You can send a message or an email, or save it to your own notes or files.
 
-I’m selecting mail, a pop up window will open with your em
+I’m selecting mail, a pop up window will open and then you can enter the email address you wish to send it to.
 
 To stream an archived book, first find the archived book that you want to stream. 
 
