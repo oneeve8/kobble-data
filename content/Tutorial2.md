@@ -15,7 +15,7 @@ I’ll also share some ideas for creating your own wiki knowledge base, as well 
 
 Then I’ll give you a quick review.
 
-Finally, If I will briefly show you a few things about GitHub such as will also learn how to retrieve information from your GitHub account.
+Finally, If you opted for GitHub support, I will briefly show you a few things about GitHub such as how to retrieve information from your GitHub account.
 
 Let’s get started.
 
