@@ -199,7 +199,7 @@ It has version control and allows developers to easily collaborate.
 
 But actually, GitHub is not just for developers.
 
-Some people have been using it for word document version controls because each project has its
+Some people have been using it for word document version controls because each project has its own repository and a unique URL, you can keep a version history.
 
 ***
 
