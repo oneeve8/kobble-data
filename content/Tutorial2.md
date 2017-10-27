@@ -43,6 +43,8 @@ they can simply drag and drop any links that you shared into their own Kobble tr
 
 Your recipients will receive all your updates of your channels as you update.
 
+***
+
 To stream an archived book, first find the archived book that you want to stream. 
 
 Drag and drop the URL into your Kobble tree.
