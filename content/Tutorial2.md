@@ -197,17 +197,7 @@ The sharing feature in Kobble is activated when you have either a private or pub
 
 So if you plan on sharing your information, you will need to create an account.
 
-If you are not familiar with GitHub, it is basically a web based repository and internet hosting service. 
 
-It has mostly been used for code for developers
-
-Because it allows for version control easy collaboration between developers
-
-But actually, GitHub is not just for developers.
-
-Some people have been using it for word document version controls because each project has its own repository and a unique URL, so you can keep a version history.
-
-One of the things people want most, is control over their own data. GitHub is reliable and allows you to stay in control. 
 
 ***
 
