@@ -158,13 +158,12 @@ You will notice a pencil icon below the tab bar on the left
 
 To edit a Markdown file, tap the pencil icon
 You can view your results in the bottom half of your split screen view or
-tap the square view icon to toggle it.
+Tap the square view icon to toggle the split screen view away.
 
 
 Home (house icon),  
 Edit Mode,  
-Red Delete,  
-Triple Bar. 
+Red Delet
 
 To share a track or channel, simply long tap it, 
 
