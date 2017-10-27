@@ -217,7 +217,9 @@ You can send a message or an email, or save it to your own notes or files.
 
 I’m selecting mail,  
 
-A pop up window will open and then you can enter the email address you wish to send it to.
+A pop up window will open with your GitHub repo URL.
+
+you can enter the email address you wish to send it to.
 
 ***
 
