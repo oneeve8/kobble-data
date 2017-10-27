@@ -53,7 +53,9 @@ To create a hard break use return twice
 
 To create a soft break use at least two spaces after a line.  
 
-To italicise use an asterisk before and after the word you want to italicise
+To italicise use an asterisk before and after the word you want to italicise.
+
+To boldface your word use 
 
 add an image or video to a Markdown file.
 
