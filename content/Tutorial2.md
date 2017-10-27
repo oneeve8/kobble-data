@@ -114,6 +114,8 @@ A long Tap reveals the options to cut, copy, edit, or share.
 
 A Track has a green train track icon.  
 
+Next to each item, you will see other icons.
+
 The Presentation icon is a presentation screen,   
 The Markdown icon is the letter M,  
 And the Link icon is a chain link.  
