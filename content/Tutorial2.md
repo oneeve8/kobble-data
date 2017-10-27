@@ -55,7 +55,7 @@ To create a soft break use at least two spaces after a line.
 
 To italicise use an asterisk before and after the word you want to italicise.
 
-To boldface your word use 
+To boldface your word use two asterisks before and after th
 
 add an image or video to a Markdown file.
 
