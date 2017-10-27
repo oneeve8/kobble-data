@@ -29,7 +29,7 @@ Long tap the newly created link and tap edit.
 
 Check the link, if the link says stream, it will stream just fine in Kobble.
 
-This 
+This archived book link needs to be changed from *details to stream
 
 
 
