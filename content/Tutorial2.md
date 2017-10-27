@@ -49,7 +49,7 @@ This archived book link needs to be changed from *details* to *stream*
 
 Now you can read your archived book in your Kobble view.
 
-This is a text archived book link that already contains the word *stream* in the link.
+Here is a text archived book link that already contains the word *stream* in the link.
 
 Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
 
