@@ -188,6 +188,9 @@ If you are a teacher, you could create a whole study unit on a particular topic 
 
 Or, if you are the type of person who just likes to collect all kinds of information, you may even want to create your own knowledge base wiki.
 
+***
+
+If you plan on 
 
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
