@@ -101,7 +101,9 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 ***
 
-If you’ve watched some of our introductory videos, by now, you pro
+If you’ve watched some of our introductory videos, by now, you probably have lots of ideas about how you want to use Kobble.
+
+You might just want to keep all your bookmarks organised.
 
 
 
