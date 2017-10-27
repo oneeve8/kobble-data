@@ -205,7 +205,7 @@ But actually, GitHub is not just for developers.
 
 Some people have been using it for word document version controls because each project has its own repository and a unique URL, so you can keep a version history.
 
-One of the things people want most, is control over their own data. Usually people don’t want to have to depend on someone else or some other company to manage their information. GitHub his reliable you stay in control. 
+One of the things people want most, is control over their own data. Usually people don’t want to have to depend on someone else or some other company to manage their information. GitHub his reliable and allows you to stay in control. 
 
 ***
 
