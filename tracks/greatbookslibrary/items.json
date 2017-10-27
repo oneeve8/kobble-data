@@ -7,11 +7,11 @@
           "url" : "https:\/\/archive.org\/stream\/thewayoftheworld01292gut\/wwrld10.txt"
         }
       },
-      "title" : "William Congreve",
+      "title" : "archive.org",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The Way Of The World",
+      "subtitle" : "archive.org",
       "expanded" : true,
       "children" : [
 
