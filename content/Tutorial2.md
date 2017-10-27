@@ -64,13 +64,13 @@ Check the link, if the link says stream, it will stream just fine in Kobble.
 
 This archived book link needs to be changed from *details* to *stream*
 
-Now you can read your archived book in your Kobble viewread.
+Now you can read your archived book in your Kobble view.
 
 This is an archived book link that already contains the word *stream* in the link.
 
-Now you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
+Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
 
-
+***
 
 
 Lets review some of the icons in Kobble. 
