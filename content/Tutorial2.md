@@ -105,9 +105,9 @@ A white channel is a channel that was shared by someone else.
 
 Tap the white plus sign next to Channels to create a new Channel.
 
-The green plus symbol next to your own channels or track tells you that your channel is open.   
+The green plus symbol next to your own channels or tracks indicates that your channel or track is open.   
 
-If there is no plus sign, then it’s closed.  
+If there is no plus sign, then it’s closed.  Simply tap a
 
 In order to delete a channel while in edit mode, it must be closed.  
 In order to move content into a channel while in edit mode, it must be opened.  
