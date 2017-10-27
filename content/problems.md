@@ -1,5 +1,8 @@
 # Problems
 ## Problems Found
+
+### Kobble Intro Page closed as a tab
+I was a
 ***
 
 ### Home icon
