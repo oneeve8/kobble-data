@@ -113,7 +113,7 @@ If you are a student, you may want to keep track of your study notes, or even cr
 
 If you are a teacher, you could create a whole study unit on a particular topic with information that you want your students to read and learn. You could put your lecture notes on a slide presentation.
 
-If you are the type of person who just likes to collect all kinds of information, you may even want to create your own knowledge base wiki.
+Or, if you are the type of person who just likes to collect all kinds of information, you may even want to create your own knowledge base wiki.
 
 
 
