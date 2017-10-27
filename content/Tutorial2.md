@@ -21,6 +21,10 @@ Let’s get started.
 
 To stream an archived book, first find the archived book that you want to stream. 
 
+Drag and drop the URL into your Kobble tree.
+
+You may want to change he 
+
 
 
 
