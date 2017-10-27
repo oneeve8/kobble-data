@@ -31,7 +31,7 @@ I’m selecting mail,
 
 A pop up window will open and then you can enter the email address you wish to send it to.
 
-Another way to share your channels and 
+Another way to share your channels and tracks is to create a *Follow Me*
 
 To stream an archived book, first find the archived book that you want to stream. 
 
