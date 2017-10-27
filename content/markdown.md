@@ -232,7 +232,7 @@ To insert a video in Markdown, use the @ symbol before the title in brackets, fo
 
 Syntax example:
 
-\[youtube]\(http://www.youtube.com/embed/dQw4wgXcQ)
+\@[youtube]\(http://www.youtube.com/embed/dQw4wgXcQ)
 
 Result example:
 
