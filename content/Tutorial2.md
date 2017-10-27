@@ -213,7 +213,7 @@ To share a track or channel, simply long tap it,
 
 select *share* and select the medium you want to share it in. 
 
-After you select your 
+After you select your sharing medium, you will notice that the Repo URL will appear automatically.
 
 You can send a message or an email, or save it to your own notes or files.
 
