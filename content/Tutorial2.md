@@ -197,7 +197,9 @@ It has mostly been used for code for developers
 
 It has version control and allows developers to easily collaborate.
 
-But actually, GitHub is not 
+But actually, GitHub is not just for developers.
+
+Some people have been using it for word document version controls because each project has its
 
 ***
 
