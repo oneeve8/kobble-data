@@ -142,7 +142,8 @@ Or you can just open your link in your Kobble view by tapping it.
 Tapping the folder will open or close it. The folder must be open in order to move content into it.  
 
 In the main window is your
-Kobble view (square view),  
+Kobble view
+To edit a Markdown file, tap the pen
 Markdown edit (pencil),
 Kobble Views,
 Close Tab
