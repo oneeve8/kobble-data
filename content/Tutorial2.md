@@ -59,7 +59,7 @@ The more hashtags you use, the smaller your heading.
 
 To create a hard break use return twice
 
-To create a soft break use at least two spaces after a line.  
+To create a soft break use at least two spaces after your punca line.  
 
 To italicise use an asterisk before and after the word you want to italicise.
 
