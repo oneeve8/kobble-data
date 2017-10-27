@@ -17,7 +17,7 @@ I’ll also share some ideas for creating your own wiki knowledge base, as well 
 
 And finally, I’ll give you a quick review.
 
-Let’s get started
+Let’s get started.
 
 
 
