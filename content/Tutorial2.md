@@ -57,13 +57,13 @@ To create headings use the hashtag symbol
 
 The more hashtags you use, the smaller your heading.
 
-To create a hard break use return twice
+To create a hard break, use return twice
 
-To create a soft break use at least two spaces after your punca line.  
+To create a soft break, use at least two spaces after your punctuation in a line.  
 
-To italicise use an asterisk before and after the word you want to italicise.
+To italicise, use an asterisk before and after the word you want to italicise.
 
-To boldface your word use two asterisks before and after the word you want bolded.
+To boldface your word, use two asterisks before and after the word you want bolded.
 
 To create a division line use three asterisks.
 
