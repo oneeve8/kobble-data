@@ -85,13 +85,17 @@ followed by parentheses with the image URL.
 
 ***
 
-To add a video, the Markdown syntax is brackets with the video description, followed by the video embed URL in parenthesis. 
+To add a video, the Markdown syntax is 
+
+brackets with the video description, 
+
+followed by the video embed URL in parenthesis. 
 
 For example, in youtube, you can find the video embed URL under the share icon when you select embed code.
 
 ***
 
-You can refer to our Markdown cheat sheet for other formatting notes. If you are new to Markdown, don’t worry, it’s very easy to learn.
+Don’t worry, if you You can refer to our Markdown cheat sheet for other formatting notes. If you are new to Markdown, don’t worry, it’s very easy to learn.
 
 
 
