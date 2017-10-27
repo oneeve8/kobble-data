@@ -76,7 +76,7 @@ To add an image, the Markdown syntax is an exclamation point followed by bracket
 
 ***
 
-To add a video
+To add a video, the Markdown syntax is 
 
 
 Lets review some of the icons in Kobble. 
