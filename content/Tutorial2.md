@@ -193,7 +193,7 @@ A public GitHub account is free. This means that your information would be publi
 
 There is a small charge for a private GitHub account. A private account keeps all your information private unless you permit others to access your information.
 
-The sharing feature in Kobble is activated when you have either aGitHub account. 
+The sharing feature in Kobble is activated when you have either a private or public GitHub account. 
 
 So if you plan on sharing your information, you will need to create an account.
 
