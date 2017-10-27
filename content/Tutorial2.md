@@ -25,7 +25,7 @@ Let’s get started.
 
 ***
 
-Next I’ll show you how to stream a book in your kobble view.
+NexI’ll show you how to stream a book in your kobble view.
 
 To stream an archived book, first find the archived book that you want to stream. 
 
