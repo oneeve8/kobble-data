@@ -136,7 +136,7 @@ The Markdown icon is the letter M,
 And the Link icon is a chain.  
 You will notice an icon with a square and an arrow, tapping that opens your link in a new window.  
 Or you can open your link in your Kobble view.  
-F
+Tapping the folder will open or close it. The folder must be open in order to move content int
 Kobble view (square view),  
 Markdown edit (pencil),
 Kobble Views,
