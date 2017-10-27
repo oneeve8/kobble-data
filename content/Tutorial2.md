@@ -195,7 +195,9 @@ GitHub is a web based repository and internet hosting service.
 
 It has mostly been used for code for developers
 
-It has version control that allows devel
+It has version control and allows developers to easily collaborate.
+
+But actually, GitHub is not 
 
 ***
 
