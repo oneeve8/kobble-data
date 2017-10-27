@@ -13,9 +13,9 @@ You will also learn some basic Markdown syntax, including:
 
 I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
-And finally, I’ll give you a quick review.
+Then I’ll give you a quick review.
 
-You will also learn how to retrieve information from your GitHub account.
+Finally, I wiwill also learn how to retrieve information from your GitHub account.
 
 Let’s get started.
 
