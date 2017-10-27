@@ -185,11 +185,11 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 With your free Kobble account, all of your personal Kobble information is stored on your own personal computer. 
 
-If you plan on creating and storing, and sharing a lot of information, you will want to create a GitHub account. 
+If you plan on creating and storing, and sharing a lot of information, you will want to activate a GitHub account. 
 
 So let’s talk about GitHub
 
-A public GitHub account is free.
+A public GitHub account is free. This means that your information would be publ
 
 There is a small charge for a private GitHub account.
 
