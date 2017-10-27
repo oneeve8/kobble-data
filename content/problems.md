@@ -3,7 +3,7 @@
 
 ***
 
-### Couldn’t drop a link aft
+### Couldnt drop a link after deleting it and trying to re-add it
 I was working on doing screen recordings for my next tutorial video. I deleted an item thinking I could drag and drop the item to record it again. But when I tried to drag and drop it back in, it did not work. It didn’t add it to the tree. I tried to add it by tapping the plus sign next to the channel to create a link item and paste the URL there, but that didn’t work either. The item did not appear in the tree.
 
 ***
