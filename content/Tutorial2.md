@@ -27,14 +27,15 @@ Link icon (chain),
 Open a new window,  
 Kobble view (square view),  
 Markdown edit (pencil),
-
+Kobble Views,
+Close Tab
+Tabs
 Home (house icon),  
 Edit Mode,  
 Triple Bar,  
 Red Delete,  
 Kobble Views,  
-Tabs,  
-Close Tab,  
+
 
 Long tap features:
 
