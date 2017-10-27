@@ -23,7 +23,7 @@ I’ll also share some ideas for creating your own wiki knowledge base, as well 
 
 Finally, If you opted for GitHub support, I can briefly show you a few things such as how to share a channel or track
 
-And retrieve information from your GitHub account.
+And how to retrieve information from your GitHub account.
 
 Let’s get started.
 
