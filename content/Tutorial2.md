@@ -190,7 +190,7 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 ***
 
-If you want to be able to easily share and store your information, you will want to o
+If you want to be able to easily share and store your information, you will want to opt for a GitHub account.
 
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
