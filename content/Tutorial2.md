@@ -72,7 +72,7 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 ***
 
-To add an image, the Markdown s
+To add an image, the Markdown syntax is brackets with the image description
 
 
 Lets review some of the icons in Kobble. 
