@@ -22,13 +22,15 @@ White Channel,
 Plus symbol,  
 Green track (train track),  
 Triple Bar,  
-Ho
 Presentation icon (presentation screen),  
 Markdown icon (M),  
 Link icon (chain),  
 Open a new window,  
 Kobble view (square view),  
-Markdown edit (pencil).  
+Markdown edit (pencil),
+Home (house icon)
+Edit Mode
+Kobbl
 
 Long tap features:
 
