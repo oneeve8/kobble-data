@@ -139,7 +139,7 @@ The House icon on the top right of your kobble tree contains your GitHub access 
 
 In the main window is your
 Kobble view
-On the top right are t *close tab* tap that to close the tab highlighted in green below.
+On the top right are the words *close tab* tap that to close the tab which is highlighted in green below.
 The tab bar shows you all the items you have open
 Below the tab bar, you will see a pencil icon on the left
 To edit a Markdown file, tap the pencil icon
