@@ -107,7 +107,9 @@ You might just want to keep all your internet bookmarks organised.
 
 Or you may want to keep track of work related information.
 
-If you are a student, you may want to keep track of your study notes, or even create presentation for memorising 
+If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising.
+
+If you are a 
 
 
 
