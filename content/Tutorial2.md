@@ -19,7 +19,7 @@ Familiarise yourself with a few icons and things in Kobble.
 
 Green Channel,  
 White Channel,  
-Plus symbol,  
+Plus symbol,  (appear
 Green track (train track),  
 Presentation icon (presentation screen),  
 Markdown icon (M),  
