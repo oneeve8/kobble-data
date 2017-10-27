@@ -51,7 +51,7 @@ Next I’ll show you some Markdown syntax
 
 To create headings use the hashtag symbol
 
-The more hasht
+The more hashtags you use, the smaller your heading.
 
 To create a hard break use return twice
 
