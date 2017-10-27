@@ -3,11 +3,6 @@
 
 ***
 
-### Kobble Intro Page closed as a tab
-
-
-***
-
 ### Home icon
 Are you keeping the channel group thing? It does not seem to do anything.
 ***
@@ -71,7 +66,7 @@ The home page no longer appears when I open Kobble... the one with the video and
 
 Update: it seems to be there now, I don’t know why that happened before. I think before when I closed all my tabs maybe I had accidentally closed it as a tab?
 
-Update: 
+Update: I was able to close the intro page as a tab. Maybe that should actually be in the Kobble base tracks in case somebody accidentally does that.
 ***
 
 
