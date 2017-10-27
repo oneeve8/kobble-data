@@ -151,7 +151,8 @@ Tap, hold and drag the triple bar on the right to move a channel track or item.
 In the main window is your
 Kobble view
 On the top right is *close tab* tap that to close the tab highlighted in green below.
-The tab bar shows you
+The tab bar shows you all the items you have open
+Below the tab bar, you will
 To edit a Markdown file, tap the pencil icon
 To view your Markdown results, tap the square view icon
 
