@@ -161,9 +161,6 @@ You can view your results in the bottom half of your split screen view or
 Tap the square view icon to toggle the split screen view away.
 
 
-Home (house icon),  
-Edit Mode,  
-Red Delet
 
 To share a track or channel, simply long tap it, 
 
