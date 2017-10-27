@@ -17,7 +17,7 @@ I’ll also share some ideas for creating your own wiki knowledge base, as well 
 
 Then I’ll give you a quick review of the features in Kobble.
 
-Finally, If you opted for GitHub support, I will briefly show you a few things about such as how to share a channel or track
+Finally, If you opted for GitHub support, I will briefly show you a few things such as how to share a channel or track
 
 And retrieve information from your GitHub account.
 
