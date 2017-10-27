@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Test Channel",
+          "subtitle" : "Dummy Channel To Test Problems",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Test Channel.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Follow Simmy",
           "subtitle" : "Tracks And Channels To Share",
           "channel" : {
