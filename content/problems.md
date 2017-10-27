@@ -1,8 +1,11 @@
 # Problems
 ## Problems Found
 
+***
+
 ### Kobble Intro Page closed as a tab
-I was able to close the intro page as a tab. Maybe that should actually be in the K
+I was able to close the intro page as a tab. Maybe that should actually be in the Kobble base tracks in case somebody accidentally does that.
+
 ***
 
 ### Home icon
