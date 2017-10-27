@@ -181,6 +181,7 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 ***
 
+
 If you want to be able to easily share and store your information, you will want to opt for a GitHub account.
 
 A public GitHub account is free.
