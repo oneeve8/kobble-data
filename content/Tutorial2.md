@@ -163,7 +163,9 @@ Tap the square view icon to toggle the split screen view away.
 
 ***
 
-If you’ve watched some of our introductory videos, by now, you probably have lots of ideas about how you want to use Kobble.
+If you’ve watched some of our introductory videos, 
+
+by now, you probably have lots of ideas about how you want to use Kobble.
 
 You might just want to do something as simple as keeping all your internet bookmarks organised.
 
