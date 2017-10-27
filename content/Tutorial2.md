@@ -146,8 +146,8 @@ Kobble view
 To edit a Markdown file, tap the pencil icon
 To view your Markdown results, tap the square view icon
 
-You can tap Close Tab to close any tabs
-Tabs
+You can tap Close Tab to close any tabs you don’t want opened.
+
 Home (house icon),  
 Edit Mode,  
 Red Delete,  
