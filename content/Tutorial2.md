@@ -72,7 +72,11 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 ***
 
-To add an image, the Markdown syntax is an exclamation point followed by brackets with the image description, followed by parentheses with the
+To add an image, the Markdown syntax is an exclamation point followed by brackets with the image description, followed by parentheses with the image URL.
+
+***
+
+To add a video
 
 
 Lets review some of the icons in Kobble. 
