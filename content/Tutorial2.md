@@ -1,7 +1,7 @@
 # Tutorial  Video (work in progress)
 ## #2
 
-
+***
 
 In this tutorial video
 
@@ -9,7 +9,7 @@ You will learn how to stream an archived book
 
 You will also learn some basic Markdown syntax, including:
 
-1. How to add a link
+1. How to add an inline link
 
 2. How to add an image
 
