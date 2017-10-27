@@ -49,6 +49,15 @@
           }
         },
         {
+          "title" : "Test Channel",
+          "subtitle" : "Dummy Channel For Testing",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Test Channel.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Kobble Introduction",
           "subtitle" : "A Guide To Kobble",
           "channel" : {
@@ -63,15 +72,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/kobbleissues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Test Channel",
-          "subtitle" : "Dummy Channel For Testing",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Test Channel.json",
             "repo" : "kobble-data"
           }
         },
