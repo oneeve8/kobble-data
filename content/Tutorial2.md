@@ -19,7 +19,7 @@ And finally, I’ll give you a quick review.
 
 Let’s get started.
 
-To share a trac
+To share a track or channel, simply long tap it, select *shar
 
 To stream an archived book, first find the archived book that you want to stream. 
 
