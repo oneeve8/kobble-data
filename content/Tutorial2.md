@@ -193,7 +193,6 @@ So if you plan on sharing your information, you will need an account.
 
 ***
 
-
 Next I’ll show you how to share your information with others.
 
 To share a track or channel, simply long tap it, 
