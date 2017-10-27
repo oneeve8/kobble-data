@@ -109,7 +109,7 @@ You may want to organise and manage other kinds of content, such as projects and
 
 You may want to keep track of work related information; or personal information.
 
-If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising. You could create repor
+If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising. You could create reports or a slide show for a speech presentation.
 
 If you are a teacher, you could create a whole study unit on a particular topic with information that you want your students to read and learn. You could put your lecture notes on a slide presentation.
 
