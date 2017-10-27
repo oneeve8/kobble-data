@@ -200,7 +200,7 @@ But actually, GitHub is not just for developers.
 
 Some people have been using it for word document version controls because each project has its own repository and a unique URL, so you can keep a version history.
 
-One of the things people want most, is control over their own data. GitHub is reliable and allows you to stay in control. 
+One of the things people want most, is control over their own data. Since GitHGitHub is reliable and allows you to stay in control. 
 
 A public GitHub account is free. This means that your information would be publicly available for anyone to find; and would be easily accessible if you shared your repository URL with others.
 
