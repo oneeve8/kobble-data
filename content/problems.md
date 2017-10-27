@@ -3,7 +3,8 @@
 
 ***
 
-### Couldn’t 
+### Couldn’t drop a link 
+I was working on doing screen shots for my next tutorial video
 
 ### Home icon 27/11
 Are you keeping the channel group thing? It does not seem to do anything.
