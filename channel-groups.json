@@ -85,6 +85,15 @@
           }
         },
         {
+          "title" : "Mark Twain",
+          "subtitle" : "Study Unit",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/marktwain2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
           "channel" : {
