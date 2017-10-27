@@ -132,8 +132,9 @@ A long Tap reveals the options to cut, copy, edit, or share
 A Track has a green train track icon
 
 The Presentation icon is a presentation screen,  
-The Markdown icon (M),  
-Link icon (chain),  
+The Markdown icon is the letter M,
+And the Link icon is a chain
+
 Open a new window,  
 Folder icon
 Kobble view (square view),  
