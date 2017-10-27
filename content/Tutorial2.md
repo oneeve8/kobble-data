@@ -29,8 +29,8 @@ Kobble view (square view),
 Markdown edit (pencil),
 Home (house icon),  
 Edit Mode,  
-Triple Bar
-
+Triple Bar,  
+Red Delete,  
 Kobble Views,  
 Tabs,  
 Close Tab,  
