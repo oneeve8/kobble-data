@@ -49,6 +49,7 @@ Now, if you want to, you can create a Markdown file for your notes and tap your 
 
 Next I’ll show you some Markdown syntax
 
+To create a hard break re
 
 add an image or video to a Markdown file.
 
