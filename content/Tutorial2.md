@@ -141,6 +141,7 @@ You will notice an icon with a square and an arrow, tapping that opens your link
 Or you can just open your link in your Kobble view by tapping it.
 Tapping the folder will open or close it. The folder must be open in order to move content into it.  
 
+In edit mode, the red circle is your delete button
 In the main window is your
 Kobble view
 To edit a Markdown file, tap the pencil icon
