@@ -97,7 +97,11 @@ For example, in youtube, you can find the video embed URL under the share icon w
 
 Don’t worry, if you forget, you can always refer to our Markdown cheat sheet 
 
-If you are new to Markdown, don’t worry, it’s very easy to learn.
+If you are new to Markdown, no worries, it’s very easy to learn.
+
+***
+
+I
 
 
 
