@@ -4,7 +4,7 @@
 
 ## How to Embed a Video
 
-@[youtu
+@[youtube](http://www.youtube.com/embed/d
 
 
 
