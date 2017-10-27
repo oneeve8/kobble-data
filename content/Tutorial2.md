@@ -35,7 +35,7 @@ Another way to share your channels and tracks is to create your own *Follow Me* 
 
 Just create a Markdown file with a list of all the channels that you want to share with their links.
 
-Then share that channel
+Then share your *
 
 When the recipient follows your shared channel
 
