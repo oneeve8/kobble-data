@@ -64,7 +64,7 @@ Check the link, if the link says stream, it will stream just fine in Kobble.
 
 This archived book link needs to be changed from *details* to *stream*
 
-Now you can read your archived book in your Kobble view and take notes while you read.
+Now you can read your archived book in your Kobble viewread.
 
 This is an archived book link that already contains the word *stream* in the link.
 
