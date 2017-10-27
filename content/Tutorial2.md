@@ -96,6 +96,8 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 ***
 
+
+
 To share a track or channel, simply long tap it, 
 
 select *share* and select the medium you want to share it in. 
@@ -141,48 +143,3 @@ If you are a teacher, you could create a whole study unit on a particular topic 
 Or, if you are the type of person who just likes to collect all kinds of information, you may even want to create your own knowledge base wiki.
 ***
 
-Now Lets review some of the icons in Kobble. 
-
-Lets first review the tree icons:
-
-A green channel is your own content.  
-A white channel is a channel that was shared by someone else.  
-
-The plus symbol next to your channel or track tells you that your channel is open.   
-
-If there is no plus sign, then it’s closed.  
-
-In order to delete a channel while in edit mode, it must be closed.  
-In order to move content into a channel while in edit mode, it must be opened.  
-
-A long Tap reveals the options to cut, copy, edit, or share.  
-
-A Track has a green train track icon.  
-
-The Presentation icon is a presentation screen,   
-The Markdown icon is the letter M,  
-And the Link icon is a chain.  
-You will notice an icon with a square and an arrow, tapping that opens your link in a new window.  
-Or you can just open your link in your Kobble view by tapping it.
-Tapping the folder will open or close it. The folder must be open in order to move content into it.  
-
-In edit mode, the red circle is your delete button, to make sure you want to delete it slides to the left to reveal another red delete. Tap that to delete something.
-
-Tap, hold and drag the triple bar on the right to move a channel track or item.
-
-***
-
-
-In the main window is your
-Kobble view
-On the top right is *close tab* tap that to close the tab highlighted in green below.
-The tab bar shows you all the items you have open
-Below the tab bar, you will see a pencil icon on the left
-To edit a Markdown file, tap the pencil icon
-To view your Markdown results, tap the square view icon to toggle it.
-
-
-Home (house icon),  
-Edit Mode,  
-Red Delete,  
-Triple Bar. 
