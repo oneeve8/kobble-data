@@ -1,9 +1,13 @@
 # Tutorial  Video (work in progress)
 ## #2
 
-In this tutorial video, you will learn how to share a channel or track
+In this tutorial video
 
 You will learn how to stream an archived book
+
+You will alslearn how to share a channel or track
+
+
 
 You will also learn some basic Markdown syntax, including:
 
