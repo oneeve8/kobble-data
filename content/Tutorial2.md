@@ -190,6 +190,16 @@ There is a small charge for a private GitHub account.
 
 The sharing feature in Kobble is activated when you have a GitHub account.
 
+To share a track or channel, simply long tap it, 
+
+select *share* and select the medium you want to share it in. 
+
+You can send a message or an email, or save it to your own notes or files.
+
+I’m selecting mail,  
+
+A pop up window will open and then you can enter the email address you wish to send it to.
+
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
 Just create a Markdown file with a list of all the channels that you want to share and include their links.
