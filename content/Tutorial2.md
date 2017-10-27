@@ -211,7 +211,7 @@ One of the things people want most, is control over their own data. GitHub is re
 
 ***
 
-So next I’ll show you how to share your information with others.
+So next I’ll show you how to share your information with others if you have a GitHub account.
 
 To share a track or channel, simply long tap it, 
 
