@@ -219,7 +219,7 @@ I’m selecting mail,
 
 A pop up window will open with your GitHub repo URL.
 
-you can then simply enter the email address of another Kobble user that you wish to share it with and send 
+You can then simply enter the email address of another Kobble user that you wish to share it with and send your message.
 
 ***
 
