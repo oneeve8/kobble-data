@@ -123,17 +123,17 @@ Lets first review the tree icons:
 A green channel is your own content.  
 A white channel is a channel that was shared by someone else.  
 
-The plus symbol next to your channel or track tells you that your channel is open.  
+The plus symbol next to your channel or track tells you that your channel is open.   
 
-If there is no plus sign, then it’s closed. 
+If there is no plus sign, then it’s closed.  
 
-In order to move or delete a channel in edit mode, it must be closed.
+In order to move or delete a channel in edit mode, it must be closed.  
 
-A long Tap reveals the options to cut, copy, edit, or share
+A long Tap reveals the options to cut, copy, edit, or share.  
 
-A Track has a green train track icon
+A Track has a green train track icon.  
 
-The Presentation icon is a presentation screen,  
+The Presentation icon is a presentation screen,   
 The Markdown icon is the letter M,  
 And the Link icon is a chain.  
 You will notice an icon with a square and an arrow, tapping that opens your link in a new window.  
