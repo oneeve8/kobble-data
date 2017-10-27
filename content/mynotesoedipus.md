@@ -7,5 +7,6 @@ Characters:
 
 Antigone
 
-Is mere
+Ismere
 
+(Daughters of Oedipus)
