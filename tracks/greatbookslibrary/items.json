@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
+          "url" : "https:\/\/archive.org\/stream\/Oedipus.Rex.Sophocles.trans.Watling"
         }
       },
-      "title" : "Aristophanes ",
+      "title" : "Sophocles ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
+      "subtitle" : "Oedipus Rex",
       "expanded" : true,
       "children" : [
 
@@ -21,14 +21,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/Oedipus.Rex.Sophocles.trans.Watling"
+          "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
         }
       },
-      "title" : "Oedipus Rex : Sophocles [translated by E",
+      "title" : "Aristophanes ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Also known by the title Oedipus the King.An Atheni",
+      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
       "expanded" : true,
       "children" : [
 
