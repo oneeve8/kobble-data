@@ -193,7 +193,7 @@ The sharing feature in Kobble is activated when you have a GitHub account.
 
 So if you plan on sharing your information, you will need to create an account.
 
-BGitHub is a web based repository and internet hosting service. 
+If you are not familiar with GitHub, it is basically a web based repository and internet hosting service. 
 
 It has mostly been used for code for developers
 
