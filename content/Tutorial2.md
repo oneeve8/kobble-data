@@ -128,6 +128,7 @@ The plus symbol next to your channel or track tells you that your channel is ope
 If there is no plus sign, then it’s closed.  
 
 In order to move or delete a channel in edit mode, it must be closed.  
+In order to move content into a c
 
 A long Tap reveals the options to cut, copy, edit, or share.  
 
