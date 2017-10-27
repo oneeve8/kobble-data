@@ -33,7 +33,11 @@ A pop up window will open and then you can enter the email address you wish to s
 
 Another way to share your channels and tracks is to create a *Follow Me* Markdown file.
 
-Just create a Markdown file with a list of all the channels t
+Just create a Markdown file with a list of all the channels that you want to share with their links.
+
+Then share that channel
+
+When the 
 
 To stream an archived book, first find the archived book that you want to stream. 
 
