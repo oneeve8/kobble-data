@@ -121,7 +121,7 @@ Now Lets review some of the icons in Kobble.
 A green channel is your own content
 A white channel is a channel that was shared by someone else
 
-The plus symbol next to your channel or track tells you that your channel is open If therclosed. To move or delete a channel in edit mode, it must be closed.
+The plus symbol next to your channel or track tells you that your channel is open If there is no plus sign, it’s closed. In order to move or delete a channel in edit mode, it must be closed.
 
 A long Tap (cut, copy, edit, share)
 Green track (train track),  
