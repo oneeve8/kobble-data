@@ -82,7 +82,7 @@ For example, in youtube, you can find the video embed URL under the share icon w
 
 ***
 
-You can refer to the 
+You can refer to the Markdown cheat sheet for other formatting notes
 
 
 Lets review some of the icons in Kobble. 
