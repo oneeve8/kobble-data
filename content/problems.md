@@ -2,7 +2,7 @@
 ## Problems Found
 
 ### Kobble Intro Page closed as a tab
-I was a
+I was able to close the intro page as a tab. Maybe that should actually be in the K
 ***
 
 ### Home icon
