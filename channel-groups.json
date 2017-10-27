@@ -76,15 +76,6 @@
           }
         },
         {
-          "title" : "Test Delete",
-          "subtitle" : "Test",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/testchanneltodelete.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Follow Simmy",
           "subtitle" : "Tracks And Channels To Share",
           "channel" : {
