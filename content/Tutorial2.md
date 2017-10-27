@@ -126,7 +126,7 @@ Or you can just open your link in your Kobble view by tapping it.
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into it.  
 
-
+On top of your Kobble tree you will see the word Edit. Tap Edit to mov
 
 In edit mode, the red circle is your delete button, to confirm your delete, the item slides to the left to reveal another red delete. Tap that to delete it.
 
