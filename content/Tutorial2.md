@@ -46,7 +46,8 @@ You can continually add new channels and tracks to your own *Follow Me* Markdown
 Your recipients will also receive all your updates of information within each of your channels and tracks that you shared... as you update. So you can share information even if it is a work in progress.
 
 ***
-Next I’ll show you how to stream a book in your kobble view
+Next I’ll show you how to stream a book in your kobble view.
+
 To stream an archived book, first find the archived book that you want to stream. 
 
 Drag and drop the URL into your Kobble tree.
