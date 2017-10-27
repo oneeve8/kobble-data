@@ -72,7 +72,8 @@ To boldface your word, use two asterisks before and after the word you want bold
 To create a division line use three asterisks.
 
 ***
-To add a link, use the brackets before and after the word or words that will serve as your link, then pa
+To add a link, use the brackets before and after the word or words that will serve as your link, then paste the URL in parentheses
+
 Next I’ll show you how to add an image or video to a Markdown file.
 
 To add an image, the Markdown syntax is an exclamation point,
