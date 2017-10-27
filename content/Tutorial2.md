@@ -71,7 +71,7 @@ To create a division line use three asterisks.
 
 
 
-add an image or video to a Markdown file.
+Next I’ll show you how to add an image or video to a Markdown file.
 
 To add an image, the Markdown syntax is an exclamation point,
 
