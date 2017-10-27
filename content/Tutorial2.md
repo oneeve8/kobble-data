@@ -31,6 +31,8 @@ I’m selecting mail,
 
 A pop up window will open and then you can enter the email address you wish to send it to.
 
+Another way to share your channels and 
+
 To stream an archived book, first find the archived book that you want to stream. 
 
 Drag and drop the URL into your Kobble tree.
