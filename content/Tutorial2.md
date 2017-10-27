@@ -46,7 +46,7 @@ Now you can read your archived book in your Kobble view.
 This is an archived book link that already contains the word *stream* in the link.
 
 Now, if you want to, you can create a Markdown file for your notes and tap your note tab whenever you want to take a note while you read.
-
+***
 
 To share a track or channel, simply long tap it, 
 
@@ -57,6 +57,8 @@ You can send a message or an email, or save it to your own notes or files.
 I’m selecting mail,  
 
 A pop up window will open and then you can enter the email address you wish to send it to.
+
+***
 
 Another way to share your channels and tracks is to create your own *Follow Me* Markdown file.
 
