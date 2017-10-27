@@ -82,7 +82,7 @@ For example, in youtube, you can find the video embed URL under the share icon w
 
 ***
 
-You can refer to the Markdown cheat sheet for other formatting notes. If you are new to Markdown, don’t worry, it’s very easy to learn
+You can refer to tMarkdown cheat sheet for other formatting notes. If you are new to Markdown, don’t worry, it’s very easy to learn.
 
 
 Lets review some of the icons in Kobble. 
