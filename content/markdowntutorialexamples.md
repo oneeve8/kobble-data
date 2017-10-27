@@ -2,15 +2,9 @@
 ## Headings Breaks Text Format Links Images Videos
 ***
 
-## How to Embed a Video
+## How to Add an In-line link
 
 
-
-
-
-
-
-@[youtube](http://www.youtube.com/embed/dQw4w9WgXcQ)
 
 
 
