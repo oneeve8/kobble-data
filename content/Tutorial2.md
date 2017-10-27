@@ -143,8 +143,8 @@ Tapping the folder will open or close it. The folder must be open in order to mo
 
 In the main window is your
 Kobble view
-To edit a Markdown file, tap the pen
-Markdown edit (pencil),
+To edit a Markdown file, tap the pencil 
+To view your Markdown results, tap the square view icon
 Kobble Views,
 Close Tab
 Tabs
