@@ -136,13 +136,14 @@ to confirm your delete, after your tap,
 the item will slide to the left to reveal another red delete.  
 Tap that to delete it.
 
-On the right side of your tree items in edit mode you will notice a triple bar
+On the right side of your tree items in edit mode   
+you will notice a triple bar.  
 Tap, hold and drag the triple bar to move a channel track or item.
 
 The House icon on the top right of your kobble tree contains your GitHub access information.
 
 ***
-
+Now let’s take a look at your main wi
 
 In the main window is your
 Kobble view
