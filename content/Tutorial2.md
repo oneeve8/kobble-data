@@ -69,7 +69,7 @@ To boldface your word, use two asterisks before and after the word you want bold
 
 To create a division line use three asterisks.
 
-
+***
 
 Next I’ll show you how to add an image or video to a Markdown file.
 
