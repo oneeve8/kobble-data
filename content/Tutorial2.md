@@ -15,7 +15,12 @@ You will also learn how to retrieve information from your GitHub account.
 
 This tutorial video may also give you ideas for creating your own wiki knowledge base, as well as some content management ideas.
 
-And finally, I’ll give you a quick review of some of the Lets review some of the icons in Kobble. 
+And finally, I’ll give you a quick review.
+
+
+
+
+Lets review some of the icons in Kobble. 
 
 Green Channel,  
 White Channel,  
