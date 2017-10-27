@@ -127,8 +127,9 @@ If there is no plus sign, then it’s closed.
 
 In order to move or delete a channel in edit mode, it must be closed.
 
-A long Tap reveals the options (cut, copy, edit, share)
-Green track (train track),  
+A long Tap reveals the options to cut, copy, edit, or share
+
+A Track has green traitrack (train track),  
 Presentation icon (presentation screen),  
 Markdown icon (M),  
 Link icon (chain),  
