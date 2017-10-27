@@ -21,6 +21,8 @@ Let’s get started.
 
 To share a track or channel, simply long tap it, select *share* and select the medium you want to share it in. You can send a message or an email, or save it to your own notes or files.
 
+I’m selecting m
+
 To stream an archived book, first find the archived book that you want to stream. 
 
 Drag and drop the URL into your Kobble tree.
