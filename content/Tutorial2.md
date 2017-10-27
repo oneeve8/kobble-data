@@ -101,7 +101,7 @@ If you are new to Markdown, no worries, it’s very easy to learn.
 
 ***
 
-I
+If you’ve watched some of our introductory videos, by now, you pro
 
 
 
