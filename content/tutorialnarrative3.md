@@ -22,7 +22,7 @@ I’ll also explain in more detail your In-App sharing support option. And I’l
 
 ***
 
-Planning how you want to organise your work, might take a little thought. And each person likes to organise their information differently. That’s why Kobble was designed to be as versatile as possible. So, if you change your mind, you can always move or d
+Planning how you want to organise your work, might take a little thought. And each person likes to organise their information differently. That’s why Kobble was designed to be as versatile as possible. So, if you change your mind, you can always copy or move anything where you want it.
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
