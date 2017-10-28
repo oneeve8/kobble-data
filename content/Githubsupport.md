@@ -27,6 +27,8 @@ Purchasing GitHub support enables sharing, one of the key features of Kobble.
 
 ***
 
+Here is what I suggest:
+
 The free version of Kobble saves all data on your local device. 
 
 With an in app purchase of GitHub support, all data is stored in your GitHub account. When you enable GitHub support, all data is stored in your GitHub account. GitHub support will also enable sharing, one of the key features of Kobble. Just tap the Home button and select the GitHub tab.
