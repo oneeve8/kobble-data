@@ -1717,14 +1717,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/ofcivilgovernment00lock"
+          "url" : "https:\/\/archive.org\/stream\/ofcivilgovernment00lock"
         }
       },
-      "title" : "Of civil government [two treatises] : Lo",
+      "title" : "John Locke",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Introduction by William S. Carpenter",
+      "subtitle" : "Of Civil Government",
       "expanded" : true,
       "children" : [
 
