@@ -14,7 +14,7 @@ You may want to keep track of work related information, or personal information.
 
 So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
 
-I’ll alshare some ideas for creating your own projects or wiki knowledge base, for personal use, or as a student or teacher, or for work related projects.
+I’ll share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
 I’ll also explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
 
