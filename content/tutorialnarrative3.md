@@ -20,6 +20,8 @@ I’ll also explain a little more about GitHub, including how to retrieve and ed
 
 I’ll also explain in more detail your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
 
+Lets get started.
+
 ***
 
 Planning how you want to organise your work, might take a little thought. And each person likes to organise their information differently. That’s why Kobble was designed to be as versatile as possible. So, if you change your mind, you can always copy or move anything where you want it.
