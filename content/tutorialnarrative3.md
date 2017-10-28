@@ -34,7 +34,8 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 In previous videos, I showed you how to delete and move while in edit mode.
 
-There is another way to delete or move items and that is by
+There is another way to delete or move items and that is by long tappingto reveal the cut copy and edit options.
+
 Item: Cut Copy Edit
 Track: Copy Share
 Channel: Cut Copy Edit Share
