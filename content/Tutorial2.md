@@ -132,8 +132,6 @@ Or:
 You will notice another icon on the right which is a square with an up arrow,  
 tapping that opens your link in a new window.  
 
-
-
 On top of your Kobble tree you will see the word Edit.  
 Tap Edit to move or delete channels, tracks or items.
 
