@@ -36,6 +36,8 @@ Item: Cut Copy Edit
 Track: Copy Share
 Channel: Cut Copy Edit Share
 
+If you cut or copy, the paste option of the last i
+
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
 
