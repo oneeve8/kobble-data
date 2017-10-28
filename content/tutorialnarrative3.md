@@ -4,6 +4,8 @@
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it
 
+Under the Home icon, you can creat
+
 If you’ve watched some of our introductory videos, 
 
 by now, you probably have lots of ideas about how you want to use Kobble.
