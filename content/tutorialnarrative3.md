@@ -8,7 +8,7 @@ By now, you probably have lots of ideas about how you want to use Kobble.
 
 You might just want to do something as simple as keeping all your internet bookmarks organised.
 
-You may want to organise and manage other kinds of content, such as archived books you want to readprojects and to do lists.
+You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or to do lists.
 
 You may want to keep track of work related information, or personal information.
 
