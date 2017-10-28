@@ -4,7 +4,7 @@ Hi, Welcome back to another Kobble tutorial video. This is tutorial number 3, yo
 
 If you’ve watched some of our other videos, 
 
-by now, you probably have lots of ideas about how you want to use Kobble.
+By now, you probably have lots of ideas about how you want to use Kobble.
 
 You might just want to do something as simple as keeping all your internet bookmarks organised.
 
@@ -12,7 +12,7 @@ You may want to organise and manage other kinds of content, such as projects and
 
 You may want to keep track of work related information, or personal information.
 
-So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
+So, in this video, I’ll share some more content management ideas, such as creating folders and channel groups.
 
 I’ll share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
