@@ -55,6 +55,3 @@ Kobble 2 [free] [data stored on public GitHub account] [no sharing]
 Kobble 3 [$ price] [data stored in public github account [sharing enabled]
 Kobble 4 [$ price] [data stored in private github account [sharing enabled]
 
-If you opt for purchasing Kobble support, this will enable sharing in Kobble
-
-With an in app purchase of GitHub support, all data is stored in your GitHub account. When you enable GitHub support, all data is stored in your GitHub account. GitHub support will also enable sharing, one of the key features of Kobble. Just tap the Home button and select the GitHub tab.
