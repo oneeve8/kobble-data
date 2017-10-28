@@ -1,5 +1,15 @@
 # Tutorial Video Narrative
 ## #3
+Hi, Welcome back to another 
+If you’ve watched some of our introductory videos, 
+
+by now, you probably have lots of ideas about how you want to use Kobble.
+
+You might just want to do something as simple as keeping all your internet bookmarks organised.
+
+You may want to organise and manage other kinds of content, such as projects and to do lists.
+
+You may want to keep track of work related information; or personal information.
 
 Let’s talk about some content management ideas.
 
@@ -10,15 +20,7 @@ Under the Home icon, you can create a Channel group. This may come in handy if y
 
 ***
 
-If you’ve watched some of our introductory videos, 
 
-by now, you probably have lots of ideas about how you want to use Kobble.
-
-You might just want to do something as simple as keeping all your internet bookmarks organised.
-
-You may want to organise and manage other kinds of content, such as projects and to do lists.
-
-You may want to keep track of work related information; or personal information.
 
 If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising. You could create reports or a slide show for a speech presentation.
 
