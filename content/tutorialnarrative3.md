@@ -4,7 +4,7 @@
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it
 
-Under the Home icon, you can create a Channel group. This may come in handy if you are the type of person who likes to collect a lot of information for different reasons. For example, you can use this to separate your personal informa
+Under the Home icon, you can create a Channel group. This may come in handy if you are the type of person who likes to collect a lot of information for different reasons. For example, you can use this to separate your personal information from your work information. That way you can view only your work information while at work and your personal 
 
 If you’ve watched some of our introductory videos, 
 
