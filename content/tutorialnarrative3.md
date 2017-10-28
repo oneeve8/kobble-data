@@ -27,7 +27,7 @@ Tapping the folder will open or close it. The folder must be open in order to mo
 
 Folders will help you consolidate some of your items within a track.
 
-
+If you are like me, and you plan on collecting a lot of information, you will probably want to also consider consolidat
 
 Under the Home icon, you can create a Channel group. This may come in handy if you are the type of person who likes to collect a lot of information for different reasons. For example, you can use this to separate your personal information from your work information. That way you can view only your work information while at work and your personal information while you are at home.
 
