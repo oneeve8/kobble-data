@@ -32,7 +32,9 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 ***
 
-In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your work a diff
+In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels and tracks.
+
+If you just want to cut or copy a single item, there 
 
 Another way to delete or move items and that is by long tapping to reveal the cut copy and edit options.
 
