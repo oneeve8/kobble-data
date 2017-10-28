@@ -6,4 +6,6 @@ You can add GitHub support with an in app purchase.
 
 Just tap the Home button and select the GitHub tab.
 
-If you enable GitHub sup
+If you enable GitHub support, all data is stored in your GitHub account.
+
+Remember, you must have a GitHub account to
