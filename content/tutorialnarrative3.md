@@ -12,7 +12,7 @@ You may want to organise and manage other kinds of content, such as archived boo
 
 You may want to keep track of work related information, or personal information.
 
-So, in this video, I’ll share some more content management ideas, such as creating folders and channel groups.
+So, in this video, I will share some more content management ideas, such as creating folders and channel groups.
 
 I will also show you how to cut and copy and paste items in your tree.
 
