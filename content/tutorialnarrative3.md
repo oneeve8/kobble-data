@@ -1,6 +1,6 @@
 # Tutorial Video Narrative
 ## #3
-Hi, Welcome back to another Kobble tutorial video. This 
+Hi, Welcome back to another Kobble tutorial video. This is tutorial number 3, you may want to check out our ot
 
 If you’ve watched some of our other videos, 
 
