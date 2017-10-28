@@ -12,7 +12,9 @@ You may want to organise and manage other kinds of content, such as projects and
 
 You may want to keep track of work related information, or personal information.
 
-So, in this video, I’ll share soLet’s talk about some content management ideas.
+So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
+
+
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it
