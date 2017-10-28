@@ -1649,14 +1649,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/scepticalchymist00boylrich"
+          "url" : "https:\/\/archive.org\/stream\/scepticalchymist00boylrich"
         }
       },
-      "title" : "The sceptical chymist : Boyle, Robert, 1",
+      "title" : "Boyle, Robert",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Bibliography: p. xxii",
+      "subtitle" : "The Sceptical Chymist",
       "expanded" : true,
       "children" : [
 
