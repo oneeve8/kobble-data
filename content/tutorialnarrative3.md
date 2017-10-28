@@ -1,6 +1,6 @@
 # Tutorial Video Narrative
 ## #3
-Hi, Welcome back to another Kobble tutorial video. This is tutorial number 3, you may want to check out our Introductory video and our other tutorials before you view this video.
+Hi, Welcome back to another Kobble tutorial video. This is tutorial number 3, you may want to check out our Introductory video and our other two tutorials before you view this video.
 
 If you’ve watched some of our other videos, 
 
@@ -19,8 +19,6 @@ I’ll share some more ideas for creating your own projects or wiki knowledge ba
 I’ll also explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
 
 I’ll also explain in more detail your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
-
-
 
 ***
 
