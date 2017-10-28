@@ -26,6 +26,8 @@ Planning how you want to organise your work, might take a little thought. And ea
 
 Keep in mind that if you plan on sharing your work with others, that your information in Kobble can be shared in groups of items contained in either a channel or a track.
 
+However, there are two o
+
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
 
