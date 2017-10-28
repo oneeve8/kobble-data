@@ -14,7 +14,7 @@ You may want to keep track of work related information, or personal information.
 
 So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
 
-I’ll also share some ideas for creating your own wiki knowledge base, as well as some content management ideas.
+I’ll also share some ideas for creating your own wiki knowledge base, for personal use, as a student or tea
 
 
 I’ll also explain a little more about GitHub and your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
