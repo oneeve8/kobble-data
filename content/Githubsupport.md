@@ -39,7 +39,7 @@ If you opt to purchase sharing support [or our support package], you will enable
 
 Sharing is one of the key features of Kobble. 
 
-You will need a GitHub account in order for Kobble to enable sharing. Just tap the Home button and select the GitHub tab, so you can set up either a private or free public GitHub account.
+You will need a GitHub account in order for Kobble to enable sharing. Just tap the Home button and select the GitHub tab, so you can set up either a private GitHub account or free public GitHub account.
 
 
 (Assuming that you are going to have a free non github version and a free github version, I would word it differently... something like this:)
