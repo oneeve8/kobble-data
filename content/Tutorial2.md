@@ -166,10 +166,6 @@ Tap the square view icon to toggle the split screen view away.
 
 ***
 
-If.
-
-***
-
 With your free Kobble app, all of your Kobble information is stored on your own personal computer. 
 
 If you plan on creating, storing, and sharing a lot of information, you will want to activate a GitHub account. 
