@@ -1615,14 +1615,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/pascalspenseesor00pasc"
+          "url" : "https:\/\/archive.org\/stream\/pascalspenseesor00pasc"
         }
       },
-      "title" : "Pascal",
+      "title" : "Pascal, Blaise",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Pensees Or Thoughts On Religion",
       "expanded" : true,
       "children" : [
 
