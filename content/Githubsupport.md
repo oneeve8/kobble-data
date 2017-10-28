@@ -53,5 +53,5 @@ Or You could have a table to make it clear:
 Kobble 1 	[free] [data stored on your computer] [no sharing] 
 Kobble 2 [free] [data stored on public GitHub account] [no sharing] 
 Kobble 3 [$ price] [data stored in public github account [sharing feature enabled]
-Kobble 4 [$ price] [data stored in private github account [sharing featureenabled]
+Kobble 4 [$ price] [data stored in private github account [sharing feature enabled]
 
