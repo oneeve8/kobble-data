@@ -10,9 +10,9 @@ You might just want to do something as simple as keeping all your internet bookm
 
 You may want to organise and manage other kinds of content, such as projects and to do lists.
 
-You may want to keep track of work related information; or personal information.
+You may want to keep track of work related information, or personal information.
 
-Let’s talk about some content management ideas.
+So, in this video, I’ll share soLet’s talk about some content management ideas.
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it
