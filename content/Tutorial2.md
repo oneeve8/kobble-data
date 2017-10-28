@@ -86,6 +86,8 @@ followed by parentheses with the image URL.
 
 To add a video, the Markdown syntax is 
 
+The @ symbol, followed by
+
 brackets with the video description, 
 
 followed by the video embed URL in parenthesis. 
