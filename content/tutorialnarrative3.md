@@ -18,7 +18,7 @@ I’ll share some more ideas for creating your own projects or wiki knowledge ba
 
 I’ll also explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
 
-I’ll also explain in more detail your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
+I’ll also explain in more detail, your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
 
 Lets get started.
 
