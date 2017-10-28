@@ -1,7 +1,7 @@
 # GitHub
 ## GitHub Support
 
-[I mentioned this before, I still think that this part is ambiguous. So I’m going to try to explain why it would be confusing to someone reading it for the first time, if they don’t understand Kobble yet]
+[I mentioned this before, I still think that the GitHub part is ambiguous. So I’m going to try to explain why it would be confusing to someone reading it for the first time, if they don’t understand Kobble yet]
 
 The free version of Kobble saves all data on your local device   
 
