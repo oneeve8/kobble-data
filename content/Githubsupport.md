@@ -46,7 +46,7 @@ Kobble is free if you opt to have your data stored on your own device, or you ca
 
 Purchasing support enables sharing. (I wouldn’t use the word GitHub here, I would just call it support)
 
-To purchase support, 
+To purchase support, Just tap the Home button and select the GitHub tab.
 
 You could have a table:
 
