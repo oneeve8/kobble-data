@@ -2,6 +2,20 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Folder Example",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Example For Testing",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
