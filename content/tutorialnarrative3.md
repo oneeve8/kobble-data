@@ -1,7 +1,8 @@
 # Tutorial Video Narrative
 ## #3
 
-Let’s ta
+Let’s talk about some content management ideas.
+
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it
 
