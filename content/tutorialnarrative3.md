@@ -30,7 +30,7 @@ Keep in mind that if you plan on sharing your work with others, that your inform
 
 However, there are two other levels of organisation, a folder and a channel group. And I will explain what you may want to use these for.
 
-
+***
 
 Item: Cut Copy Edit
 Track: Copy Share
