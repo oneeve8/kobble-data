@@ -30,7 +30,7 @@ Keep in mind that if you plan on sharing your work with others, that your inform
 
 However, there are two other levels of organisation, a folder and a channel group. And I will explain what you may want to use these for.
 
-Cut copy 
+Item: Cut Copy Edit
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
