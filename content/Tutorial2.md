@@ -186,9 +186,9 @@ One of the things people want most, is control over their own data. Since GitHub
 
 A public GitHub account is free. This means that your information would be publicly available for anyone to find; and would be easily accessible if you shared your repository URL with others.
 
-There is a small charge for a private GitHub account. A private account keeps all your information private unless you permit others to access your information (by sharing your repository URL?)
+There is a small charge for a private GitHub account. A private account keeps all your information private unless you permit others to access your information.
 
-The sharing feature in Kobble is activated when you have either a private? or public GitHub account. 
+The sharing feature in Kobble is activated when you have a GitHub account. 
 
 So if you plan on sharing your information, you will need to create a GitHub account.
 
