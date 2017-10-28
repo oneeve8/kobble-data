@@ -32,11 +32,12 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 ***
 
+In previous videos, I showed 
 Item: Cut Copy Edit
 Track: Copy Share
 Channel: Cut Copy Edit Share
 
-If you cut or copy, then the paste oplast item you cut or copied will be pasted by tapping it.
+If you cut or copy, then the paste option will also appear. If you tap paste, the last item that you cut or copied will be pasted by tapping it.
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
