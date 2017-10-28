@@ -1,7 +1,7 @@
 # GitHub
 ## GitHub Support
 
-The free version of Kobble saves all data on your local device   (This seems to imply that the only free version of Kobble is the one that saves your data on your local device. Are you going to allow people to use the public version of GitHub which is free or not?)
+The free version of Kobble saves all data on your local device   (This seems to imply that the only free version of Kobble is the one that saves your data on your local device. Are you going to allow people to use the public version of GitHub which is free or only allow it for a )
 
 You can add GitHub support with an in app purchase. (here you say that GitHub support costs money)
 
