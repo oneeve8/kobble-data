@@ -19,3 +19,11 @@ If you are a student, you may want to keep track of your study notes, or even cr
 If you are a teacher, you could create a whole study unit on a particular topic with information that you want your students to read and learn. You could put your lecture notes on a slide presentation.
 
 Or, if you are the type of person who just likes to collect all kinds of information, you may even want to create your own personalised knowledge base wiki
+
+When the recipient follows you,
+
+They can simply drag and drop any channel or track links that you shared into their own Kobble tree if they want to.
+
+You can continually add new channels and tracks to your own *Follow Me* Markdown file, and your recipients will always have your latest updates.
+
+Your recipients will be able to view all your updates of information within each of your channels and tracks that you shared... as you update them. So you can share information even if it is a work in progress, they will be able to view your most recent updates automatically.
