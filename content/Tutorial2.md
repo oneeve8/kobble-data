@@ -129,7 +129,7 @@ The Markdown icon is the letter M,
 And the Link icon is a chain link.  
 You can open the link in your Kobble view by tapping it
 Or:
-You will notice another icon on the right which is asquare and an up arrow,  
+You will notice another icon on the right which is a square wit and an up arrow,  
 tapping that opens your link in a new window.  
 
 Another icon is a folder.
