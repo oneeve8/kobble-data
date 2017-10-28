@@ -34,7 +34,7 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 ***
 
-To create a folder tap the plus sign next to the track that you want your folder in. 
+To create a folder, tap the plus sign next to the track that you want your folder in. 
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
 
 But, if you just want to cut a single item quickly, there is another way to do it by long tapping the item and tapping cut. You can also copy items this way.
