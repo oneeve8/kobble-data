@@ -129,11 +129,10 @@ The Markdown icon is the letter M,
 And the Link icon is a chain link.  
 You can open the link in your Kobble view by tapping it
 Or:
-You will notice another icon on the right which is a square wit and an up arrow,  
+You will notice another icon on the right which is a square with an up arrow,  
 tapping that opens your link in a new window.  
 
-Another icon is a folder.
-Tapping the folder will open or close it. The folder must be open in order to move content into it.  
+
 
 On top of your Kobble tree you will see the word Edit.  
 Tap Edit to move or delete channels, tracks or items.
