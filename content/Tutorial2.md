@@ -116,7 +116,7 @@ The green plus symbol next to your own channels or tracks indicates that your ch
 If there is no plus sign, then it’s closed.  Simply tap again to toggle it.
 
 In order to delete a channel while in edit mode, it must be closed.  
-In order to move content into a channel while in edit mode, it must be opened.  
+In order to move content into a channel while in edit mode, it must also be closed.  
 
 A long Tap reveals the options to cut, copy, edit, or share.  
 
