@@ -23,7 +23,7 @@ Since the very first line seems to imply that the only free version is the one t
 
 Purchasing GitHub support enables sharing, one of the key features of Kobble. 
 
-[So, here you are going saying that you have to purchase GitHub support again)
+[So, here you are going back to saying that you have to purchase GitHub support again. So it just seems to take the person’s mind around in circles trying to fi
 
 ***
 
