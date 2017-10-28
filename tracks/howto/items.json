@@ -6,27 +6,6 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
-            "path" : "content\/tutorialnarrative3.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "Tutorial Video Narrative",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
-      },
-      "subtitle" : "#3",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "oneeve8",
             "path" : "content\/Githubsupport.md",
             "repo" : "kobble-data"
           }
@@ -117,6 +96,27 @@
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
       "subtitle" : "#2",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/tutorialnarrative3.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Tutorial Video Narrative",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "#3",
       "expanded" : true,
       "children" : [
 
