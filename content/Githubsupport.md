@@ -52,7 +52,8 @@ You could have a table:
 
 Kobble 1 	[free] [data stored on your computer] [no sharing] 
 Kobble 2 [free] [data stored on public GitHub account] [no sharing] 
-Kobble 3 [$ price] [
+Kobble 3 [$ price] [data stored in public github account [sharing]
+Kobble 4 [$ pric
 If you opt for purchasing Kobble support, this will enable sharing in Kobble
 
 With an in app purchase of GitHub support, all data is stored in your GitHub account. When you enable GitHub support, all data is stored in your GitHub account. GitHub support will also enable sharing, one of the key features of Kobble. Just tap the Home button and select the GitHub tab.
