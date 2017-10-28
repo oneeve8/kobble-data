@@ -22,7 +22,7 @@ I’ll also explain in more detail your In-App sharing support option. And I’l
 
 ***
 
-Plann
+Planning how you want to organise your work, might take a little thought. And each person
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
