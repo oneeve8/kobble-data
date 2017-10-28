@@ -38,7 +38,7 @@ If you opt to purchase GitHub support, you will enable sharing in Kobble, and al
 Sharing is one of the key features of Kobble. To purchase GitHub support, just tap the Home button and select the GitHub tab.
 
 
-(Assuming that you are going to have a free version non github version and a free github version, I would word it like this:)
+(Assuming that you are going to have a free non github version and a free github version, I would word it like this:)
 
 Kobble is free if you opt to have your data stored on your own device, or if you opt to select a public GitHub account.
 
