@@ -14,7 +14,7 @@ You may want to keep track of work related information, or personal information.
 
 So, in this video, I’ll share some more content management ideas, such as creating folders and channel groups.
 
-I
+I will also show you how to cut and copy items in your tree.
 
 I’ll share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
