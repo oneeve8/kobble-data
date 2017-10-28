@@ -32,7 +32,7 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 ***
 
-In previous videos, I showed you how to delete and move while in edit mode.
+In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your work a diff
 
 Another way to delete or move items and that is by long tapping to reveal the cut copy and edit options.
 
