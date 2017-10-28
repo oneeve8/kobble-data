@@ -15,7 +15,7 @@ Remember, you must have a GitHub account to enable GitHub support in Kobble, itâ
 
 (Here, you seem to be saying that GitHub support is free, or it could be ambiguous, is it the GitHub account that is free or the GitHub support that is free? Since the first line seems to imply that the only free version is the one that saves your info on your local device, this is confusing. Also, I thought that a public account in GitHub is free and a private account costs money in GitHub)
 
-Purchasing GitHub support enables sharing, one of the key features of Kobble. (Here you are saying that you have to purchase GitHub support)
+Purchasing GitHub support enables sharing, one of the key features of Kobble. (So, here you are saying that you have to purchase GitHub support again)
 
 ***
 
