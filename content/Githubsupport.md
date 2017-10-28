@@ -48,11 +48,11 @@ Purchasing support enables sharing. (I wouldn’t use the word GitHub here, I wo
 
 To purchase support, Just tap the Home button and select the GitHub tab.
 
-OYou could have a table:
+Or You could have a table to make it clear:
 
 Kobble 1 	[free] [data stored on your computer] [no sharing] 
 Kobble 2 [free] [data stored on public GitHub account] [no sharing] 
-Kobble 3 [$ price] [data stored in public github account [sharing]
+Kobble 3 [$ price] [data stored in public github account [sharing enabled]
 Kobble 4 [$ price] [data stored in private github account [sharing]
 
 If you opt for purchasing Kobble support, this will enable sharing in Kobble
