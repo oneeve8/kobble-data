@@ -35,7 +35,7 @@ Here is what I suggest:
 
 The free version of Kobble saves all data on your local device. 
 
-If you opt to purchase support [or our support package], you will enable sharing in Kobble, and all of your data will be stored in GitHub.
+If you opt to purchase sharing support [or our support package], you will enable sharing in Kobble, and all of your data will be stored in GitHub.
 
 Sharing is one of the key features of Kobble. 
 
