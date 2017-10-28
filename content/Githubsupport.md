@@ -45,7 +45,7 @@ Kobble is free if you opt to have your data stored on your own device, or if you
 
 You could have a table:
 
-
+Kobble light 	[data stored on your computer]
 If you opt for purchasing Kobble support, this will enable sharing in Kobble
 
 With an in app purchase of GitHub support, all data is stored in your GitHub account. When you enable GitHub support, all data is stored in your GitHub account. GitHub support will also enable sharing, one of the key features of Kobble. Just tap the Home button and select the GitHub tab.
