@@ -34,7 +34,7 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels and tracks.
 
-If you just want to cut a single item quickly, there is another way to do it by long tapping the item. You can also copy items this way.
+But, if you just want to cut a single item quickly, there is another way to do it by long tapping the item. You can also copy items this way.
 
 Long tap an item to reveal the cut copy and edit options.
 
