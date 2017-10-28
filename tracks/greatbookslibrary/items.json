@@ -1683,14 +1683,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/chiefworksofbene01spin"
+          "url" : "https:\/\/archive.org\/stream\/chiefworksofbene01spin"
         }
       },
-      "title" : "The chief works of Benedict de Spinoza :",
+      "title" : "Benedict de Spinoza ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Spine title: Spinoza",
+      "subtitle" : "Chief Works",
       "expanded" : true,
       "children" : [
 
