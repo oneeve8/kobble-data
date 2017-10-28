@@ -36,7 +36,7 @@ In previous videos, I showed you how to delete and move while in edit mode. This
 
 If you just want to cut a single item quickly, there is another way to do it by long tapping the item. You can also copy items this way.
 
-Another way to delete or move items and that is by long tapping to reveal the cut copy and edit options.
+Long tap an item to reveal the cut copy and edit options.
 
 Item: Cut Copy Edit
 Track: Copy Share
