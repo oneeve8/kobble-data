@@ -3,6 +3,8 @@
 
 [I mentioned this before, I still think that the GitHub part is ambiguous. So I’m going to try to explain why it would be confusing to someone reading it for the first time, if they don’t understand Kobble yet]
 
+
+
 The free version of Kobble saves all data on your local device   
 
 [This seems to imply or give the impression that the only free version available of Kobble is the one that saves your data on your local device. Are you going to allow people to use the public version of GitHub which is free?]
