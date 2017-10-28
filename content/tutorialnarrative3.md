@@ -23,7 +23,11 @@ I’ll also explain in more detail your In-App sharing support option. And I’l
 ***
 
 Another icon is a folder.
-Tapping the folder will open or close it. The folder must be open in order to move content into  it
+Tapping the folder will open or close it. The folder must be open in order to move content into  it.
+
+Folders will help you consolidate some of your items within a track.
+
+
 
 Under the Home icon, you can create a Channel group. This may come in handy if you are the type of person who likes to collect a lot of information for different reasons. For example, you can use this to separate your personal information from your work information. That way you can view only your work information while at work and your personal information while you are at home.
 
