@@ -14,7 +14,7 @@ You may want to keep track of work related information, or personal information.
 
 So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
 
-I’ll also explain 
+I’ll also explain a little more about GitHub and your In
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it
