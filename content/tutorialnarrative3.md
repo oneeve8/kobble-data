@@ -14,8 +14,7 @@ You may want to keep track of work related information, or personal information.
 
 So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
 
-I’ll also share some ideas for creating your own projecwiki knowledge base, for personal use, or as a student or teacher, or for work related projects.
-
+I’ll also share some ideas for creating your own projects or wiki knowledge base, for personal use, or as a student or teacher, or for work related projects.
 
 I’ll also explain a little more about GitHub and your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
 
