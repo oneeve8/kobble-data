@@ -29,7 +29,8 @@ Purchasing GitHub support enables sharing, one of the key features of Kobble.
 
 Here is what I suggest:
 
-(Assuming you are going to charge for either a free or pub
+(Assuming you are going to charge for either a free or public github account because that enables sharing, I would word it like this:)
+
 The free version of Kobble saves all data on your local device. 
 
 If you opt to purchase GitHub support, you will enable sharing in Kobble, and all of your data will be stored in GitHub.
