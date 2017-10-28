@@ -14,7 +14,7 @@ You may want to keep track of work related information, or personal information.
 
 So, in this video, I’ll share some more content management ideas such as creating folders and channel groups.
 
-I’ll also explain a little more about GitHub and your In-App sharing support option. And I’ll give you a
+I’ll also explain a little more about GitHub and your In-App sharing support option. And I’ll give you more details on sharing channels and tracks.
 
 ***
 
