@@ -10,4 +10,8 @@ If you enable GitHub support, all data is stored in your GitHub account.
 
 Remember, you must have a GitHub account to enable GitHub support in Kobble, it’s free!
 
-Purchasing GitHub support enables sharing, one of the key featu
+Purchasing GitHub support enables sharing, one of the key features of Kobble.
+
+***
+
+The free version of Kobb
