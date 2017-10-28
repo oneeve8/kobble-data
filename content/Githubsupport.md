@@ -42,7 +42,7 @@ Sharing is one of the key features of Kobble. To purchase GitHub support, just t
 
 Kobble is free if you opt to have your data stored on your own device, or you can opt to select a free public GitHub account.
 
-Purchasing support enables sharing.
+Purchasing support enables sharing. (I wouldn’t use the word GitHub here, I would just call it 
 
 You could have a table:
 
