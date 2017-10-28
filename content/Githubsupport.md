@@ -13,7 +13,7 @@ If you enable GitHub support, all data is stored in your GitHub account.
 
 Remember, you must have a GitHub account to enable GitHub support in Kobble, it’s free! 
 
-(Here, you seem to be saying that GitHub support is free, or it could be ambiguous, is it the GitHub account that is free or the GitHub support that is free? Since the last thing you said is that
+(Here, you seem to be saying that GitHub support is free, or it could be ambiguous, is it the GitHub account that is free or the GitHub support that is free? Since the last thing you said is “enable GitHub support”. And then
 
 Since the first line seems to imply that the only free version is the one that saves your info on your local device, this is confusing. Also, I thought that a public account in GitHub is free and a private account costs money in GitHub)
 
