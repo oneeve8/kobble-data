@@ -36,7 +36,7 @@ Item: Cut Copy Edit
 Track: Copy Share
 Channel: Cut Copy Edit Share
 
-If you cut or copy, the pasteof the last item you cut or copied will be pasted by tapping it.
+If you cut or copy, then the paste oplast item you cut or copied will be pasted by tapping it.
 
 Another icon is a folder.
 Tapping the folder will open or close it. The folder must be open in order to move content into  it.
