@@ -49,7 +49,7 @@ I want to keep my private information separate from my work information, so I wi
 
 Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. I can select or deselect the groups I want to view in my tree. That way, when I’m at work, I can focus on my work related channels. And when I am at home, I can focus on my personal channels.
 
-If you plan on collecting a lot of information, you may want to consider creating several channel groups so you can simplify the amount of information in view in your tree consolidating your information into channel groups.
+If you plan on collecting a lot of information, you may want to consider creating several channel groups so you can simplify the amount of information that is in view in your tree.
 
 ***
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
