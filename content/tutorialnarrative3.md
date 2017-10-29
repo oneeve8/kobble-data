@@ -36,9 +36,10 @@ There are also two more levels of organisation, a folder and a channel group. An
 
 To create a folder, tap the plus sign next to the track that you want your folder in. Select folder as your item type. Enter your title and subtitle. Now you can place multiple items in that folder, so you can consolidate them.
 
+
 For example, I have several books by Aristotle that I want to group together among my great books list.
 
-Tapping the folder will open or close it. The folder must be open in order to move content into it.
+
 
 Folders will help you consolidate some of your items within a track.
 ***
