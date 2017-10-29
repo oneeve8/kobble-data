@@ -2,6 +2,14 @@
   "title" : "News ",
   "subtitle" : "Links",
   "tracks" : [
-
+    {
+      "title" : "News",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/newstrack",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
