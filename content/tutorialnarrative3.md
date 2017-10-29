@@ -85,6 +85,20 @@ If you are a teacher, you could create a whole study unit on a particular topic 
 Or, if you are the type of person who just likes to collect all kinds of information, you may even want to create your own personalised knowledge base wiki.
 
 ***
+Next I will show you how to activate a GitHub account
+
+Your GitHub account contains all of your information, including all of your revisions.
+
+I will quickly show you how to recover an item that you may have accidentally deleted that you decided you wanted to keep.
+
+Instructions...
+
+By the way, you can even edit information in GitHub rather than in Kobble if you want to.
+
+The difference between a Public and private repository in GitHub.
+
+
+***
 
 You learned in the Tutorial #2 how to share a channel or a track by tapping share, or by creating a follow me markdown document that you can share.
 
