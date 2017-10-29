@@ -2,13 +2,13 @@
 ## Problems Found
 
 ***
-# Cannot delete a track
+#Cannot delete a track 28/10
 
 I need to see if I can reproduce this. Somehow one of my tracks ended up in the Sports channel and now I cannot delete it in edit mode or by long tapping.
 
 ***
 
-# Cannot 
+# Cannot drag and drop a Link 28/10
 
 Cannot drag and drop a link into a newly created channel that contains no items yet.
 
