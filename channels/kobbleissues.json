@@ -10,15 +10,6 @@
         "path" : "tracks\/kobbletodo",
         "repo" : "kobble-data"
       }
-    },
-    {
-      "title" : "Issues",
-      "subtitle" : "Problems Found In Testing",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Issues",
-        "repo" : "kobble-data"
-      }
     }
   ]
 }
