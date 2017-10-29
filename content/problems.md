@@ -6,7 +6,7 @@
 
 I need to see if I can reproduce this. Somehow one of my tracks ended up in the Sports channel and now I cannot delete it in edit mode or by long tapping.
 
-I had created a new Channel Group called Links and put the shared channel “Sports” into it. A track called “im
+I had created a new Channel Group called Links and put the shared channel “Sports” into it. A track called “Impressionism” that was in my art channel randomly appeared in the “sports” channel. 
 
 ***
 
