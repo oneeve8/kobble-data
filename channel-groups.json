@@ -5,7 +5,7 @@
       "channels" : [
         {
           "title" : "Follow Simmy",
-          "subtitle" : "Tracks And Channels To Share",
+          "subtitle" : "Content To Share",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Shared .json",
