@@ -10,7 +10,7 @@ I had created a new Channel Group called Links and put the shared channel “Spo
 
 Since I could not delete the track by long tapping or by deleting in edit mode, I deleted the whole channel called “sports”
 
-
+I re-pasted the sport
 
 ***
 
