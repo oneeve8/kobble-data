@@ -1,5 +1,4 @@
 # GitHub
-## GitHub 
 
 The free version of Kobble saves all your data on your local device.
 
