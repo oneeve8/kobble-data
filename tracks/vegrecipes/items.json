@@ -41,6 +41,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.dish.co.nz\/recipes\/huevos-rancheros"
+        }
+      },
+      "title" : "www.dish.co.nz",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.dish.co.nz",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
