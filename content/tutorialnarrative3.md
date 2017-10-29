@@ -38,6 +38,8 @@ To create a folder, tap the plus sign next to the track that you want your folde
 
 For example, I have several books by Aristotle that I want to group together among my great books list.
 
+I want to keep my private information separate from m
+
  
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
 
