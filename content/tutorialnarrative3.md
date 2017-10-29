@@ -58,7 +58,7 @@ If you plan on collecting a lot of information, you may want to consider creatin
 ***
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
 
-If you want an item in more than one place, you can copy and paste it. Long tap the item you want to copy, then select the track you want it in, long tap it
+If you want an item in more than one place, you can copy and paste it. Long tap the item you want to copy, then select the track you want it in, long tap it and tap paste.
 
 But, if you just want to cut a single item quickly, there is another way to do it simply by long tapping the item and tapping cut. 
 
