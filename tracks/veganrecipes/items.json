@@ -1,5 +1,25 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/veganmain.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Main Dish",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Vegan  Main Dish",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
