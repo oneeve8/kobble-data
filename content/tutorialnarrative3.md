@@ -28,7 +28,7 @@ Lets get started.
 
 Planning how you want to organise your work, might take a little thought. And each person likes to organise their information differently. That is why Kobble was designed to be as versatile as possible. So, if you change your mind, you can always copy or move anything where you want it.
 
-Keep in mind that if you plan on activating sharing support sharing your work with others, that your information in Kobble can be shared in groups of items contained in either a channel or a track.
+Keep in mind that if you plan on activating sharing support, then your information in Kobble can be shared in groups of items contained in either a channel or a track.
 
 However, there are two other levels of organisation, a folder and a channel group. And I will explain what you may want to use these for.
 
