@@ -43,7 +43,6 @@ Tapping the folder will open or close it. The folder must be open in order to mo
 Folders will help you consolidate some of your items within a track.
 ***
 
-
 Next I will show you the benefit of creating channel groups.
 
 I want to keep my private information separate from my work information, so I will create a separate channel group called work. 
