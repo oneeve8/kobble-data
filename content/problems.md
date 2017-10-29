@@ -6,6 +6,8 @@ I need to see if I can reproduce this. Somehow one of my tracks ended up in the 
 
 ***
 
+Cannot drag and drop a link into a newly create
+
 ### Couldnt drop a link after deleting it and trying to re-add it 27/10
 
 Never mind on this one, I figured out that I just had to paste it back in, I forgot that cutting was different than deleting. I probably need to describe the difference between cutting and deleting in a tutorial video so people dont get confused.
