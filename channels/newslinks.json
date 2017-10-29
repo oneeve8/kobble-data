@@ -10,6 +10,15 @@
         "path" : "tracks\/newstrack",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Alternative News ",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/altnewslinks",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
