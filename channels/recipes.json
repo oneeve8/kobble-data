@@ -3,15 +3,6 @@
   "subtitle" : "Recipes",
   "tracks" : [
     {
-      "title" : "Meat",
-      "subtitle" : "Recipes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/meatrecipes",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Vegan",
       "subtitle" : "Recipes",
       "track" : {
@@ -26,6 +17,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/vegrecipes",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Meat",
+      "subtitle" : "Recipes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/meatrecipes",
         "repo" : "kobble-data"
       }
     }
