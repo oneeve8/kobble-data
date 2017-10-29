@@ -92,4 +92,4 @@ Your recipients will be able to view all your updates of information within each
 ***
 Your GitHub account contains all of your information, including your revisions.
 
-I will quickly show you how to recover an item that you may have accidentally d
+I will quickly show you how to recover an item that you may have accidentally deleted that you decided you wanted to keep.
