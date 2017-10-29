@@ -45,7 +45,7 @@ Folders will help you consolidate some of your items within a track.
 
 Next I will show you the benefit of creating channel groups.
 
-I want to keep my personal information separate from my work information, so I will create a separate channel group called work. 
+I want to keep my personal information separate from my work information, so I will create a channel group called work, and another one called home.
 
 Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. 
 
