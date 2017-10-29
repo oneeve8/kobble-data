@@ -78,6 +78,8 @@ Now I am sure you are bursting with creativity of how you want to use Kobble.
 
 Here are some ideas.
 
+You may want to keep recipes.
+
 If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising. You could create reports or a slide show for a speech presentation.
 
 If you are a teacher, you could create a whole study unit on a particular topic with information that you want your students to read and learn. You could put your lecture notes on a slide presentation.
