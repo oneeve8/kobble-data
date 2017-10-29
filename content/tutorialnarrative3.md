@@ -100,7 +100,7 @@ There is a difference between a Public and and a Private repository in GitHub.
 
 ***
 
-You learned in the Tutorial #2 how to share a channel or a track by tapping share, or by creating a follow me markdown document that you can share.
+You learned in the Tutorial #2 how to share a channel or a track by tapping share, or by creating a follow me Markdown document that you can share.
 
 When your recipient follows you,
 
