@@ -90,4 +90,6 @@ You can continually add new channels and tracks to your own *Follow Me* Markdown
 Your recipients will be able to view all your updates of information within each of your channels and tracks that you shared... as you update them. So you can share information even if it is a work in progress, they will be able to view your most recent updates automatically.
 
 ***
-Your GitHub account contains all of your information, including your revis
+Your GitHub account contains all of your information, including your revisions.
+
+I will quickly show you how to recover an item that you may have accidentally d
