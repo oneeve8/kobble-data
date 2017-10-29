@@ -2,7 +2,8 @@
 ## Problems Found
 
 ***
-I need to see if I can reproduce this. Somehow one of my tracks ended up in the Sports channel and now I cannot delete it in edit mod
+I need to see if I can reproduce this. Somehow one of my tracks ended up in the Sports channel and now I cannot delete it in edit mode or by long tapping.
+
 ***
 
 ### Couldnt drop a link after deleting it and trying to re-add it 27/10
