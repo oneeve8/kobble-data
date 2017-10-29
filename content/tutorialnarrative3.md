@@ -37,14 +37,15 @@ However, there are two other levels of organisation, a folder and a channel grou
 To create a folder, tap the plus sign next to the track that you want your folder in. Select folder as your item type. Enter your title and subtitle. Now you can place multiple items in that folder, so you can consolidate them.
 
 For example, I have several books by Aristotle that I want to group together among my great books list.
+***
+
 
 Next I will show you the benefit of creating channel groups.
 
 I want to keep my private information separate from my work information, so I will create a separate channel group called work. 
 
-Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. I can select or deselect the groups I want to view in my tree.
+Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. I can select or deselect the groups I want to view in my tree. That way, when I’m at work
 
- 
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
 
 But, if you just want to cut a single item quickly, there is another way to do it by long tapping the item and tapping cut. You can also copy items this way.
