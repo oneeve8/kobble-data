@@ -6,6 +6,7 @@
 
 I need to see if I can reproduce this. Somehow one of my tracks ended up in the Sports channel and now I cannot delete it in edit mode or by long tapping.
 
+
 ***
 
 ## Cannot drag and drop a Link 28/10
