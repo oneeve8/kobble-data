@@ -1,6 +1,6 @@
 {
   "title" : "News ",
-  "subtitle" : "Links",
+  "subtitle" : "Current Events",
   "tracks" : [
     {
       "title" : "News",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "title" : "Alternative News ",
+      "title" : "Alt News ",
       "subtitle" : "Links",
       "track" : {
         "owner" : "oneeve8",
