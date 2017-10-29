@@ -49,7 +49,7 @@
           "url" : "http:\/\/www.dish.co.nz\/recipes\/huevos-rancheros"
         }
       },
-      "title" : "www.dish.co.nz",
+      "title" : "Huevos Rancheros",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
