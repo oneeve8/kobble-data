@@ -78,6 +78,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Videos ",
+          "subtitle" : "To Watch",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videostowatch.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Recipes",
           "subtitle" : "Recipes",
           "channel" : {
