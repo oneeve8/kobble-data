@@ -7,7 +7,7 @@
           "url" : "https:\/\/www.conspiracyoutpost.com\/"
         }
       },
-      "title" : "www.conspiracyoutpost.com",
+      "title" : "Conspiracy Outpost",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
