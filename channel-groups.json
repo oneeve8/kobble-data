@@ -21,7 +21,7 @@
       "channels" : [
         {
           "title" : "News ",
-          "subtitle" : "Links",
+          "subtitle" : "Current Events",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/newslinks.json",
