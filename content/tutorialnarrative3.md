@@ -98,7 +98,7 @@ Your recipients will be able to view all your updates of information within each
 
 ***
 
-Activating a GitHub account
+Next I will show you how to activate yourActivating a GitHub account
 
 Your GitHub account contains all of your information, including all of your revisions.
 
@@ -108,4 +108,4 @@ Instructions...
 
 By the way, you can even edit information in GitHub rather than in Kobble if you want to.
 
-Difference between a Public and private repository in GitHub.
+The difference between a Public and private repository in GitHub.
