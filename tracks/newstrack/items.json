@@ -2,6 +2,23 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.stuff.co.nz\/"
+        }
+      },
+      "title" : "Latest breaking news NZ | Stuff.co.nz",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Breaking news and videos of today",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
