@@ -47,7 +47,11 @@ Next I will show you the benefit of creating channel groups.
 
 I want to keep my private information separate from my work information, so I will create a separate channel group called work. 
 
-Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. I can select or deselect the groups I want to view in my tree. That way, when I’m at work, I can focus on my work related channels. And when I am at home, I can focus on my personal channels.
+Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. 
+
+I can select or deselect the groups I want to view in my tree. That way, when I’m at work, I can focus on my work related channels. 
+
+And when I am at home, I can focus on my personal channels.
 
 If you plan on collecting a lot of information, you may want to consider creating several channel groups so you can simplify the amount of information that is in view at any given time in your tree.
 
