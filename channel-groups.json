@@ -105,6 +105,15 @@
           }
         },
         {
+          "title" : "Fathers of the Church",
+          "subtitle" : "Fathers of the Church",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/fathers.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Art",
           "subtitle" : "Paintings And Artists",
           "channel" : {
