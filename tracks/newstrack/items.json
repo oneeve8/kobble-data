@@ -7,7 +7,7 @@
           "url" : "https:\/\/www.stuff.co.nz\/"
         }
       },
-      "title" : "Latest breaking news NZ | Stuff.co.nz",
+      "title" : "NZ | Stuff.co.nz",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
