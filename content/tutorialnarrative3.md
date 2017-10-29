@@ -100,7 +100,7 @@ Your recipients will be able to view all your updates of information within each
 
 Activating a GitHub account
 
-Your GitHub account contains all of your information, including your revisions.
+Your GitHub account contains all of your information, including all of your revisions.
 
 I will quickly show you how to recover an item that you may have accidentally deleted that you decided you wanted to keep.
 
