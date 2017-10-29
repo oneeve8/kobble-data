@@ -1598,14 +1598,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theprovinciallet00pasciala"
+          "url" : "https:\/\/archive.org\/stream\/theprovinciallet00pasciala"
         }
       },
-      "title" : "The provincial letters of Blaise Pascal.",
+      "title" : "Blaise Pascal",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Provincial Letters",
       "expanded" : true,
       "children" : [
 
