@@ -10,7 +10,7 @@ I need to see if I can reproduce this. Somehow one of my tracks ended up in the 
 
 ## Cannot drag and drop a Link 28/10
 
-Cannot drag and drop a link into a newly created channel that contains no items yet.
+Cannot drag and drop a link into a newly created channel that contains no items yet. If it contains a markdown file, then it will drag and drop, but if no items are in 
 
 ### Couldnt drop a link after deleting it and trying to re-add it 27/10
 
