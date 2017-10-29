@@ -78,7 +78,7 @@ Now I am sure you are bursting with creativity of how you want to use Kobble.
 
 Here are some ideas.
 
-For personal use, You may want to keep your own recipes or links to recipes online. Or you can keep your fitness video bookmarks. Or recipes shared by your friendsOr Links to articles about health and fitness.
+For personal use, You may want to keep your own recipes or links to recipes online. Or you can keep your fitness video bookmarks. Or Links to articles about health and fitness.
 
 If you are a student, you may want to keep track of your study notes, or even create a presentation that you could use as flash cards for memorising. You could create reports or a slide show for a speech presentation.
 
