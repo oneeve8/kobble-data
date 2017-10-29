@@ -40,7 +40,7 @@ For example, I have several books by Aristotle that I want to group together amo
 
 Next I will show you the benefit of creating channel groups.
 
-I want to keep my private information separate from my work information, so I will create a separate channel group called work. Select the home icon. Enter your new Channel Group name and tap done. Now I can put all m
+I want to keep my private information separate from my work information, so I will create a separate channel group called work. Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group
 
  
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
