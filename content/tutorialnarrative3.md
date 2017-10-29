@@ -74,7 +74,7 @@ Channel, reveals the options to Cut Copy Edit or Share.
 
 ***
 
-Im sure you are bursting with creativity of how you want to use Kobble. 
+Now I am sure you are bursting with creativity of how you want to use Kobble. 
 
 Here are some ideas.
 
