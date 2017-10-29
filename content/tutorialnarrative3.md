@@ -18,9 +18,9 @@ I will also show you how to cut and copy and paste items in your tree.
 
 I will share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
-I will also explain in more detail, your In-App sharing support option. And I will give you more details on sharing channels and tracks.
-
 I will also show you how to activate a GitHub account and explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
+
+I will also explain in more detail, your In-App sharing support option. And I will give you more details on sharing channels and tracks.
 
 Lets get started.
 
