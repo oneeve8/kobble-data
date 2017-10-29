@@ -64,13 +64,13 @@ In previous videos, I showed you how to delete and move while in edit mode. This
 
 But, if you just want to cut a single item quickly, there is another way to do it simply by long tapping the item and tapping cut. 
 
-Long t
+If you cut or copy, then the paste option will also appear. If you tap paste, the last item that you cut or copied will be pasted by tapping it.
 
 Item: Cut Copy Edit
 Track: Copy Share
 Channel: Cut Copy Edit Share
 
-If you cut or copy, then the paste option will also appear. If you tap paste, the last item that you cut or copied will be pasted by tapping it.
+
 
 ***
 
