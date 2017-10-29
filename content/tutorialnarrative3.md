@@ -38,7 +38,7 @@ To create a folder, tap the plus sign next to the track that you want your folde
 
 For example, I have several books by Aristotle that I want to group together among my great books list.
 
-I want to keep my private information separate from my work information, so I will show you how to create a channel group. Select the home icon. Enter your new Channel Group name and tap don
+I want to keep my private information separate from my work information, so I will show you how to create a channel group. Select the home icon. Enter your new Channel Group name and tap done. Im going to create a channel called work and another called home.
 
  
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
