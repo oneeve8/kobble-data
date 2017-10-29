@@ -10,7 +10,7 @@ I had created a new Channel Group called Links and put the shared channel “Spo
 
 Since I could not delete the track by long tapping or by deleting in edit mode, I deleted the whole channel called “sports”
 
-I re-pasted the sports channel into my channels and everything appeared fine. Then I moved it into my newly created channel group
+I re-pasted the sports channel into my channels and everything appeared fine. Then I moved it into my newly created channel group called links and the “Impressionism” track appeared there again.
 
 ***
 
