@@ -95,7 +95,7 @@ Instructions...
 
 By the way, you can even edit information in GitHub rather than in Kobble if you want to.
 
-The difference between a Public and private repository in GitHub.
+There is a difference between a Public and and a Private repository in GitHub.
 
 
 ***
