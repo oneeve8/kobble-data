@@ -8,6 +8,8 @@ I need to see if I can reproduce this. Somehow one of my tracks ended up in the 
 
 I had created a new Channel Group called Links and put the shared channel “Sports” into it. A track called “Impressionism” that was in my art channel randomly appeared in the “sports” channel. 
 
+Since I could not delete the track by long tapp
+
 ***
 
 ## Cannot drag and drop a Link 28/10
