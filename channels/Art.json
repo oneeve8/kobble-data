@@ -4,6 +4,15 @@
   "tracks" : [
     {
       "title" : "Impressionism",
+      "subtitle" : "Painters",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/impressionism",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Impressionism",
       "subtitle" : "Artists",
       "track" : {
         "owner" : "oneeve8",
