@@ -3,14 +3,6 @@
     {
       "isShowing" : true,
       "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "News"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
         {
           "title" : "News ",
           "subtitle" : "Links",
@@ -20,6 +12,14 @@
             "repo" : "kobble-data"
           }
         }
+      ],
+      "isToggled" : false,
+      "name" : "News"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
       ],
       "isToggled" : false,
       "name" : "Links"
