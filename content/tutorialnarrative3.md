@@ -98,14 +98,3 @@ Your recipients will be able to view all your updates of information within each
 
 ***
 
-Next I will show you how to activate yourActivating a GitHub account
-
-Your GitHub account contains all of your information, including all of your revisions.
-
-I will quickly show you how to recover an item that you may have accidentally deleted that you decided you wanted to keep.
-
-Instructions...
-
-By the way, you can even edit information in GitHub rather than in Kobble if you want to.
-
-The difference between a Public and private repository in GitHub.
