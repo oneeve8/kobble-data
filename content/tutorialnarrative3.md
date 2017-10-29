@@ -34,7 +34,8 @@ However, there are two other levels of organisation, a folder and a channel grou
 
 ***
 
-To create a folder, tap the plus sign next to the track that you want your folder in. Select folder as your item type. Now you can place multiple items in that folder, so you can consolidate them.
+To create a folder, tap the plus sign next to the track that you want your folder in. Select folder as your item type. Enter your title and subtitle. Now you can place multiple items in that folder, so you can consolidate them.
+
 
 
  
