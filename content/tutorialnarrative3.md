@@ -30,7 +30,7 @@ Planning how you want to organise your work, might take a little thought. And ea
 
 Keep in mind that if you plan on activating sharing support, then your information in Kobble can be shared in groups of items contained in either a channel or a track.
 
-However, there are two other levels of organisation, a folder and a channel group. And I will explain what you may want to use these for.
+There are also two more levels of organisation, a folder and a channel group. And I will explain what you may want to use these for.
 
 ***
 
