@@ -67,6 +67,7 @@ But, if you just want to cut a single item quickly, there is another way to do i
 
 If you cut or copy, then the paste option will appear the next time you long tap. If you tap paste, the last item that you cut or copied will be pasted by tapping it.
 
+Long tapping an
 Item: Cut Copy Edit
 Track: Copy Share
 Channel: Cut Copy Edit Share
