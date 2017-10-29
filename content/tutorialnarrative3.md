@@ -44,7 +44,7 @@ Next I will show you the benefit of creating channel groups.
 
 I want to keep my private information separate from my work information, so I will create a separate channel group called work. 
 
-Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. I can select or deselect the groups I want to view in my tree. That way, when I’m at work
+Select the home icon. Enter your new Channel Group name and tap done. Now I can put all my work related information in my new channel group. I can select or deselect the groups I want to view in my tree. That way, when I’m at work, I can focus on my work related tracks and channels.
 
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
 
