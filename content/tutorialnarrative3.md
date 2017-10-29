@@ -37,6 +37,11 @@ However, there are two other levels of organisation, a folder and a channel grou
 To create a folder, tap the plus sign next to the track that you want your folder in. Select folder as your item type. Enter your title and subtitle. Now you can place multiple items in that folder, so you can consolidate them.
 
 For example, I have several books by Aristotle that I want to group together among my great books list.
+
+Anothe
+Tapping the folder will open or close it. The folder must be open in order to move content into  it.
+
+Folders will help you consolidate some of your items within a track.
 ***
 
 
@@ -59,10 +64,7 @@ Channel: Cut Copy Edit Share
 
 If you cut or copy, then the paste option will also appear. If you tap paste, the last item that you cut or copied will be pasted by tapping it.
 
-Another icon is a folder.
-Tapping the folder will open or close it. The folder must be open in order to move content into  it.
 
-Folders will help you consolidate some of your items within a track.
 
 If you are like me, and you plan on collecting a lot of information, you will probably want to also consider consolidating your information into channel groups.
 
