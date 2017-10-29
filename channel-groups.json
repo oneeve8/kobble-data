@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Links"
@@ -12,21 +20,21 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
           "channel" : {
             "owner" : "kobble-git",
             "path" : "channels\/kobble.json",
             "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
           }
         },
         {
@@ -45,15 +53,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Art",
           "subtitle" : "Paintings And Artists",
