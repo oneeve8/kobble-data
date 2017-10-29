@@ -80,7 +80,7 @@ Or, if you are the type of person who just likes to collect all kinds of informa
 
 ***
 
-You learned in the l
+You learned in the Tutorial #2 how to share a channel or a track by tapping share, or by creating a follow me 
 When the recipient follows you,
 
 They can simply drag and drop any channel or track links that you shared into their own Kobble tree if they want to.
