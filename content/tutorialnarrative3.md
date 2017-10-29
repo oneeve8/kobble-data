@@ -38,8 +38,7 @@ To create a folder, tap the plus sign next to the track that you want your folde
 
 For example, I have several books by Aristotle that I want to group together among my great books list.
 
-Anothe
-Tapping the folder will open or close it. The folder must be open in order to move content into  it.
+Tapping the folder will open or close it. The folder must be open in order to move content into it.
 
 Folders will help you consolidate some of your items within a track.
 ***
