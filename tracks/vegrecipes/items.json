@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
+            "path" : "content\/vegbreadrecipe.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Bread",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Bread Recipes",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
             "path" : "content\/vegeggdish.md",
             "repo" : "kobble-data"
           }
