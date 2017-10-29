@@ -58,7 +58,9 @@ If you plan on collecting a lot of information, you may want to consider creatin
 ***
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
 
-But, if you just want to cut a single item quickly, there is another way to do it by long tapping the item and tapping cut. You can also copy items this way.
+But, if you just want to cut a single item quickly, there is another way to do it simply by long tapping the item and tapping cut. 
+
+You can also copy items this way.
 
 Long tap an item to reveal the cut copy and edit options.
 
