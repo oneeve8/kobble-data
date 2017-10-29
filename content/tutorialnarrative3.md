@@ -104,6 +104,8 @@ Your GitHub account contains all of your information, including your revisions.
 
 I will quickly show you how to recover an item that you may have accidentally deleted that you decided you wanted to keep.
 
+Instructions...
+
 By the way, you can even edit information in GitHub rather than in Kobble.
 
 Public and private repository
