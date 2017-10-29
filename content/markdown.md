@@ -21,6 +21,7 @@ H2 = \## Markdown Notes
 (adding more hashtags makes headings smaller).  
 
 Result Examples: 
+# M
 ## Markdown Notes (H2)
 ### Markdown Notes (H3)
 #### Markdown Notes (H4)
