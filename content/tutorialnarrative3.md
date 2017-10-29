@@ -108,4 +108,4 @@ Instructions...
 
 By the way, you can even edit information in GitHub rather than in Kobble if you want to.
 
-Public and private repository
+Difference between a Public and private repository in GitHub.
