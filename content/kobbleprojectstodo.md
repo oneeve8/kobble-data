@@ -2,9 +2,9 @@
 ## To Do
 ***
 
-Upload videos to Kobble YouTube (need password)
+Upload video
 
-Finish 2nd Tutorial Video
+Finish 3rd Tutorial Video
 
 Write Narrative
 
