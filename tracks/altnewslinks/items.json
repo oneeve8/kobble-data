@@ -1,5 +1,72 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.conspiracyoutpost.com\/"
+        }
+      },
+      "title" : "Conspiracy Outpost",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.conspiracyoutpost.com",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/lunaticoutpost.com\/"
+        }
+      },
+      "title" : "lunaticoutpost.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "lunaticoutpost.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/user\/NextNewsNetwork"
+        }
+      },
+      "title" : "The Next News Network",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Your most trusted liberty media channel for origin",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/user\/TheElissaHill"
+        }
+      },
+      "title" : "Lisa Haven",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Lisa Haven is an Alternative Media News Reporter, ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
