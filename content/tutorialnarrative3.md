@@ -106,6 +106,6 @@ I will quickly show you how to recover an item that you may have accidentally de
 
 Instructions...
 
-By the way, you can even edit information in GitHub rather than in Kobble.
+By the way, you can even edit information in GitHub rather than in Kobble if you want to.
 
 Public and private repository
