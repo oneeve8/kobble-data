@@ -87,33 +87,6 @@
           }
         },
         {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Doctors of the Church",
-          "subtitle" : "Doctors of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Doctors-of-the-Church.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Fathers of the Church",
-          "subtitle" : "Fathers of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/fathers.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Art",
           "subtitle" : "Paintings And Artists",
           "channel" : {
