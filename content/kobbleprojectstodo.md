@@ -2,7 +2,7 @@
 ## To Do
 ***
 
-Upload video
+Change “computer” to “device” in Tutorial #2
 
 Finish 3rd Tutorial Video
 
