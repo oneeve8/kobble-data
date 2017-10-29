@@ -11,7 +11,33 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
+          "channel" : {
+            "owner" : "kobble-git",
+            "path" : "channels\/kobble.json",
+            "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Kobbleintro.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Work"
@@ -83,24 +109,6 @@
           }
         },
         {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Follow Simmy",
           "subtitle" : "Tracks And Channels To Share",
           "channel" : {
@@ -116,15 +124,6 @@
             "owner" : "oneeve8",
             "path" : "channels\/marktwain2.json",
             "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
-          "channel" : {
-            "owner" : "kobble-git",
-            "path" : "channels\/kobble.json",
-            "repo" : "kobble-data-common"
           }
         }
       ],
