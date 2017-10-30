@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Personal ",
+          "subtitle" : "Projects",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Rosary.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Videos ",
           "subtitle" : "To Watch",
           "channel" : {
@@ -135,15 +144,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/marktwain2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Personal ",
-          "subtitle" : "Projects",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Rosary.json",
             "repo" : "kobble-data"
           }
         },
