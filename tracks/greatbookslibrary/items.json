@@ -1258,14 +1258,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/b22650945"
+          "url" : "https:\/\/archive.org\/stream\/b22650945"
         }
       },
       "title" : "On the lodestone and magnetic bodies and",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "This material has been provided by Royal College o",
+      "subtitle" : "On The Lodestone And Magnetic Bodies",
       "expanded" : true,
       "children" : [
 
