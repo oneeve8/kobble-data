@@ -1,6 +1,22 @@
 {
   "groups" : [
     {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Videos ",
+          "subtitle" : "To Watch",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videostowatch.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Personal"
+    },
+    {
       "isShowing" : false,
       "channels" : [
         {
@@ -77,15 +93,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Videos ",
-          "subtitle" : "To Watch",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/videostowatch.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Recipes",
           "subtitle" : "Recipes",
