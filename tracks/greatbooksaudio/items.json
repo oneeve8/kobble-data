@@ -968,6 +968,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/misanthrope_1707_librivox"
+        }
+      },
+      "title" : "The Misanthrope : Molière : Free Downloa",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Misanthrope by Molière. ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
