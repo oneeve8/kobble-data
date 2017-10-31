@@ -1805,7 +1805,7 @@
           "url" : "https:\/\/archive.org\/stream\/phaedraaclassic00racigoog"
         }
       },
-      "title" : "Racine",
+      "title" : "Racine, Jean",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -1819,14 +1819,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/athalie00raci"
+          "url" : "https:\/\/archive.org\/stream\/athalie00raci"
         }
       },
-      "title" : "Athalie : Racine, Jean, 1639-1699 : Free",
+      "title" : "Racine, Jean",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "L. C. copy imperfect : p. 109-110 missing",
+      "subtitle" : "Athalie",
       "expanded" : true,
       "children" : [
 
