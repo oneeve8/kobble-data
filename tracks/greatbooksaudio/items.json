@@ -1920,6 +1920,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/huck_finn_librivox"
+        }
+      },
+      "title" : "Adventures of Huckleberry Finn : Mark Tw",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Adventures of Huckleberry Fi",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
