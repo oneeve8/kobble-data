@@ -1241,14 +1241,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/edmundspensersam00spenuoft"
+          "url" : "https:\/\/archive.org\/stream\/edmundspensersam00spenuoft"
         }
       },
       "title" : "Edmund Spenser",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Includes indexes",
+      "subtitle" : "Amoretti And Epithalamion",
       "expanded" : true,
       "children" : [
 
