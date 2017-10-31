@@ -1564,14 +1564,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/corneillescinnao00corn"
+          "url" : "https:\/\/archive.org\/stream\/corneillescinnao00corn"
         }
       },
-      "title" : "Corneille",
+      "title" : "Corneille, Pierre",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Bibliography: p. xvi",
+      "subtitle" : "Cinna",
       "expanded" : true,
       "children" : [
 
