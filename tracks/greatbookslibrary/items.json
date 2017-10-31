@@ -1292,14 +1292,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/baconsnovumorgan00bacoiala"
+          "url" : "https:\/\/archive.org\/stream\/baconsnovumorgan00bacoiala"
         }
       },
-      "title" : "Bacon",
+      "title" : "Francis Bacon",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Bibliography of the Novum organum: p. 145-155",
+      "subtitle" : "Novum Organum",
       "expanded" : true,
       "children" : [
 
