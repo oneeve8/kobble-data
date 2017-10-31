@@ -77,7 +77,7 @@ The 2nd Sorrowful Mystery
 The Scourging at the Pillar 
 
 Wishing to satisfy the crowd, Pilate released Barabbas for them, and after having Jesus scourged, he handed Him over to be crucified. (Mark 15:15)   
-![flagellation](https://upload.wikimedia.org/wikipedia/commons/4/47/Flagellation-of-christ-_Rubens.jpg)
+![flagellation](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flagellation-of-christ-_Rubens.jpg/350px-Flagellation-of-christ-_Rubens.jpg)
 :::
 ::: slide
 Our Father who art in Heaven,  
