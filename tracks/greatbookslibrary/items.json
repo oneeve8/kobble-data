@@ -1411,14 +1411,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/WilliamHarveycirculationoftheblood4-wellcome"
+          "url" : "https:\/\/archive.org\/stream\/WilliamHarveycirculationoftheblood4-wellcome"
         }
       },
-      "title" : "William Harvey and the circulation of th",
+      "title" : "William Harvey ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Abbreviated version of the 1971-72 film of the sam",
+      "subtitle" : "The Circulation Of The Blood",
       "expanded" : true,
       "children" : [
 
