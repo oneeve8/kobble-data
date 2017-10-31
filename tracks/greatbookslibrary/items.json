@@ -1819,6 +1819,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/athalie00raci"
+        }
+      },
+      "title" : "Athalie : Racine, Jean, 1639-1699 : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "L. C. copy imperfect : p. 109-110 missing",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/Optics_285"
         }
       },
