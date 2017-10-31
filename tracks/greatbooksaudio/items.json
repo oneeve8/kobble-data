@@ -1381,6 +1381,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/apology_librivox"
+        }
+      },
+      "title" : "The Apology : Ralph Waldo Emerson : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox volunteers bring you 28 different recordi",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/essays_first_series_0708_librivox"
         }
       },
