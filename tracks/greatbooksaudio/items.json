@@ -1274,6 +1274,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/pride_and_prejudice_librivox"
+        }
+      },
+      "title" : "Pride and Prejudice : Jane Austen : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Pride and Prejudice, by Jane",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
