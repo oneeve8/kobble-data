@@ -2090,6 +2090,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/daisy_miller_dramatic_reading_1308_librivox"
+        }
+      },
+      "title" : "Daisy Miller (dramatic reading) : Henry ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Daisy Miller (dramatic readi",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/alittletourinfrance_1604_librivox"
+        }
+      },
+      "title" : "A Little Tour in France : Henry James : ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of A Little Tour in France by H",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
