@@ -128,7 +128,8 @@ The Birth of Jesus
 And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn. (Luke 2:7).  
 ![nativity](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Botticelli_Nativity.jpg/208px-Botticelli_Nativity.jpg)
 
-![nativity
+![nativity](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Botticelli_Nativity.jpg/415px-Botticelli_Nativity.jpg)
+
 
 :::
 ::: slide
