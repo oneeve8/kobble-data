@@ -510,40 +510,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
-        }
-      },
-      "title" : "Thucydides ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Complete Writings",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/genuineworkship02hippgoog"
-        }
-      },
-      "title" : "Hippocrates",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Genuine Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/cu31924028290066"
         }
       },
@@ -578,14 +544,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/quintiliansinst05quingoog"
+          "url" : "https:\/\/archive.org\/stream\/plutarchslives01plut2\/plutarchslives01plut2_djvu.txt"
         }
       },
-      "title" : "Quintilian",
+      "title" : "Plutarch",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Education Of An Orator",
+      "subtitle" : "Lives",
       "expanded" : true,
       "children" : [
 
@@ -595,14 +561,48 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/plutarchslives01plut2\/plutarchslives01plut2_djvu.txt"
+          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
         }
       },
-      "title" : "Plutarch",
+      "title" : "Thucydides ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Lives",
+      "subtitle" : "The Complete Writings",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/genuineworkship02hippgoog"
+        }
+      },
+      "title" : "Hippocrates",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Genuine Works",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/quintiliansinst05quingoog"
+        }
+      },
+      "title" : "Quintilian",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Education Of An Orator",
       "expanded" : true,
       "children" : [
 
