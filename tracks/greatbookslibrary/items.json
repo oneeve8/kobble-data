@@ -1224,14 +1224,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/adventuresofdo00cerv"
+          "url" : "https:\/\/archive.org\/stream\/adventuresofdo00cerv"
         }
       },
-      "title" : "Adventures of Don Quixote de la Mancha. ",
+      "title" : "Cervantes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "52",
+      "subtitle" : "Adventures of Don Quixote de la Mancha",
       "expanded" : true,
       "children" : [
 
