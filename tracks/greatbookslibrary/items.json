@@ -340,40 +340,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
-        }
-      },
-      "title" : "Thucydides ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Complete Writings",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/genuineworkship02hippgoog"
-        }
-      },
-      "title" : "Hippocrates",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Genuine Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/worksofarchimede00arch"
         }
       },
@@ -450,6 +416,40 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Treatises",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
+        }
+      },
+      "title" : "Thucydides ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Complete Writings",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/genuineworkship02hippgoog"
+        }
+      },
+      "title" : "Hippocrates",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Genuine Works",
       "expanded" : true,
       "children" : [
 
