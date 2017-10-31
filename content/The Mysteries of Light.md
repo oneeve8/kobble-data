@@ -130,7 +130,7 @@ The Third Mystery of Light
 The Proclamation of the Kingdom
 
 Jesus was going throughout all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every kind of disease and every kind of sickness among the people... Large crowds follwed Him from Galilee and the Decapolis and Jerusalem and Judea and from beyond the Jordan. (Matt. 4:23,25)
-![proclamation](
+![proclamation](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bloch-SermonOnTheMount.jpg/428px-Bloch-SermonOnTheMount.jpg)
 
 :::
 ::: slide
