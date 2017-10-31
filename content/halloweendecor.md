@@ -18,3 +18,5 @@ Bats, spiders
 Tunnel
 
 Branches painted black
+
+Ring toss witches hats
