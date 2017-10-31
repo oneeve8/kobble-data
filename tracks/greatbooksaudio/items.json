@@ -1495,6 +1495,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/vanity_fair_librivox"
+        }
+      },
+      "title" : "Vanity Fair : William Makepeace Thackera",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Vanity Fair, by William Make",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
