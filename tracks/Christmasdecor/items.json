@@ -1,5 +1,25 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/christmasdecor.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Christmas",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Decor",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
