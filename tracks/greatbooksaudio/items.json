@@ -1551,6 +1551,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tale_two_cities_librivox"
+        }
+      },
+      "title" : "A Tale of Two Cities : Charles Dickens :",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of A Tale of Two Cities, by Cha",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/oliver_twist_librivox"
         }
       },
