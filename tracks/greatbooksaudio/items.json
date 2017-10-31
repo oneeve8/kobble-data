@@ -1325,6 +1325,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/nature_0909_librivox"
+        }
+      },
+      "title" : "Nature : Ralph Waldo Emerson : Free Down",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Nature, by Ralph Walso Emers",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
