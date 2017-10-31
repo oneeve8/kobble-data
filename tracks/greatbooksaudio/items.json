@@ -1801,6 +1801,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/three_short_works_librivox"
+        }
+      },
+      "title" : "Three Short Works : Gustave Flaubert : F",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Three Short Works by Gustave",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
