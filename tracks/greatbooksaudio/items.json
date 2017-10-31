@@ -1716,6 +1716,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/crime_punishment_1511_librivox"
+        }
+      },
+      "title" : "Crime and Punishment : Fyodor Dostoyevsk",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Crime and Punishment (versio",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
