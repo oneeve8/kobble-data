@@ -1479,14 +1479,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/englishworkstho21hobbgoog"
+          "url" : "https:\/\/archive.org\/stream\/englishworkstho21hobbgoog"
         }
       },
-      "title" : "The English works of Thomas Hobbes of Ma",
+      "title" : "Thomas Hobbes ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
