@@ -4,31 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/Oedipus.Rex.Sophocles.trans.Watling"
+          "url" : "https:\/\/archive.org\/stream\/iliadinterlinear00homerich"
         }
       },
-      "title" : "Oedipus Rex : Sophocles [translated by E",
+      "title" : "Homer",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Also known by the title Oedipus the King.An Atheni",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
-        }
-      },
-      "title" : "Aristophanes ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
+      "subtitle" : "Iliad",
       "expanded" : true,
       "children" : [
 
@@ -72,14 +55,31 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/iliadinterlinear00homerich"
+          "url" : "https:\/\/archive.org\/details\/Oedipus.Rex.Sophocles.trans.Watling"
         }
       },
-      "title" : "Homer",
+      "title" : "Oedipus Rex : Sophocles [translated by E",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Iliad",
+      "subtitle" : "Also known by the title Oedipus the King.An Atheni",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
+        }
+      },
+      "title" : "Aristophanes ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
       "expanded" : true,
       "children" : [
 
