@@ -78,7 +78,7 @@ The 2nd Glorious Mystery
 The Ascension into Heaven
 
 So then, when the Lord Jesus had spoken to them, He was received up into heaven and sat down at the right hand of God. (Mark 16:19)   
-![ascension
+![ascension](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jesus_ascending_to_heaven.jpg/429px-Jesus_ascending_to_heaven.jpg)
 :::
 ::: slide
 Our Father who art in Heaven,  
