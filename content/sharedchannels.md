@@ -9,6 +9,9 @@ A list of the Great Books with streamed archived books, audio files, and cliff n
 [Great Books](kobble://kobble.io/channel?title=Great%20Books&subtitle=Great%20Book%20Classics&owner=oneeve8&repo=kobble-data&path=channels/greatbooks.json)
 ***
 
+oneeve8 would like to share a channel.
+kobble://kobble.io/channel?title=Great%20Books&subtitle=Great%20Book%20Classics&owner=oneeve8&repo=kobble-data&path=channels/greatbooks.json
+
 ### Channel: Mark Twain Study Unit (work in progress)
 A list of books written by Mark Twain, streamed archived books, audio files, a class presentation and notes
 
