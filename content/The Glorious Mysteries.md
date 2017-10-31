@@ -25,7 +25,8 @@ Amen.
 1st Glorious Mystery 
 The Resurrection  
 
-The angel said to the women, "Do not be afraid; for I know that you are looking for Jesus who has been crucified. He is not here, for He has risen, just as He said." (Matt. 28: 5-6)"
+The angel said to the women, "Do not be afraid; for I know that you are looking for Jesus who has been crucified. He is not here, for He has risen, just as He said." (Matt. 28: 5-6)   
+![resurrection]
 :::
 ::: slide
 Our Father who art in Heaven,  
