@@ -1410,6 +1410,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/scarlet_letter_0710"
+        }
+      },
+      "title" : "The Scarlet Letter : Nathaniel Hawthorne",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Scarlet Letter, by Natha",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
