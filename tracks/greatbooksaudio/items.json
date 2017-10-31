@@ -1155,6 +1155,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/modestproposal"
+        }
+      },
+      "title" : "A Modest Proposal, by Jonathan Swift : J",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of A Modest Proposal, by Jonath",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
