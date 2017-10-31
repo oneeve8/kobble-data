@@ -1313,23 +1313,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/don_juan_canto_1_librivox"
-        }
-      },
-      "title" : "Don Juan: Canto I : Lord Byron : Free Do",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording Don Juan, Canto 1, by Byron, Ge",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=YDOM13FI1jk"
         }
       },
