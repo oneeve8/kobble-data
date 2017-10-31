@@ -599,6 +599,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/troilus_criseyde_1208_librivox"
+        }
+      },
+      "title" : "Troilus and Criseyde : Geoffrey Chaucer ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Troilus and Criseyde by Geof",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/utopia_j_librivox"
         }
       },
