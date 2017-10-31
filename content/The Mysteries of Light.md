@@ -26,7 +26,8 @@ Amen.
 Christ's Baptism in the Jordan  
 
 In those days Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. Immediately coming up out of the water, He saw the heavens opening, and the Spirit like a dove descending upon Him; and a voice came out of the heavens: "You are My beloved Son, in You I am well-pleased." (Mark 1:9-10)   
-![baptism](
+![baptism](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Almeida_J%C3%BAnior_-_Batismo_de_Jesus%2C_1895.JPG/311px-Almeida_J%C3%BAnior_-_Batismo_de_Jesus%2C_1895.JPG)
+
 :::
 ::: slide
 Our Father who art in Heaven,  
