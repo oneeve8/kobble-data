@@ -1207,14 +1207,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/instituteschrist01calvuoft"
+          "url" : "https:\/\/archive.org\/stream\/instituteschrist01calvuoft"
         }
       },
-      "title" : "Institutes of the Christian religion; a ",
+      "title" : "John Calvin",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Institutes Of The Christian Religion",
       "expanded" : true,
       "children" : [
 
