@@ -1699,6 +1699,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/moby_dick_librivox"
+        }
+      },
+      "title" : "Moby Dick, or the Whale : Herman Melvill",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Moby Dick, or the Whale, by ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
