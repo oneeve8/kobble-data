@@ -735,14 +735,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/librivox.org\/institutes-of-the-christian-religion-book-1-by-john-calvin\/"
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion1_0909_librivox"
         }
       },
-      "title" : "librivox.org",
+      "title" : "Institutes of the Christian Religion, Bo",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "librivox.org",
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
       "expanded" : true,
       "children" : [
 
@@ -770,6 +770,23 @@
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/details\/institutes_christian_religion_1010_librivox"
+        }
+      },
+      "title" : "Institutes of the Christian Religion, Bo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion4_1107_librivox"
         }
       },
       "title" : "Institutes of the Christian Religion, Bo",
