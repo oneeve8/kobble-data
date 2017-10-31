@@ -12,3 +12,7 @@ Pumpkin on its side with stem as nose, funny hat on it.
 Tape on floor for spider web
 
 Toss game
+
+Bats, spiders
+
+Tunnel
