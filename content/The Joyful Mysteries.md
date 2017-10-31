@@ -126,7 +126,7 @@ especially those in most need of Your mercy.
 The Third Joyful Mystery  
 The Birth of Jesus  
 And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn. (Luke 2:7)
-![nativity](https://en.m.wikipedia.org/wiki/File:Botticelli_Nativity.jpg)
+![nativity](https://en.m.wikipedia.org/wiki/File:Bottice)
 :::
 ::: slide
 Our Father who art in Heaven,  
