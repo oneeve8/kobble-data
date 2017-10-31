@@ -1223,6 +1223,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/faust1_1111_librivox"
+        }
+      },
+      "title" : "Faust, Part 1 : Johann Wolfgang von Goet",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Faust, Part 1, by Johann Wol",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
