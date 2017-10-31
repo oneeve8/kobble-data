@@ -26,7 +26,8 @@ Amen.
 The Resurrection  
 
 The angel said to the women, "Do not be afraid; for I know that you are looking for Jesus who has been crucified. He is not here, for He has risen, just as He said." (Matt. 28: 5-6)   
-![resurrection]
+![resurrection](https://upload.wikimedia.org/wikipedia/commons/0/05/Noel-coypel-the-resurrection-of-christ-1700.jpg)
+
 :::
 ::: slide
 Our Father who art in Heaven,  
