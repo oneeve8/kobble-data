@@ -934,6 +934,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=xZBwsfHGv04"
+        }
+      },
+      "title" : "Meditations on First Philosophy (FULL Au",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Meditations on First Philosophy by René Descartes ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
