@@ -701,14 +701,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/m.youtube.com\/watch?v=hg4eDyMy4k8"
+          "url" : "https:\/\/archive.org\/details\/gargantuaandpantagruel_1007_librivox"
         }
       },
-      "title" : "The Story of The Book Table Talk Written",
+      "title" : "Gargantua and Pantagruel, Book I : Franç",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Table Talk is a book that should be read by all pr",
+      "subtitle" : "LibriVox recording of Gargantua and Pantagruel, Bo",
       "expanded" : true,
       "children" : [
 
