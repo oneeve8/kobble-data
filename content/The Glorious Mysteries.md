@@ -129,7 +129,7 @@ The 3rd Glorious Mystery
 The Descent of the Holy Spirit
 
 And there appeared to them tongues of fire distributing themselves, and they rested on each one of them. And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit was giving them utterance. (Acts. 2:3-4)   
-![pentecost
+![pentecost](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pentecost_mosaic.jpg/320px-Pentecost_mosaic.jpg)
 :::
 ::: slide
 Our Father who art in Heaven,  
