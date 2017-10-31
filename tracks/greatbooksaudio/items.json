@@ -2175,6 +2175,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/portrait_artist_pb_librivox"
+        }
+      },
+      "title" : "A Portrait of the Artist as a Young Man ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of A Portrait of the Artist as ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
