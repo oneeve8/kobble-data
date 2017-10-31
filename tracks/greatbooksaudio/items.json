@@ -1279,6 +1279,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/emma_version_5_1002_librivox"
+        }
+      },
+      "title" : "Emma : Jane Austen : Free Download & Str",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Emma, by Jane Austen. Read b",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/pride_and_prejudice_librivox"
         }
       },
