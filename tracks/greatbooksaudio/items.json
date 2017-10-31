@@ -713,6 +713,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/gargantuapantagruel2_1308_librivox"
+        }
+      },
+      "title" : "Gargantua and Pantagruel, Book II : Fran",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Gargantua and Pantagruel, Bo",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
