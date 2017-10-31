@@ -16,3 +16,5 @@ Toss game
 Bats, spiders
 
 Tunnel
+
+Branches painted black
