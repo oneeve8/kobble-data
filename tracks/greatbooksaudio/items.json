@@ -140,6 +140,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/history_peloponnesian_war_librivox"
+        }
+      },
+      "title" : "The History of the Peloponnesian War : T",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of The History of the Peloponne",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
         }
       },
