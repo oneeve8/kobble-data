@@ -2192,6 +2192,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/dubliners_1302_librivox"
+        }
+      },
+      "title" : "Dubliners : James Joyce : Free Download ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Dubliners, by James Joyce. R",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
