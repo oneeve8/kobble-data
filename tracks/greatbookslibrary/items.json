@@ -1397,11 +1397,11 @@
           "url" : "https:\/\/openlibrary.org\/books\/OL799403M\/Epitome_of_Copernican_astronomy"
         }
       },
-      "title" : "Epitome of Copernican astronomy (1995 ed",
+      "title" : "Epitome of Copernican Astronomy ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Epitome astronomiae copernicanae by Johannes Keple",
+      "subtitle" : "by Johannes Kepler",
       "expanded" : true,
       "children" : [
 
