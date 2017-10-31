@@ -185,7 +185,7 @@ Six days later Jesus took with Him Peter and James and John his brother, and led
 ![transfiguration](
 :::
 ::: slide
-Our Father who art in Heaven,  
+Our Father who art in Heaven, 
 Hallowed be thy name.  
 Thy kingdom come, thy will be done,  
 On earth as it is in heaven.
