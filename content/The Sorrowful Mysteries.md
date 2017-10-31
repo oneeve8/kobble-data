@@ -127,7 +127,7 @@ The 3rd Sorrowful Mystery
 The Crowning with Thorns
 
 And after twisting together a crown of thorns, they put it on His head, and a reed in His right hand; and they knelt down before Him and mocked Him, saying, "Hail, King ofthe Jews!" They spat on Him, and took the reed and began to beat Him on the head. (Matt. 27:29-30)   
-[crowning](
+[crowning](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Christ_Carrying_the_Cross_1580.jpg/439px-Christ_Carrying_the_Cross_1580.jpg)
 
 :::
 ::: slide
