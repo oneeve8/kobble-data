@@ -1394,14 +1394,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/siderealmessenge80gali"
+          "url" : "https:\/\/archive.org\/stream\/siderealmessenge80gali"
         }
       },
-      "title" : "The sidereal messenger of Galileo Galile",
+      "title" : "Galileo Galile",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Sidereal Messenger",
       "expanded" : true,
       "children" : [
 
