@@ -1258,14 +1258,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/faeriequeene02spen"
+          "url" : "https:\/\/archive.org\/stream\/faeriequeene02spen"
         }
       },
-      "title" : "The Faerie queene : Spenser, Edmund, 155",
+      "title" : "Edmund Spenser",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Bibliographical note: p. xviii",
+      "subtitle" : "The Faerie Queene",
       "expanded" : true,
       "children" : [
 
