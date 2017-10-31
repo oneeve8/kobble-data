@@ -225,6 +225,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/nicomachean_ethics_ge_librivox"
+        }
+      },
+      "title" : "The Nicomachean Ethics : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Nicomachean Ethics, by A",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
         }
       },
