@@ -1377,14 +1377,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/dialoguesconcern00galiuoft"
+          "url" : "https:\/\/archive.org\/stream\/dialoguesconcern00galiuoft"
         }
       },
-      "title" : "Dialogues concerning two new sciences : ",
+      "title" : "Galileo Galilei",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "14",
+      "subtitle" : "Dialogues Concerning Two New Sciences ",
       "expanded" : true,
       "children" : [
 
