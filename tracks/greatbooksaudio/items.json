@@ -446,6 +446,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/morals2_26_1506_librivox"
+        }
+      },
+      "title" : "The Morals (Moralia), Book 2 : Plutarch ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Morals, Volume 2, by Plu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/utopia_j_librivox"
         }
       },
