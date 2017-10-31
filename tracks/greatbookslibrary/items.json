@@ -1802,6 +1802,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/phaedraaclassic00racigoog"
+        }
+      },
+      "title" : "Phaedra: A Classic Play in Three Acts : ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google from the library of Harva",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/Optics_285"
         }
       },
