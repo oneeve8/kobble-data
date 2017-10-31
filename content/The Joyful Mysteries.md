@@ -28,8 +28,6 @@ Amen.
 And coming in, he said to her, "Greetings, favored one! The Lord is with you." And behold, you will conceive in your womb and bear a son, and you shall name Him Jesus." (Luke 1:28-31) { .left}
 
 ![annun](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTib6zSDH7AM42hzQhJ0BNTyo9JOo0ahczYlDzUlWAKHKn6_1xTuu2aYdrT)
-
-!
 :::
 ::: slide
 Our Father who art in Heaven,  
@@ -129,6 +127,8 @@ The Third Joyful Mystery
 The Birth of Jesus  
 And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn. (Luke 2:7).  
 ![nativity](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Botticelli_Nativity.jpg/208px-Botticelli_Nativity.jpg)
+
+![nativity
 
 :::
 ::: slide
