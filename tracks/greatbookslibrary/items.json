@@ -1125,11 +1125,11 @@
           "url" : "https:\/\/archive.org\/stream\/colloquiesofdesi01eras"
         }
       },
-      "title" : "Desiderius Erasmus con",
+      "title" : "Desiderius Erasmus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The Colloquies",
+      "subtitle" : "The Colloquies Concerning Men Manners And Things",
       "expanded" : true,
       "children" : [
 
