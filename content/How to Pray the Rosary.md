@@ -20,6 +20,8 @@ To begin the Rosary:
 4. On the 2nd, 3rd and 4th beads, say the "Hail Mary"  
 5. Say one "Glory Be to the Father"  
 
+![rosary](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bernardo_Cavallino_-_La_Visione_di_San_Domenico_%28anni_1640%29.jpg/403px-Bernardo_Cavallino_-_La_Visione_di_San_Domenico_%28anni_1640%29.jpg
+
 
 :::
 ::: slide
