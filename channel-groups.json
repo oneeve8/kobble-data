@@ -157,6 +157,15 @@
           }
         },
         {
+          "title" : "Kobble Testing",
+          "subtitle" : "Issues",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Test Channel",
           "subtitle" : "Dummy Channel For Testing",
           "channel" : {
