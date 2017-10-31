@@ -1564,14 +1564,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/poeticalworksofj1880milt"
+          "url" : "https:\/\/archive.org\/stream\/poeticalworksofj1880milt"
         }
       },
-      "title" : "The poetical works of John Milton : Milt",
+      "title" : "John Milton ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "1",
+      "subtitle" : "The Poetical Works",
       "expanded" : true,
       "children" : [
 
