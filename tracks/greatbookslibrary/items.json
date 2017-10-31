@@ -1581,23 +1581,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/polyeuctesormart00corn"
-        }
-      },
-      "title" : "Polyeuctes, or, The martyr : a tragedy :",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "A translation, by William Lower, of: Corneille, Pi",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/poeticalworksofj1880milt"
         }
       },
