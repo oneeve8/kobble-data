@@ -1988,6 +1988,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/real_thing_1011_librivox"
+        }
+      },
+      "title" : "The Real Thing : Henry James : Free Down",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Real Thing, by Henry Jam",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/portrait_lady_0708_librivox"
+        }
+      },
+      "title" : "The Portrait of a Lady, Volume 1 : Henry",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of The Portrait of a Lady, by H",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
