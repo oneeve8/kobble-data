@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Halloween",
+          "subtitle" : "Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/halloween.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Personal ",
           "subtitle" : "Projects",
           "channel" : {
