@@ -2040,14 +2040,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/wayofworldcomedy00cong_1"
+          "url" : "https:\/\/archive.org\/stream\/wayofworldcomedy00cong_1"
         }
       },
-      "title" : "The way of the world : a comedy : Congre",
+      "title" : "William Congreve",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "At head of title: Bell",
+      "subtitle" : "The way of the world : a comedy ",
       "expanded" : true,
       "children" : [
 
