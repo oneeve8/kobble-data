@@ -1733,6 +1733,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/idiot_mg_librivox"
+        }
+      },
+      "title" : "The Idiot (Part 01 and 02) : Fyodor Dost",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Idiot by Fyodor Dostoyev",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/idiot_part_03_04_jm_1511_librivox"
+        }
+      },
+      "title" : "The Idiot (Part 03 and 04) : Fyodor Dost",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Idiot (Part 03 and 04) b",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
