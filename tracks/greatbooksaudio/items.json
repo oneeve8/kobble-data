@@ -1614,6 +1614,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/ourmutualfriend_1101_librivox"
+        }
+      },
+      "title" : "Our Mutual Friend : Charles Dickens : Fr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Our Mutual Friend by Charles",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
