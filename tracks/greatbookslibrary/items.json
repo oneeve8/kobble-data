@@ -1445,14 +1445,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/rightsofwarpeace00grotiala"
+          "url" : "https:\/\/archive.org\/stream\/rightsofwarpeace00grotiala"
         }
       },
-      "title" : "The rights of war and peace : including ",
+      "title" : "Grotius, Hugo",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Rights Of War And Peace",
       "expanded" : true,
       "children" : [
 
