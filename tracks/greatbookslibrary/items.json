@@ -1462,14 +1462,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/hobbessleviathan00hobbuoft"
+          "url" : "https:\/\/archive.org\/stream\/hobbessleviathan00hobbuoft"
         }
       },
-      "title" : "Hobbes",
+      "title" : "Thomas Hobbes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Leviathan",
       "expanded" : true,
       "children" : [
 
