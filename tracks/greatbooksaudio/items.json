@@ -1087,6 +1087,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/two_treatises_0902_librivox"
+        }
+      },
+      "title" : "Two Treatises of Civil Government : John",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Two Treatises of Civil Gover",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
