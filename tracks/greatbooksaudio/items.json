@@ -2209,6 +2209,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/TheTrialByFranzKafka"
+        }
+      },
+      "title" : "The Trial by Franz Kafka : Franz Kafka :",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Joseph K. is an unexceptional man. He lives a quie",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
