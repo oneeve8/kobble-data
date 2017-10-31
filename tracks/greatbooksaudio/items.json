@@ -2039,6 +2039,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/the_pupil_0911_librivox"
+        }
+      },
+      "title" : "The Pupil : Henry James : Free Download ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Pupil, by Henry James. R",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
