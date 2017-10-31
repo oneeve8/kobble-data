@@ -1122,14 +1122,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/on-the-revolutions-of-celestial-spheres"
+          "url" : "https:\/\/archive.org\/stream\/on-the-revolutions-of-celestial-spheres"
         }
       },
-      "title" : "On the Revolutions of the Celestial Sphe",
+      "title" : "Nicholas Copernicus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "De revolutionibus orbium coelestium (On the revolu",
+      "subtitle" : "On The Revolutions Of The Celestial Spheres",
       "expanded" : true,
       "children" : [
 
