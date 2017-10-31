@@ -1414,11 +1414,11 @@
           "url" : "http:\/\/www.sacred-texts.com\/astro\/how\/index.htm"
         }
       },
-      "title" : "www.sacred-texts.com",
+      "title" : "Johannes Kepler",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.sacred-texts.com",
+      "subtitle" : "Harmonies Of The World",
       "expanded" : true,
       "children" : [
 
