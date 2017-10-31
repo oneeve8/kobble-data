@@ -126,7 +126,7 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/aeneid\/"
         }
       },
-      "title" : "www.sparknotes.com",
+      "title" : "The Aenid",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
