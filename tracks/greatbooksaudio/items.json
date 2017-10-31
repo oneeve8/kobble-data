@@ -1818,6 +1818,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/war_and_peace_01_librivox"
+        }
+      },
+      "title" : "War and Peace, Book 01: 1805 : Leo Tolst",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox public domain recording of War and Peace,",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
