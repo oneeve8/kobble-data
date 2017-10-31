@@ -1853,14 +1853,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/discourseonmetap00leib"
+          "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
         }
       },
-      "title" : "Liebniz",
+      "title" : "Sir Isaac Newton",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Discourse on metaphysics, correspondence",
+      "subtitle" : "Principia",
       "expanded" : true,
       "children" : [
 
@@ -1870,14 +1870,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
+          "url" : "https:\/\/archive.org\/stream\/discourseonmetap00leib"
         }
       },
-      "title" : "Sir Isaac Newton",
+      "title" : "Liebniz",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Principia",
+      "subtitle" : "Discourse on metaphysics, correspondence",
       "expanded" : true,
       "children" : [
 
