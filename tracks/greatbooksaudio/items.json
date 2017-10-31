@@ -1631,6 +1631,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/walden_librivox"
+        }
+      },
+      "title" : "Walden : Henry David Thoreau : Free Down",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Walden by Henry David Thorea",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
