@@ -1342,6 +1342,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/essays_first_series_0708_librivox"
+        }
+      },
+      "title" : "Essays, First Series : Ralph Waldo Emers",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Essays, First Series, by Ral",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
