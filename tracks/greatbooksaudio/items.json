@@ -1138,6 +1138,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/gulliver_ld_librivox"
+        }
+      },
+      "title" : "Gulliver",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Gulliver",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
