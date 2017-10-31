@@ -1189,6 +1189,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/wealth_nations01_se"
+        }
+      },
+      "title" : "The Wealth of Nations - Book 1 : Adam Sm",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Wealth of Nations, Book ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
