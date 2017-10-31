@@ -101,6 +101,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.sparknotes.com\/drama\/bacchae\/"
+        }
+      },
+      "title" : "www.sparknotes.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.sparknotes.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
