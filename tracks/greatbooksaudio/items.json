@@ -279,11 +279,11 @@
           "url" : "https:\/\/archive.org\/details\/onduties_1503_librivox"
         }
       },
-      "title" : "archive.org",
+      "title" : "On Duties : Marcus Tullius Cicero : Free",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "LibriVox recording of On Duties by Marcus Tullius ",
       "expanded" : true,
       "children" : [
 
