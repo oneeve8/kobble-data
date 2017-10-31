@@ -1129,11 +1129,11 @@
           "url" : "https:\/\/archive.org\/details\/moll_flanders_librivox"
         }
       },
-      "title" : "archive.org",
+      "title" : "The Fortunes and Misfortunes of the Famo",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Librivox recording of The Fortunes and Misfortunes",
       "expanded" : true,
       "children" : [
 
