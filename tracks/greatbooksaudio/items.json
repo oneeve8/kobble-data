@@ -1775,11 +1775,11 @@
           "url" : "https:\/\/archive.org\/details\/brothers_karamazov_1002_librivox"
         }
       },
-      "title" : "archive.org",
+      "title" : "The Brothers Karamazov : Fyodor Dostoyev",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "LibriVox recording of The Brothers Karamazov, by F",
       "expanded" : true,
       "children" : [
 
