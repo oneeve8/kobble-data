@@ -126,7 +126,8 @@ especially those in most need of Your mercy.
 The 3rd Sorrowful Mystery   
 The Crowning with Thorns
 
-And after twisting together a crown of thorns, they put it on His head, and a reed in His right hand; and they knelt down before Him and mocked Him, saying, "Hail, King ofthe Jews!" They spat on Him, and took the reed and began to beat Him on the head. (Matt. 27:29-30)
+And after twisting together a crown of thorns, they put it on His head, and a reed in His right hand; and they knelt down before Him and mocked Him, saying, "Hail, King ofthe Jews!" They spat on Him, and took the reed and began to beat Him on the head. (Matt. 27:29-30)   
+
 :::
 ::: slide
 Our Father who art in Heaven,  
