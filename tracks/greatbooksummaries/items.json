@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.sparknotes.com\/drama\/bacchae\/"
         }
       },
-      "title" : "www.sparknotes.com",
+      "title" : "The Bacchae Euripides",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
