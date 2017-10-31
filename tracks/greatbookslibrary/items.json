@@ -38,23 +38,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/ost-english-a-modest-proposal-by-dr"
-        }
-      },
-      "title" : "A Modest Proposal : Jonathan Swift : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/trag00ediesofaeschaescrich"
         }
       },
