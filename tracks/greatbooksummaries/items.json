@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.cliffsnotes.com\/literature\/a\/agamemnon-the-choephori-and-the-eumenides\/surviving-dramatic-works-of-aeschylus"
+        }
+      },
+      "title" : "www.cliffsnotes.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.cliffsnotes.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
