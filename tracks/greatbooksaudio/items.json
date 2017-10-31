@@ -1648,6 +1648,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/civil_disobedience_librivox"
+        }
+      },
+      "title" : "On the Duty of Civil Disobedience : Henr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of On the Duty of Civil Disobed",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
