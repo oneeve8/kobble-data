@@ -1720,11 +1720,11 @@
           "url" : "https:\/\/archive.org\/stream\/toleration"
         }
       },
-      "title" : "A Letter Concerning Toleration : John Lo",
+      "title" : "John Locke",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "A Letter Concerning Toleration by John Locke was o",
+      "subtitle" : "A Letter Concerning Toleration",
       "expanded" : true,
       "children" : [
 
