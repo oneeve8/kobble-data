@@ -629,6 +629,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/discoursesofepic033057mbp"
+        }
+      },
+      "title" : "Epictetus ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Discourses",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/ptolemyscataloqu00ptoluoft"
         }
       },
@@ -646,14 +663,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/discoursesofepic033057mbp"
+          "url" : "https:\/\/archive.org\/stream\/worksoflucianofs04luciuoft"
         }
       },
-      "title" : "Epictetus ",
+      "title" : "Lucian of Samosata",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Discourses",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
@@ -688,23 +705,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "The Genuine Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksoflucianofs04luciuoft"
-        }
-      },
-      "title" : "Lucian of Samosata",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
