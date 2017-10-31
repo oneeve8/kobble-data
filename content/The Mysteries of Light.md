@@ -233,7 +233,7 @@ The 5th Mystery of Light
 The Institution of the Eucharist  
 
 When the hour had come, He reclined at the table, and the apostles with Him. And He said to them, "I have earnestly desired to eat this Passover with you before I suffer; for I say to you, I shall never again eat it until it is fulfilled in the kingdom of God." (Luke 22:14-16)   
-![eucharist]
+![eucharist](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/640px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
 :::
 ::: slide
 Our Father who art in Heaven,  
