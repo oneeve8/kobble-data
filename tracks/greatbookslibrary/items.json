@@ -140,6 +140,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
+        }
+      },
+      "title" : "Thucydides ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Complete Writings",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
         }
       },
@@ -671,23 +688,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
-        }
-      },
-      "title" : "Thucydides ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Complete Writings",
       "expanded" : true,
       "children" : [
 
