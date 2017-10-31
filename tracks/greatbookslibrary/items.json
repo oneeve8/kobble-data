@@ -1530,14 +1530,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/principlesdescar00spin"
+          "url" : "https:\/\/archive.org\/stream\/principlesdescar00spin"
         }
       },
       "title" : "The principles of Descartes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Appendix, containing Cogitata metaphysica ...: p. ",
+      "subtitle" : "Spinoza",
       "expanded" : true,
       "children" : [
 
