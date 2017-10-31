@@ -1377,14 +1377,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/completeworksofw00shakrich"
+          "url" : "https:\/\/archive.org\/stream\/completeworksofw00shakrich"
         }
       },
-      "title" : "The complete works of William Shakespear",
+      "title" : "William Shakespeare",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Complete Works",
       "expanded" : true,
       "children" : [
 
