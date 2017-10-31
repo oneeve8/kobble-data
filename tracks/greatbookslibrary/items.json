@@ -1411,23 +1411,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/WilliamHarveycirculationoftheblood4-wellcome"
-        }
-      },
-      "title" : "William Harvey ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Circulation Of The Blood",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/worksofwilliamha00harviala"
         }
       },
