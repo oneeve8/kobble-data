@@ -1665,6 +1665,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/adam_bede_0901_librivox"
+        }
+      },
+      "title" : "Adam Bede : George Eliot : Free Download",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Adam Bede, by George Eliot A",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
