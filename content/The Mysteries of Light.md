@@ -78,7 +78,8 @@ The 2nd Mystery of Light
 The Wedding at Cana 
 
 On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there; and both Jesus and His disciples were invited to teh wedding. When the wine ran out, the mother of Jesus said to Him, "They have no wine." And Jesus said to her, "Woman, what does that have to do with us? My hour has not yet come." His mother said to the servants, "Whatever He says to you, do it." ... and manifested His glory, and His disciples believed in Him. (John. 2:1-5)   
-![wedding](
+![wedding](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Paolo_Veronese_008.jpg/640px-Paolo_Veronese_008.jpg)
+
 :::
 ::: slide
 Our Father who art in Heaven,  
