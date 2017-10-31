@@ -361,14 +361,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
+          "url" : "https:\/\/archive.org\/details\/parallel_lives01_0810_librivox1"
         }
       },
       "title" : "Parallel Lives of the Noble Greeks and R",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of Parallel Lives of the Noble ",
+      "subtitle" : "LibriVox recording of Plutarch",
       "expanded" : true,
       "children" : [
 
@@ -378,14 +378,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/parallel_lives01_0810_librivox1"
+          "url" : "https:\/\/archive.org\/details\/parallel_lives_02_1002_librivox"
         }
       },
       "title" : "Parallel Lives of the Noble Greeks and R",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of Plutarch",
+      "subtitle" : "LibriVox recording of Parallel Lives of the Noble ",
       "expanded" : true,
       "children" : [
 
