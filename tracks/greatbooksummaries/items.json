@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/medea\/summary.html"
         }
       },
-      "title" : "www.sparknotes.com",
+      "title" : "Medea",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
