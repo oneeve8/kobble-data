@@ -1937,6 +1937,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/connecticutyankee_librivox"
+        }
+      },
+      "title" : "A Connecticut Yankee in King Arthur",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of A Connecticut Yankee in King",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
