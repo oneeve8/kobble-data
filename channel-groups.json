@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "To Do List",
+          "subtitle" : "To Do List",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Todolist.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Christmas",
           "subtitle" : "Decor",
           "channel" : {
