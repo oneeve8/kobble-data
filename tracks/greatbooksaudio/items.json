@@ -2141,6 +2141,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/interpretationofdreams_1401_librivox"
+        }
+      },
+      "title" : "The Interpretation of Dreams : Sigmund F",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Interpretation of Dreams",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
