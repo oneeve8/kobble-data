@@ -1428,14 +1428,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/worksofwilliamha00harviala"
+          "url" : "https:\/\/archive.org\/stream\/worksofwilliamha00harviala"
         }
       },
-      "title" : "The works of William Harvey .. : Harvey,",
+      "title" : "William Harvey ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Includes bibliographical footnotes and index",
+      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
