@@ -1886,6 +1886,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/mysterious_stranger_td_librivox"
+        }
+      },
+      "title" : "The Mysterious Stranger and Other Storie",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Mysterious Stranger and ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/roughing_it_jg"
+        }
+      },
+      "title" : "Roughing It : Mark Twain : Free Download",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of Roughing It by Mark Twain. R",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
