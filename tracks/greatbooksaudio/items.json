@@ -1784,6 +1784,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/MadameBovary"
+        }
+      },
+      "title" : "Madame Bovary : Gustave Flaubert : Free ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Au Fil des lectures Roman de Gustave Flaubert, lu ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
