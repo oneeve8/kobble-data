@@ -534,11 +534,11 @@
           "url" : "https:\/\/archive.org\/details\/song_of_roland_0907_librivox"
         }
       },
-      "title" : "archive.org",
+      "title" : "The Song of Roland : Anonymous : Free Do",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "LibriVox recording of The Song of Roland, by Anony",
       "expanded" : true,
       "children" : [
 
