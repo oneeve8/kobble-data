@@ -231,7 +231,8 @@ The 5th Sorrowful Mystery
 The Crucifixion  
 
 Therefore when Jesus had received the sour wine, He said, "It is finished!" And He bowed His head and gave up His spirit. (John 19:30)   
-![
+![crucifixion](https://upload.wikimedia.org/wikipedia/commons/3/3e/Marco_palmezzano%2C_crocifissione_degli_Uffizi.jpg)
+
 :::
 ::: slide
 Our Father who art in Heaven,  
