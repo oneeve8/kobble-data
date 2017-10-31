@@ -1954,6 +1954,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/education_henry_adams_1211_librivox"
+        }
+      },
+      "title" : "The Education of Henry Adams : Henry Bro",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Education of Henry Adams",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/democracy_nc_1106_librivox"
+        }
+      },
+      "title" : "archive.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "archive.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
