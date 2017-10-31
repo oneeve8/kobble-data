@@ -764,6 +764,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion_1010_librivox"
+        }
+      },
+      "title" : "Institutes of the Christian Religion, Bo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
