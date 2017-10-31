@@ -582,6 +582,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/divine_comedy_librivox"
+        }
+      },
+      "title" : "The Divine Comedy : Dante Alighieri : Fr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Divine Comedy, by Dante ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/utopia_j_librivox"
         }
       },
