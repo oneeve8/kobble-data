@@ -180,7 +180,8 @@ The 4th Glorious Mystery
 The Assumption
 
 For behold, from this time on all generations will count me blessed. "For the Mighty One has done great things for me; And holy is His name." (Luke 1:48-49)   
-![assumption](
+![assumption](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Baroque_Rubens_Assumption-of-Virgin-3.jpg/304px-Baroque_Rubens_Assumption-of-Virgin-3.jpg)
+
 :::
 ::: slide
 Our Father who art in Heaven,  
