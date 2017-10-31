@@ -77,7 +77,7 @@ especially those in most need of Your mercy.
 The 2nd Joyful Mystery  
 The Visitation  
 When Elizabeth heard Mary's greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit. And she cried out with a loud voice and said, "Blessed are you among women, and blessed is the fruit of your womb!" (Luke 1:41-42)   
-
+![visitation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DARET_Jacques_Visitation.jpg/444px-DARET_Jacques_Visitation.jpg
 :::
 ::: slide
 Our Father who art in Heaven,  
