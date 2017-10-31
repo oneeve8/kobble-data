@@ -616,6 +616,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/canterburytales_librivox"
+        }
+      },
+      "title" : "The Canterbury Tales : Geoffrey Chaucer ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Canterbury Tales, by Geo",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/utopia_j_librivox"
         }
       },
