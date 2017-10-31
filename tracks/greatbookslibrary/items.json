@@ -1190,14 +1190,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/gargantuapantagr03rabeuoft"
+          "url" : "https:\/\/archive.org\/stream\/gargantuapantagr03rabeuoft"
         }
       },
-      "title" : "Gargantua and Pantagruel. Translated int",
+      "title" : "Rabelais",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26",
+      "subtitle" : "Gargantua And Pantagruel",
       "expanded" : true,
       "children" : [
 
