@@ -612,14 +612,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/moraliainfiftee07plut"
+          "url" : "https:\/\/archive.org\/stream\/moraliainfiftee07plut"
         }
       },
-      "title" : "Moralia, in fifteen volumes, with an Eng",
+      "title" : "Plutarch",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Index has series number 499",
+      "subtitle" : "Moralia",
       "expanded" : true,
       "children" : [
 
