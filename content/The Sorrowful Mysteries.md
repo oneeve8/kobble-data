@@ -179,7 +179,8 @@ The 4th Sorrowful Mystery
 The Carrying of the Cross
 
 So he then handed Him over to them to be crucified. They took Jesus, therefore, and He went out, bearing His own cross, to the place called the Place of a Skull, which is called in Hebrew, Golgotha. (John 19:16-17)   
-![c
+![cross](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/5_Andrea_di_Bartolo._Way_to_Calvary._c._1400%2C_Thissen-Bornhemisza_coll._Madrid.jpg/428px-5_Andrea_di_Bartolo._Way_to_Calvary._c._1400%2C_Thissen-Bornhemisza_coll._Madrid.jpg)
+
 :::
 ::: slide
 Our Father who art in Heaven,  
