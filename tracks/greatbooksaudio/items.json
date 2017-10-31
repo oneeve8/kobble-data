@@ -1070,6 +1070,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/pensees_0906_dx_librivox1"
+        }
+      },
+      "title" : "Pensées : Blaise Pascal : Free Download ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Pensees by Blaise Pascal, tr",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
