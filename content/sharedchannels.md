@@ -6,7 +6,7 @@
 ### Channel: Great Books (work in progress)
 A list of the Great Books with streamed archived books, audio files, and cliff notes
 
-[Great Books](kobble://kobble.io/channel?title=Kobble%20Testing&subtitle=Issues&owner=oneeve8&repo=kobble-data&path=channels/kobbleissues.json)
+[Great Books](kobble://kobble.io/channel?title=Great%20Books&subtitle=Great%20Book%20Classics&owner=oneeve8&repo=kobble-data&path=channels/greatbooks.json)
 ***
 
 ### Channel: Mark Twain Study Unit (work in progress)
