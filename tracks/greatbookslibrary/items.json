@@ -1122,14 +1122,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/colloquiesofdesi01eras"
+          "url" : "https:\/\/archive.org\/stream\/colloquiesofdesi01eras"
         }
       },
-      "title" : "The colloquies of Desiderius Erasmus con",
+      "title" : "Desiderius Erasmus con",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Colloquies",
       "expanded" : true,
       "children" : [
 
