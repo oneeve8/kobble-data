@@ -2056,6 +2056,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/wayitcame_1607_librivox"
+        }
+      },
+      "title" : "The Way It Came : Henry James : Free Dow",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Way It Came by Henry Jam",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/siege_london_1703_librivox"
+        }
+      },
+      "title" : "The Siege of London : Henry James : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Siege of London by Henry",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
