@@ -2023,14 +2023,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/ataleatubwritte01swifgoog"
+          "url" : "https:\/\/archive.org\/stream\/ataleatubwritte01swifgoog"
         }
       },
-      "title" : "A Tale of a Tub: Written for the Univers",
+      "title" : "Jonathan Swift",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of Oxfor",
+      "subtitle" : "A Tale of a Tub",
       "expanded" : true,
       "children" : [
 
