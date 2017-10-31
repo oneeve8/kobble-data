@@ -985,6 +985,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/miser_1305_librivox"
+        }
+      },
+      "title" : "The Miser : Moliere : Free Download & St",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Miser, by Moliere. The M",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
