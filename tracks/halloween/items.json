@@ -1,5 +1,25 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/halloweendecor.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Halloween",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Decorating",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
