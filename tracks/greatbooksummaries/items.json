@@ -16,44 +16,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.MarkdownD",
-        "contents" : {
-          "spec" : {
-            "owner" : "oneeve8",
-            "path" : "content\/mynotesoedipus.md",
-            "repo" : "kobble-data"
-          }
-        }
-      },
-      "title" : "Notes On Oedipus",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.MarkdownView"
-      },
-      "subtitle" : "My Notes",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.sparknotes.com\/drama\/oedipus\/summary.html"
-        }
-      },
-      "title" : "The Oedipus Plays",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.sparknotes.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
