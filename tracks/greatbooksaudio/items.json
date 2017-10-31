@@ -41,7 +41,7 @@
           "url" : "https:\/\/archive.org\/details\/herodotus_histories1_0811_librivox1"
         }
       },
-      "title" : "Herodotus",
+      "title" : "Herodotus Vol 1",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "https:\/\/archive.org\/details\/herodotus_histories_2_0906_librivox2"
         }
       },
-      "title" : "Herodotus",
+      "title" : "Herodotus Vol 2",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
