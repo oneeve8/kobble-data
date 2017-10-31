@@ -1496,14 +1496,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/descartessrulesf032479mbp"
+          "url" : "https:\/\/archive.org\/stream\/descartessrulesf032479mbp"
         }
       },
-      "title" : "Descartess Rules For The Direction Of Th",
+      "title" : "Descartes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Rules For The Direction Of The Mind",
       "expanded" : true,
       "children" : [
 
