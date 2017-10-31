@@ -1347,6 +1347,40 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tact_1205_librivox"
+        }
+      },
+      "title" : "Tact : Ralph Waldo Emerson : Free Downlo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox volunteers bring you 19 recordings of Tac",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/days_1206_librivox"
+        }
+      },
+      "title" : "Days : Ralph Waldo Emerson : Free Downlo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox volunteers bring you 17 recordings of Day",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/essays_first_series_0708_librivox"
         }
       },
