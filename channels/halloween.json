@@ -2,6 +2,14 @@
   "title" : "Halloween",
   "subtitle" : "Decorating",
   "tracks" : [
-
+    {
+      "title" : "Halloween",
+      "subtitle" : "Decorating",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/halloween",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
