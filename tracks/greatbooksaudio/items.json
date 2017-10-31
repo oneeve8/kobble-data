@@ -730,6 +730,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/librivox.org\/institutes-of-the-christian-religion-book-1-by-john-calvin\/"
+        }
+      },
+      "title" : "librivox.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "librivox.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
