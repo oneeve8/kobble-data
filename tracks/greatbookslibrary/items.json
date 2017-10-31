@@ -1173,14 +1173,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tabletalkofmarti1872luth"
+          "url" : "https:\/\/archive.org\/stream\/tabletalkofmarti1872luth"
         }
       },
-      "title" : "The table talk of Martin Luther : Luther",
+      "title" : "Martin Luther ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Translation of: Tischreden",
+      "subtitle" : "Table Talk",
       "expanded" : true,
       "children" : [
 
