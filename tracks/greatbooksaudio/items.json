@@ -480,14 +480,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/agricola_tacitus_0906_librivox1"
+          "url" : "https:\/\/archive.org\/details\/tacitus_annals_cb_vol2_0809_librivox1"
         }
       },
-      "title" : "archive.org",
+      "title" : "Tacitus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "LibriVox recording of The Annals Vol 2, by Publius",
       "expanded" : true,
       "children" : [
 
@@ -497,14 +497,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tacitus_annals_cb_vol2_0809_librivox1"
+          "url" : "https:\/\/archive.org\/details\/agricola_tacitus_0906_librivox1"
         }
       },
-      "title" : "Tacitus",
+      "title" : "Agricola : Publius Cornelius Tacitus : F",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of The Annals Vol 2, by Publius",
+      "subtitle" : "LibriVox recording of Tacitus",
       "expanded" : true,
       "children" : [
 
