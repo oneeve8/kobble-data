@@ -1546,6 +1546,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/oliver_twist_librivox"
+        }
+      },
+      "title" : "Oliver Twist : Charles Dickens : Free Do",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Oliver Twist, by Charles Dic",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
