@@ -1802,14 +1802,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/phaedraaclassic00racigoog"
+          "url" : "https:\/\/archive.org\/stream\/phaedraaclassic00racigoog"
         }
       },
-      "title" : "Phaedra: A Classic Play in Three Acts : ",
+      "title" : "Racine",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google from the library of Harva",
+      "subtitle" : "Phaedra",
       "expanded" : true,
       "children" : [
 
