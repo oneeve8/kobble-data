@@ -1275,14 +1275,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/advancementlearn00bacouoft"
+          "url" : "https:\/\/archive.org\/stream\/advancementlearn00bacouoft"
         }
       },
-      "title" : "Of the advancement of learning : Bacon, ",
+      "title" : "Francis Bacon",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Of the Advancement of Learning",
       "expanded" : true,
       "children" : [
 
