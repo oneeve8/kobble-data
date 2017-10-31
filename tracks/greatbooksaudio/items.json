@@ -1580,6 +1580,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/hard_times_dickens_0709_librivox"
+        }
+      },
+      "title" : "Hard Times : Charles Dickens : Free Down",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Hard Times, the shortest of Dickens’s full-length ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
