@@ -1529,6 +1529,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/david_copperfield_th_librivox"
+        }
+      },
+      "title" : "David Copperfield : Charles Dickens : Fr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of David Copperfield, by Charle",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
