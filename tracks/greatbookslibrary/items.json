@@ -1309,14 +1309,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/advancementnewat00bacouoft"
+          "url" : "https:\/\/archive.org\/stream\/advancementnewat00bacouoft"
         }
       },
-      "title" : "Advancement of learning, and The new Atl",
+      "title" : "Francis Bacon",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "26",
+      "subtitle" : "The New Atlantis, Advancement Of Learning",
       "expanded" : true,
       "children" : [
 
