@@ -34,6 +34,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/github.com\/"
+        }
+      },
+      "title" : "github.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "github.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
