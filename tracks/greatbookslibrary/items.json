@@ -2171,6 +2171,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/spiritlaws01montgoog"
+        }
+      },
+      "title" : "The spirit of the laws; : Montesquieu, C",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
