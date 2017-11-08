@@ -2222,6 +2222,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/josephandrews00fielrich"
+        }
+      },
+      "title" : "Joseph Andrews : Fielding, Henry, 1707-1",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Originally published as: The history of the advent",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
