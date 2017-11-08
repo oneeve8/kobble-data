@@ -2294,6 +2294,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/rasselas_prince_abyssinia_0909_librivox"
+        }
+      },
+      "title" : "Rasselas, Prince of Abyssinia : Samuel J",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Rasselas, Prince of Abyssini",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
