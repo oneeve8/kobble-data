@@ -96,6 +96,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Shopify",
+          "subtitle" : "My Shopify Store",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shopify.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
           "channel" : {
