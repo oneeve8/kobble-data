@@ -2,23 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/github.com\/"
-        }
-      },
-      "title" : "Build software better, together",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "GitHub is where people build software. More than 2",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.NoData"
       },
       "title" : "Folder Example",
