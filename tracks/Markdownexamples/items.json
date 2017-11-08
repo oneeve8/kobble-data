@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Example For Testing",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
 
       ]
@@ -42,11 +42,11 @@
           "url" : "https:\/\/github.com\/"
         }
       },
-      "title" : "github.com",
+      "title" : "Build software better, together",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "github.com",
+      "subtitle" : "GitHub is where people build software. More than 2",
       "expanded" : true,
       "children" : [
 
