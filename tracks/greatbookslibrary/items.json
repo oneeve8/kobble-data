@@ -2210,14 +2210,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/philosophicaldic00voltrich"
+          "url" : "https:\/\/archive.org\/stream\/philosophicaldic00voltrich"
         }
       },
-      "title" : "The philosophical dictionary : Voltaire,",
+      "title" : "Voltaire",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Philosophical Dictionary",
       "expanded" : true,
       "children" : [
 
