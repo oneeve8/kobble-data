@@ -2196,11 +2196,11 @@
           "url" : "https:\/\/archive.org\/details\/lettersconcernin00voltuoft"
         }
       },
-      "title" : "archive.org",
+      "title" : "Letters concerning the English nation : ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Translation of: Lettres philosophiques",
       "expanded" : true,
       "children" : [
 
