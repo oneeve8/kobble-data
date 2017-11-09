@@ -4,19 +4,10 @@
   "tracks" : [
     {
       "title" : "Great Books",
-      "subtitle" : "Science",
+      "subtitle" : "Greeks",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksscience",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
-      "subtitle" : "Philosophers",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksphil",
+        "path" : "tracks\/greatbooksgreeks",
         "repo" : "kobble-data"
       }
     },
@@ -31,10 +22,19 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Greeks",
+      "subtitle" : "Philosophers",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksgreeks",
+        "path" : "tracks\/greatbooksphil",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "Science",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksscience",
         "repo" : "kobble-data"
       }
     },
