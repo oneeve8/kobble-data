@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/playsofsophocles00sophiala"
+        }
+      },
+      "title" : "Sophocles",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Plays",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
