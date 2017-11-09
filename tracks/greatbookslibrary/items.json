@@ -2482,14 +2482,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/sentimentaljourn00sterrich"
+          "url" : "https:\/\/archive.org\/stream\/sentimentaljourn00sterrich"
         }
       },
       "title" : "A sentimental journey through France & I",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Sterne, Laurence",
       "expanded" : true,
       "children" : [
 
