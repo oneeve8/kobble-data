@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/principles_metaphysic_morals_1109_librivox"
+        }
+      },
+      "title" : "Fundamental Principles of the Metaphysic",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Fundamental Principles of th",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
