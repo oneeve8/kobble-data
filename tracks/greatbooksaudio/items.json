@@ -2379,6 +2379,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tristramshandy_1_0902_librivox"
+        }
+      },
+      "title" : "The Life and Opinions of Tristram Shandy",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Life and Opinions of Tri",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
