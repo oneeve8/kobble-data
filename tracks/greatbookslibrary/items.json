@@ -2414,14 +2414,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/rousseausemileor00rousiala"
+          "url" : "https:\/\/archive.org\/stream\/rousseausemileor00rousiala"
         }
       },
       "title" : "Rousseau",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Emile or Treatise On Education",
       "expanded" : true,
       "children" : [
 
