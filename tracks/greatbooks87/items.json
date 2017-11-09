@@ -174,14 +174,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/autobiographieso00gibb"
+          "url" : "https:\/\/archive.org\/stream\/autobiographieso00gibb"
         }
       },
       "title" : "The autobiographies of Edward Gibbon. Pr",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Autobiography",
       "expanded" : true,
       "children" : [
 
