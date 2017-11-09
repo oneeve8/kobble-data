@@ -3,6 +3,15 @@
   "subtitle" : "My Shopify Store",
   "tracks" : [
     {
+      "title" : "Kitchen",
+      "subtitle" : "Items",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/kitchenitems",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Shopify Tutorials",
       "subtitle" : "How To Videos And Instructions",
       "track" : {
