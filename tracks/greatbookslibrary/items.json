@@ -2519,11 +2519,11 @@
           "url" : "https:\/\/archive.org\/details\/aninquiryintothe01smituoft"
         }
       },
-      "title" : "archive.org",
+      "title" : "An inquiry into the nature and causes of",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "vol. 1",
       "expanded" : true,
       "children" : [
 
