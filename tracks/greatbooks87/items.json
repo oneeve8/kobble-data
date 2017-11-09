@@ -220,6 +220,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/life_of_samuel_johnson_vol1_0808_librivox1"
+        }
+      },
+      "title" : "The Life of Samuel Johnson, Vol. 1 : Jam",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Life of Samuel Johnson V",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
