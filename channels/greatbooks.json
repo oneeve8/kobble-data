@@ -4,15 +4,6 @@
   "tracks" : [
     {
       "title" : "Great Books",
-      "subtitle" : "Literature",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbookslit",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
         "owner" : "oneeve8",
@@ -44,6 +35,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksscience",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "Literature",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbookslit",
         "repo" : "kobble-data"
       }
     },
