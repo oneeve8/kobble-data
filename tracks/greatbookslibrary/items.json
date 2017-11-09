@@ -2499,40 +2499,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/aninquiryintothe01smituoft"
-        }
-      },
-      "title" : "An inquiry into the nature and causes of",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 1",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/aninquiryintothe01smituoft"
-        }
-      },
-      "title" : "An inquiry into the nature and causes of",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 1",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/theorymoralsent00stewgoog"
         }
       },
@@ -2541,23 +2507,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Book digitized by Google from the library of Harva",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/aninquiryintothe01smituoft"
-        }
-      },
-      "title" : "An inquiry into the nature and causes of",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "vol. 1",
       "expanded" : true,
       "children" : [
 
