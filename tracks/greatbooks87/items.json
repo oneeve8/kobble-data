@@ -130,7 +130,24 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book from Project Gutenberg: History of the Declin",
+      "subtitle" : "Vol. 1 Audio History of the Declin",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/historyofthedecl00732gut"
+        }
+      },
+      "title" : "archive.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "archive.org",
       "expanded" : true,
       "children" : [
 
