@@ -186,6 +186,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/boswellsjohnson01bosw"
+        }
+      },
+      "title" : "Boswell",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "I-IV. Life.--V. Tour to the Hebrides (1773) and Jo",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
