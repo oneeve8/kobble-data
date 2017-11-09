@@ -157,14 +157,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/historyofdeclin05gibb"
+          "url" : "https:\/\/archive.org\/stream\/historyofdeclin05gibb"
         }
       },
       "title" : "The history of the decline and fall of t",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "52",
+      "subtitle" : "52history Of The Decline And Fall Of The Roman Empire",
       "expanded" : true,
       "children" : [
 
