@@ -2448,14 +2448,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/BlackstoneVolumeI"
+          "url" : "https:\/\/archive.org\/details\/lordbyronsdonjua00byrouoft"
         }
       },
-      "title" : "Commentaries on the Laws of England Volu",
+      "title" : "Lord Byron",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "This is the first edition of Blackstone",
+      "subtitle" : "Library copy missing p.453-456",
       "expanded" : true,
       "children" : [
 
@@ -2592,23 +2592,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "vol. 1",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/BlackstoneVolumeI"
-        }
-      },
-      "title" : "Commentaries on the Laws of England Volu",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "This is the first edition of Blackstone",
       "expanded" : true,
       "children" : [
 
