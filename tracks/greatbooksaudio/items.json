@@ -2362,6 +2362,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/discourse_inequality_ej_librivox"
+        }
+      },
+      "title" : "A Discourse Upon the Origin and the Foun",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of A Discourse Upon the Origin ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
