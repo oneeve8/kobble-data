@@ -2431,6 +2431,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/BlackstoneVolumeI"
+        }
+      },
+      "title" : "Commentaries on the Laws of England Volu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "This is the first edition of Blackstone",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/thewealthofnatio00smituoft"
         }
       },
@@ -2439,6 +2456,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Everyman Library edition. Volume Two of two volume",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/BlackstoneVolumeI"
+        }
+      },
+      "title" : "Commentaries on the Laws of England Volu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "This is the first edition of Blackstone",
       "expanded" : true,
       "children" : [
 
