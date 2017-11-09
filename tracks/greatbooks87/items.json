@@ -72,14 +72,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/thephilosophyofl00kantuoft"
+          "url" : "https:\/\/archive.org\/stream\/thephilosophyofl00kantuoft"
         }
       },
       "title" : "The philosophy of law : an exposition of",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Science Of Right",
       "expanded" : true,
       "children" : [
 
