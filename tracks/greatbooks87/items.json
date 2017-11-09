@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/immanuelkantscri032379mbp"
+          "url" : "https:\/\/archive.org\/stream\/immanuelkantscri032379mbp"
         }
       },
       "title" : "Immanuel Kants Critique Of Pure Reason :",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Critique Of Pure Reason",
       "expanded" : true,
       "children" : [
 
