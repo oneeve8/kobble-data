@@ -2397,6 +2397,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/sentimentaljourn00sterrich"
+        }
+      },
+      "title" : "A sentimental journey through France & I",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Sterne, Laurence",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/enquiryconcernin00humeuoft"
         }
       },
@@ -2422,6 +2439,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Emile or Treatise On Education",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/Jean-Jacques-Rousseau-Confessions"
+        }
+      },
+      "title" : "Jean Jacques Rousseau Confessions : Jean",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Confessions by Jean-Jacques-Rousseau",
       "expanded" : true,
       "children" : [
 
@@ -2465,23 +2499,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Jean-Jacques-Rousseau-Confessions"
-        }
-      },
-      "title" : "Jean Jacques Rousseau Confessions : Jean",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Confessions by Jean-Jacques-Rousseau",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/in.ernet.dli.2015.267640"
         }
       },
@@ -2490,23 +2507,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Book Source: Digital Library of India Item 2015.26",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/sentimentaljourn00sterrich"
-        }
-      },
-      "title" : "A sentimental journey through France & I",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Sterne, Laurence",
       "expanded" : true,
       "children" : [
 
