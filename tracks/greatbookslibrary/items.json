@@ -2562,23 +2562,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/in.ernet.dli.2015.267640"
-        }
-      },
-      "title" : "Tristram Shandy : Laurence Sterne : Free",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Book Source: Digital Library of India Item 2015.26",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
