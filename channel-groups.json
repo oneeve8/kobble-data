@@ -139,6 +139,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Creativity",
+          "subtitle" : "Online Creative Tools",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/arttools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Recipes",
           "subtitle" : "Recipes",
           "channel" : {
