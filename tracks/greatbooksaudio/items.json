@@ -2350,14 +2350,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/essaysmoralpoli01humegoog"
+          "url" : "https:\/\/archive.org\/details\/human_understanding_0711_lv_2"
         }
       },
-      "title" : "Essays, moral, political, and literary :",
+      "title" : "An Enquiry Concerning Human Understandin",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "subtitle" : "LibriVox recording of An Enquiry Concerning Human ",
       "expanded" : true,
       "children" : [
 
