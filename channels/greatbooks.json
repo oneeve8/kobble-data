@@ -4,6 +4,15 @@
   "tracks" : [
     {
       "title" : "Great Books",
+      "subtitle" : "Science",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksscience",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
       "subtitle" : "Philosophers",
       "track" : {
         "owner" : "oneeve8",
