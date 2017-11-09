@@ -4,6 +4,15 @@
   "tracks" : [
     {
       "title" : "Great Books",
+      "subtitle" : "English",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksenglish",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
         "owner" : "oneeve8",
