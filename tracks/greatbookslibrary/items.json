@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/iliadinterlinear00homerich"
-        }
-      },
-      "title" : "Homer",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Iliad",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/trag00ediesofaeschaescrich"
         }
       },
@@ -38,14 +21,31 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/playsofsophocles00sophiala"
+          "url" : "https:\/\/archive.org\/stream\/cicerosthreeboo00cice"
         }
       },
-      "title" : "Sophocles",
+      "title" : "Cicero",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Plays",
+      "subtitle" : "Moral Duties",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/onnatureofthings01lucruoft"
+        }
+      },
+      "title" : "Lucretius",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "On the nature of things",
       "expanded" : true,
       "children" : [
 
@@ -72,23 +72,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/herodotus00herouoft"
-        }
-      },
-      "title" : "Herodotus ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "History Volume 1",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/1914historyofhe02hero"
         }
       },
@@ -97,23 +80,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "History Volume 2",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/historyofherod03hero"
-        }
-      },
-      "title" : "Herodotus ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "History Volume 3",
       "expanded" : true,
       "children" : [
 
@@ -140,23 +106,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
-        }
-      },
-      "title" : "Thucydides ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Complete Writings",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/genuineworkship02hippgoog"
         }
       },
@@ -174,23 +123,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
-        }
-      },
-      "title" : "Aristophanes ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/aristophanes01arisgoog"
         }
       },
@@ -199,23 +131,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Plays",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksplato01carygoog"
-        }
-      },
-      "title" : "Plato ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
@@ -340,23 +255,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/EpicurusTheExtantRemainsBaileyOxford1926_201309"
-        }
-      },
-      "title" : "Epicurus ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Extant Remains ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
         }
       },
@@ -365,23 +263,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Elements Of Geometry",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksofarchimede00arch"
-        }
-      },
-      "title" : "Archimedes ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
       "expanded" : true,
       "children" : [
 
@@ -408,23 +289,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/ciceroonoratorya00ciceuoft"
-        }
-      },
-      "title" : "Cicero on oratory and orators : Cicero, ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Includes bibliographical references and index",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/twoessaysonoldag00ciceiala"
         }
       },
@@ -442,23 +306,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/treatisesofcicer00ciceuoft"
-        }
-      },
-      "title" : "Cicero",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Treatises",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/cicerostusculand00ciceiala"
         }
       },
@@ -467,40 +314,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Tusculan Disputationa",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/cicerosthreeboo00cice"
-        }
-      },
-      "title" : "Cicero",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Moral Duties",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/onnatureofthings01lucruoft"
-        }
-      },
-      "title" : "Lucretius",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "On the nature of things",
       "expanded" : true,
       "children" : [
 
