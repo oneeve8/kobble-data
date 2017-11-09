@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=IryLeW_zS1Q"
+        }
+      },
+      "title" : "How to Easily Create a Gif",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Link to the Written Procedure\/Downloads for this V",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=N1DQOu907kA"
         }
       },
