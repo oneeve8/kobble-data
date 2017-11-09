@@ -66,8 +66,8 @@
       }
     },
     {
-      "title" : "Great Books",
-      "subtitle" : "Audio",
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Literature",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksaudio",
