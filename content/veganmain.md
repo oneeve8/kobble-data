@@ -1,2 +1,3 @@
 # Main Dish
 ## Vegan  Main Dish
+have not been able to discover whether there exists a precise French equivalent for the common Anglo-American expression "killing time." It's a very crass and breezy expression, when you ponder it for a moment, considering that time, after all, is killing us. Marcel Proust was the man who, by contemplating in a way that transcended the moment, attempted to interpenetrate these two forbidding alternatives.
