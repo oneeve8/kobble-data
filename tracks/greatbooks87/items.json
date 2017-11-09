@@ -237,6 +237,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/life_of_johnson_vol2_1009_librivox"
+        }
+      },
+      "title" : "The Life of Samuel Johnson, Vol. 2 : Jam",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Life of Samuel Johnson, ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
