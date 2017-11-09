@@ -106,14 +106,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/perpetualpeaceap00kantuoft"
+          "url" : "https:\/\/archive.org\/stream\/perpetualpeaceap00kantuoft"
         }
       },
       "title" : "Perpetual peace; a philosophical essay, ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "Perpetual Peace",
       "expanded" : true,
       "children" : [
 
