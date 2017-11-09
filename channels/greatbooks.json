@@ -3,15 +3,6 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
-      "title" : "Great Books Audio",
-      "subtitle" : "Audio Philosophy",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksaudiophil",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
@@ -71,6 +62,24 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksamerican",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Greeks",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudiogreeks",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Philosophy",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudiophil",
         "repo" : "kobble-data"
       }
     },
