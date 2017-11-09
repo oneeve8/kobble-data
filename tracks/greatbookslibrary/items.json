@@ -2431,14 +2431,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/therepublicofpla00rousuoft"
+          "url" : "https:\/\/archive.org\/stream\/therepublicofpla00rousuoft"
         }
       },
       "title" : "The social contract & discourses : Rouss",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "",
+      "subtitle" : "The Social Contract",
       "expanded" : true,
       "children" : [
 
