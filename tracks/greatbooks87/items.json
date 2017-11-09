@@ -89,14 +89,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/cu31924028104085"
+          "url" : "https:\/\/archive.org\/stream\/cu31924028104085"
         }
       },
       "title" : "Kant",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The metadata below describe the original scanning.",
+      "subtitle" : "Critique Of Judgement",
       "expanded" : true,
       "children" : [
 
