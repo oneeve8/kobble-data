@@ -3,24 +3,6 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
-      "title" : "Great Books ",
-      "subtitle" : "American Authors",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksamerican",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
-      "subtitle" : "English Literature",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksenglish",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
@@ -53,6 +35,24 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksscience",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "English Literature",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksenglish",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books ",
+      "subtitle" : "American Authors",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksamerican",
         "repo" : "kobble-data"
       }
     },
