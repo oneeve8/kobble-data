@@ -109,6 +109,15 @@
         "path" : "tracks\/greatbookslibrary",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "Listed From #87",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooks87",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
