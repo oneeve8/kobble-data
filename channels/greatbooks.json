@@ -3,6 +3,15 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
+      "title" : "Great Books ",
+      "subtitle" : "American Authors",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksamerican",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Great Books",
       "subtitle" : "English Literature",
       "track" : {
