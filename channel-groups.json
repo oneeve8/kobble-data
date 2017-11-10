@@ -141,7 +141,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Follow Simmy",
@@ -200,7 +200,7 @@
       "name" : "Personal"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
