@@ -279,7 +279,7 @@
           "url" : "http:\/\/www.artcyclopedia.com\/museums.html"
         }
       },
-      "title" : "www.artcyclopedia.com",
+      "title" : "Online Children’s Art Museum",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
