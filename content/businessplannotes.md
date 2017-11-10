@@ -85,7 +85,7 @@ H. eritage: (Optional, ie Asian, Japanese, German, French, etc.).
 
 More on Accentuate:
 T. extures- soft (fur, faux fur, silky, rough like sisal, wood, smooth metal etc.).  
-I. - items that draw attention or inspire you, something hand made, brings memories, sentimental value, a special gift from someone.  
+I. spiration- items that draw attention or inspire you, something hand made, brings memories, sentimental value, a special gift from someone.  
 P. attern - Floral, Paisley, Stripes, Plaid, Mandala, Geometric, Plain, Polkadot, Chevron.  
 S. parkle - Gold, Silver, Copper, Metallic, Glass, Mirrors, Glitter, Neon or very bright pop of colour.  
 
