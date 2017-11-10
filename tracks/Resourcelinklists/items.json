@@ -7,7 +7,7 @@
           "url" : "http:\/\/arthistoryresources.net\/ARTHLinks.html"
         }
       },
-      "title" : "arthistoryresources.net",
+      "title" : "Art History Resource Links",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -24,7 +24,7 @@
           "url" : "http:\/\/vos.ucsb.edu\/browse.asp?id=3404"
         }
       },
-      "title" : "vos.ucsb.edu",
+      "title" : "Art History Resource Links",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
