@@ -97,6 +97,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Art Lessons",
+          "subtitle" : "Art Lessons Online",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artlessons.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Creativity",
           "subtitle" : "Online Creative Tool Links",
           "channel" : {
