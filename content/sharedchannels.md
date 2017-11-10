@@ -3,7 +3,7 @@
 
 ***
 
-##Kobble Introduction, A Guide to Kobble.  
+### Channel: Kobble Introduction, A Guide to Kobble.  
 
 [Kobble Introduction](kobble://kobble.io/channel?title=Kobble%20Introduction&subtitle=A%20Guide%20To%20Kobble&owner=oneeve8&repo=kobble-data&path=channels/Kobbleintro.json)
 ***
