@@ -73,3 +73,5 @@ Educational Group
 
 Add Math and Science Links,
 Basic Knowledge Study Units
+
+Add a Shopping Channel
