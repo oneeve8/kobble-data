@@ -326,7 +326,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Recipes",
