@@ -8,14 +8,11 @@
 Written narratives to video introductions, GitHub information, Markdown Cheat Sheet.  
 
 [Kobble Introduction](kobble://kobble.io/channel?title=Kobble%20Introduction&subtitle=A%20Guide%20To%20Kobble&owner=oneeve8&repo=kobble-data&path=channels/Kobbleintro.json)
-***
-
 
 ***
 
 ### Channels: Art & Creativity
 A curated selection of artistic tools and information links. Graphic tools, online graphic generators, meme generators, image generators, gif generators, online drawing tools, art history links, museum links.   
-
 
 [Color](kobble://kobble.io/channel?title=Color&subtitle=Color%20Theory%20And%20Color%20Tools&owner=oneeve8&repo=kobble-data&path=channels/Color.json)
 
