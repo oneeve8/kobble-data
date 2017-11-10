@@ -29,17 +29,26 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
+          "title" : "Mark Twain",
+          "subtitle" : "Study Unit",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
+            "path" : "channels\/marktwain2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Great Books",
+          "subtitle" : "Great Book Classics",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooks.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Home & Family"
+      "name" : "Educational"
     },
     {
       "isShowing" : true,
@@ -65,47 +74,6 @@
       ],
       "isToggled" : false,
       "name" : "Art & Creativity"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Sports & Fitness"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Mark Twain",
-          "subtitle" : "Study Unit",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/marktwain2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Great Books",
-          "subtitle" : "Great Book Classics",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/greatbooks.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Educational"
     },
     {
       "isShowing" : false,
@@ -176,6 +144,38 @@
       ],
       "isToggled" : false,
       "name" : "Personal"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Home & Family"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Sports & Fitness"
     },
     {
       "isShowing" : false,
