@@ -89,6 +89,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/paletton.com\/#uid=1000u0kllllaFw0g0qFqFg0w0aF"
+        }
+      },
+      "title" : "paletton.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "paletton.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.colormatters.com\/color-and-design\/basic-color-theory"
         }
       },
