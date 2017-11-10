@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.picresize.com\/"
         }
       },
-      "title" : "www.picresize.com",
+      "title" : "Resize Pics Online",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
