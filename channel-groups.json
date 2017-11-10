@@ -253,6 +253,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Link Lists ",
+          "subtitle" : "To Curate",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/linklists.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Art Lessons",
           "subtitle" : "Art Lessons Online",
           "channel" : {
