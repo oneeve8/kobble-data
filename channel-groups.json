@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Oceana",
+          "subtitle" : "Travel Countries In Oceana",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryoceana.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Asia",
           "subtitle" : "Travel Countries In Asia",
           "channel" : {
