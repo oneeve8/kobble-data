@@ -41,6 +41,7 @@ Painters,
 Paintings,
 Slideshow top 100 paintings,
 Slideshow top 100 painters
+Crafts
 
 Home and Garden Group
 
@@ -62,10 +63,10 @@ Fitness and Health Group
 
 Herbal Remedies,
 WebMD,
-Fitness Videos
+Fitness Videos,
+Nutrition
 
 Educational Group
 
 Add Math and Science Links,
-
 Basic Knowledge Study Units
