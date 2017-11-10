@@ -41,7 +41,7 @@
           "url" : "https:\/\/newspaper.jaguarpaw.co.uk\/"
         }
       },
-      "title" : "newspaper.jaguarpaw.co.uk",
+      "title" : "Newspaper Image Generator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
