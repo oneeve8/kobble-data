@@ -28,21 +28,21 @@ Find more Audio books
 Spiritual Group
 
 Virtues,   
-Prayers,
-Catholic Prayers,
-Missal,
-Liturgy,
+Prayers,   
+Catholic Prayers,   
+Missal,   
+Liturgy,   
 New Testament flashcards
 
 Art and Creativity Group
 
 Art Movements,   
 Painters,   
-Paintings,
-Slideshow top 100 paintings,
-Slideshow top 100 painters
-Crafts,
-Children’s Art,
+Paintings,   
+Slideshow top 100 paintings,   
+Slideshow top 100 painters,   
+Crafts,   
+Children’s Art,   
 Public Domain images
 
 Home and Garden Group
