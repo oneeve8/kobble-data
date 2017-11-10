@@ -228,7 +228,7 @@
           "url" : "https:\/\/www.artsonia.com\/"
         }
       },
-      "title" : "www.artsonia.com",
+      "title" : "Online Children’s Museum",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
