@@ -10,6 +10,15 @@
         "path" : "tracks\/imagegenerators",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Creative Art ",
+      "subtitle" : "Tools Online",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/creativetools",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
