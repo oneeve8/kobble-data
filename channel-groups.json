@@ -230,7 +230,7 @@
       "name" : "Work In Progress"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -369,7 +369,7 @@
       "name" : "Home & Family"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sports",
