@@ -403,6 +403,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Online Creative Tools",
+          "subtitle" : "Memes, Images, Gifs",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Coolonlinetools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Creativity",
           "subtitle" : "Online Creative Tool Links",
           "channel" : {
