@@ -113,6 +113,15 @@
           }
         },
         {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Graphic Tools",
           "subtitle" : "Online Graphic Generators",
           "channel" : {
@@ -273,15 +282,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Halloween",
           "subtitle" : "Decorating",
