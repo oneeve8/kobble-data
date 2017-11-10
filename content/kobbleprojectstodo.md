@@ -33,7 +33,10 @@ Prayers from around the world
 
 ### Other Channel Ideas I am interested in creating
 
-Virtues
+Spiritual Group
+
+Virtues.  
+Prayers.  
 
 Art
 
