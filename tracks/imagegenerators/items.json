@@ -58,7 +58,7 @@
           "url" : "https:\/\/pickaface.net\/"
         }
       },
-      "title" : "Pickaface.net",
+      "title" : "Avatar Generator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
