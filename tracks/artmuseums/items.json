@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.louvre.fr\/en"
         }
       },
-      "title" : "Musée Du Louvre",
+      "title" : "Musée du Louvre",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -143,7 +143,7 @@
           "url" : "http:\/\/www.musee-orsay.fr\/fr\/evenements\/spectacles\/presentation-generale\/article\/a-la-barre-de-degas-47012.html?tx_ttnews%5BbackPid%5D=217&cHash=5b52e7fca7"
         }
       },
-      "title" : "www.musee-orsay.fr",
+      "title" : "Musée d’Orsay",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
