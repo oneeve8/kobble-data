@@ -3,6 +3,15 @@
   "subtitle" : "My Shopify Store",
   "tracks" : [
     {
+      "title" : "Gadgets",
+      "subtitle" : "Electronics, Technology, Gadgets",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifygadgets",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Wardrobe Capsule",
       "subtitle" : "Clothing And Clothing Basics",
       "track" : {
