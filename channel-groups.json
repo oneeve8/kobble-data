@@ -13,8 +13,8 @@
           }
         },
         {
-          "title" : "Travel By Country",
-          "subtitle" : "Europe",
+          "title" : "Europe",
+          "subtitle" : "Travel Countries In Europe",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/travelbycountryeurope.json",
