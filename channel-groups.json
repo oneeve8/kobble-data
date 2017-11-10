@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "South America",
+          "subtitle" : "Travel Countries In South America",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountrysouthamerica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "North America",
           "subtitle" : "Travel Countries In North America",
           "channel" : {
