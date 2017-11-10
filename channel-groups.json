@@ -4,6 +4,30 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Art",
+          "subtitle" : "Paintings And Artists",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Art.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Art & Creativity"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Sports & Fitness"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
           "title" : "Mark Twain",
           "subtitle" : "Study Unit",
           "channel" : {
@@ -205,15 +229,6 @@
           "channel" : {
             "owner" : "kobble-ios",
             "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art",
-          "subtitle" : "Paintings And Artists",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Art.json",
             "repo" : "kobble-data"
           }
         }
