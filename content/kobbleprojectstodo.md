@@ -64,10 +64,10 @@ Fitness Videos
 
 Educational Group
 
-Add Math and Science Links
+Add Math and Science Links,
 
 Gardening
 
-New Testament Flash Cards
+
 
 Basic Knowledge Study Units
