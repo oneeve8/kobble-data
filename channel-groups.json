@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Virtues ",
@@ -42,299 +42,6 @@
       ],
       "isToggled" : false,
       "name" : "Spiritual"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Halloween",
-          "subtitle" : "Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/halloween.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Home & Family"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Follow Simmy",
-          "subtitle" : "Content To Share",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shared .json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Follow"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Shopify",
-          "subtitle" : "My Shopify Store",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shopify.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Sky Lotus 9",
-          "subtitle" : "Home Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Skylotus9"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Music"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Art Lessons",
-          "subtitle" : "Art Lessons Online",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artlessons.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art Movements",
-          "subtitle" : "Art Movements In History",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artmovements.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Work In Progress"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Mark Twain",
-          "subtitle" : "Study Unit",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/marktwain2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Great Books",
-          "subtitle" : "Great Book Classics",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/greatbooks.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Educational"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Sports & Fitness"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "News ",
-          "subtitle" : "Current Events",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/newslinks.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "News"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
-          "channel" : {
-            "owner" : "kobble-git",
-            "path" : "channels\/kobble.json",
-            "repo" : "kobble-data-common"
-          }
-        },
-        {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Test Channel",
-          "subtitle" : "Dummy Channel For Testing",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Test Channel.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Work"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "My Online Presence",
-          "subtitle" : "Links To My Sites",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/myonlinepresence.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "To Do List",
-          "subtitle" : "To Do List",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Todolist.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Personal ",
-          "subtitle" : "Projects",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Rosary.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Videos ",
-          "subtitle" : "To Watch",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/videostowatch.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Personal"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Creativity",
-          "subtitle" : "Online Creative Tool Links",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/arttools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art History",
-          "subtitle" : "Paintings And Artists",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Art.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art Museums",
-          "subtitle" : "Art Museums",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artmuseums.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Art & Creativity"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Links"
     },
     {
       "isShowing" : false,
@@ -432,6 +139,299 @@
       ],
       "isToggled" : false,
       "name" : "Travel"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Follow Simmy",
+          "subtitle" : "Content To Share",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shared .json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Follow"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "My Online Presence",
+          "subtitle" : "Links To My Sites",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/myonlinepresence.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "To Do List",
+          "subtitle" : "To Do List",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Todolist.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Personal ",
+          "subtitle" : "Projects",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Rosary.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Videos ",
+          "subtitle" : "To Watch",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videostowatch.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Personal"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
+          "channel" : {
+            "owner" : "kobble-git",
+            "path" : "channels\/kobble.json",
+            "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Kobbleintro.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Test Channel",
+          "subtitle" : "Dummy Channel For Testing",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Test Channel.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Work"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "News ",
+          "subtitle" : "Current Events",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/newslinks.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "News"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Art Lessons",
+          "subtitle" : "Art Lessons Online",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artlessons.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Art Movements",
+          "subtitle" : "Art Movements In History",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artmovements.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Work In Progress"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Links"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Mark Twain",
+          "subtitle" : "Study Unit",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/marktwain2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Great Books",
+          "subtitle" : "Great Book Classics",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooks.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Educational"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Halloween",
+          "subtitle" : "Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/halloween.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Christmas",
+          "subtitle" : "Decor",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasdecor.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Home & Family"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Sports & Fitness"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Music"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Shopify",
+          "subtitle" : "My Shopify Store",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shopify.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Sky Lotus 9",
+          "subtitle" : "Home Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Skylotus9"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Creativity",
+          "subtitle" : "Online Creative Tool Links",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/arttools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Art History",
+          "subtitle" : "Paintings And Artists",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Art.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Art Museums",
+          "subtitle" : "Art Museums",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artmuseums.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Art & Creativity"
     },
     {
       "isShowing" : false,
