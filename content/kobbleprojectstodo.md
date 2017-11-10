@@ -23,7 +23,7 @@ Find more Audio books
 
 ***
 
-### Prayer Channel
+### Prayer
 
 Catholic Prayers
 
