@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Web Cameras",
+          "subtitle" : "Web Cameras Around The World",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/worldwebcams.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Armchair Travel",
           "subtitle" : "Online Exploration Of Places",
           "channel" : {
