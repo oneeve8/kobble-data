@@ -2,6 +2,14 @@
   "title" : "Virtues ",
   "subtitle" : "A Plan Of Life",
   "tracks" : [
-
+    {
+      "title" : "Emissary of Love",
+      "subtitle" : "A User's Manual for Virtue",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Emissary",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
