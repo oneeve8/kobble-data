@@ -160,7 +160,7 @@
           "url" : "https:\/\/www.vam.ac.uk\/"
         }
       },
-      "title" : "V&A · The world",
+      "title" : "Victoria And Albert Museum",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
