@@ -412,6 +412,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Color",
+          "subtitle" : "Color Theory And Color Tools",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Color.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Graphic Tools",
           "subtitle" : "Online Graphic Generators",
           "channel" : {
