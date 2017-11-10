@@ -3,6 +3,15 @@
   "subtitle" : "My Shopify Store",
   "tracks" : [
     {
+      "title" : "Dining",
+      "subtitle" : "Table Linens, Utensils, Dishware",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifydining",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Bath",
       "subtitle" : "Towels And Toiletries",
       "track" : {
