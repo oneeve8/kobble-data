@@ -23,13 +23,6 @@ Find more Audio books
 
 ***
 
-
-Catholic Prayers
-
-Prayers from around the worl
-
-***
-
 ### Other Channel Ideas I am interested in creating
 
 Spiritual Group
