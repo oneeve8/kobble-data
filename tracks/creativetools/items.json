@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.escapemotions.com\/experiments\/rebelle\/"
+        }
+      },
+      "title" : "Rebelle | experimental online paint soft",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Real media paint software for digital painting, wi",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/sites.google.com\/site\/webtoolsbox\/home"
         }
       },
