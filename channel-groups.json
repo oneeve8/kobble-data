@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Creativity",
+          "subtitle" : "Online Creative Tools",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/arttools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Art",
           "subtitle" : "Paintings And Artists",
           "channel" : {
@@ -19,7 +28,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Sports & Fitness"
@@ -206,29 +223,11 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Creativity",
-          "subtitle" : "Online Creative Tools",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/arttools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Recipes",
           "subtitle" : "Recipes",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/recipes.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
             "repo" : "kobble-data"
           }
         }
