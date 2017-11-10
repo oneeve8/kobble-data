@@ -78,3 +78,4 @@ Add a Shopping Channel
 
 News Channel
 
+Music
