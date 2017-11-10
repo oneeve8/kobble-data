@@ -241,6 +241,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Christmas",
+          "subtitle" : "Decor",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasdecor.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Business Plan",
           "subtitle" : "Ideas For Marketing And Advertising Concept",
           "channel" : {
@@ -274,15 +283,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "News ",
-          "subtitle" : "Current Events",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/newslinks.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Sports News"
@@ -291,11 +292,29 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
+          "title" : "Australia & New Zealand",
+          "subtitle" : "Travel Places  Down Under",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
+            "path" : "channels\/travelbycountryaustralianz.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Pacific Islands ",
+          "subtitle" : "Travel Countries In Oceana",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryoceana.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Asia",
+          "subtitle" : "Travel Countries In Asia",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryasia.json",
             "repo" : "kobble-data"
           }
         }
@@ -331,29 +350,11 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Australia & New Zealand",
-          "subtitle" : "Travel Places  Down Under",
+          "title" : "News ",
+          "subtitle" : "Current Events",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryaustralianz.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Pacific Islands ",
-          "subtitle" : "Travel Countries In Oceana",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryoceana.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Asia",
-          "subtitle" : "Travel Countries In Asia",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryasia.json",
+            "path" : "channels\/newslinks.json",
             "repo" : "kobble-data"
           }
         },
