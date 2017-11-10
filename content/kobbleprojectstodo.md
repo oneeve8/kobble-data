@@ -53,11 +53,13 @@ Travel Group
 Maui,
 New Zealand,
 Webcams,
+Armchair Travel
 
 Fitness and Health Group
 
 Herbal Remedies,
 WebMD,
+Fitness Videos
 
 Educational Group
 
