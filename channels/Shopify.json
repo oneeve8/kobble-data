@@ -21,15 +21,6 @@
       }
     },
     {
-      "title" : "Home Office",
-      "subtitle" : "Basic Organising Supplies",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/shopifyhomeoffice",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Kitchen",
       "subtitle" : "Items",
       "track" : {
@@ -80,6 +71,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/shopifychildrens",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Home Office",
+      "subtitle" : "Basic Organising Supplies",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifyhomeoffice",
         "repo" : "kobble-data"
       }
     },
