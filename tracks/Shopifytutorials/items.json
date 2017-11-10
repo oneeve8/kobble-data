@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=fxXnj906ASo"
+        }
+      },
+      "title" : "Don't Create an Online Store Until You S",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Learn more about the RIGHT way to build an online ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
