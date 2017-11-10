@@ -38,7 +38,9 @@ Spiritual Group
 Virtues.  
 Prayers.  
 
-Art
+Art Movements,   
+Painters.  
+Paintings
 
 Recipes
 
