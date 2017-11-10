@@ -12,6 +12,15 @@
       }
     },
     {
+      "title" : "Business And Marketing",
+      "subtitle" : "Plan",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/businessmarketingplan",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Entry",
       "subtitle" : "Organizers, Mirrors, Key Holders, Shoe Racks",
       "track" : {
@@ -26,15 +35,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/shopifygarden",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Business And Marketing",
-      "subtitle" : "Plan",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/businessmarketingplan",
         "repo" : "kobble-data"
       }
     },
