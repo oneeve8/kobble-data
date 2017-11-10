@@ -19,7 +19,24 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "World Prayers",
+          "subtitle" : "Prayers From Around The World",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Prayers.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Virtues ",
+          "subtitle" : "A Plan Of Life",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/virtuesproject.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Spiritual"
@@ -60,24 +77,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Virtues ",
-          "subtitle" : "A Plan Of Life",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/virtuesproject.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "World Prayers",
-          "subtitle" : "Prayers From Around The World",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Prayers.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Doctors of the Church",
           "subtitle" : "Doctors of the Church",
