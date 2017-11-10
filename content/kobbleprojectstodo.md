@@ -23,11 +23,10 @@ Find more Audio books
 
 ***
 
-### Prayer
 
 Catholic Prayers
 
-Prayers from around the world
+Prayers from around the worl
 
 ***
 
@@ -36,7 +35,10 @@ Prayers from around the world
 Spiritual Group
 
 Virtues,   
-Prayers
+Prayers,
+Catholic Prayers,
+Missal,
+Liturgy
 
 Art and Creativity Group
 
