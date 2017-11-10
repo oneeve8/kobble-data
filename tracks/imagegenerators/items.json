@@ -38,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/ezgif.com\/maker"
+        }
+      },
+      "title" : "Online Animated GIF maker",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Online GIF maker where you can create animated GIF",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.imagechef.com\/t\/n8rm\/Newspaper-Headline"
         }
       },
