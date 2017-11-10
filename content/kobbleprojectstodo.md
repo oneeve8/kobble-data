@@ -2,7 +2,7 @@
 ## To Do
 ***
 
-Change “computer” to “device” in Tutorial #2
+Change *computer* to *device* in Tutorial #2
 
 Finish 3rd Tutorial Video
 
