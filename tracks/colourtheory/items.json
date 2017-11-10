@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.worqx.com\/color\/palette.htm"
         }
       },
-      "title" : "www.worqx.com",
+      "title" : "Pallet Picker",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
