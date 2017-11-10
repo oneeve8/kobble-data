@@ -31,8 +31,8 @@ Curated selection of artistic tools and information links. Graphic Tools, online
 oneeve8 would like to share a channel.
 kobble://kobble.io/channel?title=Color&subtitle=Color%20Theory%20And%20Color%20Tools&owner=oneeve8&repo=kobble-data&path=channels/Color.json
 
-oneeve8 would like to share a channel.
-kobble://kobble.io/channel?title=Graphic%20Tools&subtitle=Online%20Graphic%20Generators&owner=oneeve8&repo=kobble-data&path=channels/graphictools.json
+
+[Graphic Tools](kobble://kobble.io/channel?title=Graphic%20Tools&subtitle=Online%20Graphic%20Generators&owner=oneeve8&repo=kobble-data&path=channels/graphictools.json
 
 [Online Creativity](kobble://kobble.io/channel?title=Online%20Creativity&subtitle=Memes,%20Images,%20Gifs,%20Art%20Tools&owner=oneeve8&repo=kobble-data&path=channels/Coolonlinetools.json)
 
