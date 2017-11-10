@@ -200,7 +200,7 @@
       "name" : "Personal"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
