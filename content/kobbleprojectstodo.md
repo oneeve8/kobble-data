@@ -64,7 +64,9 @@ Fitness and Health Group
 Herbal Remedies,
 WebMD,
 
-Educational
+Educational Group
+
+Add Math and Science Links
 
 Gardening
 
