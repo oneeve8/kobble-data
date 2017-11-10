@@ -106,24 +106,6 @@
           }
         },
         {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Halloween",
-          "subtitle" : "Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/halloween.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Personal ",
           "subtitle" : "Projects",
           "channel" : {
@@ -146,7 +128,7 @@
       "name" : "Personal"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Recipes",
@@ -154,6 +136,24 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Halloween",
+          "subtitle" : "Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/halloween.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Christmas",
+          "subtitle" : "Decor",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasdecor.json",
             "repo" : "kobble-data"
           }
         }
