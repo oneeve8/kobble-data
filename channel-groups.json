@@ -3,6 +3,22 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Spiritual"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Home & Family"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Creativity",
           "subtitle" : "Online Creative Tools",
