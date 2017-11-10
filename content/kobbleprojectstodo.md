@@ -43,7 +43,7 @@ Art and Creativity Group
 Art Movements,   
 Painters,   
 Paintings
-Paintings sl
+Paintings slideshow? Or is wiki and khan good?
 
 Home and Family Group
 
