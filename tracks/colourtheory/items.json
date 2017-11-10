@@ -21,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.colorcombos.com\/"
-        }
-      },
-      "title" : "Create Color Combinations Online",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.colorcombos.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.tigercolor.com\/color-lab\/color-theory\/color-theory-intro.htm"
         }
       },
@@ -72,14 +55,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.worqx.com\/color\/palette.htm"
+          "url" : "http:\/\/colrd.com\/"
         }
       },
-      "title" : "Pallet Picker",
+      "title" : "Color Combinations",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.worqx.com",
+      "subtitle" : "colrd.com",
       "expanded" : true,
       "children" : [
 
@@ -89,14 +72,31 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/colrd.com\/"
+          "url" : "https:\/\/www.colorcombos.com\/"
         }
       },
-      "title" : "colrd.com",
+      "title" : "Create Color Combinations Online",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "colrd.com",
+      "subtitle" : "www.colorcombos.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.worqx.com\/color\/palette.htm"
+        }
+      },
+      "title" : "Pallet Picker",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.worqx.com",
       "expanded" : true,
       "children" : [
 
