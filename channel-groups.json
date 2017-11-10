@@ -122,6 +122,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "My Online Presence",
+          "subtitle" : "Links To My Sites",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/myonlinepresence.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "To Do List",
           "subtitle" : "To Do List",
           "channel" : {
