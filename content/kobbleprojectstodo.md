@@ -42,12 +42,14 @@ Paintings,
 Slideshow top 100 paintings,
 Slideshow top 100 painters
 
-Home and Garden Grou
+Home and Garden Group
 
+Change Family to Garden,
 Recipes,   
 Menus,   
 Grocery Lists,   
-Meal Plan
+Meal Plan,
+Gardening
 
 Travel Group
 
