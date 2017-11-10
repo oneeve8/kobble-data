@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.imagechef.com\/meme-maker\/"
         }
       },
-      "title" : "www.imagechef.com",
+      "title" : "Image Chef",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
