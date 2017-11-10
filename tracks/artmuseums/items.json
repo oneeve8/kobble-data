@@ -123,6 +123,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.nga.gov\/"
+        }
+      },
+      "title" : "www.nga.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.nga.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.centrepompidou.fr\/"
         }
       },
@@ -148,23 +165,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.musee-orsay.fr",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.nga.gov\/"
-        }
-      },
-      "title" : "www.nga.gov",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.nga.gov",
       "expanded" : true,
       "children" : [
 
