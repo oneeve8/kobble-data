@@ -50,7 +50,7 @@ SOAR because getting things simple, organised and arranged in a way that inspire
 Simplify: Toss, Upcycle, Repurpose, Need (TURN)
 TURN because you are turning things into something new, giving things a second chance, or turning it away
 
-T. oss - If you haven’t used it, either give it away, or throw it away
+T. oss - If you have not used it, either give it away, or throw it away
 U. pcycle - Things needing your time or talent... can you fix it? Can you make it more useful? Can you craft it into something new?
 R. epurpose - Things not requiring your time that you hadn’t used for its intended purpose, but that could be easily used for another purpose
 N. eed - Things that you definitely want to keep, they serve their purpose, and you definitely use it sometimes or every day.
