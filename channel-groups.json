@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Travel Websites",
+          "subtitle" : "Popular Travel Sites",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelwebsites.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Web Cameras",
           "subtitle" : "Web Cameras Around The World",
           "channel" : {
