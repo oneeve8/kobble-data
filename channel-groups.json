@@ -301,7 +301,7 @@
       "name" : "Links"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Mark Twain",
@@ -409,7 +409,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Color",
