@@ -59,19 +59,19 @@ Travel Group
 Maui,   
 New Zealand,   
 Webcams,   
-Armchair Travel,
+Armchair Travel,   
 Itineraries
 
 Fitness and Health Group
 
-Herbal Remedies,
-WebMD,
-Fitness Videos,
+Herbal Remedies,   
+WebMD,   
+Fitness Videos,   
 Nutrition
 
 Educational Group
 
-Add Math and Science Links,
+Add Math and Science Links,   
 Basic Knowledge Study Units
 
 Add a Shopping Channel
