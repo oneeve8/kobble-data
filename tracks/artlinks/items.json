@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/colrd.com\/"
-        }
-      },
-      "title" : "colrd.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "colrd.com",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
