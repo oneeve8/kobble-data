@@ -211,7 +211,7 @@
           "url" : "http:\/\/www.getty.edu\/"
         }
       },
-      "title" : "www.getty.edu",
+      "title" : "The Getty Museum",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
