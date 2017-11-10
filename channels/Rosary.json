@@ -3,15 +3,6 @@
   "subtitle" : "Projects",
   "tracks" : [
     {
-      "title" : "Music",
-      "subtitle" : "Links",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/musiclinks",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Links",
       "subtitle" : "Links",
       "track" : {
