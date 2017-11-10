@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Virtues ",
@@ -250,7 +250,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Art Lessons",
