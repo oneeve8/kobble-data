@@ -42,9 +42,9 @@ Art and Creativity Group
 
 Art Movements,   
 Painters,   
-Paintings
+Paini
 Slideshow top 100 paintings
-Slideshow top 100 painters Or is 
+Slideshow top 100 painters
 
 Home and Family Group
 
