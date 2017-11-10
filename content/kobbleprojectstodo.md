@@ -43,7 +43,7 @@ Art and Creativity Group
 Art Movements,   
 Painters,   
 Paintings
-Paintings slideshow? Flash cards...Or is wiki and khan good?
+Paintings slideshow? Flash cards of top 100 painOr is wiki and khan good?
 
 Home and Family Group
 
