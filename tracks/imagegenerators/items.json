@@ -58,7 +58,7 @@
           "url" : "http:\/\/makesweet.com\/billboard\/"
         }
       },
-      "title" : "makesweet.com",
+      "title" : "Billboard",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
