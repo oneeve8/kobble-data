@@ -155,7 +155,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Art Lessons",
@@ -340,7 +340,7 @@
       "name" : "Links"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
