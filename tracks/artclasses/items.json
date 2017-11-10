@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.artyfactory.com\/"
         }
       },
-      "title" : "www.artyfactory.com",
+      "title" : "Artyfactory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
