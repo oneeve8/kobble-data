@@ -17,7 +17,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
@@ -58,7 +58,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Virtues ",
@@ -101,29 +101,56 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
-          "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
+          "title" : "Color",
+          "subtitle" : "Color Theory And Color Tools",
           "channel" : {
-            "owner" : "kobble-git",
-            "path" : "channels\/kobble.json",
-            "repo" : "kobble-data-common"
+            "owner" : "oneeve8",
+            "path" : "channels\/Color.json",
+            "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
+          "title" : "Graphic Tools",
+          "subtitle" : "Online Graphic Generators",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
+            "path" : "channels\/graphictools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Online Creativity",
+          "subtitle" : "Memes, Images, Gifs, Art Tools",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Coolonlinetools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Art History",
+          "subtitle" : "Paintings And Artists",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Art.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Art Museums",
+          "subtitle" : "Art Museums",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artmuseums.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Work"
+      "name" : "Art & Creativity"
     },
     {
       "isShowing" : true,
@@ -169,7 +196,116 @@
       "name" : "Work In Progress"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
+          "channel" : {
+            "owner" : "kobble-git",
+            "path" : "channels\/kobble.json",
+            "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Kobbleintro.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Work"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Business Plan",
+          "subtitle" : "Ideas For Marketing And Advertising Concept",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9businessplan.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Shopify",
+          "subtitle" : "My Shopify Store",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shopify.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Sky Lotus 9",
+          "subtitle" : "Home Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Skylotus9"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "News ",
+          "subtitle" : "Current Events",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/newslinks.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Sports News"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Halloween",
+          "subtitle" : "Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/halloween.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Christmas",
+          "subtitle" : "Decor",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasdecor.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Travel"
+    },
+    {
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sports",
@@ -185,23 +321,15 @@
       "name" : "Links"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
-        {
-          "title" : "News ",
-          "subtitle" : "Current Events",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/newslinks.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
-      "name" : "Sports & Fitness"
+      "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Australia & New Zealand",
@@ -301,40 +429,6 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Halloween",
-          "subtitle" : "Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/halloween.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Travel"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
           "title" : "Kobble Projects",
           "subtitle" : "Projects In Process",
           "channel" : {
@@ -391,100 +485,6 @@
       ],
       "isToggled" : false,
       "name" : "Work In Progress"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Music"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Business Plan",
-          "subtitle" : "Ideas For Marketing And Advertising Concept",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9businessplan.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Shopify",
-          "subtitle" : "My Shopify Store",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shopify.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Sky Lotus 9",
-          "subtitle" : "Home Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Skylotus9"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Color",
-          "subtitle" : "Color Theory And Color Tools",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Color.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Graphic Tools",
-          "subtitle" : "Online Graphic Generators",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/graphictools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Online Creativity",
-          "subtitle" : "Memes, Images, Gifs, Art Tools",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Coolonlinetools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art History",
-          "subtitle" : "Paintings And Artists",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Art.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art Museums",
-          "subtitle" : "Art Museums",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artmuseums.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Art & Creativity"
     },
     {
       "isShowing" : false,
