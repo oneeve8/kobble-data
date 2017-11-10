@@ -3,29 +3,11 @@
   "subtitle" : "Projects",
   "tracks" : [
     {
-      "title" : "Emissary of Love",
-      "subtitle" : "A User's Manual for Virtue",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Emissary",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Links",
       "subtitle" : "Links",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Links",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Pray the Rosary",
-      "subtitle" : "The Mysteries Of The Rosary",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Joyful-Mysteries",
         "repo" : "kobble-data"
       }
     }
