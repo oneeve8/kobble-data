@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.museivaticani.va\/content\/museivaticani\/en.html"
         }
       },
-      "title" : "www.museivaticani.va",
+      "title" : "Vatican Museums",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.tate.org.uk\/visit\/tate-modern"
         }
       },
-      "title" : "www.tate.org.uk",
+      "title" : "Tate Modern",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
