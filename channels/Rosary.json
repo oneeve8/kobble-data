@@ -3,20 +3,20 @@
   "subtitle" : "Projects",
   "tracks" : [
     {
-      "title" : "Links",
-      "subtitle" : "Links",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Links",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Emissary of Love",
       "subtitle" : "A User's Manual for Virtue",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Emissary",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Links",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Links",
         "repo" : "kobble-data"
       }
     },
