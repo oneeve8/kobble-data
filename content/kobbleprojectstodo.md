@@ -41,7 +41,8 @@ Painters,
 Paintings,
 Slideshow top 100 paintings,
 Slideshow top 100 painters
-Crafts
+Crafts,
+Children’s Art
 
 Home and Garden Group
 
