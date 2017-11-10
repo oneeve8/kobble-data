@@ -141,7 +141,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Follow Simmy",
