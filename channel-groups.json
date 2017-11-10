@@ -157,7 +157,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "My Online Presence",
@@ -200,7 +200,7 @@
       "name" : "Personal"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble",
