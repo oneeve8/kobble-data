@@ -3,9 +3,11 @@
 
 ***
 
-Kobble Introduction, A Guide to Kobble.  
+##Kobble Introduction, A Guide to Kobble.  
 
-[Kobble In](kobble://kobble.io/channel?title=Kobble%20Introduction&subtitle=A%20Guide%20To%20Kobble&owner=oneeve8&repo=kobble-data&path=channels/Kobbleintro.json)
+[Kobble Introduction](kobble://kobble.io/channel?title=Kobble%20Introduction&subtitle=A%20Guide%20To%20Kobble&owner=oneeve8&repo=kobble-data&path=channels/Kobbleintro.json)
+***
+
 
 
 ### Channel: Great Books (work in progress)
