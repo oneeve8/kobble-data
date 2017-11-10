@@ -42,7 +42,7 @@ Paintings,
 Slideshow top 100 paintings,
 Slideshow top 100 painters
 
-Home and Family Group
+Home and Garden Grou
 
 Recipes,   
 Menus,   
@@ -65,9 +65,5 @@ Fitness Videos
 Educational Group
 
 Add Math and Science Links,
-
-Gardening
-
-
 
 Basic Knowledge Study Units
