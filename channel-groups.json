@@ -439,15 +439,6 @@
           }
         },
         {
-          "title" : "Creativity",
-          "subtitle" : "Online Drawing Tool Links",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/arttools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Art History",
           "subtitle" : "Paintings And Artists",
           "channel" : {
