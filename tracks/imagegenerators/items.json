@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.imagechef.com\/t\/n8rm\/Newspaper-Headline"
         }
       },
-      "title" : "www.imagechef.com",
+      "title" : "Image Chef",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
