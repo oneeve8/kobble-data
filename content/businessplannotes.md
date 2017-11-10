@@ -91,15 +91,15 @@ S. parkle - Gold, Silver, Copper, Metallic, Glass, Mirrors, Glitter, Neon or ver
 
 COLOR, HUE and SEASON (I need to learn more about colour theory)
 Light - Winter/Spring, White added to Pastels.  
-Pastel - Spring muted and light colours, baby blue, soft pink, peach, light yellow, lilac
-Brights - Spring colours, Fushia, Turquoise, 
-Primary - Summer colours, Blue, Red, Yellow
-Secondary - Summer/Fall colours, Purple Orange Green
-Tertiary - Fall colours, Vermillion, Amber, Chartreuse, Teal, Violet, Majenta
-Rich - Winter, Black added to Secondary or Tertiary Colours - Plum, Burgundy Red, Forest Green, Navy Blue
-Dark - Winter, Black added Navy Blue, Dark Chocolate, etc.
+Pastel - Spring muted and light colours, baby blue, soft pink, peach, light yellow, lilac.  
+Brights - Spring colours, Fushia, Turquoise,   
+Primary - Summer colours, Blue, Red, Yellow.  
+Secondary - Summer/Fall colours, Purple Orange Green.  
+Tertiary - Fall colours, Vermillion, Amber, Chartreuse, Teal, Violet, Magenta.  
+Rich - Winter, Black added to Secondary or Tertiary Colours - Plum, Burgundy Red, Forest Green, Navy Blue.  
+Dark - Winter, Black added Navy Blue, Dark Chocolate, etc.   
 
-Complimentary
+Complimentary.  
 Warm
 Cool
 Neon - Extra bright like neon lights
