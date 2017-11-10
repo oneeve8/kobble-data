@@ -123,6 +123,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.centrepompidou.fr\/"
+        }
+      },
+      "title" : "www.centrepompidou.fr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.centrepompidou.fr",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/List_of_most_visited_art_museums"
         }
       },
