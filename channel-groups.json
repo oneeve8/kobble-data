@@ -335,7 +335,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Recipes",
@@ -366,7 +366,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Home & Family"
+      "name" : "Home & Garden"
     },
     {
       "isShowing" : false,
