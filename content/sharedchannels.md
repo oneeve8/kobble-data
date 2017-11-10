@@ -28,9 +28,8 @@ A list of books written by Mark Twain, streamed archived books, audio files, a c
 ### Channels: Art & Creativity
 Curated selection of artistic tools and information links. Graphic Tools, online graphic generators, memes, images, gifs, online drawing tools, art history links, museum links.   
 
-oneeve8 would like to
-kobble://kobble.io/channel?title=Color&subtitle=Color%20Theory%20And%20Color%20Tools&owner=oneeve8&repo=kobble-data&path=channels/Color.json
 
+[Color](kobble://kobble.io/channel?title=Color&subtitle=Color%20Theory%20And%20Color%20Tools&owner=oneeve8&repo=kobble-data&path=channels/Color.json)
 
 [Graphic Tools](kobble://kobble.io/channel?title=Graphic%20Tools&subtitle=Online%20Graphic%20Generators&owner=oneeve8&repo=kobble-data&path=channels/graphictools.json)
 
