@@ -92,7 +92,7 @@
           "url" : "https:\/\/www.wikiart.org\/"
         }
       },
-      "title" : "www.wikiart.org",
+      "title" : "Wikiart",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
