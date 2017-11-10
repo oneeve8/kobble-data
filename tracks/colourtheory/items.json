@@ -41,7 +41,7 @@
           "url" : "http:\/\/www.tigercolor.com\/color-lab\/color-theory\/color-theory-intro.htm"
         }
       },
-      "title" : "www.tigercolor.com",
+      "title" : "Color Theory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
