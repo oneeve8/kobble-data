@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.wga.hu\/index1.html"
+        }
+      },
+      "title" : "www.wga.hu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.wga.hu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.khanacademy.org\/humanities\/art-history-basics\/beginners-art-history\/a\/cave-painting-contemporary-art-and-everything-in-between"
         }
       },
