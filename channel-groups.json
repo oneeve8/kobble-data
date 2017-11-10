@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Armchair Travel",
+          "subtitle" : "Online Exploration Of Places",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/armchairtravel.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Travel"
