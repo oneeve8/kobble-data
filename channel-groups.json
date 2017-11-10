@@ -20,6 +20,24 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Doctors of the Church",
+          "subtitle" : "Doctors of the Church",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Doctors-of-the-Church.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Fathers of the Church",
+          "subtitle" : "Fathers of the Church",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/fathers.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "World Prayers",
           "subtitle" : "Prayers From Around The World",
           "channel" : {
@@ -52,6 +70,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Health & Fitness"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Mark Twain",
           "subtitle" : "Study Unit",
@@ -67,31 +93,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/greatbooks.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Health & Fitness"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Doctors of the Church",
-          "subtitle" : "Doctors of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Doctors-of-the-Church.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Fathers of the Church",
-          "subtitle" : "Fathers of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/fathers.json",
             "repo" : "kobble-data"
           }
         }
