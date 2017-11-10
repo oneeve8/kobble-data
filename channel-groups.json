@@ -62,7 +62,24 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Halloween",
+          "subtitle" : "Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/halloween.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Personal & Family"
@@ -109,15 +126,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Color.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
             "repo" : "kobble-data"
           }
         },
@@ -282,15 +290,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Halloween",
-          "subtitle" : "Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/halloween.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Christmas",
           "subtitle" : "Decor",
