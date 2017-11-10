@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.louvre.fr\/en"
         }
       },
-      "title" : "www.louvre.fr",
+      "title" : "Musée Du Louvre",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
