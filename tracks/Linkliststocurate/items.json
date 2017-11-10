@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.creativebloq.com\/infographic\/tools-2131971"
+        }
+      },
+      "title" : "www.creativebloq.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.creativebloq.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
