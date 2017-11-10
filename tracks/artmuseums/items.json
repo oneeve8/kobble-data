@@ -84,6 +84,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.google.com\/culturalinstitute\/beta\/#"
+        }
+      },
+      "title" : "Google Arts & Culture",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Explore collections and stories from around the wo",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
