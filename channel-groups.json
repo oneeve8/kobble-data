@@ -300,6 +300,33 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Armchair Travel",
+          "subtitle" : "Online Exploration Of Places",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/armchairtravel.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Web Cameras",
+          "subtitle" : "Web Cameras Around The World",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/worldwebcams.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Travel Websites",
+          "subtitle" : "Popular Travel Sites",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelwebsites.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Australia & New Zealand",
           "subtitle" : "Travel Places  Down Under",
           "channel" : {
@@ -314,6 +341,42 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/travelbycountryoceana.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "South America",
+          "subtitle" : "Travel Countries In South America",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountrysouthamerica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "North America",
+          "subtitle" : "Travel Countries In North America",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryorthamerica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Africa",
+          "subtitle" : "Travel Countries In Africa",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryafrica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Europe",
+          "subtitle" : "Travel Countries In Europe",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryeurope.json",
             "repo" : "kobble-data"
           }
         },
@@ -355,69 +418,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/newslinks.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "South America",
-          "subtitle" : "Travel Countries In South America",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountrysouthamerica.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "North America",
-          "subtitle" : "Travel Countries In North America",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryorthamerica.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Africa",
-          "subtitle" : "Travel Countries In Africa",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryafrica.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Europe",
-          "subtitle" : "Travel Countries In Europe",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryeurope.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Travel Websites",
-          "subtitle" : "Popular Travel Sites",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelwebsites.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Web Cameras",
-          "subtitle" : "Web Cameras Around The World",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/worldwebcams.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Armchair Travel",
-          "subtitle" : "Online Exploration Of Places",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/armchairtravel.json",
             "repo" : "kobble-data"
           }
         }
