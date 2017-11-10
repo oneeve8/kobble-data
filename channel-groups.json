@@ -412,6 +412,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Graphic Tools",
+          "subtitle" : "Online Graphic Generators",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/graphictools.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Online Creativity",
           "subtitle" : "Memes, Images, Gifs",
           "channel" : {
