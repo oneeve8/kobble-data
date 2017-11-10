@@ -3,15 +3,6 @@
   "subtitle" : "Projects In Process",
   "tracks" : [
     {
-      "title" : "Resource Link Lists",
-      "subtitle" : "Possible Links To Check",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Resourcelinklists",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Projects",
       "subtitle" : "To Do ",
       "track" : {
