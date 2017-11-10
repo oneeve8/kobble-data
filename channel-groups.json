@@ -244,6 +244,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Home Decorating",
+          "subtitle" : "How To",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/homedecorating.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Kobble Projects",
           "subtitle" : "Projects In Process",
           "channel" : {
