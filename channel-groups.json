@@ -271,20 +271,20 @@
           }
         },
         {
-          "title" : "Test Channel",
-          "subtitle" : "Dummy Channel For Testing",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Test Channel.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Art Movements",
           "subtitle" : "Art Movements In History",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/artmovements.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Test Channel",
+          "subtitle" : "Dummy Channel For Testing",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Test Channel.json",
             "repo" : "kobble-data"
           }
         }
