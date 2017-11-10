@@ -38,11 +38,13 @@ Spiritual Group
 Virtues,   
 Prayers
 
-Art
+Art and Creativity Group
+
 Art Movements,   
 Painters,   
 Paintings
 
+Home and Family Group
 Recipes
 
 New Zealand /Travel
