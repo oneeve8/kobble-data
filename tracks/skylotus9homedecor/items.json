@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/stylecaster.com\/home-decor-prints-and-patterns-glossary\/#slide-17"
+        }
+      },
+      "title" : "stylecaster.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "stylecaster.com",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
