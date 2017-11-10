@@ -157,7 +157,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "My Online Presence",
