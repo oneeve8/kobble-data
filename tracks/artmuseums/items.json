@@ -55,6 +55,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.musee-orsay.fr\/fr\/evenements\/spectacles\/presentation-generale\/article\/a-la-barre-de-degas-47012.html?tx_ttnews%5BbackPid%5D=217&cHash=5b52e7fca7"
+        }
+      },
+      "title" : "www.musee-orsay.fr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.musee-orsay.fr",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.museivaticani.va\/content\/museivaticani\/en.html"
         }
       },
