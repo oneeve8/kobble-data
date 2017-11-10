@@ -164,6 +164,15 @@
             "path" : "channels\/Kobbleintro.json",
             "repo" : "kobble-data"
           }
+        },
+        {
+          "title" : "Test Channel",
+          "subtitle" : "Dummy Channel For Testing",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Test Channel.json",
+            "repo" : "kobble-data"
+          }
         }
       ],
       "isToggled" : false,
@@ -205,15 +214,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Art.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Test Channel",
-          "subtitle" : "Dummy Channel For Testing",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Test Channel.json",
             "repo" : "kobble-data"
           }
         }
