@@ -2,6 +2,27 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/howtodecorate.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Decorating",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "How To",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "http:\/\/stylecaster.com\/home-decor-prints-and-patterns-glossary\/#slide-17"
