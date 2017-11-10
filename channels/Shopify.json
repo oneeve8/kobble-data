@@ -39,29 +39,11 @@
       }
     },
     {
-      "title" : "Gadgets",
-      "subtitle" : "Electronics, Technology, Gadgets",
+      "title" : "Dining",
+      "subtitle" : "Table Linens, Utensils, Dishware",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/shopifygadgets",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Wardrobe Capsule",
-      "subtitle" : "Clothing And Clothing Basics",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/shopifycapsule",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Children’s",
-      "subtitle" : "Children’s Decor And Toys",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/shopifychildrens",
+        "path" : "tracks\/shopifydining",
         "repo" : "kobble-data"
       }
     },
@@ -75,20 +57,11 @@
       }
     },
     {
-      "title" : "Holiday Decor",
-      "subtitle" : "Christmas, Holidays And Special Events",
+      "title" : "Bedroom",
+      "subtitle" : "Linens And Things",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/shopifyholiday",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Dining",
-      "subtitle" : "Table Linens, Utensils, Dishware",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/shopifydining",
+        "path" : "tracks\/shopifybedroom",
         "repo" : "kobble-data"
       }
     },
@@ -102,11 +75,38 @@
       }
     },
     {
-      "title" : "Bedroom",
-      "subtitle" : "Linens And Things",
+      "title" : "Children’s",
+      "subtitle" : "Children’s Decor And Toys",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/shopifybedroom",
+        "path" : "tracks\/shopifychildrens",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Gadgets",
+      "subtitle" : "Electronics, Technology, Gadgets",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifygadgets",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Holiday Decor",
+      "subtitle" : "Christmas, Holidays And Special Events",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifyholiday",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Wardrobe Capsule",
+      "subtitle" : "Clothing And Clothing Basics",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifycapsule",
         "repo" : "kobble-data"
       }
     }
