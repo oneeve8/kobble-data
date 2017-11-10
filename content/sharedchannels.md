@@ -23,7 +23,6 @@ A curated selection of artistic tools and information links. Graphic tools, onli
 
 [Online Creativity](kobble://kobble.io/channel?title=Online%20Creativity&subtitle=Memes,%20Images,%20Gifs,%20Art%20Tools&owner=oneeve8&repo=kobble-data&path=channels/Coolonlinetools.json)
 
-
 [Art History](kobble://kobble.io/channel?title=Art%20History&subtitle=Paintings%20And%20Artists&owner=oneeve8&repo=kobble-data&path=channels/Art.json)
 
 [Art Museums](kobble://kobble.io/channel?title=Art%20Museums&subtitle=Art%20Museums&owner=oneeve8&repo=kobble-data&path=channels/artmuseums.json)
@@ -45,6 +44,7 @@ A list of the Great Books with streamed archived books, audio files, and cliff n
 ***
 
 ### Channel: Mark Twain Study Unit (work in progress, need to finish slideshow and study notes, maybe a study question quiz)
+
 A list of books written by Mark Twain, streamed archived books, audio files, a class presentation and notes
 
 [Mark Twain](kobble://kobble.io/channel?title=Mark%20Twain&subtitle=Study%20Unit&owner=oneeve8&repo=kobble-data&path=channels/marktwain2.json)
