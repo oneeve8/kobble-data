@@ -3,15 +3,6 @@
   "subtitle" : "My Shopify Store",
   "tracks" : [
     {
-      "title" : "Shopify Tutorials",
-      "subtitle" : "How To Videos And Instructions",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Shopifytutorials",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Business And Marketing",
       "subtitle" : "Plan",
       "track" : {
