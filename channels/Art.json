@@ -3,15 +3,6 @@
   "subtitle" : "Paintings And Artists",
   "tracks" : [
     {
-      "title" : "Creative Art ",
-      "subtitle" : "Tools Online",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/creativetools",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Impressionism",
       "subtitle" : "Painters",
       "track" : {
