@@ -3,20 +3,29 @@
   "subtitle" : "My Shopify Store",
   "tracks" : [
     {
-      "title" : "Garden",
-      "subtitle" : "Tools, Decorations",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/shopifygarden",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Shopify Tutorials",
       "subtitle" : "How To Videos And Instructions",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Shopifytutorials",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Entry",
+      "subtitle" : "Organizers, Mirrors, Key Holders, Shoe Racks",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifyentry",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Garden",
+      "subtitle" : "Tools, Decorations",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifygarden",
         "repo" : "kobble-data"
       }
     },
