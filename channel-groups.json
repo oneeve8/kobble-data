@@ -244,6 +244,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Link Lists ",
           "subtitle" : "To Curate",
           "channel" : {
@@ -258,15 +267,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/artlessons.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
             "repo" : "kobble-data"
           }
         },
