@@ -75,7 +75,7 @@
           "url" : "https:\/\/threejs.org\/editor\/"
         }
       },
-      "title" : "threejs.org",
+      "title" : "Create 3D Images",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
