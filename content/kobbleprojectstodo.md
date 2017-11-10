@@ -35,11 +35,12 @@ Prayers from around the world
 
 Spiritual Group
 
-Virtues.  
-Prayers.  
+Virtues,   
+Prayers
 
+Art
 Art Movements,   
-Painters.  
+Painters,   
 Paintings
 
 Recipes
