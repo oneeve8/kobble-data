@@ -41,7 +41,7 @@
           "url" : "http:\/\/avatarmaker.com\/"
         }
       },
-      "title" : "avatarmaker.com",
+      "title" : "Avatar Maker",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
