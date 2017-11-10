@@ -75,3 +75,6 @@ Add Math and Science Links,
 Basic Knowledge Study Units
 
 Add a Shopping Channel
+
+News Channel
+
