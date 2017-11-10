@@ -42,8 +42,8 @@ Art and Creativity Group
 
 Art Movements,   
 Painters,   
-Paini
-Slideshow top 100 paintings
+Paintings,
+Slideshow top 100 paintings,
 Slideshow top 100 painters
 
 Home and Family Group
@@ -64,6 +64,7 @@ Fitness and Health Group
 Herbal Remedies,
 WebMD,
 
+Educational
 
 Gardening
 
