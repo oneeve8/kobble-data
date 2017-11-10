@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.britishmuseum.org\/"
         }
       },
-      "title" : "www.britishmuseum.org",
+      "title" : "The British Museum, London UK",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
