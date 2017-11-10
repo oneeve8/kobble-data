@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Africa",
+          "subtitle" : "Travel Countries In Africa",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryafrica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Travel By Country",
           "subtitle" : "Europe",
           "channel" : {
