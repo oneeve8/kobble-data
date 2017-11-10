@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Doctors of the Church",
@@ -51,7 +51,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Creativity",
@@ -76,7 +76,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sky Lotus 9",
@@ -146,7 +146,7 @@
       "name" : "Personal"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Recipes",
@@ -162,7 +162,7 @@
       "name" : "Home & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Sports",
