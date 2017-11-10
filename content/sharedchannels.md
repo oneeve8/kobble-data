@@ -43,6 +43,8 @@ Curated selection of artistic tools and information links. Graphic Tools, online
 
 Track: Rosary
 
+Instructions
+
 [Rosary](kobble://kobble.io/track?title=Pray%20the%20Rosary&subtitle=The%20Mysteries%20Of%20The%20Rosary&owner=oneeve8&repo=kobble-data&path=tracks/Joyful-Mysteries)
 ***
 
