@@ -1,6 +1,6 @@
 {
   "title" : "Creativity",
-  "subtitle" : "Online Creative Tool Links",
+  "subtitle" : "Online Drawing Tool Links",
   "tracks" : [
     {
       "title" : "Colour",
@@ -8,15 +8,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/colourtheory",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Creative Art ",
-      "subtitle" : "Tools Online",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/creativetools",
         "repo" : "kobble-data"
       }
     }
