@@ -89,14 +89,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/paletton.com\/#uid=1000u0kllllaFw0g0qFqFg0w0aF"
+          "url" : "http:\/\/www.tigercolor.com\/color-lab\/color-theory\/color-theory-intro.htm"
         }
       },
-      "title" : "paletton.com",
+      "title" : "www.tigercolor.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "paletton.com",
+      "subtitle" : "www.tigercolor.com",
       "expanded" : true,
       "children" : [
 
