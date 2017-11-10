@@ -99,10 +99,14 @@ Tertiary - Fall colours, Vermillion, Amber, Chartreuse, Teal, Violet, Magenta.
 Rich - Winter, Black added to Secondary or Tertiary Colours - Plum, Burgundy Red, Forest Green, Navy Blue.  
 Dark - Winter, Black added Navy Blue, Dark Chocolate, etc.   
 
-Complimentary.  
+Complimentary
+
 Warm
+
 Cool
+
 Neon - Extra bright like neon lights
+
 Neutral - White, Beige, Black
 
 Steps:
