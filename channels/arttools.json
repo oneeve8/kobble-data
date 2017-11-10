@@ -2,14 +2,6 @@
   "title" : "Creativity",
   "subtitle" : "Online Drawing Tool Links",
   "tracks" : [
-    {
-      "title" : "Colour",
-      "subtitle" : "Colour Theory and Tools",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/colourtheory",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
