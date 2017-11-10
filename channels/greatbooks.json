@@ -3,24 +3,6 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
-      "title" : "Test2",
-      "subtitle" : "Test2",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/test2",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Test1",
-      "subtitle" : "Test1",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/test1",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
