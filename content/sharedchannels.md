@@ -3,6 +3,9 @@
 
 ***
 
+Kobble Introduction, A 
+kobble://kobble.io/channel?title=Kobble%20Introduction&subtitle=A%20Guide%20To%20Kobble&owner=oneeve8&repo=kobble-data&path=channels/Kobbleintro.json
+
 ### Channel: Great Books (work in progress)
 A list of the Great Books with streamed archived books, audio files, and cliff notes
 
