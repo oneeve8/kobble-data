@@ -53,15 +53,15 @@ TURN because you are turning things into something new, giving things a second c
 T. oss - If you have not used it, either give it away, or throw it away.  
 U. pcycle - Things needing your time or talent... can you fix it? Can you make it more useful? Can you craft it into something new?   
 R. epurpose - Things not requiring your time that you hadn’t used for its intended purpose, but that could be easily used for another purpose.  
-N. eed - Things that you definitely want to keep, they serve their purpose, and you definitely use it sometimes or every day.
+N. eed - Things that you definitely want to keep, they serve their purpose, and you definitely use it sometimes or every day.   
 
-Organize: Placement, Interest, Necessity, Storage (PINS)
-PINS because you are pinning it down to the essentials
+Organize: Placement, Interest, Necessity, Storage (PINS).  
+PINS because you are pinning it down to the essentials.  
 
-P. lacement- Everything in its place and a place for everything
-I. nterest - Keep items where they are used and needed
-N. ecessity - Keep things that are needed handy
-S. torage - Use excellent storage solutions
+P. lacement- Everything in its place and a place for everything.  
+I. nterest - Keep items where they are used and needed.  
+N. ecessity - Keep things that are needed handy.  
+S. torage - Use excellent storage solutions.  
 
 Arrange: Furniture, Form, Function, Flair (four Fs) 
 Fs Because you are fabulous?
