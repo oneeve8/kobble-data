@@ -58,7 +58,8 @@ Travel Group
 Maui,
 New Zealand,
 Webcams,
-Armchair Travel
+Armchair Travel,
+Itineraries
 
 Fitness and Health Group
 
