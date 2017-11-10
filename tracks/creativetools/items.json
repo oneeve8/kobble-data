@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.happydaric.com\/lite-brite\/index.html"
         }
       },
-      "title" : "www.happydaric.com",
+      "title" : "Lite Brite",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
