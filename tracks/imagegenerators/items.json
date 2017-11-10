@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.imagechef.com\/t\/n8rm\/Newspaper-Headline"
         }
       },
-      "title" : "Image Chef",
+      "title" : "Image Chef Newspaper",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.imagechef.com\/meme-maker\/"
         }
       },
-      "title" : "Image Chef",
+      "title" : "Image Chef Meme Generator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
