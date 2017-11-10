@@ -123,23 +123,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.nga.gov\/"
-        }
-      },
-      "title" : "National Gallery Of Art, Washington D.C.",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.nga.gov",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.centrepompidou.fr\/"
         }
       },
@@ -194,7 +177,7 @@
           "url" : "https:\/\/www.guggenheim.org\/artwork\/movement\/abstract-expressionism"
         }
       },
-      "title" : "www.guggenheim.org",
+      "title" : "The Guggenheim",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
