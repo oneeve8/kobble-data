@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/thehustleneverends.com\/"
+        }
+      },
+      "title" : "The Hustle Never Ends- Through The Eyes ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Web design tutorials to help with your online hust",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=YIPzaBN3s68"
         }
       },
