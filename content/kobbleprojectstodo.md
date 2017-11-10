@@ -51,10 +51,11 @@ Menus,
 Grocery Lists,   
 Meal Plan
 
-Travel
+Travel Group
 
-
-New Zealand /Travel
+Maui,
+New Zealand,
+Web
 
 Fitness
 
