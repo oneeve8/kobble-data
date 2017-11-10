@@ -3,6 +3,15 @@
   "subtitle" : "My Shopify Store",
   "tracks" : [
     {
+      "title" : "Wardrobe Capsule",
+      "subtitle" : "Clothing And Clothing Basics",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/shopifycapsule",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Children’s",
       "subtitle" : "Children’s Decor And Toys",
       "track" : {
