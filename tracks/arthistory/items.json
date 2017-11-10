@@ -24,7 +24,7 @@
           "url" : "https:\/\/www.wga.hu\/index1.html"
         }
       },
-      "title" : "www.wga.hu",
+      "title" : "Web Gallery Of Art",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
