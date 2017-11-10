@@ -2,6 +2,14 @@
   "title" : "Color",
   "subtitle" : "Color Theory And Color Tools",
   "tracks" : [
-
+    {
+      "title" : "Colour",
+      "subtitle" : "Colour Theory and Tools",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/colourtheory",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
