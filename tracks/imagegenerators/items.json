@@ -58,7 +58,7 @@
           "url" : "https:\/\/makeameme.org\/"
         }
       },
-      "title" : "makeameme.org",
+      "title" : "Makeameme",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -75,7 +75,7 @@
           "url" : "http:\/\/memedad.com\/"
         }
       },
-      "title" : "memedad.com",
+      "title" : "Memedad",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
