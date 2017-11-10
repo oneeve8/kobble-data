@@ -42,7 +42,8 @@ Paintings,
 Slideshow top 100 paintings,
 Slideshow top 100 painters
 Crafts,
-Children’s Art
+Children’s Art,
+Public Domain images
 
 Home and Garden Group
 
