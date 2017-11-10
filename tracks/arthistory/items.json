@@ -24,11 +24,11 @@
           "url" : "https:\/\/www.khanacademy.org\/humanities\/art-history-basics\/beginners-art-history\/a\/cave-painting-contemporary-art-and-everything-in-between"
         }
       },
-      "title" : "Khan Academy",
+      "title" : "Smarthistory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Learn for free about math, art, computer programmi",
+      "subtitle" : "Khan Academy",
       "expanded" : true,
       "children" : [
 
