@@ -23,11 +23,11 @@ Find more Audio books
 
 ***
 
-### Rosary
+### Prayer Channel
 
-Add Images to slideshow
+Catholic Prayers
 
-Add to shared channel
+Prayers from around the world
 
 ***
 
