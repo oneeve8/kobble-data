@@ -81,6 +81,15 @@
           }
         },
         {
+          "title" : "Christmas",
+          "subtitle" : "Decor",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasdecor.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Halloween",
           "subtitle" : "Decorating",
           "channel" : {
@@ -241,15 +250,6 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Business Plan",
           "subtitle" : "Ideas For Marketing And Advertising Concept",
           "channel" : {
@@ -283,7 +283,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Sports",
+          "subtitle" : "Sports",
+          "channel" : {
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Sports News"
@@ -325,15 +333,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Links"
