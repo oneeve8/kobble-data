@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Travel By Country",
+          "subtitle" : "Europe",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryeurope.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Travel Websites",
           "subtitle" : "Popular Travel Sites",
           "channel" : {
