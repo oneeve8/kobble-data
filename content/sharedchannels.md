@@ -40,7 +40,7 @@ kobble://kobble.io/channel?title=Online%20Creativity&subtitle=Memes,%20Images,%2
 oneeve8 would like to share a channel.
 kobble://kobble.io/channel?title=Art%20History&subtitle=Paintings%20And%20Artists&owner=oneeve8&repo=kobble-data&path=channels/Art.json
 
-Art
+[Art Museums
 kobble://kobble.io/channel?title=Art%20Museums&subtitle=Art%20Museums&owner=oneeve8&repo=kobble-data&path=channels/artmuseums.json)
 ***
 
