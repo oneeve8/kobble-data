@@ -225,23 +225,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.artsonia.com\/"
-        }
-      },
-      "title" : "Online Children’s Museum",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.artsonia.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.rijksmuseum.nl\/nl\/zoeken?ii=0&p=1"
         }
       },
@@ -259,10 +242,27 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.artsonia.com\/"
+        }
+      },
+      "title" : "Online Children’s Museum",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.artsonia.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.artcyclopedia.com\/museums.html"
         }
       },
-      "title" : "Online Children’s Art Museum",
+      "title" : "ArtCyclopedia",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
