@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.artyfactory.com\/color_theory\/color_theory.htm"
         }
       },
-      "title" : "Arty Factory Color Theory",
+      "title" : "Color Theory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "https:\/\/www.colormatters.com\/color-and-design\/basic-color-theory"
         }
       },
-      "title" : "www.colormatters.com",
+      "title" : "Color Theory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
