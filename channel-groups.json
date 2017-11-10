@@ -221,15 +221,6 @@
           }
         },
         {
-          "title" : "Art Movements",
-          "subtitle" : "Art Movements In History",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artmovements.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Art Museums",
           "subtitle" : "Art Museums",
           "channel" : {
@@ -385,6 +376,15 @@
             "owner" : "kobble-git",
             "path" : "channels\/kobble.json",
             "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Art Movements",
+          "subtitle" : "Art Movements In History",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artmovements.json",
+            "repo" : "kobble-data"
           }
         },
         {
