@@ -7,7 +7,7 @@
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/List_of_most_visited_art_museums"
         }
       },
-      "title" : "List Of Museums",
+      "title" : "List Of Art Museums",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
