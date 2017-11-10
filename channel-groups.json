@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Asia",
+          "subtitle" : "Travel Countries In Asia",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryasia.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "South America",
           "subtitle" : "Travel Countries In South America",
           "channel" : {
