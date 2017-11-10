@@ -97,6 +97,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Art Museums",
+          "subtitle" : "Art Museums",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artmuseums.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Creativity",
           "subtitle" : "Online Creative Tools",
           "channel" : {
