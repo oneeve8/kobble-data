@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.artyfactory.com\/color_theory\/color_theory.htm"
         }
       },
-      "title" : "www.artyfactory.com",
+      "title" : "Arty Factory Color Theory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
