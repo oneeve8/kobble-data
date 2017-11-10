@@ -25,7 +25,7 @@ A list of books written by Mark Twain, streamed archived books, audio files, a c
 [Mark Twain](kobble://kobble.io/channel?title=Mark%20Twain&subtitle=Study%20Unit&owner=oneeve8&repo=kobble-data&path=channels/marktwain2.json)
 ***
 
-### Channel: Art & Creativity
+### Channels: Art & Creativity
 Curated selection of artistic tools and information links. Graphic Tools, online graphic generators, memes, images, gifs, online drawing tools, art history links, museum links
 ***
 
