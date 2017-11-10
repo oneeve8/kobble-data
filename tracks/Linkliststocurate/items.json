@@ -4,6 +4,40 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/vos.ucsb.edu\/browse.asp?id=3404"
+        }
+      },
+      "title" : "Art History Resource Links",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "vos.ucsb.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/arthistoryresources.net\/ARTHLinks.html"
+        }
+      },
+      "title" : "Art History Resource Links",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "arthistoryresources.net",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/perishablepress.com\/30-online-drawing-tools\/"
         }
       },
