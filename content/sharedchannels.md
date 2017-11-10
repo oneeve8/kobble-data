@@ -41,7 +41,7 @@ Curated selection of artistic tools and information links. Graphic Tools, online
 [Art Museums](kobble://kobble.io/channel?title=Art%20Museums&subtitle=Art%20Museums&owner=oneeve8&repo=kobble-data&path=channels/artmuseums.json)
 ***
 
-Track: Rosary
+### Track: Rosary
 
 Instructions on how to pray the rosary, guided slideshow meditation prayers through all four mysteries, with images.
 
