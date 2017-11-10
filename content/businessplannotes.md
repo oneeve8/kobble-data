@@ -69,19 +69,19 @@ Fs Because you are fabulous?
 Furniture - The best pieces, and the best placement of your furniture for the size and shape of the room.  
 Form - Arranging according to rules of style (rule of 3s, the height of pictures at eye level, aesthetic arrangement of pictures on a wall).  
 Function - Placement of furniture and decor items according to the function of that piece.  
-Flair - Adding your personal style to your decor and its arrangement. 
+Flair - Adding your personal style to your decor and its arrangement.  
 
 FINDING STYLE:
 
-Style: Setting, Personality, Lifestyle, Accentuate, Stuff, Heritage (SPLASH)
-SPLASH because you are making a splash with your awesome style!
+Style: Setting, Personality, Lifestyle, Accentuate, Stuff, Heritage (SPLASH).  
+SPLASH because you are making a splash with your awesome style!   
 
-S. etting- MAPS Mountains, Arid Deserts, Plains, Seaside
-P. ersonality - MEET Modern, Earthy, Eccentric, Traditional
-L. ifestyle - PART - Provincial (Rural family house), Apartment (space constrained, or temporary), Rustic (Farm life, or very casual), Town (City Life)
-A. ccentuate - TIPS - Texture, Interest, Pattern, Sparkle 
-S. tuff - MESS - Minimalist, Ecclectic, Simple, Special (a hobby or interest collection)
-H. eritage: (Optional, ie Asian, Japanese, German, French, etc.)
+S. etting- MAPS Mountains, Arid Deserts, Plains, Seaside.  
+P. ersonality - MEET Modern, Earthy, Eccentric, Traditional.  
+L. ifestyle - PART - Provincial (Rural family house), Apartment (space constrained, or temporary), Rustic (Farm life, or very casual), Town (City Life).  
+A. ccentuate - TIPS - Texture, Interest, Pattern, Sparkle.  
+S. tuff - MESS - Minimalist, Ecclectic, Simple, Special (a hobby or interest collection).  
+H. eritage: (Optional, ie Asian, Japanese, German, French, etc.).  
 
 More on Accentuate:
 T. extures- soft (fur, faux fur, silky, rough like sisal, wood, smooth metal etc.)
