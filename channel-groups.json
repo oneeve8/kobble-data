@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Australia & New Zealand",
+          "subtitle" : "Travel Places  Down Under",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryaustralianz.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Oceana",
           "subtitle" : "Travel Countries In Oceana",
           "channel" : {
