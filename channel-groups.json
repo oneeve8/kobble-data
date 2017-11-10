@@ -6,57 +6,7 @@
 
       ],
       "isToggled" : false,
-      "name" : "Health"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
-          "channel" : {
-            "owner" : "kobble-git",
-            "path" : "channels\/kobble.json",
-            "repo" : "kobble-data-common"
-          }
-        },
-        {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Work"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Mark Twain",
-          "subtitle" : "Study Unit",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/marktwain2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Great Books",
-          "subtitle" : "Great Book Classics",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/greatbooks.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Educational"
+      "name" : "Personal & Family"
     },
     {
       "isShowing" : false,
@@ -102,7 +52,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "My Online Presence",
@@ -143,6 +93,64 @@
       ],
       "isToggled" : false,
       "name" : "Personal"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Mark Twain",
+          "subtitle" : "Study Unit",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/marktwain2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Great Books",
+          "subtitle" : "Great Book Classics",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooks.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Educational"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Health"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
+          "channel" : {
+            "owner" : "kobble-git",
+            "path" : "channels\/kobble.json",
+            "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Kobbleintro.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Work"
     },
     {
       "isShowing" : true,
