@@ -7,7 +7,7 @@
           "url" : "https:\/\/www.fodey.com\/generators\/newspaper\/snippet.asp"
         }
       },
-      "title" : "www.fodey.com",
+      "title" : "Newspaper Clipping Generator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
