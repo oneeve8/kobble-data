@@ -1,7 +1,7 @@
 # Business Plan
 ## 
 
-On Friday, November 10, 2017, Simone Donahue <simoneeved@gmail.com> wrote:
+
 Hi, Here is some stuff I’ve been thinking of / notes regarding Skylotus
 
 Free Trial/ $29 per month after that for
