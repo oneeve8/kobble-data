@@ -79,7 +79,7 @@ SPLASH because you are making a splash with your awesome style!
 S. etting- MAPS Mountains, Arid Deserts, Plains, Seaside.  
 P. ersonality - MEET Modern, Earthy, Eccentric, Traditional.  
 L. ifestyle - PART - Provincial (Rural family house), Apartment (space constrained, or temporary), Rustic (Farm life, or very casual), Town (City Life).  
-A. ccentuate - TIPS - Texture, Interest, Pattern, Sparkle.  
+A. ccentuate - TIPS - Texture, Inspiration, Pattern, Sparkle.  
 S. tuff - MESS - Minimalist, Ecclectic, Simple, Special (a hobby or interest collection).  
 H. eritage: (Optional, ie Asian, Japanese, German, French, etc.).  
 
