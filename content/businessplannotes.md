@@ -66,10 +66,10 @@ S. torage - Use excellent storage solutions.
 Arrange: Furniture, Form, Function, Flair (four Fs) 
 Fs Because you are fabulous?
 
-Furniture - The best pieces, and the best placement of your furniture for the size and shape of the room
-Form - Arranging according to rules of style (rule of 3s, the height of pictures at eye level, aesthetic arrangement of pictures on a wall)
-Function - Placement of furniture and decor items according to the function of that piece
-Flair - Adding your personal style to your decor and its arrangement
+Furniture - The best pieces, and the best placement of your furniture for the size and shape of the room.  
+Form - Arranging according to rules of style (rule of 3s, the height of pictures at eye level, aesthetic arrangement of pictures on a wall).  
+Function - Placement of furniture and decor items according to the function of that piece.  
+Flair - Adding your personal style to your decor and its arrangement. 
 
 FINDING STYLE:
 
