@@ -369,7 +369,7 @@
       "name" : "Home & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Sports",
