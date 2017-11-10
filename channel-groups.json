@@ -1,6 +1,22 @@
 {
   "groups" : [
     {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Shopify",
+          "subtitle" : "My Shopify Store",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shopify.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Skylotus9"
+    },
+    {
       "isShowing" : false,
       "channels" : [
         {
@@ -93,15 +109,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Todolist.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Shopify",
-          "subtitle" : "My Shopify Store",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shopify.json",
             "repo" : "kobble-data"
           }
         },
