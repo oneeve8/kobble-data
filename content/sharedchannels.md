@@ -17,7 +17,7 @@ A list of books written by Mark Twain, streamed archived books, audio files, a c
 ***
 
 ### Channel: Art & Creativity
-Graphic Tools, Online graphic generators, memes, images, gifs, online drawing tools, art history
+Curated selection of Graphic Tools, online graphic generators, memes, images, gifs, online drawing tools, art history links, museum links
 ***
 
 Track: Rosary
