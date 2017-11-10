@@ -1,5 +1,38 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/arthistoryresources.net\/ARTHLinks.html"
+        }
+      },
+      "title" : "arthistoryresources.net",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "arthistoryresources.net",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/vos.ucsb.edu\/browse.asp?id=3404"
+        }
+      },
+      "title" : "vos.ucsb.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "vos.ucsb.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
