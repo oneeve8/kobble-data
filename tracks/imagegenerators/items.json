@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/giphy.com\/create\/gifmaker"
+        }
+      },
+      "title" : "Giphy",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Fast and easy GIF creation. Create animated GIFs f",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.imagechef.com\/t\/n8rm\/Newspaper-Headline"
         }
       },
