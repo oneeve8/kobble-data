@@ -2,6 +2,23 @@
   "title" : "Art Movements",
   "subtitle" : "Art Movements In History",
   "tracks" : [
-
+    {
+      "title" : "Impressionism",
+      "subtitle" : "Famous Impressionist Artists",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/impressionism",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Impressionism",
+      "subtitle" : "Famous Impressionist Paintings",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Impressionism",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
