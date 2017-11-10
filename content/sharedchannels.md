@@ -38,7 +38,7 @@ Instructions on how to pray the rosary, guided slideshow meditation prayers thro
 
 ## Work in Progress
 
-### Channel: Great Books (Work in 
+### Channel: Great Books (Work in Progress, still adding archived books)
 A list of the Great Books with streamed archived books, audio files, and cliff notes
 
 [Great Books](kobble://kobble.io/channel?title=Great%20Books&subtitle=Great%20Book%20Classics&owner=oneeve8&repo=kobble-data&path=channels/greatbooks.json)
