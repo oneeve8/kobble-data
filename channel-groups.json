@@ -387,6 +387,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Business Plan",
+          "subtitle" : "Ideas For Marketing And Advertising Concept",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9businessplan.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Shopify",
           "subtitle" : "My Shopify Store",
           "channel" : {
