@@ -11,7 +11,24 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Doctors of the Church",
+          "subtitle" : "Doctors of the Church",
+          "channel" : {
+            "owner" : "catholic-place",
+            "path" : "channels\/Doctors-of-the-Church.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Home & Family"
@@ -236,17 +253,9 @@
       "name" : "Work"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
-        {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Channels"
