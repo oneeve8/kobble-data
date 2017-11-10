@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "North America",
+          "subtitle" : "Travel Countries In North America",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryorthamerica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Africa",
           "subtitle" : "Travel Countries In Africa",
           "channel" : {
