@@ -45,7 +45,7 @@ Ideas to help people style their home:
 Getting Started: Simplify, Organize, Arrange.... Renew (acronym spells SOAR)
 SOAR because getting things simple, organised and arranged in a way that inspires you, helps you to get settled in your nest and yet inspires you to fly to new heights with your creativity and productivity.
 
- (Add *renew* because after arranging, we always want to rearrange or add some thing new so we do nget bored. Sorry if I’m throwing a monkey wrench into your simplicity of the 3)
+ (Add *renew* because after arranging, we always want to rearrange or add some thing new so we do not get bored. Sorry if I am throwing a monkey wrench into your simplicity of the 3)
 
 Simplify: Toss, Upcycle, Repurpose, Need (TURN)
 TURN because you are turning things into something new, giving things a second chance, or turning it away
