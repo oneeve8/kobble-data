@@ -32,13 +32,12 @@ Instructions on how to pray the rosary, guided slideshow meditation prayers thro
 [Rosary](kobble://kobble.io/track?title=Pray%20the%20Rosary&subtitle=The%20Mysteries%20Of%20The%20Rosary&owner=oneeve8&repo=kobble-data&path=tracks/Joyful-Mysteries)
 ***
 
-## Work in Progress
+## Works in Progress
 
 ### Channel: Great Books (Work in Progress, still adding archived books)
 A list of the Great Books with streamed archived books, audio files, and cliff notes
 
 [Great Books](kobble://kobble.io/channel?title=Great%20Books&subtitle=Great%20Book%20Classics&owner=oneeve8&repo=kobble-data&path=channels/greatbooks.json)
-***
 
 ### Channel: Mark Twain Study Unit (work in progress, need to finish slideshow and study notes, maybe a study question quiz)
 
