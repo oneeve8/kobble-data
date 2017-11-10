@@ -41,7 +41,7 @@
           "url" : "http:\/\/tholman.com\/beautiful-curves\/"
         }
       },
-      "title" : "tholman.com",
+      "title" : "Beautiful Curves",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.coloring.com\/online\/kl-earthday2"
         }
       },
-      "title" : "www.coloring.com",
+      "title" : "Colouring Pages",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
