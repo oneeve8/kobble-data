@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.canva.com\/create\/infographics\/"
+        }
+      },
+      "title" : "Free Online Infographic Maker by Canva",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Design awesome infographics that go viral with Can",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/avatarmaker.com\/"
         }
       },
