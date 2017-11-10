@@ -21,10 +21,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.tuxpi.com\/photo-effects\/star-mask"
+          "url" : "https:\/\/www.tuxpi.com\/"
         }
       },
-      "title" : "Photo Mask - Stars",
+      "title" : "Image Editing",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
