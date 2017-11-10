@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/playsofsophocles00sophiala"
+          "url" : "https:\/\/archive.org\/stream\/herodotus00herouoft"
         }
       },
-      "title" : "Sophocles",
+      "title" : "Herodotus ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Plays",
+      "subtitle" : "History Volume 1",
       "expanded" : true,
       "children" : [
 
