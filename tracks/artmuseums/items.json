@@ -55,6 +55,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.artsonia.com\/"
+        }
+      },
+      "title" : "www.artsonia.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.artsonia.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.artcyclopedia.com\/museums.html"
         }
       },
