@@ -84,13 +84,13 @@ S. tuff - MESS - Minimalist, Ecclectic, Simple, Special (a hobby or interest col
 H. eritage: (Optional, ie Asian, Japanese, German, French, etc.).  
 
 More on Accentuate:
-T. extures- soft (fur, faux fur, silky, rough like sisal, wood, smooth metal etc.)
-I. nterest- items that draw attention, something hand made, brings memories, sentimental value, a special gift from someone
-P. attern - Floral, Paisley, Stripes, Plaid, Mandala, Geometric, Plain, Polkadot, Chevron
-S. parkle - Gold, Silver, Copper, Metallic, Glass, Mirrors, Glitter, Neon or very bright pop of colour
+T. extures- soft (fur, faux fur, silky, rough like sisal, wood, smooth metal etc.).  
+I. nterest- items that draw attention, something hand made, brings memories, sentimental value, a special gift from someone.  
+P. attern - Floral, Paisley, Stripes, Plaid, Mandala, Geometric, Plain, Polkadot, Chevron.  
+S. parkle - Gold, Silver, Copper, Metallic, Glass, Mirrors, Glitter, Neon or very bright pop of colour.  
 
 COLOR, HUE and SEASON (I need to learn more about colour theory)
-Light - Winter/Spring, White added to Pastels 
+Light - Winter/Spring, White added to Pastels.  
 Pastel - Spring muted and light colours, baby blue, soft pink, peach, light yellow, lilac
 Brights - Spring colours, Fushia, Turquoise, 
 Primary - Summer colours, Blue, Red, Yellow
