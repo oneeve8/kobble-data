@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.easel.ly\/"
+        }
+      },
+      "title" : "www.easel.ly",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.easel.ly",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
