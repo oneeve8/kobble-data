@@ -7,7 +7,7 @@
           "url" : "http:\/\/gardenofpraise.com\/art.htm"
         }
       },
-      "title" : "gardenofpraise.com",
+      "title" : "Garden Of Praise",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.askart.com\/"
         }
       },
-      "title" : "www.askart.com",
+      "title" : "Ask Art",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
