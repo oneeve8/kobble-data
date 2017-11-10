@@ -42,23 +42,23 @@ Paintings,
 Slideshow top 100 paintings,   
 Slideshow top 100 painters,   
 Crafts,   
-Children’s Art,   
+Children’s Art projects,   
 Public Domain images
 
 Home and Garden Group
 
-Change Family to Garden,
+Change Family to Garden,   
 Recipes,   
 Menus,   
 Grocery Lists,   
-Meal Plan,
+Meal Plan,   
 Gardening Links
 
 Travel Group
 
-Maui,
-New Zealand,
-Webcams,
+Maui,   
+New Zealand,   
+Webcams,   
 Armchair Travel,
 Itineraries
 
