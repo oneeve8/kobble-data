@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Follow Simmy",
@@ -17,7 +17,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Doctors of the Church",
@@ -60,7 +60,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "To Do List",
@@ -121,7 +121,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -475,11 +475,11 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Channel 3",
-          "subtitle" : "Channel 3",
+          "title" : "Channel 1",
+          "subtitle" : "Channel 1",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest3.json",
+            "path" : "channels\/channelgrouptest1.json",
             "repo" : "kobble-data"
           }
         },
@@ -493,11 +493,11 @@
           }
         },
         {
-          "title" : "Channel 1",
-          "subtitle" : "Channel 1",
+          "title" : "Channel 3",
+          "subtitle" : "Channel 3",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest1.json",
+            "path" : "channels\/channelgrouptest3.json",
             "repo" : "kobble-data"
           }
         }
