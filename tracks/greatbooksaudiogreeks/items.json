@@ -152,6 +152,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/aeneid_0810_librivox1"
+        }
+      },
+      "title" : "The Aeneid, translated by John Dryden : ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Vergil",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
