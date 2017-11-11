@@ -1,5 +1,170 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Aristotle",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Works",
+      "expanded" : false,
+      "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo09arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol. 9",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol. 8",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo10arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol 10",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo09arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol. 9",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works vol. 8",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/worksofaristotle07arisuoft"
+            }
+          },
+          "title" : "Aristotle ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works Vol. 7",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        }
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
+        }
+      },
+      "title" : "Euclid  ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Elements Of Geometry",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/treatiseonconics00apolrich"
+        }
+      },
+      "title" : "Apollonius",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Treatise On Conic Sections",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/NicomachusIntroToArithmetic"
+        }
+      },
+      "title" : "Nicomachus Of Gerasa ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Introduction To Arithmetic",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
