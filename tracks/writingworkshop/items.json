@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/gustavus.edu\/writingcenter\/handoutdocs\/getting_started_research.php"
+        }
+      },
+      "title" : "Getting Started on a Research Paper",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "I.         Begin this process by examining your as",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
