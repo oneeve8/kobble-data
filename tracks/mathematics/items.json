@@ -52,7 +52,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/2834"
             }
           },
-          "title" : "Prime Numbers And Factors",
+          "title" : "Quiz - Prime Numbers And Factors",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -69,7 +69,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/7add5d380c\/info"
             }
           },
-          "title" : "Platonic Solids",
+          "title" : "Quiz - Platonic Solids",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
