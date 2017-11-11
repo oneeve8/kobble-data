@@ -3,6 +3,15 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
+      "title" : "Book Lists",
+      "subtitle" : "Reading Lists",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/booklists",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Reading Guides",
       "subtitle" : "Comprehension And Notes",
       "track" : {
