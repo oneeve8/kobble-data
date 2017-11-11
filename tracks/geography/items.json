@@ -32,23 +32,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usacapquiz.html"
-            }
-          },
-          "title" : "USA Capitals",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.lizardpoint.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/education.nationalgeographic.com\/education\/mapping\/interactive-map\/?ar_a=1"
             }
           },
@@ -57,23 +40,6 @@
             "tag" : "UI.ContentViews.Views.WebView"
           },
           "subtitle" : "education.nationalgeographic.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usaquiz.html"
-            }
-          },
-          "title" : "USA States",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.lizardpoint.com",
           "expanded" : true,
           "children" : [
 
@@ -125,6 +91,40 @@
             "tag" : "UI.ContentViews.Views.WebView"
           },
           "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usacapquiz.html"
+            }
+          },
+          "title" : "USA Capitals",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.lizardpoint.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usaquiz.html"
+            }
+          },
+          "title" : "USA States",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.lizardpoint.com",
           "expanded" : true,
           "children" : [
 
