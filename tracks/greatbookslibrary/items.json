@@ -655,9 +655,76 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Phil",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/philosophicaldic00voltrich"
+            }
+          },
+          "title" : "Voltaire",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "The Philosophical Dictionary",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/details\/lettersconcernin00voltuoft"
+            }
+          },
+          "title" : "Letters concerning the English nation : ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Translation of: Lettres philosophiques",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/spiritlaws01montgoog"
+            }
+          },
+          "title" : "The spirit of the laws; : Montesquieu, C",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Book digitized by Google and uploaded to the Inter",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/aeb0151.0001.001.umich.edu"
+            }
+          },
+          "title" : "Alexander Pope",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Essay On Criticism",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        }
       ]
     },
     {
@@ -715,23 +782,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/aeb0151.0001.001.umich.edu"
-        }
-      },
-      "title" : "Alexander Pope",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Essay On Criticism",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/popesrapeoflock00pope"
         }
       },
@@ -774,57 +824,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Book digitized by Google from the library of Unive",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/spiritlaws01montgoog"
-        }
-      },
-      "title" : "The spirit of the laws; : Montesquieu, C",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/lettersconcernin00voltuoft"
-        }
-      },
-      "title" : "Letters concerning the English nation : ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Translation of: Lettres philosophiques",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/philosophicaldic00voltrich"
-        }
-      },
-      "title" : "Voltaire",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Philosophical Dictionary",
       "expanded" : true,
       "children" : [
 
