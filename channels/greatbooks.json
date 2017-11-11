@@ -76,7 +76,7 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Greeks",
+      "subtitle" : "Greek Authors",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksgreeks",
@@ -94,7 +94,7 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Romans",
+      "subtitle" : "Roman Authors",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksromans",
