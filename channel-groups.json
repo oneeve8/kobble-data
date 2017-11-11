@@ -103,7 +103,7 @@
       "name" : "Channel Group 3"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "World Religions",
@@ -249,7 +249,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Color",
@@ -482,7 +482,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Music",
