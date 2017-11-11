@@ -41,7 +41,7 @@
           "url" : "http:\/\/neutronm.bartol.udel.edu\/\/spaceweather\/welcome.html"
         }
       },
-      "title" : "neutronm.bartol.udel.edu",
+      "title" : "Cosmic Weather",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,11 +58,11 @@
           "url" : "https:\/\/www.youtube.com\/user\/dutchsinse"
         }
       },
-      "title" : "dutchsinse",
+      "title" : "Earthquake Watch",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.youtube.com",
+      "subtitle" : "Dutchsinse",
       "expanded" : true,
       "children" : [
 
