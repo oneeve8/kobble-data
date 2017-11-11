@@ -177,7 +177,7 @@
           "url" : "http:\/\/architecture.about.com\/cs\/historicperiods\/a\/timeline.htm"
         }
       },
-      "title" : "Architecture",
+      "title" : "Timeline - Architecture",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -245,7 +245,7 @@
           "url" : "http:\/\/www.rocksinmyheadtoo.com\/TimeLine.htm"
         }
       },
-      "title" : "Geological History",
+      "title" : "Timeline - Geological History",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
