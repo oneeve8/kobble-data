@@ -7,7 +7,7 @@
           "url" : "http:\/\/bussongs.com\/"
         }
       },
-      "title" : "bussongs.com",
+      "title" : "Bussongs",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
