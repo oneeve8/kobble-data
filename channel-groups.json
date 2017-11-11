@@ -237,7 +237,7 @@
         },
         {
           "title" : "Great Books",
-          "subtitle" : "Great Book Classics",
+          "subtitle" : "Great Book Classics Archive And Audio",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/greatbooks.json",
