@@ -10,6 +10,15 @@
         "path" : "tracks\/cg3c3t1",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "CG3 C3 T2",
+      "subtitle" : "Channel Group 3 Channel 3 Track 2",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/cg3c3t2",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
