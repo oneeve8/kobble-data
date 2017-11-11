@@ -92,11 +92,11 @@
           "url" : "http:\/\/oli.cmu.edu\/"
         }
       },
-      "title" : "oli.cmu.edu",
+      "title" : "Carnegie Mellon University",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "oli.cmu.edu",
+      "subtitle" : "Open Learning Initiative oli.cmu.edu",
       "expanded" : true,
       "children" : [
 
