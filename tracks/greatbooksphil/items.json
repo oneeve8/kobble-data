@@ -288,6 +288,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/advancementlearn00bacouoft"
+        }
+      },
+      "title" : "Francis Bacon",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Of the Advancement of Learning",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
