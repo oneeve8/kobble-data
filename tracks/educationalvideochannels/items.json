@@ -7,7 +7,7 @@
           "url" : "https:\/\/www.youtube.com\/user\/AnimalPlanetTV"
         }
       },
-      "title" : "Animal Planet",
+      "title" : "Videos Animal Planet",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
