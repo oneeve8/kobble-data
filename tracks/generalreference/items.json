@@ -2,6 +2,20 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Geography Quiz",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Memory Quiz",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "http:\/\/www.purposegames.com\/game\/46"
@@ -13,20 +27,6 @@
       },
       "subtitle" : "www.purposegames.com",
       "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Geography Quiz",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Memory Quiz",
-      "expanded" : false,
       "children" : [
 
       ]
