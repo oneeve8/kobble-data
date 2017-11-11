@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.doubledivision.org\/"
+          "url" : "http:\/\/mathwords.com\/a_to_z.htm"
         }
       },
-      "title" : "Division Calculator",
+      "title" : "Glossary Of Terms",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.doubledivision.org",
+      "subtitle" : "mathwords.com",
       "expanded" : true,
       "children" : [
 
@@ -38,14 +38,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/mathwords.com\/a_to_z.htm"
+          "url" : "http:\/\/www.doubledivision.org\/"
         }
       },
-      "title" : "Glossary Of Terms",
+      "title" : "Division Calculator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "mathwords.com",
+      "subtitle" : "www.doubledivision.org",
       "expanded" : true,
       "children" : [
 
