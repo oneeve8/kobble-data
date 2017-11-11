@@ -24,7 +24,7 @@
           "url" : "http:\/\/dltk-holidays.com\/"
         }
       },
-      "title" : "dltk-holidays.com",
+      "title" : "DLTK-Holidays",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
