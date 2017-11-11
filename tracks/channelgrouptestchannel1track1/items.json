@@ -13,6 +13,20 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Butterflies2",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Photos",
+      "expanded" : false,
+      "children" : [
+
+      ]
     }
   ]
 }
