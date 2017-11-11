@@ -808,8 +808,42 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Phil",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/details\/thewealthofnatio00smituoft"
+            }
+          },
+          "title" : "The wealth of nations : Smith, Adam, 172",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Everyman Library edition. Volume Two of two volume",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/essaysmoralpoli01humegoog"
+            }
+          },
+          "title" : "Essays, moral, political, and literary :",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Book digitized by Google and uploaded to the Inter",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
@@ -952,23 +986,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/essaysmoralpoli01humegoog"
-        }
-      },
-      "title" : "Essays, moral, political, and literary :",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/historyofengland01davirich"
         }
       },
@@ -1028,23 +1045,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "26 28",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/thewealthofnatio00smituoft"
-        }
-      },
-      "title" : "The wealth of nations : Smith, Adam, 172",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Everyman Library edition. Volume Two of two volume",
       "expanded" : true,
       "children" : [
 
