@@ -103,7 +103,7 @@
       "name" : "Channel Group 3"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Doctors of the Church",
@@ -146,7 +146,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "To Do List",
@@ -207,7 +207,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
@@ -215,7 +215,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Mark Twain",
@@ -240,7 +240,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Color",
@@ -301,7 +301,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble",
@@ -326,7 +326,7 @@
       "name" : "Work"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Business Plan",
@@ -360,7 +360,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sports",
@@ -376,7 +376,7 @@
       "name" : "Sports News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Armchair Travel",
@@ -473,7 +473,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
@@ -481,7 +481,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "News ",
@@ -497,7 +497,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Follow Simmy",
@@ -513,7 +513,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble Projects",
