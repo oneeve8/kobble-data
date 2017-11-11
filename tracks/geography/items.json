@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.apples4theteacher.com\/map-of-usa.html"
         }
       },
-      "title" : "www.apples4theteacher.com",
+      "title" : "USA Capitals",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -24,11 +24,28 @@
           "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-africa-quiz"
         }
       },
-      "title" : "www.purposegames.com",
+      "title" : "Capitals Of Africa",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/geographyworldonline.com\/"
+        }
+      },
+      "title" : "geographyworldonline.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "geographyworldonline.com",
       "expanded" : true,
       "children" : [
 
