@@ -322,6 +322,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/demonstrations.wolfram.com\/topics.html"
+        }
+      },
+      "title" : "demonstrations.wolfram.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "demonstrations.wolfram.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
