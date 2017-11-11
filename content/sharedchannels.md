@@ -11,6 +11,8 @@ Written narratives to video introductions, GitHub information, Markdown Cheat Sh
 
 ***
 
+### Channels: Educational 
+
 ### Channels: Art & Creativity
 A curated selection of artistic tools and information links. Color theory information, graphic tools, online graphic generators, meme generators, image generators, gif generators, online drawing tools, art history links, museum links.   
 
