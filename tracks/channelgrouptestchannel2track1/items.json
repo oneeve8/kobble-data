@@ -9,77 +9,76 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Butterfly Information",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/en.wikipedia.org\/wiki\/Butterfly"
-        }
-      },
-      "title" : "en.wikipedia.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "en.wikipedia.org",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/en.wikipedia.org\/wiki\/Butterfly"
+            }
+          },
+          "title" : "en.wikipedia.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "en.wikipedia.org",
+          "expanded" : true,
+          "children" : [
 
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/simple.wikipedia.org\/wiki\/Butterfly"
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/simple.wikipedia.org\/wiki\/Butterfly"
+            }
+          },
+          "title" : "simple.wikipedia.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "simple.wikipedia.org",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/naturewatch.org.nz\/guides\/1417"
+            }
+          },
+          "title" : "naturewatch.org.nz",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "naturewatch.org.nz",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/www.natgeokids.com\/nz\/discover\/animals\/insects\/butterfly-life-cycle\/"
+            }
+          },
+          "title" : "The Butterfly Life Cycle! | National Geo",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Learn about the butterfly life cycle here at Natio",
+          "expanded" : true,
+          "children" : [
+
+          ]
         }
-      },
-      "title" : "simple.wikipedia.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "simple.wikipedia.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/naturewatch.org.nz\/guides\/1417"
-        }
-      },
-      "title" : "naturewatch.org.nz",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "naturewatch.org.nz",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.natgeokids.com\/nz\/discover\/animals\/insects\/butterfly-life-cycle\/"
-        }
-      },
-      "title" : "www.natgeokids.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.natgeokids.com",
-      "expanded" : true,
-      "children" : [
-
       ]
     }
   ]
