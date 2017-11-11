@@ -530,7 +530,7 @@
           "url" : "http:\/\/www.archives.gov\/exhibits\/charters\/constitution_zoom_1.html"
         }
       },
-      "title" : "US Constitution",
+      "title" : "US Government Documents",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
