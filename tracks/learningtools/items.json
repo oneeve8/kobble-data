@@ -58,7 +58,7 @@
           "url" : "https:\/\/www.purposegames.com\/create"
         }
       },
-      "title" : "www.purposegames.com",
+      "title" : "Purposegames",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
