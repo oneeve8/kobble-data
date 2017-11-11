@@ -67,6 +67,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.starfall.org\/"
+        }
+      },
+      "title" : "www.starfall.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.starfall.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
