@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "CG1 C1",
@@ -35,7 +35,7 @@
       "name" : "Channel Group 1"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "CG2 C1",
@@ -69,7 +69,7 @@
       "name" : "Channel Group 2"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "CG3 C1",
@@ -469,7 +469,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Recipes",
