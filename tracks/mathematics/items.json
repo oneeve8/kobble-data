@@ -186,6 +186,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.multiplication.com\/"
+        }
+      },
+      "title" : "X Multiplication.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.multiplication.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
