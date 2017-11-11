@@ -126,7 +126,7 @@
           "url" : "https:\/\/www.brainyquote.com\/top_100_quotes"
         }
       },
-      "title" : "Top 100 Quotes of All Time",
+      "title" : "Brainy Quote",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
