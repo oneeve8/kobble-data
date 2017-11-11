@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/amser.org\/index.php?P=BrowseResources"
+        }
+      },
+      "title" : "amser.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "amser.org",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
