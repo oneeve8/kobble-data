@@ -289,6 +289,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.youtube.com\/user\/AllHistories"
+        }
+      },
+      "title" : "AllHistories",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Dedicated to understanding why civilizations rise ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/allaboutexplorers.com\/"
         }
       },
@@ -365,23 +382,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.hyperhistory.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.youtube.com\/user\/AllHistories"
-        }
-      },
-      "title" : "AllHistories",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Dedicated to understanding why civilizations rise ",
       "expanded" : true,
       "children" : [
 
