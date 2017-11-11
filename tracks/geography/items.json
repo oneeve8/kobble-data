@@ -58,11 +58,28 @@
           "url" : "http:\/\/www.harcourtschool.com\/ss1\/choose_state.html"
         }
       },
-      "title" : "www.harcourtschool.com",
+      "title" : "USA States",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.harcourtschool.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/education.nationalgeographic.com\/education\/mapping\/interactive-map\/?ar_a=1"
+        }
+      },
+      "title" : "Interactive Mapmaker",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "education.nationalgeographic.com",
       "expanded" : true,
       "children" : [
 
