@@ -228,7 +228,7 @@
           "url" : "http:\/\/interactivesites.weebly.com\/"
         }
       },
-      "title" : "interactivesites.weebly.com",
+      "title" : "Interactive Sites",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
