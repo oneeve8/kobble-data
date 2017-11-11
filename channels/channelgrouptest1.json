@@ -3,6 +3,15 @@
   "subtitle" : "Channel 1",
   "tracks" : [
     {
+      "title" : "Channel 1 Track 2",
+      "subtitle" : "Channel 1 Track 2",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/channelgrouptestchannel1track2",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Channel 1 Track 1",
       "subtitle" : "Channel 1 Track 1",
       "track" : {
