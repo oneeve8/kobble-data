@@ -109,11 +109,45 @@
           "url" : "http:\/\/www.mathsisfun.com\/prime_numbers.html"
         }
       },
-      "title" : "www.mathsisfun.com",
+      "title" : "Prime Numbers",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.mathsisfun.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.multiplicationtool.org\/"
+        }
+      },
+      "title" : "X Double Digit",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.multiplicationtool.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.mathabc.com\/practice-times-tables"
+        }
+      },
+      "title" : "www.mathabc.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.mathabc.com",
       "expanded" : true,
       "children" : [
 
