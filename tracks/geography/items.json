@@ -211,7 +211,24 @@
           "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-south-america-quiz"
         }
       },
-      "title" : "www.purposegames.com",
+      "title" : "Quiz South America Capitals",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.purposegames.com\/game\/46"
+        }
+      },
+      "title" : "Quiz USA Capitals",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
