@@ -38,7 +38,7 @@
           "url" : "http:\/\/www.purposegames.com\/game\/surrealism-paintings-quiz"
         }
       },
-      "title" : "www.purposegames.com",
+      "title" : "Quiz - Surrealism",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
