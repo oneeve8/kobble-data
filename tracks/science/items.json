@@ -296,7 +296,7 @@
           "url" : "http:\/\/www.solarsystemscope.com\/"
         }
       },
-      "title" : "www.solarsystemscope.com",
+      "title" : "Solar System Scope",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
