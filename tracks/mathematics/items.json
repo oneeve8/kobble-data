@@ -7,11 +7,28 @@
           "url" : "http:\/\/www.doubledivision.org\/"
         }
       },
-      "title" : "www.doubledivision.org",
+      "title" : "Division Calculator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.doubledivision.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/cemc2.math.uwaterloo.ca\/mathfrog\/english\/kidz\/div5.shtml"
+        }
+      },
+      "title" : "Division Dividerama",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "cemc2.math.uwaterloo.ca",
       "expanded" : true,
       "children" : [
 
