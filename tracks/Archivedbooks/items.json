@@ -58,11 +58,11 @@
           "url" : "http:\/\/www.gradesaver.com\/alice-in-wonderland\/study-guide\/summary"
         }
       },
-      "title" : "Alice In Wonderland",
+      "title" : "Alice In Wonderland ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.gradesaver.com",
+      "subtitle" : "Notes www.gradesaver.com",
       "expanded" : true,
       "children" : [
 
@@ -75,11 +75,11 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/alice\/"
         }
       },
-      "title" : "Alice In Wonderland Notes",
+      "title" : "Alice In Wonderland ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.sparknotes.com",
+      "subtitle" : "Notes www.sparknotes.com",
       "expanded" : true,
       "children" : [
 
