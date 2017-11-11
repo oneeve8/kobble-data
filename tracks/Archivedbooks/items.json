@@ -143,7 +143,7 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/anna\/"
         }
       },
-      "title" : "www.sparknotes.com",
+      "title" : "Anna Karenina Notes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
