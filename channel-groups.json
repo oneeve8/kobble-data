@@ -218,6 +218,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Educational Links",
+          "subtitle" : "Open Courseware",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/educationallinks.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Mark Twain",
           "subtitle" : "Study Unit",
           "channel" : {
