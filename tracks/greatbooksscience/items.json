@@ -2,121 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Aristotle",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Works",
-      "expanded" : false,
-      "children" : [
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/theworksofaristo09arisuoft"
-            }
-          },
-          "title" : "Aristotle ",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Works vol. 9",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
-            }
-          },
-          "title" : "Aristotle ",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Works vol. 8",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/theworksofaristo10arisuoft"
-            }
-          },
-          "title" : "Aristotle ",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Works vol 10",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/theworksofaristo09arisuoft"
-            }
-          },
-          "title" : "Aristotle ",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Works vol. 9",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/theworksofaristo08arisuoft"
-            }
-          },
-          "title" : "Aristotle ",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Works vol. 8",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/worksofaristotle07arisuoft"
-            }
-          },
-          "title" : "Aristotle ",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Works Vol. 7",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        }
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
@@ -314,6 +199,74 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "by Johannes Kepler",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/Optics_285"
+        }
+      },
+      "title" : "Sir Isaac Newton ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Optics",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
+        }
+      },
+      "title" : "Sir Isaac Newton",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Principia",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/treatiseonlight031310mbp"
+        }
+      },
+      "title" : "Huygens, Christiaan ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Treatise On Light",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/scepticalchymist00boylrich"
+        }
+      },
+      "title" : "Boyle, Robert",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Sceptical Chymist",
       "expanded" : true,
       "children" : [
 
