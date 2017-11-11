@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/amser.org\/index.php?P=BrowseResources"
-        }
-      },
-      "title" : "AMSER",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Applied Math Science Education Repository amser.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.coursera.org\/"
         }
       },
@@ -55,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/cnx.org\/"
+        }
+      },
+      "title" : "Open Stax",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "cnx.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.edx.org\/"
         }
       },
@@ -63,6 +63,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "EdX offers free online courses and classes from th",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/amser.org\/index.php?P=BrowseResources"
+        }
+      },
+      "title" : "AMSER",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Applied Math Science Education Repository amser.org",
       "expanded" : true,
       "children" : [
 
@@ -131,23 +148,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Open Learning Initiative oli.cmu.edu",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/cnx.org\/"
-        }
-      },
-      "title" : "Open Stax",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "cnx.org",
       "expanded" : true,
       "children" : [
 
@@ -381,11 +381,11 @@
           "url" : "https:\/\/www.khanacademy.org\/"
         }
       },
-      "title" : "www.khanacademy.org",
+      "title" : "Khan Academy",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.khanacademy.org",
+      "subtitle" : "Learn for free about math, art, computer programmi",
       "expanded" : true,
       "children" : [
 
