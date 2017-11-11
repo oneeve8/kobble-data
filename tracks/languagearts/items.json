@@ -228,11 +228,28 @@
           "url" : "http:\/\/www.shmoop.com\/literature-glossary\/"
         }
       },
-      "title" : "www.shmoop.com",
+      "title" : "Literary Terms",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.shmoop.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.poetryfoundation.org\/learning\/glossary-terms"
+        }
+      },
+      "title" : "www.poetryfoundation.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.poetryfoundation.org",
       "expanded" : true,
       "children" : [
 
