@@ -2,6 +2,32 @@
   "title" : "Great Books Audio",
   "subtitle" : "Archive",
   "tracks" : [
-
+    {
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Greeks",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudiogreeks",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Philosophy",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudiophil",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Literature",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudio",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
