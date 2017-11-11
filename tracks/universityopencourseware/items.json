@@ -330,7 +330,7 @@
           "url" : "http:\/\/demonstrations.wolfram.com\/topics.html"
         }
       },
-      "title" : "demonstrations.wolfram.com",
+      "title" : "demonstWolfram Demonstrations Project",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
