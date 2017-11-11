@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/alice\/"
         }
       },
-      "title" : "www.sparknotes.com",
+      "title" : "Alice In Wonderland",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -114,6 +114,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.gutenberg.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.gradesaver.com\/anna-karenina"
+        }
+      },
+      "title" : "www.gradesaver.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.gradesaver.com",
       "expanded" : true,
       "children" : [
 
