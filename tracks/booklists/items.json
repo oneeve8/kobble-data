@@ -24,11 +24,45 @@
           "url" : "http:\/\/www.ala.org\/alsc\/awardsgrants\/bookmedia\/caldecottmedal\/caldecottmedal"
         }
       },
-      "title" : "www.ala.org",
+      "title" : "Caldecott",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.ala.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.ala.org\/alsc\/awardsgrants\/bookmedia\/newberymedal\/newberymedal"
+        }
+      },
+      "title" : "Newbery",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.ala.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.hawes.com\/pastlist.htm"
+        }
+      },
+      "title" : "www.hawes.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.hawes.com",
       "expanded" : true,
       "children" : [
 
