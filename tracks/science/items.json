@@ -126,7 +126,7 @@
           "url" : "http:\/\/www.famousscientists.org\/"
         }
       },
-      "title" : "www.famousscientists.org",
+      "title" : "Famous Scientists",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
