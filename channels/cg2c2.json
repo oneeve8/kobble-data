@@ -2,6 +2,14 @@
   "title" : "CG2 C2",
   "subtitle" : "Channel Group 2 Channel 2",
   "tracks" : [
-
+    {
+      "title" : "CG2 C2 T1",
+      "subtitle" : "Channel Group 2 Channel 2 Track 1",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/cg2c2t1",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
