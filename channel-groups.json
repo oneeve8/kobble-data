@@ -72,6 +72,15 @@
           }
         },
         {
+          "title" : "Personal ",
+          "subtitle" : "Projects",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Rosary.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "My Online Presence",
           "subtitle" : "Links To My Sites",
           "channel" : {
@@ -175,6 +184,15 @@
           }
         },
         {
+          "title" : "Videos ",
+          "subtitle" : "To Watch",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videostowatch.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Art History",
           "subtitle" : "Paintings And Artists",
           "channel" : {
@@ -199,24 +217,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Personal ",
-          "subtitle" : "Projects",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Rosary.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Videos ",
-          "subtitle" : "To Watch",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/videostowatch.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Work In Progress"
