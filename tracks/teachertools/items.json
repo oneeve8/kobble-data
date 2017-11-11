@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Learning Styles And Techniques",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
         {
           "data" : {
@@ -18,7 +18,7 @@
               "url" : "http:\/\/en.wikipedia.org\/wiki\/Education_theory"
             }
           },
-          "title" : "en.wikipedia.org",
+          "title" : "Educational Sciences",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
