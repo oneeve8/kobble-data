@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/historyofherod03hero"
-        }
-      },
-      "title" : "Herodotus ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "History Volume 3",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
