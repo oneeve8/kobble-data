@@ -126,7 +126,7 @@
           "url" : "https:\/\/www.apple.com\/education\/itunes-u\/"
         }
       },
-      "title" : "www.apple.com",
+      "title" : "ITunes U",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
