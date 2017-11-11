@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.spellingcity.com\/dominicinator\/"
         }
       },
-      "title" : "www.spellingcity.com",
+      "title" : "Alamimo Lists",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
