@@ -150,7 +150,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/world-geography-quiz"
             }
           },
-          "title" : "Quiz - World Geography",
+          "title" : "Quiz World Geography",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -167,7 +167,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/285"
             }
           },
-          "title" : "Quiz - Flags Of Europe",
+          "title" : "Quiz Flags Of Europe",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -235,7 +235,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/countries-europe-quiz"
             }
           },
-          "title" : "Quiz - European Countries",
+          "title" : "Quiz European Countries",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
