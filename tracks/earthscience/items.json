@@ -157,6 +157,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.swpc.noaa.gov\/products\/wsa-enlil-solar-wind-prediction"
+        }
+      },
+      "title" : "www.swpc.noaa.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.swpc.noaa.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.eldoradocountyweather.com\/satellite\/ssec\/world\/world-composite-ir-sat.html"
         }
       },
