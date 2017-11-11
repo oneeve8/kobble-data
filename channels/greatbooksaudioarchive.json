@@ -31,6 +31,15 @@
     },
     {
       "title" : "Great Books Audio",
+      "subtitle" : "Audio Histories",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudiohistory",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books Audio",
       "subtitle" : "Audio Literature",
       "track" : {
         "owner" : "oneeve8",
