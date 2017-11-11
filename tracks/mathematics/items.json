@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Shapes, Primes, Radians, Trig ",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
@@ -190,7 +190,7 @@
           "url" : "http:\/\/www.doubledivision.org\/"
         }
       },
-      "title" : "Division Calculator",
+      "title" : "Double Division Calculator",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
