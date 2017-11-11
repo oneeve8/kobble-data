@@ -347,7 +347,7 @@
           "url" : "http:\/\/webelements.com\/"
         }
       },
-      "title" : "webelements.com",
+      "title" : "Periodic Table Of the Elements",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
