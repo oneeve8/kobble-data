@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.pantheon.org\/"
         }
       },
-      "title" : "www.pantheon.org",
+      "title" : "Encyclopedia Mythica",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
