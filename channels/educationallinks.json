@@ -3,6 +3,15 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "General Reference",
+      "subtitle" : "Dictionary Thesaurus Quotes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/generalreference",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Earth Science",
       "subtitle" : "Weather,  Space, Volcano, Solar Info",
       "track" : {
