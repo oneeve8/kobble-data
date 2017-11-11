@@ -7,7 +7,7 @@
           "url" : "http:\/\/dictionary.com\/"
         }
       },
-      "title" : "dictionary.com",
+      "title" : "Dictionary",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -24,7 +24,7 @@
           "url" : "https:\/\/www.powerthesaurus.org\/"
         }
       },
-      "title" : "www.powerthesaurus.org",
+      "title" : "Power Thesaurus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
