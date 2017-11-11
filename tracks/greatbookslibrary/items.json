@@ -327,23 +327,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/principlesdescar00spin"
-        }
-      },
-      "title" : "The principles of Descartes",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Spinoza, Benedictus De",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/lecid06corngoog"
         }
       },
@@ -403,23 +386,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Edition de luxe, limited to 500 numbered sets ... ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/theprovinciallet00pasciala"
-        }
-      },
-      "title" : "Blaise Pascal",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Provincial Letters",
       "expanded" : true,
       "children" : [
 
