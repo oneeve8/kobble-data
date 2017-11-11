@@ -3,6 +3,15 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "Educational Video Channels",
+      "subtitle" : "History, Animals, Science",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/educationalvideochannels",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Study Tools",
       "subtitle" : "Helpful Tools For Memory And Study",
       "track" : {
