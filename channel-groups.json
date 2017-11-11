@@ -38,20 +38,20 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "CG2 C2",
-          "subtitle" : "Channel Group 2 Channel 2",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/cg2c2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "CG2 C1",
           "subtitle" : "Channel Group 2 Channel 1",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/CG2C1.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "CG2 C2",
+          "subtitle" : "Channel Group 2 Channel 2",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/cg2c2.json",
             "repo" : "kobble-data"
           }
         }
