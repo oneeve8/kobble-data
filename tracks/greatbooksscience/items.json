@@ -165,6 +165,57 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/ptolemyscataloqu00ptoluoft"
+        }
+      },
+      "title" : "Ptolemy",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Almagest",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/galenonnaturalfa00galeuoft?ref=ol#page\/n6\/mode\/1up"
+        }
+      },
+      "title" : "Galen",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "On The Natural Faculties",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/noteboo00leon"
+        }
+      },
+      "title" : "Leonardo da Vinci ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Notebooks",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
