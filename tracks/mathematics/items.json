@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.mathsisfun.com\/math-tools.html"
         }
       },
-      "title" : "www.mathsisfun.com",
+      "title" : "Math Tools",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
