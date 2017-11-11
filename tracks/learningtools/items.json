@@ -16,23 +16,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/classroom.google.com\/"
-        }
-      },
-      "title" : "Google Classroom",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "classroom.google.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
