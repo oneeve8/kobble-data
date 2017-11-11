@@ -18,6 +18,8 @@ Curated links to educational websites. Open Courseware, Open Universities, compu
 [Educational Links](kobble://kobble.io/channel?title=Educational%20Links&subtitle=Open%20Courseware&owner=oneeve8&repo=kobble-data&path=channels/educationallinks.json)
 ***
 
+### Channel: World Religions
+
 ### Channels: Art & Creativity
 A curated selection of artistic tools and information links. Color theory information, graphic tools, online graphic generators, meme generators, image generators, gif generators, online drawing tools, art history links, museum links.   
 
