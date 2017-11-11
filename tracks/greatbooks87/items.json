@@ -166,23 +166,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/ElementsOfChemistry_939"
-        }
-      },
-      "title" : "Elements of Chemistry : Antoine-Laurent ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Antoine-Laurent Lavoisier Elements of Chemistry Do",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
