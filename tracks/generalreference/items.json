@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.macroevolution.net\/root-word-dictionary-a.html#.UE_FQ6RSS7Q"
         }
       },
-      "title" : "www.macroevolution.net",
+      "title" : "Root Word Dictionary",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
