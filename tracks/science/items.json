@@ -160,7 +160,7 @@
           "url" : "http:\/\/science.howstuffworks.com\/"
         }
       },
-      "title" : "science.howstuffworks.com",
+      "title" : "How Stuff Works",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
