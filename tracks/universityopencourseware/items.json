@@ -194,7 +194,7 @@
           "url" : "http:\/\/www.open.edu\/openlearn\/history-the-arts"
         }
       },
-      "title" : "www.open.edu",
+      "title" : "Open Learn",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
