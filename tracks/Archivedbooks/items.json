@@ -75,6 +75,23 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/alice\/"
         }
       },
+      "title" : "Alice In Wonderland",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.sparknotes.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.sparknotes.com\/lit\/alice\/"
+        }
+      },
       "title" : "www.sparknotes.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
