@@ -2,6 +2,36 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Resources",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Teacher Resources",
+      "expanded" : true,
+      "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.rcampus.com\/indexrubric.cfm"
+            }
+          },
+          "title" : "www.rcampus.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.rcampus.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        }
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/classroom.google.com\/"
@@ -12,23 +42,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "classroom.google.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.rcampus.com\/indexrubric.cfm"
-        }
-      },
-      "title" : "www.rcampus.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.rcampus.com",
       "expanded" : true,
       "children" : [
 
