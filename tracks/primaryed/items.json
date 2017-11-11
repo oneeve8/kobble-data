@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.discoveryeducation.com\/teachers\/"
         }
       },
-      "title" : "www.discoveryeducation.com",
+      "title" : "Discovery Education",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.educationworld.com\/subjects\/"
         }
       },
-      "title" : "www.educationworld.com",
+      "title" : "Education World",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
