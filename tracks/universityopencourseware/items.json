@@ -177,7 +177,7 @@
           "url" : "http:\/\/online.nd.edu\/what-we-do\/"
         }
       },
-      "title" : "online.nd.edu",
+      "title" : "Notre Dame",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
