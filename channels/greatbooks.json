@@ -112,15 +112,6 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "English Literature",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksenglish",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
       "subtitle" : "Philosophers",
       "track" : {
         "owner" : "oneeve8",
