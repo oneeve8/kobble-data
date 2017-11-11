@@ -155,7 +155,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "To Do List",
@@ -216,7 +216,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
@@ -224,7 +224,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Educational Links",
@@ -265,7 +265,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble",
@@ -290,7 +290,7 @@
       "name" : "Work"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Business Plan",
@@ -324,7 +324,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sports",
@@ -340,7 +340,7 @@
       "name" : "Sports News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Armchair Travel",
@@ -437,7 +437,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Music",
@@ -453,7 +453,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "News ",
