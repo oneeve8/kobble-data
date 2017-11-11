@@ -661,6 +661,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/vanityofhumanwis00johnuoft"
+            }
+          },
+          "title" : "The vanity of human wishes. The tenth sa",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "26",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/archive.org\/stream\/philosophicaldic00voltrich"
             }
           },
@@ -858,23 +875,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Book digitized by Google from the library of Harva",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/vanityofhumanwis00johnuoft"
-        }
-      },
-      "title" : "The vanity of human wishes. The tenth sa",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "26",
       "expanded" : true,
       "children" : [
 
