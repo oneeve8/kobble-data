@@ -2,6 +2,32 @@
   "title" : "Literature Guides",
   "subtitle" : "Comprehension Notes Summaries Reviews",
   "tracks" : [
-
+    {
+      "title" : "Book Lists",
+      "subtitle" : "Reading Lists",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/booklists",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Reading Guides",
+      "subtitle" : "Comprehension And Notes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Readingguides",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "Summaries And Reviews",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksummaries",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
