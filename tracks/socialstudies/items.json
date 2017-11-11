@@ -391,6 +391,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.youtube.com\/user\/AllHistories"
+        }
+      },
+      "title" : "AllHistories",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Dedicated to understanding why civilizations rise ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_Presidents_of_the_United_States"
         }
       },
@@ -513,7 +530,7 @@
           "url" : "http:\/\/www.renaissanceconnection.org\/index2.cfm"
         }
       },
-      "title" : "www.renaissanceconnection.org",
+      "title" : "Renaissance Connection",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -603,23 +620,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.archives.gov",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.youtube.com\/user\/AllHistories"
-        }
-      },
-      "title" : "AllHistories",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Dedicated to understanding why civilizations rise ",
       "expanded" : true,
       "children" : [
 
