@@ -7,7 +7,7 @@
           "url" : "http:\/\/grammar-monster.com\/"
         }
       },
-      "title" : "grammar-monster.com",
+      "title" : "Grammar Monster",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.poetry4kids.com\/"
         }
       },
-      "title" : "www.poetry4kids.com",
+      "title" : "Poetry4kids",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
