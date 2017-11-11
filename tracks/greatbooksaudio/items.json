@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/Decline_and_Fall_Audiobook"
+        }
+      },
+      "title" : "Decline and Fall of the Roman Empire Aud",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The History of the Decline and Fall of the Roman E",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/ciceroonoratorya00ciceuoft"
         }
       },
@@ -140,23 +157,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/librivox.org\/the-meditations-of-marcus-aurelius\/"
-        }
-      },
-      "title" : "Marcus Aurelius Meditations",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "librivox.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/song_of_roland_0907_librivox"
         }
       },
@@ -165,40 +165,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of The Song of Roland, by Anony",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/GuideForThePerplexed"
-        }
-      },
-      "title" : "Guide for the Perplexed : Christian Peca",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Maimonides",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/summa_1_01_jr_0901_librivox"
-        }
-      },
-      "title" : "Summa Theologica, Prima Pars, Initial Qu",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Summa Theologica, Prima Pars",
       "expanded" : true,
       "children" : [
 
@@ -250,23 +216,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of The Canterbury Tales, by Geo",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/imitation_of_christ_librivox"
-        }
-      },
-      "title" : "The Imitation of Christ : Thomas a Kempi",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "A LibriVox recording of The Imitation of Christ, b",
       "expanded" : true,
       "children" : [
 
@@ -794,23 +743,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Librivox recording of A Modest Proposal, by Jonath",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/Decline_and_Fall_Audiobook"
-        }
-      },
-      "title" : "Decline and Fall of the Roman Empire Aud",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The History of the Decline and Fall of the Roman E",
       "expanded" : true,
       "children" : [
 
