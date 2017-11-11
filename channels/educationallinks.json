@@ -3,6 +3,15 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "Archived Books",
+      "subtitle" : "Classics",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Archivedbooks",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Reading Guides",
       "subtitle" : "Comprehension And Notes",
       "track" : {
