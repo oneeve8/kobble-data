@@ -219,7 +219,7 @@
       "channels" : [
         {
           "title" : "Classic Literature",
-          "subtitle" : "Archive",
+          "subtitle" : "Gutenberg Archive",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Classicliteraturearchives.json",
