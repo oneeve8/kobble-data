@@ -15,6 +15,23 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "http:\/\/rubistar.4teachers.org\/index.php?screen=NewRubric&section_id=7#07"
+            }
+          },
+          "title" : "rubistar.4teachers.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "rubistar.4teachers.org",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "https:\/\/classroom.google.com\/"
             }
           },
@@ -45,23 +62,6 @@
 
           ]
         }
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/rubistar.4teachers.org\/index.php?screen=NewRubric&section_id=7#07"
-        }
-      },
-      "title" : "rubistar.4teachers.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "rubistar.4teachers.org",
-      "expanded" : true,
-      "children" : [
-
       ]
     },
     {
