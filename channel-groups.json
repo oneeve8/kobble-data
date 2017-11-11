@@ -279,15 +279,6 @@
           }
         },
         {
-          "title" : "Videos ",
-          "subtitle" : "To Watch",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/videostowatch.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Art History",
           "subtitle" : "Paintings And Artists",
           "channel" : {
@@ -532,6 +523,15 @@
     {
       "isShowing" : true,
       "channels" : [
+        {
+          "title" : "Videos ",
+          "subtitle" : "To Watch",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videostowatch.json",
+            "repo" : "kobble-data"
+          }
+        },
         {
           "title" : "World Heritage",
           "subtitle" : "Famous Sites",
