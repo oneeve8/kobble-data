@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksplato01carygoog"
-        }
-      },
-      "title" : "Plato ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
