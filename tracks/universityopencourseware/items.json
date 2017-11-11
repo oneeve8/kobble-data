@@ -7,11 +7,11 @@
           "url" : "https:\/\/amser.org\/index.php?P=BrowseResources"
         }
       },
-      "title" : "amser.org",
+      "title" : "AMSER",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "amser.org",
+      "subtitle" : "Applied Math Science Education Repository amser.org",
       "expanded" : true,
       "children" : [
 
