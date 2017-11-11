@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.sacred-texts.com\/ich\/index.htm"
         }
       },
-      "title" : "www.sacred-texts.com",
+      "title" : "Sacred Text Archive",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
