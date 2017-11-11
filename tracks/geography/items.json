@@ -303,7 +303,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/european-mountains-rivers-quiz"
             }
           },
-          "title" : "Quiz - Mountains Rivers Seas",
+          "title" : "Quiz Mountains Rivers Seas",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -337,7 +337,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/states-of-the-usa-quiz"
             }
           },
-          "title" : "Quiz - US States",
+          "title" : "Quiz ",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
