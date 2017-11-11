@@ -4,15 +4,6 @@
   "tracks" : [
     {
       "title" : "Great Books",
-      "subtitle" : "Summaries And Reviews",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksummaries",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
       "subtitle" : "Greek Authors",
       "track" : {
         "owner" : "oneeve8",
@@ -22,19 +13,28 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Histories",
+      "subtitle" : "Roman Authors",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/Greatbookshistories",
+        "path" : "tracks\/greatbooksromans",
         "repo" : "kobble-data"
       }
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Roman Authors",
+      "subtitle" : "Philosophers",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksromans",
+        "path" : "tracks\/greatbooksphil",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "Histories",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Greatbookshistories",
         "repo" : "kobble-data"
       }
     },
@@ -53,15 +53,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbookslit",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
-      "subtitle" : "Philosophers",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksphil",
         "repo" : "kobble-data"
       }
     },
