@@ -92,7 +92,7 @@
           "url" : "http:\/\/thesaurus.com\/"
         }
       },
-      "title" : "thesaurus.com",
+      "title" : "Thesaurus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.webdictionary.co.uk\/index.htm"
         }
       },
-      "title" : "www.webdictionary.co.uk",
+      "title" : "Web Dictionary (Browsable)",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
