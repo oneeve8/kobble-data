@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.biblegateway.com\/"
         }
       },
-      "title" : "www.biblegateway.com",
+      "title" : "Bible Gateway",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
