@@ -252,7 +252,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/1483"
             }
           },
-          "title" : "Quiz - The Middle East",
+          "title" : "Quiz The Middle East",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -269,7 +269,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/1065"
             }
           },
-          "title" : "Quiz - Regions Of Spain",
+          "title" : "Quiz Regions Of Spain",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -286,7 +286,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/spanish-speaking-countries-quiz"
             }
           },
-          "title" : "Quiz - Spanish Speaking Countries",
+          "title" : "Quiz Spanish Speaking Countries",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
