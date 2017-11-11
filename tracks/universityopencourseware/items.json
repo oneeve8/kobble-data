@@ -160,7 +160,7 @@
           "url" : "https:\/\/ocw.mit.edu\/courses\/history\/"
         }
       },
-      "title" : "ocw.mit.edu",
+      "title" : "MIT",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
