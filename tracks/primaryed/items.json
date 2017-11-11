@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.factmonster.com\/"
         }
       },
-      "title" : "www.factmonster.com",
+      "title" : "Fact Monster",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -126,7 +126,7 @@
           "url" : "http:\/\/syvum.com\/"
         }
       },
-      "title" : "syvum.com",
+      "title" : "Syvum",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
