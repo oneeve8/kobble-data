@@ -66,6 +66,15 @@
       }
     },
     {
+      "title" : "Great Books Audio",
+      "subtitle" : "Audio Literature",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudio",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
@@ -125,15 +134,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbookslibrary",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books Audio",
-      "subtitle" : "Audio Literature",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksaudio",
         "repo" : "kobble-data"
       }
     },
