@@ -224,7 +224,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Educational Links",
