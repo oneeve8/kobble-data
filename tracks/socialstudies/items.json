@@ -323,23 +323,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.fsmitha.com\/"
-        }
-      },
-      "title" : "Macro History",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.fsmitha.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.history-timelines.org.uk\/"
         }
       },
@@ -425,6 +408,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.fsmitha.com\/"
+        }
+      },
+      "title" : "Macro History",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.fsmitha.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.hyperhistory.com\/online_n2\/History_n2\/a.html"
         }
       },
@@ -433,6 +433,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.hyperhistory.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/smarthistory.khanacademy.org\/"
+        }
+      },
+      "title" : "Smarthistory",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "smarthistory.khanacademy.org",
       "expanded" : true,
       "children" : [
 
@@ -501,23 +518,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.socialstudiesforkids.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/smarthistory.khanacademy.org\/"
-        }
-      },
-      "title" : "Smarthistory",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "smarthistory.khanacademy.org",
       "expanded" : true,
       "children" : [
 
