@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.surfacelanguages.com\/"
         }
       },
-      "title" : "www.surfacelanguages.com",
+      "title" : "Surfacelanguages",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
