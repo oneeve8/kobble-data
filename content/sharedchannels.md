@@ -13,7 +13,7 @@ Written narratives to video introductions, GitHub information, Markdown Cheat Sh
 
 ### Channels: Educational Links
 
-Open Courseware, Open Universities, computer programming, curated educational apps, educational video channels, 
+Open Courseware, Open Universities, computer programming, curated educational apps, educational video channels, educational programs, earth sciences information, general reference links, ge
 
 ### Channels: Art & Creativity
 A curated selection of artistic tools and information links. Color theory information, graphic tools, online graphic generators, meme generators, image generators, gif generators, online drawing tools, art history links, museum links.   
