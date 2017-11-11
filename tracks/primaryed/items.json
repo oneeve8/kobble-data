@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.enchantedlearning.com\/crafts\/holiday\/"
         }
       },
-      "title" : "www.enchantedlearning.com",
+      "title" : "Enchanted Learning",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
