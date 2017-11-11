@@ -86,7 +86,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/6dd595b4cb"
             }
           },
-          "title" : "Mental",
+          "title" : "Quiz - Mental",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -103,7 +103,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/the-20-greatest-mathematicians-quiz"
             }
           },
-          "title" : "Famous Mathematicians",
+          "title" : "Quiz - Famous Mathematicians",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -120,7 +120,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/3d-shapes-quiz"
             }
           },
-          "title" : "3D Shapes",
+          "title" : "Quiz - 3D Shapes",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
