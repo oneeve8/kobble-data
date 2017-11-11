@@ -143,11 +143,28 @@
           "url" : "http:\/\/www.mathabc.com\/practice-times-tables"
         }
       },
-      "title" : "www.mathabc.com",
+      "title" : "X Math ABC",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.mathabc.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.mathsisfun.com\/timestable.html"
+        }
+      },
+      "title" : "www.mathsisfun.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.mathsisfun.com",
       "expanded" : true,
       "children" : [
 
