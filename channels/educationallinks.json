@@ -2,6 +2,14 @@
   "title" : "Educational Links",
   "subtitle" : "Open Courseware",
   "tracks" : [
-
+    {
+      "title" : "Universities",
+      "subtitle" : "Open Courseware",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/universityopencourseware",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
