@@ -201,7 +201,7 @@
               "url" : "http:\/\/www.internet4classrooms.com\/index.htm"
             }
           },
-          "title" : "www.internet4classrooms.com",
+          "title" : "Internet4classrooms",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
