@@ -164,10 +164,10 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/1483"
+              "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-asia-quiz"
             }
           },
-          "title" : "Quiz - The Middle East",
+          "title" : "Quiz Asia Capitals",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -181,10 +181,10 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/states-of-the-usa-quiz"
+              "url" : "http:\/\/www.purposegames.com\/game\/1483"
             }
           },
-          "title" : "Quiz - US States",
+          "title" : "Quiz - The Middle East",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -317,10 +317,27 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-asia-quiz"
+              "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-south-america-quiz"
             }
           },
-          "title" : "Quiz Asia Capitals",
+          "title" : "Quiz South America Capitals",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.purposegames.com\/game\/states-of-the-usa-quiz"
+            }
+          },
+          "title" : "Quiz - US States",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -338,23 +355,6 @@
             }
           },
           "title" : "Quiz USA Capitals",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.purposegames.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-south-america-quiz"
-            }
-          },
-          "title" : "Quiz South America Capitals",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
