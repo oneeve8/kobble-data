@@ -106,23 +106,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.webdictionary.co.uk\/index.htm"
-        }
-      },
-      "title" : "Web Dictionary (Browsable)",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.webdictionary.co.uk",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.brainyquote.com\/top_100_quotes"
         }
       },
