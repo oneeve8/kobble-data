@@ -1,5 +1,5 @@
 {
-  "title" : "Great Books",
+  "title" : "Great Books And Classics",
   "subtitle" : "Great Book Classics Archive And Audio",
   "tracks" : [
     {
@@ -26,24 +26,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksummaries",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Shakespeare",
-      "subtitle" : "Gutenberg Archives",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Shakespeare",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Classic Fiction Literature",
-      "subtitle" : "Gutenberg Archive",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Archivedbooks",
         "repo" : "kobble-data"
       }
     },
