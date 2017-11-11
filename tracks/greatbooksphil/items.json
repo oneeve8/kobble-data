@@ -16,6 +16,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/meditations00marcuoft"
+        }
+      },
+      "title" : "Marcus Aurelius",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Meditations",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/AugustineTheWorksNewTranslation"
+        }
+      },
+      "title" : "Saint Augustine ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Complete works ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
