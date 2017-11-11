@@ -84,6 +84,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/librivox.org\/the-meditations-of-marcus-aurelius\/"
+        }
+      },
+      "title" : "Marcus Aurelius Meditations",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "librivox.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/GuideForThePerplexed"
+        }
+      },
+      "title" : "Guide for the Perplexed : Christian Peca",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Maimonides",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
