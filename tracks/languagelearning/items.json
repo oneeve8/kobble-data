@@ -7,7 +7,7 @@
           "url" : "https:\/\/babadum.com\/"
         }
       },
-      "title" : "babadum.com",
+      "title" : "Babadum",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.learnalanguage.com\/"
         }
       },
-      "title" : "www.learnalanguage.com",
+      "title" : "Learn A Language",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
