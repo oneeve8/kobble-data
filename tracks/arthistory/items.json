@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Test Your Memory",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
 
       ]
@@ -22,6 +22,23 @@
         }
       },
       "title" : "Dutch Painters",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.purposegames.com\/game\/543"
+        }
+      },
+      "title" : "www.purposegames.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
