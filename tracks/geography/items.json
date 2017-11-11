@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.apples4theteacher.com\/map-of-usa.html"
+          "url" : "http:\/\/www.worldatlas.com\/"
         }
       },
-      "title" : "USA Capitals",
+      "title" : "World Atlas",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.apples4theteacher.com",
+      "subtitle" : "www.worldatlas.com",
       "expanded" : true,
       "children" : [
 
@@ -55,23 +55,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.harcourtschool.com\/ss1\/choose_state.html"
-        }
-      },
-      "title" : "USA States",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.harcourtschool.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/education.nationalgeographic.com\/education\/mapping\/interactive-map\/?ar_a=1"
         }
       },
@@ -106,14 +89,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usacapquiz.html"
+          "url" : "http:\/\/www.harcourtschool.com\/ss1\/choose_state.html"
         }
       },
-      "title" : "USA Capitals",
+      "title" : "USA States",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.lizardpoint.com",
+      "subtitle" : "www.harcourtschool.com",
       "expanded" : true,
       "children" : [
 
@@ -140,14 +123,31 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.worldatlas.com\/"
+          "url" : "http:\/\/www.apples4theteacher.com\/map-of-usa.html"
         }
       },
-      "title" : "World Atlas",
+      "title" : "USA Capitals",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.worldatlas.com",
+      "subtitle" : "www.apples4theteacher.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usacapquiz.html"
+        }
+      },
+      "title" : "USA Capitals",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.lizardpoint.com",
       "expanded" : true,
       "children" : [
 
