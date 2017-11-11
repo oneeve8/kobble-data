@@ -310,6 +310,74 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/siderealmessenge80gali"
+        }
+      },
+      "title" : "Galileo Galilei",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Sidereal Messenger",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/dialoguesconcern00galiuoft"
+        }
+      },
+      "title" : "Galileo Galilei",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Dialogues Concerning Two New Sciences ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.sacred-texts.com\/astro\/how\/index.htm"
+        }
+      },
+      "title" : "Johannes Kepler",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Harmonies Of The World",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/openlibrary.org\/books\/OL799403M\/Epitome_of_Copernican_astronomy"
+        }
+      },
+      "title" : "Epitome of Copernican Astronomy ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "by Johannes Kepler",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/TheImitationOfChristChalloner"
         }
       },
@@ -412,23 +480,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/on-the-revolutions-of-celestial-spheres"
-        }
-      },
-      "title" : "Nicholas Copernicus",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "On The Revolutions Of The Celestial Spheres",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/sirthomasmoresut00moreuoft"
         }
       },
@@ -505,23 +556,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Essays",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/b22650945"
-        }
-      },
-      "title" : "William Gilbert",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "On The Lodestone And Magnetic Bodies",
       "expanded" : true,
       "children" : [
 
@@ -641,74 +675,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "The Complete Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/siderealmessenge80gali"
-        }
-      },
-      "title" : "Galileo Galilei",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Sidereal Messenger",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/dialoguesconcern00galiuoft"
-        }
-      },
-      "title" : "Galileo Galilei",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Dialogues Concerning Two New Sciences ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/openlibrary.org\/books\/OL799403M\/Epitome_of_Copernican_astronomy"
-        }
-      },
-      "title" : "Epitome of Copernican Astronomy ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "by Johannes Kepler",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.sacred-texts.com\/astro\/how\/index.htm"
-        }
-      },
-      "title" : "Johannes Kepler",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Harmonies Of The World",
       "expanded" : true,
       "children" : [
 
