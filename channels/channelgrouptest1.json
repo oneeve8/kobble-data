@@ -1,5 +1,5 @@
 {
-  "title" : "CG 1 C1",
+  "title" : "CG1 C1",
   "subtitle" : "Channel Group 1 Channel 1",
   "tracks" : [
     {
@@ -13,7 +13,7 @@
     },
     {
       "title" : "CG1 C1 T2",
-      "subtitle" : "Channel 1 Track 2",
+      "subtitle" : "Channel Group 1 Channel 1 Track 2",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/channelgrouptestchannel1track2",
