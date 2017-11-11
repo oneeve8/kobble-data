@@ -1,5 +1,89 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/nicomachean_ethics_ge_librivox"
+        }
+      },
+      "title" : "The Nicomachean Ethics : Aristotle : Fre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Nicomachean Ethics, by A",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/onduties_1503_librivox"
+        }
+      },
+      "title" : "On Duties : Marcus Tullius Cicero : Free",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of On Duties by Marcus Tullius ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/natureofthings_dv_librivox"
+        }
+      },
+      "title" : "On the Nature of Things (Leonard transla",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of On the Nature of Things by T",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/moralia1_1301_librivox"
+        }
+      },
+      "title" : "The Morals (Moralia), Book 1 : Plutarch ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Morals (Moralia), by Plu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/morals2_26_1506_librivox"
+        }
+      },
+      "title" : "The Morals (Moralia), Book 2 : Plutarch ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Morals, Volume 2, by Plu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
