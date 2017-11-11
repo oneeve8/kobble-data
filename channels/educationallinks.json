@@ -66,15 +66,6 @@
       }
     },
     {
-      "title" : "Reading Guides",
-      "subtitle" : "Comprehension And Notes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Readingguides",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Quizzes Online",
       "subtitle" : "Learn By Quiz",
       "track" : {
