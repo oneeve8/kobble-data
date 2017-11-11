@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.gradesaver.com\/alice-in-wonderland\/study-guide\/summary"
+        }
+      },
+      "title" : "Alice In Wonderland",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.gradesaver.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
