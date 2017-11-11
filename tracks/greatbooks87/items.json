@@ -18,23 +18,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/historyofdeclin05gibb"
-        }
-      },
-      "title" : "The history of the decline and fall of t",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "52history Of The Decline And Fall Of The Roman Empire",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/autobiographieso00gibb"
         }
       },
@@ -77,40 +60,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "The Life Of Samuel Johnson",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/life_of_samuel_johnson_vol1_0808_librivox1"
-        }
-      },
-      "title" : "The Life of Samuel Johnson, Vol. 1 : Jam",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Life of Samuel Johnson V",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/life_of_johnson_vol2_1009_librivox"
-        }
-      },
-      "title" : "The Life of Samuel Johnson, Vol. 2 : Jam",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Life of Samuel Johnson, ",
       "expanded" : true,
       "children" : [
 
