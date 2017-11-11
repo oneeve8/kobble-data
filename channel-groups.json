@@ -11,6 +11,15 @@
             "path" : "channels\/cg3c1.json",
             "repo" : "kobble-data"
           }
+        },
+        {
+          "title" : "CG3 C2",
+          "subtitle" : "Channel Group 3 Channel 2",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/cg3c2.json",
+            "repo" : "kobble-data"
+          }
         }
       ],
       "isToggled" : false,
