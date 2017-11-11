@@ -10,6 +10,15 @@
         "path" : "tracks\/kobbletodo",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Study Tools",
+      "subtitle" : "Helpful Tools For Memory And Study",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/studytools",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
