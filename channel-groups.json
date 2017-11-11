@@ -218,20 +218,20 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Classic Literature",
-          "subtitle" : "Gutenberg Archive",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Classicliteraturearchives.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Educational Links",
           "subtitle" : "Open Courseware",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/educationallinks.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Classic Literature",
+          "subtitle" : "Gutenberg Archive",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Classicliteraturearchives.json",
             "repo" : "kobble-data"
           }
         },
