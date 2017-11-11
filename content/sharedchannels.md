@@ -32,7 +32,9 @@ Instructions on how to pray the rosary, guided slideshow meditation prayers thro
 [Rosary](kobble://kobble.io/track?title=Pray%20the%20Rosary&subtitle=The%20Mysteries%20Of%20The%20Rosary&owner=oneeve8&repo=kobble-data&path=tracks/Joyful-Mysteries)
 ***
 
+### Track: Sacred Texts
 
+[Sacred Texts
 
 ## Works in Progress
 
