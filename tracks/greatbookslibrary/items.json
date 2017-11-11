@@ -308,20 +308,6 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Literature",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Literature",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/enquiryconcernin00humeuoft"
