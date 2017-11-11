@@ -34,7 +34,9 @@ Instructions on how to pray the rosary, guided slideshow meditation prayers thro
 
 ### Track: Sacred Texts
 
-[Sacred Texts](kobble://kobble.io/track?title=Sacred%20Texts&subtitle=Links&owner=oneeve8&repo=kobble-data&path=tracks/sacredtexts
+[Sacred Texts](kobble://kobble.io/track?title=Sacred%20Texts&subtitle=Links&owner=oneeve8&repo=kobble-data&path=tracks/sacredtexts)
+
+***
 
 ## Works in Progress
 
