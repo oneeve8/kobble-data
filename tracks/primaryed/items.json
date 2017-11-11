@@ -211,7 +211,7 @@
           "url" : "http:\/\/www.khanacademy.org\/"
         }
       },
-      "title" : "www.khanacademy.org",
+      "title" : "Khan Academy",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
