@@ -233,6 +233,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/b22650945"
+        }
+      },
+      "title" : "William Gilbert",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "On The Lodestone And Magnetic Bodies",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
