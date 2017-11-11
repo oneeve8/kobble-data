@@ -118,6 +118,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.brainyquote.com\/top_100_quotes"
+        }
+      },
+      "title" : "Top 100 Quotes of All Time",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Engage the mind and soul with classic quotations f",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
