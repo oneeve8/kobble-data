@@ -38,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.virtualmusicalinstruments.com\/"
+        }
+      },
+      "title" : "www.virtualmusicalinstruments.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.virtualmusicalinstruments.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.play-the-piano-online.com\/"
         }
       },
@@ -63,6 +80,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.onlinepianist.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/virtualpiano.net\/"
+        }
+      },
+      "title" : "Virtual Piano",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Original Piano App | Virtual Keyboard | Online",
       "expanded" : true,
       "children" : [
 
