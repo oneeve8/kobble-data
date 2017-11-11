@@ -1,5 +1,55 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/allaboutexplorers.com\/"
+        }
+      },
+      "title" : "allaboutexplorers.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "allaboutexplorers.com",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.digitalhistory.uh.edu\/"
+        }
+      },
+      "title" : "www.digitalhistory.uh.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.digitalhistory.uh.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.havefunwithhistory.com\/"
+        }
+      },
+      "title" : "www.havefunwithhistory.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.havefunwithhistory.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
