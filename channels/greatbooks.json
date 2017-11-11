@@ -94,15 +94,6 @@
     },
     {
       "title" : "Great Books",
-      "subtitle" : "Philosophers",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksphil",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
       "subtitle" : "Science",
       "track" : {
         "owner" : "oneeve8",
@@ -125,6 +116,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksenglish",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
+      "subtitle" : "Philosophers",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksphil",
         "repo" : "kobble-data"
       }
     },
