@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/worksofvirgil00vir"
+        }
+      },
+      "title" : "Virgil ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Works",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
