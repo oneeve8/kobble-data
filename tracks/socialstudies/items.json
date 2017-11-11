@@ -357,23 +357,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.history-timelines.org.uk\/"
-        }
-      },
-      "title" : "History Timelines",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.history-timelines.org.uk",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.hyperhistory.com\/online_n2\/History_n2\/a.html"
         }
       },
@@ -408,23 +391,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_time_periods"
-        }
-      },
-      "title" : "Time Periods List",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "en.wikipedia.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.fsmitha.com\/"
         }
       },
@@ -433,23 +399,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.fsmitha.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/architecture.about.com\/cs\/historicperiods\/a\/timeline.htm"
-        }
-      },
-      "title" : "Timeline - Architecture",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Thoughtco",
       "expanded" : true,
       "children" : [
 
@@ -501,6 +450,57 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.renaissanceconnection.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_time_periods"
+        }
+      },
+      "title" : "Time Periods List",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.history-timelines.org.uk\/"
+        }
+      },
+      "title" : "History Timelines",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.history-timelines.org.uk",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/architecture.about.com\/cs\/historicperiods\/a\/timeline.htm"
+        }
+      },
+      "title" : "Timeline - Architecture",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Thoughtco",
       "expanded" : true,
       "children" : [
 
