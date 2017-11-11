@@ -216,6 +216,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/on-the-revolutions-of-celestial-spheres"
+        }
+      },
+      "title" : "Nicholas Copernicus",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "On The Revolutions Of The Celestial Spheres",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
