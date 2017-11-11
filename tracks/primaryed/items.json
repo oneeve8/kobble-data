@@ -143,7 +143,7 @@
           "url" : "http:\/\/www.pbs.org\/wgbh\/nova\/"
         }
       },
-      "title" : "www.pbs.org",
+      "title" : "PBS",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -160,7 +160,7 @@
           "url" : "http:\/\/www.neok12.com\/"
         }
       },
-      "title" : "www.neok12.com",
+      "title" : "Neok12",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
