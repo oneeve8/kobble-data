@@ -203,6 +203,57 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/science.howstuffworks.com\/"
+        }
+      },
+      "title" : "science.howstuffworks.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "science.howstuffworks.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_inventors"
+        }
+      },
+      "title" : "Inventors List",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.khanacademy.org\/"
+        }
+      },
+      "title" : "www.khanacademy.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.khanacademy.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
