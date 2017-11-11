@@ -442,6 +442,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.socialstudiesforkids.com\/"
+        }
+      },
+      "title" : "Social Studies For Kids",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.socialstudiesforkids.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/smarthistory.khanacademy.org\/"
         }
       },
@@ -501,23 +518,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "American History www.havefunwithhistory.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.socialstudiesforkids.com\/"
-        }
-      },
-      "title" : "Social Studies For Kids",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.socialstudiesforkids.com",
       "expanded" : true,
       "children" : [
 
