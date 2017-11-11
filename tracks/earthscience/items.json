@@ -123,6 +123,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/geology.com\/"
+        }
+      },
+      "title" : "geology.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "geology.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.eldoradocountyweather.com\/satellite\/ssec\/world\/world-composite-ir-sat.html"
         }
       },
@@ -148,23 +165,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.purposegames.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/geology.com\/"
-        }
-      },
-      "title" : "geology.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "geology.com",
       "expanded" : true,
       "children" : [
 
