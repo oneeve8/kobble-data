@@ -21,40 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/illiad_0801_librivox3"
-        }
-      },
-      "title" : "The Iliad : Homer : Free Download & Stre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Homer",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/oedipus_rex_1008_librivox"
-        }
-      },
-      "title" : "Oedipus Rex : Sophocles : Free Download ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Oedipus Rex, by Sophocles. O",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/herodotus_histories1_0811_librivox1"
         }
       },
@@ -106,57 +72,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/medea_1204_librivox"
-        }
-      },
-      "title" : "Medea : Euripides : Free Download & Stre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Medea by Euripides, translat",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/thebacchae_1011_librivox"
-        }
-      },
-      "title" : "The Bacchae : Euripides : Free Download ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Bacchae by Euripides, tr",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/hippolytus_1209_librivox"
-        }
-      },
-      "title" : "Hippolytus : Euripides : Free Download &",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Hippolytus by Euripides, tra",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/history_peloponnesian_war_librivox"
         }
       },
@@ -165,91 +80,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Librivox recording of The History of the Peloponne",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/clouds_1506_librivox"
-        }
-      },
-      "title" : "The Clouds : Aristophanes : Free Downloa",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Clouds, by Aristophanes.",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/the_frogs_1310_librivox"
-        }
-      },
-      "title" : "The Frogs : Aristophanes : Free Download",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Frogs by Aristophanes. R",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/platos_republic_0902_librivox1"
-        }
-      },
-      "title" : "Plato",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Plato",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/meno_cc_librivox"
-        }
-      },
-      "title" : "Meno : Plato : Free Download & Streaming",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of MENO, by Plato. Read by Chiq",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/nicomachean_ethics_ge_librivox"
-        }
-      },
-      "title" : "The Nicomachean Ethics : Aristotle : Fre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Nicomachean Ethics, by A",
       "expanded" : true,
       "children" : [
 
@@ -284,57 +114,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Librivox recording of Poetics, by Aristotle. Read ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/onduties_1503_librivox"
-        }
-      },
-      "title" : "On Duties : Marcus Tullius Cicero : Free",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of On Duties by Marcus Tullius ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/natureofthings_dv_librivox"
-        }
-      },
-      "title" : "On the Nature of Things (Leonard transla",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of On the Nature of Things by T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/aeneid_0810_librivox1"
-        }
-      },
-      "title" : "The Aeneid, translated by John Dryden : ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Vergil",
       "expanded" : true,
       "children" : [
 
@@ -437,40 +216,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of Parallel Lives of the Noble ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/moralia1_1301_librivox"
-        }
-      },
-      "title" : "The Morals (Moralia), Book 1 : Plutarch ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Morals (Moralia), by Plu",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/morals2_26_1506_librivox"
-        }
-      },
-      "title" : "The Morals (Moralia), Book 2 : Plutarch ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Morals, Volume 2, by Plu",
       "expanded" : true,
       "children" : [
 
