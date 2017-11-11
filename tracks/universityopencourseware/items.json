@@ -21,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.marcandangel.com\/2010\/11\/15\/12-dozen-places-to-self-educate-yourself-online\/"
-        }
-      },
-      "title" : "www.marcandangel.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.marcandangel.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.learner.org\/resources\/series123.html#program_descriptions"
         }
       },
