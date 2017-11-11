@@ -41,7 +41,7 @@
           "url" : "http:\/\/sat.collegeboard.org\/practice\/sat-practice-test"
         }
       },
-      "title" : "sat.collegeboard.org",
+      "title" : "SAT Official Site (Practice Test)",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
