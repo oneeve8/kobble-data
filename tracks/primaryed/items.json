@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.avesta.org\/"
+        }
+      },
+      "title" : "www.avesta.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.avesta.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/dltk-holidays.com\/"
         }
       },
