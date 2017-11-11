@@ -23,10 +23,8 @@ Curated links to educational websites. Open Courseware, Open Universities, compu
 ### Channel: Art & Creativity
 A curated selection of artistic tools and information links. Color theory information, graphic tools, online graphic generators, meme generators, image generators, gif generators, online drawing tools, art history links, museum links.   
 
-[Art and Creativity](oneeve8 would like to share a ch
-kobble://kobble.io/channel?title=Art%20And%20Creativity&subtitle=Color%20Tools%20Art%20History%20Museums&owner=oneeve8&repo=kobble-data&path=channels/artandcreativity.json)
+[Art and Creativity](kobble://kobble.io/channel?title=Art%20And%20Creativity&subtitle=Color%20Tools%20Art%20History%20Museums&owner=oneeve8&repo=kobble-data&path=channels/artandcreativity.json)
 
-[Art Museums](kobble://kobble.io/channel?title=Art%20Museums&subtitle=Art%20Museums&owner=oneeve8&repo=kobble-data&path=channels/
 ***
 
 ### Track: Rosary
