@@ -4,6 +4,15 @@
   "tracks" : [
     {
       "title" : "Great Books Audio",
+      "subtitle" : "Audio Romans",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksaudioromans",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books Audio",
       "subtitle" : "Audio Greeks",
       "track" : {
         "owner" : "oneeve8",
