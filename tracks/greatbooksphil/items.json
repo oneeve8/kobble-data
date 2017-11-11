@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/discoursesofepic033057mbp"
+        }
+      },
+      "title" : "Epictetus ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Discourses",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
