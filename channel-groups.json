@@ -236,6 +236,15 @@
           }
         },
         {
+          "title" : "Great Books Audio",
+          "subtitle" : "Archive",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooksaudioarchive.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Great Books And Classics",
           "subtitle" : "Great Book Classics Archive And Audio",
           "channel" : {
