@@ -7,28 +7,11 @@
           "url" : "http:\/\/www.avesta.org\/"
         }
       },
-      "title" : "www.avesta.org",
+      "title" : "Avesta",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.avesta.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/crain.english.missouriwestern.edu\/bible_as_literature\/"
-        }
-      },
-      "title" : "crain.english.missouriwestern.edu",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "crain.english.missouriwestern.edu",
       "expanded" : true,
       "children" : [
 
