@@ -137,7 +137,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/2d-shapes-quiz"
             }
           },
-          "title" : "2D Shapes",
+          "title" : "Quiz - 2D Shapes",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
