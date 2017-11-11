@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Learn Countries States Capitals",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
         {
           "data" : {
@@ -175,7 +175,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Memory Quiz",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
