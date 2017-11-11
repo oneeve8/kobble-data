@@ -269,7 +269,7 @@
               "url" : "http:\/\/rubistar.4teachers.org\/index.php?screen=NewRubric&section_id=7#07"
             }
           },
-          "title" : "rubistar.4teachers.org",
+          "title" : "Rubistar 4teachers",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -286,7 +286,7 @@
               "url" : "https:\/\/classroom.google.com\/"
             }
           },
-          "title" : "classroom.google.com",
+          "title" : "Google Classroom",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
