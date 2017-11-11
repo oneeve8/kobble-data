@@ -1,5 +1,18 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Folder 1",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Folder 1",
+      "expanded" : false,
+      "children" : [
 
+      ]
+    }
   ]
 }
