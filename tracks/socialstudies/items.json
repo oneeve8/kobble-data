@@ -254,6 +254,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.historyworld.net\/timesearch\/default.asp?conid=1063"
+        }
+      },
+      "title" : "Timeline - World History",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.historyworld.net",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.archives.gov\/exhibits\/charters\/bill_of_rights_zoom_1.html"
+        }
+      },
+      "title" : "www.archives.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.archives.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
