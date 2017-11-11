@@ -292,7 +292,7 @@
           "url" : "https:\/\/www.youtube.com\/user\/AllHistories"
         }
       },
-      "title" : "AllHistories",
+      "title" : "Videos AllHistories",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
