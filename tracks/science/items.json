@@ -407,23 +407,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.srh.noaa.gov\/srh\/jetstream\/"
-        }
-      },
-      "title" : "www.srh.noaa.gov",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.srh.noaa.gov",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
