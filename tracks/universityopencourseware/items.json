@@ -237,6 +237,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/podcast.ucsd.edu\/default.aspx"
+        }
+      },
+      "title" : "podcast.ucsd.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "podcast.ucsd.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.pce.uw.edu\/online\/free-online-courses"
+        }
+      },
+      "title" : "www.pce.uw.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.pce.uw.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
