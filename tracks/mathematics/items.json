@@ -24,11 +24,28 @@
           "url" : "http:\/\/math.com\/school\/glossary\/glossindex.html"
         }
       },
-      "title" : "math.com",
+      "title" : "Glossary Of Formulas And Terms",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "math.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/mathwords.com\/a_to_z.htm"
+        }
+      },
+      "title" : "Glossary Of Terms",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "mathwords.com",
       "expanded" : true,
       "children" : [
 
