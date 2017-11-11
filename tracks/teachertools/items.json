@@ -249,23 +249,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/appsforhomeschooling.com\/"
-            }
-          },
-          "title" : "appsforhomeschooling.com",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "appsforhomeschooling.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "https:\/\/toggl.com\/"
             }
           },
