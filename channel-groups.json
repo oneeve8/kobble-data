@@ -324,14 +324,6 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : true,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Sports News"
-    },
-    {
       "isShowing" : false,
       "channels" : [
         {
