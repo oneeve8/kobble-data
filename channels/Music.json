@@ -3,6 +3,15 @@
   "subtitle" : "Online Instruments, Reading Notes",
   "tracks" : [
     {
+      "title" : "Music Appreciation",
+      "subtitle" : "Music History, Reading Notes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/musicappreciation",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Music Instruments Online",
       "subtitle" : "Links",
       "track" : {
