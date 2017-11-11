@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
-        }
-      },
-      "title" : "Thucydides ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Complete Writings",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
