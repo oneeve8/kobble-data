@@ -215,23 +215,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/46"
-            }
-          },
-          "title" : "Quiz USA Capitals",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.purposegames.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/www.purposegames.com\/game\/396"
             }
           },
