@@ -118,6 +118,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/summa_1_01_jr_0901_librivox"
+        }
+      },
+      "title" : "Summa Theologica, Prima Pars, Initial Qu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Summa Theologica, Prima Pars",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/imitation_of_christ_librivox"
+        }
+      },
+      "title" : "The Imitation of Christ : Thomas a Kempi",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A LibriVox recording of The Imitation of Christ, b",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
