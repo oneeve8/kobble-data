@@ -279,7 +279,7 @@
           "url" : "http:\/\/puzzlemaker.discoveryeducation.com\/WordSearchSetupForm.asp?campaign=flyout_teachers_puzzle_wordcross"
         }
       },
-      "title" : "puzzlemaker.discoveryeducation.com",
+      "title" : "Word Search Puzzlemaker",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
