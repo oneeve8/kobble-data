@@ -12,8 +12,8 @@
       }
     },
     {
-      "title" : "Channel 2 Track 2",
-      "subtitle" : "Channel 2 Track 2",
+      "title" : "CG1 C2 T2",
+      "subtitle" : "Channel Group 1 Channel 2 Track 2",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/channelgrouptestchannel2track2",
