@@ -4,7 +4,7 @@
   "tracks" : [
     {
       "title" : "Great Books Audio",
-      "subtitle" : "Audio Romans",
+      "subtitle" : "Audio Roman Authors",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksaudioromans",
@@ -13,7 +13,7 @@
     },
     {
       "title" : "Great Books Audio",
-      "subtitle" : "Audio Greeks",
+      "subtitle" : "Audio Greek Authors",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksaudiogreeks",
