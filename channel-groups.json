@@ -485,7 +485,7 @@
         },
         {
           "title" : "Channel 1",
-          "subtitle" : "Channel1",
+          "subtitle" : "Channel 1",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/channelgrouptest1.json",
