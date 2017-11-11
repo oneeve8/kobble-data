@@ -291,20 +291,6 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Science",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Science",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/hobbessleviathan00hobbuoft"
@@ -407,36 +393,83 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/scepticalchymist00boylrich"
-        }
+        "tag" : "UI.Track.NoData"
       },
-      "title" : "Boyle, Robert",
+      "title" : "Science",
       "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
+        "tag" : "UI.ContentViews.Views.FolderView"
       },
-      "subtitle" : "The Sceptical Chymist",
+      "subtitle" : "Science",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
+            }
+          },
+          "title" : "Sir Isaac Newton",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Principia",
+          "expanded" : true,
+          "children" : [
 
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/treatiseonlight031310mbp"
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/Optics_285"
+            }
+          },
+          "title" : "Sir Isaac Newton ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Optics",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/scepticalchymist00boylrich"
+            }
+          },
+          "title" : "Boyle, Robert",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "The Sceptical Chymist",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/treatiseonlight031310mbp"
+            }
+          },
+          "title" : "Huygens, Christiaan ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Treatise On Light",
+          "expanded" : true,
+          "children" : [
+
+          ]
         }
-      },
-      "title" : "Huygens, Christiaan ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Treatise On Light",
-      "expanded" : true,
-      "children" : [
-
       ]
     },
     {
@@ -502,40 +535,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Athalie",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Optics_285"
-        }
-      },
-      "title" : "Sir Isaac Newton ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Optics",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/newtonspmathema00newtrich"
-        }
-      },
-      "title" : "Sir Isaac Newton",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Principia",
       "expanded" : true,
       "children" : [
 
