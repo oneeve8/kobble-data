@@ -3,6 +3,15 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "Mathematics",
+      "subtitle" : "Mathematics Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/mathematics",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Geography",
       "subtitle" : "Study And Quiz For Memory",
       "track" : {
