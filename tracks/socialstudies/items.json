@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Test Your Memory",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
@@ -292,7 +292,7 @@
           "url" : "http:\/\/allaboutexplorers.com\/"
         }
       },
-      "title" : "allaboutexplorers.com",
+      "title" : "Explorers",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -309,7 +309,7 @@
           "url" : "http:\/\/www.digitalhistory.uh.edu\/"
         }
       },
-      "title" : "www.digitalhistory.uh.edu",
+      "title" : "Digital History",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
