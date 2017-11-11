@@ -9,9 +9,110 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Learning Styles And Techniques",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/en.wikipedia.org\/wiki\/Education_theory"
+            }
+          },
+          "title" : "en.wikipedia.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "en.wikipedia.org",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.teachersgarden.com\/professionalresources\/learningtheorists.html"
+            }
+          },
+          "title" : "www.teachersgarden.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.teachersgarden.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.teachersgarden.com\/professionalresources\/learningtheorists.html"
+            }
+          },
+          "title" : "www.teachersgarden.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.teachersgarden.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/en.wikipedia.org\/wiki\/Learning_styles"
+            }
+          },
+          "title" : "en.wikipedia.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "en.wikipedia.org",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.edutopia.org\/multiple-intelligences-learning-styles-quiz"
+            }
+          },
+          "title" : "www.edutopia.org",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.edutopia.org",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/simplycharlottemason.com\/what-is-the-charlotte-mason-method\/"
+            }
+          },
+          "title" : "What is the Charlotte Mason Method? — Si",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "A brief summary Charlotte Mason, the Charlotte Mas",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        }
       ]
     },
     {
