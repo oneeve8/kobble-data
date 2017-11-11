@@ -48,15 +48,6 @@
       }
     },
     {
-      "title" : "Shakespeare",
-      "subtitle" : "Gutenberg Archives",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Shakespeare",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Educational Subscriptions",
       "subtitle" : "Links",
       "track" : {
