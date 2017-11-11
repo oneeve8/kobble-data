@@ -126,11 +126,28 @@
           "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usaquiz.html"
         }
       },
-      "title" : "www.lizardpoint.com",
+      "title" : "USA States",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.lizardpoint.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.worldatlas.com\/"
+        }
+      },
+      "title" : "World Atlas",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.worldatlas.com",
       "expanded" : true,
       "children" : [
 
