@@ -75,7 +75,7 @@
           "url" : "http:\/\/earthobservatory.nasa.gov\/"
         }
       },
-      "title" : "earthobservatory.nasa.gov",
+      "title" : "Earth Observatory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
