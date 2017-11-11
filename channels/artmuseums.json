@@ -2,14 +2,6 @@
   "title" : "Art Museums",
   "subtitle" : "Art Museums",
   "tracks" : [
-    {
-      "title" : "Art Museums",
-      "subtitle" : "Museums With An Online Presence",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/artmuseums",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
