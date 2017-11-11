@@ -41,7 +41,7 @@
           "url" : "http:\/\/www.refseek.com\/directory\/dictionaries.html"
         }
       },
-      "title" : "www.refseek.com",
+      "title" : "Reference Links",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.rhymezone.com\/"
         }
       },
-      "title" : "www.rhymezone.com",
+      "title" : "Rhyme Zone",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
