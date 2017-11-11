@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Learning Styles And Techniques",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
@@ -194,23 +194,6 @@
       "subtitle" : "Teacher Resources",
       "expanded" : true,
       "children" : [
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "http:\/\/www.free.ed.gov\/"
-            }
-          },
-          "title" : "www.free.ed.gov",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.free.ed.gov",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
