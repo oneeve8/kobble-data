@@ -395,23 +395,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/in.ernet.dli.2015.126720"
-        }
-      },
-      "title" : "Pascal, Blaise",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Provincial Letters, Penses, Scientific Treatises",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/scepticalchymist00boylrich"
         }
       },
@@ -454,23 +437,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Chief Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/toleration"
-        }
-      },
-      "title" : "John Locke",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "A Letter Concerning Toleration",
       "expanded" : true,
       "children" : [
 
