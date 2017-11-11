@@ -194,7 +194,7 @@
           "url" : "http:\/\/www.nationalgeographic.com\/"
         }
       },
-      "title" : "www.nationalgeographic.com",
+      "title" : "National Geographic",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
