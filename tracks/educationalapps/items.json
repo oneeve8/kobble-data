@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/itunes.apple.com\/nz\/app\/monster-physics\/id505046678?mt=8"
+        }
+      },
+      "title" : "Monster Physics® on the App Store",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Read reviews, compare customer ratings, see screen",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
