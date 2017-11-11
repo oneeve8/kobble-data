@@ -52,7 +52,7 @@
               "url" : "http:\/\/en.wikipedia.org\/wiki\/Waldorf_education"
             }
           },
-          "title" : "en.wikipedia.org",
+          "title" : "Waldorf Education",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -69,7 +69,7 @@
               "url" : "http:\/\/en.wikipedia.org\/wiki\/Unschooling"
             }
           },
-          "title" : "en.wikipedia.org",
+          "title" : "Unschooling",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
