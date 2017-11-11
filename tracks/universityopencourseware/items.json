@@ -211,7 +211,7 @@
           "url" : "http:\/\/ocw.uci.edu\/courses\/?cat=7"
         }
       },
-      "title" : "ocw.uci.edu",
+      "title" : "UCI Open",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
