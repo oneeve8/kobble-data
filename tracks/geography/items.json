@@ -2,19 +2,32 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.worldatlas.com\/"
-        }
+        "tag" : "UI.Track.NoData"
       },
-      "title" : "World Atlas",
+      "title" : "Study",
       "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
+        "tag" : "UI.ContentViews.Views.FolderView"
       },
-      "subtitle" : "www.worldatlas.com",
+      "subtitle" : "Learn Countries States Capitals",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.worldatlas.com\/"
+            }
+          },
+          "title" : "World Atlas",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.worldatlas.com",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        }
       ]
     },
     {
