@@ -475,6 +475,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Channel 2",
+          "subtitle" : "Channel 2",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/channelgrouptest2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Channel 1",
           "subtitle" : "Channel1",
           "channel" : {
