@@ -4,7 +4,7 @@
   "tracks" : [
     {
       "title" : "Geography",
-      "subtitle" : "Quiz For Memory",
+      "subtitle" : "Study And Quiz For Memory",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/geography",
@@ -44,15 +44,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/educationalvideochannels",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Writing Workshop",
-      "subtitle" : "Links For Writers",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/writingworkshop",
         "repo" : "kobble-data"
       }
     },
