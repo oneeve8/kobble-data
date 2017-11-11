@@ -7,11 +7,28 @@
           "url" : "http:\/\/www.studystack.com\/"
         }
       },
-      "title" : "www.studystack.com",
+      "title" : "Studystack",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.studystack.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/classroom.google.com\/"
+        }
+      },
+      "title" : "Google Classroom",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "classroom.google.com",
       "expanded" : true,
       "children" : [
 
