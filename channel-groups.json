@@ -259,51 +259,6 @@
             "path" : "channels\/artandcreativity.json",
             "repo" : "kobble-data"
           }
-        },
-        {
-          "title" : "Color",
-          "subtitle" : "Color Theory And Color Tools",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Color.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Graphic Tools",
-          "subtitle" : "Online Graphic Generators",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/graphictools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Online Creativity",
-          "subtitle" : "Memes, Images, Gifs, Art Tools",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Coolonlinetools.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art History",
-          "subtitle" : "Paintings And Artists",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Art.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art Museums",
-          "subtitle" : "Art Museums",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artmuseums.json",
-            "repo" : "kobble-data"
-          }
         }
       ],
       "isToggled" : false,
