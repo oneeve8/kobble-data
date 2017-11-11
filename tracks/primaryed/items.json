@@ -67,6 +67,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.discoveryeducation.com\/teachers\/"
+        }
+      },
+      "title" : "www.discoveryeducation.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.discoveryeducation.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
