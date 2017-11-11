@@ -177,6 +177,23 @@
           "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-europe-quiz"
         }
       },
+      "title" : "Quiz Europe Capitals",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-asia-quiz"
+        }
+      },
       "title" : "www.purposegames.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
