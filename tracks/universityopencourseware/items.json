@@ -339,6 +339,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.worldscienceu.com\/"
+        }
+      },
+      "title" : "www.worldscienceu.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.worldscienceu.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/oyc.yale.edu\/"
+        }
+      },
+      "title" : "oyc.yale.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "oyc.yale.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
