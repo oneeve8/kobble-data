@@ -58,7 +58,7 @@
           "url" : "http:\/\/webcast.berkeley.edu\/"
         }
       },
-      "title" : "webcast.berkeley.edu",
+      "title" : "Berkeley",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
