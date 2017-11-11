@@ -215,23 +215,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/thepioneerwoman.com\/homeschooling\/2012\/12\/free-online-educational-resources\/"
-            }
-          },
-          "title" : "thepioneerwoman.com",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "thepioneerwoman.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/www.internet4classrooms.com\/index.htm"
             }
           },
