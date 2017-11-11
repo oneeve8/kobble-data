@@ -18,10 +18,27 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.purposegames.com\/game\/seven-wonders-of-ancient-world-quiz"
+          "url" : "http:\/\/www.purposegames.com\/game\/1325"
         }
       },
       "title" : "www.purposegames.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.purposegames.com\/game\/seven-wonders-of-ancient-world-quiz"
+        }
+      },
+      "title" : "Quiz - 7 Wonders",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
