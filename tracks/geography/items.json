@@ -184,7 +184,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/spanish-speaking-countries-quiz"
             }
           },
-          "title" : "www.purposegames.com",
+          "title" : "Quiz - Spanish Speaking Countries",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
