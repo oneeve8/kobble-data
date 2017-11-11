@@ -399,14 +399,6 @@
 
       ],
       "isToggled" : false,
-      "name" : "Links"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
       "name" : "Music"
     },
     {
