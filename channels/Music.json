@@ -2,6 +2,14 @@
   "title" : "Music",
   "subtitle" : "Online Instruments, Reading Notes",
   "tracks" : [
-
+    {
+      "title" : "Music Instruments Online",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/musicinstrumentsonline",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
