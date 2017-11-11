@@ -41,7 +41,7 @@
           "url" : "http:\/\/www.rhymezone.com\/"
         }
       },
-      "title" : "www.rhymezone.com",
+      "title" : "Rhymezone",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "http:\/\/spellingcity.com\/"
         }
       },
-      "title" : "spellingcity.com",
+      "title" : "Spellingcity",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
