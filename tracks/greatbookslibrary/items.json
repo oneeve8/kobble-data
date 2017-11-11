@@ -548,23 +548,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/ataleatubwritte01swifgoog"
-        }
-      },
-      "title" : "Jonathan Swift",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "A Tale of a Tub",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/wayofworldcomedy00cong_1"
         }
       },
@@ -723,7 +706,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Literature",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
 
       ]
