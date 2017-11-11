@@ -118,6 +118,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/iswa.gsfc.nasa.gov:8080\/IswaSystemWebApp\/iSWACygnetStreamer?timestamp=2038-01-23+00%3A44%3A00&window=-1&cygnetId=261"
+        }
+      },
+      "title" : "iswa.gsfc.nasa.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "iswa.gsfc.nasa.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/grb.sonoma.edu\/"
+        }
+      },
+      "title" : "grb.sonoma.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "grb.sonoma.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
