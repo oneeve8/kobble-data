@@ -326,7 +326,7 @@
           "url" : "http:\/\/www.havefunwithhistory.com\/"
         }
       },
-      "title" : "www.havefunwithhistory.com",
+      "title" : "Have Fun With History",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -343,7 +343,7 @@
           "url" : "http:\/\/www.history.com\/topics"
         }
       },
-      "title" : "www.history.com",
+      "title" : "History.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
