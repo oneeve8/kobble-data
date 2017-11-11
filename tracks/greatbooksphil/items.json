@@ -135,6 +135,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/cu31924030435659"
+        }
+      },
+      "title" : "Machiavelli",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Discourses on the first decade of Titus ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/princemac00machuoft"
+        }
+      },
+      "title" : "Machiavelli",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Prince",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
