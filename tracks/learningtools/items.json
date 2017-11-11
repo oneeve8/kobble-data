@@ -24,7 +24,7 @@
           "url" : "http:\/\/puzzlemaker.discoveryeducation.com\/CrissCrossSetupForm.asp"
         }
       },
-      "title" : "puzzlemaker.discoveryeducation.com",
+      "title" : "Puzzlemaker",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
