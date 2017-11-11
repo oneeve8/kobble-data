@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.hawes.com\/pastlist.htm"
         }
       },
-      "title" : "www.hawes.com",
+      "title" : "NY Times",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
