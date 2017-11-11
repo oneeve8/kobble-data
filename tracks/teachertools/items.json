@@ -4,6 +4,20 @@
       "data" : {
         "tag" : "UI.Track.NoData"
       },
+      "title" : "Educational Theories",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Learning Styles And Techniques",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
       "title" : "Resources",
       "view" : {
         "tag" : "UI.ContentViews.Views.FolderView"
