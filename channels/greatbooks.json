@@ -85,6 +85,15 @@
     },
     {
       "title" : "Great Books",
+      "subtitle" : "Histories",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Greatbookshistories",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Great Books",
       "subtitle" : "Romans",
       "track" : {
         "owner" : "oneeve8",
