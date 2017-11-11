@@ -169,6 +169,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/erasmusinpraiseo00erasiala"
+        }
+      },
+      "title" : "Erasmus ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "In Praise Of Folly And Other Works",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/sirthomasmoresut00moreuoft"
+        }
+      },
+      "title" : "Sir Thomas More",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Utopia",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
