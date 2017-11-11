@@ -41,7 +41,7 @@
           "url" : "https:\/\/www.canvas.net\/"
         }
       },
-      "title" : "www.canvas.net",
+      "title" : "Canvas Network",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
