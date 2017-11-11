@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.oed.com\/public\/browse\/browsing"
         }
       },
-      "title" : "www.oed.com",
+      "title" : "Oxford English Dictionary",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
