@@ -217,14 +217,6 @@
     {
       "isShowing" : true,
       "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Work In Progress"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
         {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
