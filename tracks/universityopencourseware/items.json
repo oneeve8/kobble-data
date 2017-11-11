@@ -364,11 +364,28 @@
           "url" : "http:\/\/oyc.yale.edu\/"
         }
       },
-      "title" : "oyc.yale.edu",
+      "title" : "Yale",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "oyc.yale.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.khanacademy.org\/"
+        }
+      },
+      "title" : "www.khanacademy.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.khanacademy.org",
       "expanded" : true,
       "children" : [
 
