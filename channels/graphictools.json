@@ -2,14 +2,6 @@
   "title" : "Graphic Tools",
   "subtitle" : "Online Graphic Generators",
   "tracks" : [
-    {
-      "title" : "Graphic Generators",
-      "subtitle" : "Online Tools",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/graphicgenerators",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
