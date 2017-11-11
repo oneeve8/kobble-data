@@ -126,7 +126,7 @@
           "url" : "http:\/\/www.sacred-destinations.com\/"
         }
       },
-      "title" : "www.sacred-destinations.com",
+      "title" : "Sacred Destinations",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
