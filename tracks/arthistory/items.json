@@ -15,6 +15,57 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
+              "url" : "http:\/\/www.purposegames.com\/game\/543"
+            }
+          },
+          "title" : "Quiz - Masters",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.purposegames.com\/game\/surrealism-paintings-quiz"
+            }
+          },
+          "title" : "Quiz - Surrealism",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.purposegames.com\/game\/dutch-painters-of-the-golden-age-quiz"
+            }
+          },
+          "title" : "Quiz - Dutch Painters",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
               "url" : "http:\/\/www.purposegames.com\/game\/famous-renaissance-paintings-quiz"
             }
           },
@@ -35,7 +86,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/pop-art-since-1950s-quiz"
             }
           },
-          "title" : "www.purposegames.com",
+          "title" : "Quiz - Pop Art",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -45,57 +96,6 @@
 
           ]
         }
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.purposegames.com\/game\/dutch-painters-of-the-golden-age-quiz"
-        }
-      },
-      "title" : "Quiz - Dutch Painters",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.purposegames.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.purposegames.com\/game\/surrealism-paintings-quiz"
-        }
-      },
-      "title" : "Quiz - Surrealism",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.purposegames.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.purposegames.com\/game\/543"
-        }
-      },
-      "title" : "Quiz - Masters",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.purposegames.com",
-      "expanded" : true,
-      "children" : [
-
       ]
     },
     {
