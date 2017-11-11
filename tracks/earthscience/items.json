@@ -152,6 +152,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.eldoradocountyweather.com\/satellite\/ssec\/world\/world-composite-ir-sat.html"
+        }
+      },
+      "title" : "Global Montage",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.eldoradocountyweather.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
