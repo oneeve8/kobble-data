@@ -186,6 +186,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/online.nd.edu\/what-we-do\/"
+        }
+      },
+      "title" : "online.nd.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "online.nd.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.open.edu\/openlearn\/history-the-arts"
+        }
+      },
+      "title" : "www.open.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.open.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
