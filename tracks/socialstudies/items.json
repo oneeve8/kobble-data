@@ -496,7 +496,7 @@
           "url" : "http:\/\/smarthistory.khanacademy.org\/"
         }
       },
-      "title" : "smarthistory.khanacademy.org",
+      "title" : "Smarthistory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
