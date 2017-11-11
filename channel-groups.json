@@ -63,6 +63,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "To Do List",
+          "subtitle" : "To Do List",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Todolist.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "My Online Presence",
           "subtitle" : "Links To My Sites",
           "channel" : {
@@ -190,15 +199,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "To Do List",
-          "subtitle" : "To Do List",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Todolist.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Personal ",
           "subtitle" : "Projects",
