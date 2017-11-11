@@ -347,7 +347,7 @@
           "url" : "http:\/\/www.worldscienceu.com\/"
         }
       },
-      "title" : "www.worldscienceu.com",
+      "title" : "WorldscienceU",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
