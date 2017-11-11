@@ -3,8 +3,8 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
-      "title" : "Mathematics",
-      "subtitle" : "Mathematics Links",
+      "title" : "Mathematics Tools",
+      "subtitle" : "Mathematics Tools Links",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/mathematics",
