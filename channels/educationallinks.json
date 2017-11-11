@@ -3,6 +3,15 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "Educational Subscriptions",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Subscriptionlearning",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Teacher Tools",
       "subtitle" : "Online Tools For Teachers",
       "track" : {
