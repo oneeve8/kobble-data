@@ -16,6 +16,23 @@
     },
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.wikipedia.org\/wiki\/Hummingbird"
+        }
+      },
+      "title" : "en.wikipedia.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.NoData"
       },
       "title" : "Butterflies2",
