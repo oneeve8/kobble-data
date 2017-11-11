@@ -236,6 +236,15 @@
           }
         },
         {
+          "title" : "Literature Guides",
+          "subtitle" : "Comprehension Notes Summaries Reviews",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/literatureguides.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Great Books Audio",
           "subtitle" : "Archive",
           "channel" : {
