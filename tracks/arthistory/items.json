@@ -11,7 +11,23 @@
       "subtitle" : "Test Your Memory",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.purposegames.com\/game\/famous-renaissance-paintings-quiz"
+            }
+          },
+          "title" : "Quiz - Renaissance Paintings",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        }
       ]
     },
     {
