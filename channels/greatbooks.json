@@ -3,6 +3,15 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
+      "title" : "Reading Guides",
+      "subtitle" : "Comprehension And Notes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Readingguides",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Shakespeare",
       "subtitle" : "Gutenberg Archives",
       "track" : {
