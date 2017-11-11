@@ -126,11 +126,45 @@
           "url" : "http:\/\/www.sciencekids.co.nz\/experiments.html"
         }
       },
-      "title" : "www.sciencekids.co.nz",
+      "title" : "Experiments",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.sciencekids.co.nz",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.famousscientists.org\/"
+        }
+      },
+      "title" : "www.famousscientists.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.famousscientists.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/freescienceonline.blogspot.co.nz\/"
+        }
+      },
+      "title" : "freescienceonline.blogspot.co.nz",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "freescienceonline.blogspot.co.nz",
       "expanded" : true,
       "children" : [
 
