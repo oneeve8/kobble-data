@@ -126,11 +126,28 @@
           "url" : "http:\/\/www.gradesaver.com\/anna-karenina"
         }
       },
-      "title" : "www.gradesaver.com",
+      "title" : "Anna Karenina",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.gradesaver.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.sparknotes.com\/lit\/anna\/"
+        }
+      },
+      "title" : "www.sparknotes.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.sparknotes.com",
       "expanded" : true,
       "children" : [
 
