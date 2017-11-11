@@ -86,7 +86,7 @@
               "url" : "http:\/\/en.wikipedia.org\/wiki\/Montessori_education"
             }
           },
-          "title" : "en.wikipedia.org",
+          "title" : "Montessori Education",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
