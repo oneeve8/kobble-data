@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksofarchimede00arch"
-        }
-      },
-      "title" : "Archimedes ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
