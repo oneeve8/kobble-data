@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/ebookfriendly.com\/free-public-domain-books-sources\/"
+        }
+      },
+      "title" : "ebookfriendly.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "ebookfriendly.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.gutenberg.org\/"
         }
       },
@@ -12,6 +29,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Project Gutenberg offers free ebooks to download.",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.gutenberg.org\/files\/11\/11-h\/11-h.htm"
+        }
+      },
+      "title" : "Alice In Wonderland",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.gutenberg.org",
       "expanded" : true,
       "children" : [
 
