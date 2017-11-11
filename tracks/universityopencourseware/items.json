@@ -109,7 +109,7 @@
           "url" : "https:\/\/cnx.org\/"
         }
       },
-      "title" : "cnx.org",
+      "title" : "Open Stax",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
