@@ -35,6 +35,23 @@
               "children" : [
                 {
                   "data" : {
+                    "tag" : "UI.Track.UrlD",
+                    "contents" : {
+                      "url" : "https:\/\/zube.io\/kobble-test\/kobble-ios\/tickets\/7"
+                    }
+                  },
+                  "title" : "Zube | Agile project management with a s",
+                  "view" : {
+                    "tag" : "UI.ContentViews.Views.WebView"
+                  },
+                  "subtitle" : "Zube lets the product team work alongside the deve",
+                  "expanded" : true,
+                  "children" : [
+
+                  ]
+                },
+                {
+                  "data" : {
                     "tag" : "UI.Track.NoData"
                   },
                   "title" : "Butterflies",
@@ -42,7 +59,7 @@
                     "tag" : "UI.ContentViews.Views.FolderView"
                   },
                   "subtitle" : "Butterflies",
-                  "expanded" : false,
+                  "expanded" : true,
                   "children" : [
                     {
                       "data" : {
@@ -61,23 +78,6 @@
 
                       ]
                     }
-                  ]
-                },
-                {
-                  "data" : {
-                    "tag" : "UI.Track.UrlD",
-                    "contents" : {
-                      "url" : "https:\/\/zube.io\/kobble-test\/kobble-ios\/tickets\/7"
-                    }
-                  },
-                  "title" : "Zube | Agile project management with a s",
-                  "view" : {
-                    "tag" : "UI.ContentViews.Views.WebView"
-                  },
-                  "subtitle" : "Zube lets the product team work alongside the deve",
-                  "expanded" : true,
-                  "children" : [
-
                   ]
                 }
               ]
