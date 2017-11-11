@@ -533,6 +533,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "World Heritage",
+          "subtitle" : "Famous Sites",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/worldheritage.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Kobble Projects",
           "subtitle" : "Projects In Process",
           "channel" : {
