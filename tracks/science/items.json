@@ -262,7 +262,7 @@
           "url" : "http:\/\/physicsclassroom.com\/"
         }
       },
-      "title" : "physicsclassroom.com",
+      "title" : "Physics Classroom",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
