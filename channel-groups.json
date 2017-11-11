@@ -4,7 +4,7 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Channel Group 1 Channel 1",
+          "title" : "CG 1 C1",
           "subtitle" : "Channel Group 1 Channel 1",
           "channel" : {
             "owner" : "oneeve8",
