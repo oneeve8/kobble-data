@@ -461,23 +461,6 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/lifeandadventur07defogoog"
-        }
-      },
-      "title" : "Daniel Defoe",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Robinson  Crusoe",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.NoData"
       },
       "title" : "English",
@@ -485,26 +468,42 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "English",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/fortunesandmisfo00defouoft\/fortunesandmisfo00defouoft_djvu.txt"
-        }
-      },
-      "title" : "Daniel Defoe",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Moll Flanders & Roxana",
       "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/lifeandadventur07defogoog"
+            }
+          },
+          "title" : "Daniel Defoe",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Robinson  Crusoe",
+          "expanded" : true,
+          "children" : [
 
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/fortunesandmisfo00defouoft\/fortunesandmisfo00defouoft_djvu.txt"
+            }
+          },
+          "title" : "Daniel Defoe",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Moll Flanders & Roxana",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        }
       ]
     },
     {
