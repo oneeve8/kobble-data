@@ -4,35 +4,35 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "CG1 C1",
-          "subtitle" : "Channel Group 1 Channel 1",
+          "title" : "CG3 C1",
+          "subtitle" : "Channel Group 3 Channel 1",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest1.json",
+            "path" : "channels\/cg3c1.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "CG1 C2",
-          "subtitle" : "Channel Group 1 Channel 2",
+          "title" : "CG3 C2",
+          "subtitle" : "Channel Group 3 Channel 2",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest2.json",
+            "path" : "channels\/cg3c2.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "CG1 C3",
-          "subtitle" : "Channel Group 1 Channel 3",
+          "title" : "CG3 C3",
+          "subtitle" : "Channel Group 3 Channel 3",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest3.json",
+            "path" : "channels\/cg3c3.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Channel Group 1"
+      "name" : "Channel Group 3"
     },
     {
       "isShowing" : true,
@@ -72,35 +72,35 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "CG3 C1",
-          "subtitle" : "Channel Group 3 Channel 1",
+          "title" : "CG1 C1",
+          "subtitle" : "Channel Group 1 Channel 1",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/cg3c1.json",
+            "path" : "channels\/channelgrouptest1.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "CG3 C2",
-          "subtitle" : "Channel Group 3 Channel 2",
+          "title" : "CG1 C2",
+          "subtitle" : "Channel Group 1 Channel 2",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/cg3c2.json",
+            "path" : "channels\/channelgrouptest2.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "CG3 C3",
-          "subtitle" : "Channel Group 3 Channel 3",
+          "title" : "CG1 C3",
+          "subtitle" : "Channel Group 1 Channel 3",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/cg3c3.json",
+            "path" : "channels\/channelgrouptest3.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Channel Group 3"
+      "name" : "Channel Group 1"
     },
     {
       "isShowing" : false,
