@@ -83,23 +83,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.tjed.org\/"
-            }
-          },
-          "title" : "www.tjed.org",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.tjed.org",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/en.wikipedia.org\/wiki\/Montessori_education"
             }
           },
