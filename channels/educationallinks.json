@@ -102,15 +102,6 @@
       }
     },
     {
-      "title" : "Quizzes Online",
-      "subtitle" : "Learn By Quiz",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/quizzesonline",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Educational Apps",
       "subtitle" : "Curated Apps",
       "track" : {
