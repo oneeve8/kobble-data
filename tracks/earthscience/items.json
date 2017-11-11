@@ -126,7 +126,7 @@
           "url" : "http:\/\/www.envirolink.org\/"
         }
       },
-      "title" : "www.envirolink.org",
+      "title" : "Envirolink",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
