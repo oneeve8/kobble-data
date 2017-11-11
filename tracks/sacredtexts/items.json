@@ -67,6 +67,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.biblegateway.com\/"
+        }
+      },
+      "title" : "www.biblegateway.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.biblegateway.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.loc.gov\/exhibits\/scrolls\/"
+        }
+      },
+      "title" : "www.loc.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.loc.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
