@@ -83,23 +83,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/geographyworldonline.com\/"
-            }
-          },
-          "title" : "Geography World Online",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "geographyworldonline.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/lizardpoint.com\/geography\/europe-quiz.php"
             }
           },
