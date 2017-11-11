@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/oldtestament\/characters.html"
         }
       },
-      "title" : "www.sparknotes.com",
+      "title" : "Bible Notes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
