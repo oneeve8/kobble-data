@@ -72,6 +72,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/livesofenglishpo01john"
+        }
+      },
+      "title" : "The lives of the English poets : Johnson",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Lenox",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/divinecomedyofda030159mbp"
         }
       },
@@ -461,53 +478,6 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "English",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "English",
-      "expanded" : true,
-      "children" : [
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/lifeandadventur07defogoog"
-            }
-          },
-          "title" : "Daniel Defoe",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Robinson  Crusoe",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/fortunesandmisfo00defouoft\/fortunesandmisfo00defouoft_djvu.txt"
-            }
-          },
-          "title" : "Daniel Defoe",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Moll Flanders & Roxana",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        }
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/battlebooks00swifgoog"
@@ -746,17 +716,14 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/livesofenglishpo01john"
-        }
+        "tag" : "UI.Track.NoData"
       },
-      "title" : "The lives of the English poets : Johnson",
+      "title" : "Literature",
       "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
+        "tag" : "UI.ContentViews.Views.FolderView"
       },
-      "subtitle" : "Lenox",
-      "expanded" : true,
+      "subtitle" : "Literature",
+      "expanded" : false,
       "children" : [
 
       ]
@@ -842,6 +809,20 @@
       },
       "subtitle" : "Sterne, Laurence",
       "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Literature",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Literature",
+      "expanded" : false,
       "children" : [
 
       ]
