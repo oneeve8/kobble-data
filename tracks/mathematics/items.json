@@ -15,10 +15,27 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/6dd595b4cb"
+              "url" : "http:\/\/www.purposegames.com\/game\/7add5d380c\/info"
             }
           },
           "title" : "www.purposegames.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "www.purposegames.com",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "http:\/\/www.purposegames.com\/game\/6dd595b4cb"
+            }
+          },
+          "title" : "Mental",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
