@@ -169,6 +169,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.srh.noaa.gov\/srh\/jetstream\/"
+        }
+      },
+      "title" : "Weather",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.srh.noaa.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
