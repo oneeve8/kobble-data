@@ -2,57 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/worksoflucianofs04luciuoft"
-        }
-      },
-      "title" : "Lucian of Samosata",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/plotinustheennea033190mbp"
-        }
-      },
-      "title" : "Plotinus ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Enneads",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/livesofenglishpo01john"
-        }
-      },
-      "title" : "The lives of the English poets : Johnson",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Lenox",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.NoData"
       },
       "title" : "Literature",
@@ -60,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Literature",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
@@ -555,6 +504,57 @@
 
           ]
         }
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/worksoflucianofs04luciuoft"
+        }
+      },
+      "title" : "Lucian of Samosata",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Works",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/plotinustheennea033190mbp"
+        }
+      },
+      "title" : "Plotinus ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Enneads",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/livesofenglishpo01john"
+        }
+      },
+      "title" : "The lives of the English poets : Johnson",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Lenox",
+      "expanded" : true,
+      "children" : [
+
       ]
     },
     {
