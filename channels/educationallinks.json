@@ -3,6 +3,15 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "Study Tools",
+      "subtitle" : "Helpful Tools For Memory And Study",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/studytools",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Writing Workshop",
       "subtitle" : "Links For Writers",
       "track" : {
