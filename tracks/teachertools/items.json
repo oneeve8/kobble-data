@@ -303,7 +303,7 @@
               "url" : "http:\/\/www.superteacherworksheets.com\/"
             }
           },
-          "title" : "www.superteacherworksheets.com",
+          "title" : "Superteacherworksheets",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
