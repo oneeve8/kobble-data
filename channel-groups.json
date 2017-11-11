@@ -149,62 +149,62 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
+          "title" : "To Do List",
+          "subtitle" : "To Do List",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
+            "path" : "channels\/Todolist.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Link Lists ",
-          "subtitle" : "To Curate",
+          "title" : "Personal ",
+          "subtitle" : "Projects",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/linklists.json",
+            "path" : "channels\/Rosary.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Art Lessons",
-          "subtitle" : "Art Lessons Online",
+          "title" : "My Online Presence",
+          "subtitle" : "Links To My Sites",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/artlessons.json",
+            "path" : "channels\/myonlinepresence.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Art Movements",
-          "subtitle" : "Art Movements In History",
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/artmovements.json",
+            "path" : "channels\/recipes.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Home Decorating",
-          "subtitle" : "How To",
+          "title" : "Christmas",
+          "subtitle" : "Decor",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/homedecorating.json",
+            "path" : "channels\/Christmasdecor.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Test Channel",
-          "subtitle" : "Dummy Channel For Testing",
+          "title" : "Halloween",
+          "subtitle" : "Decorating",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Test Channel.json",
+            "path" : "channels\/halloween.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Work In Progress"
+      "name" : "Personal & Family"
     },
     {
       "isShowing" : false,
@@ -516,62 +516,62 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "To Do List",
-          "subtitle" : "To Do List",
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Todolist.json",
+            "path" : "channels\/kobbleissues.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Personal ",
-          "subtitle" : "Projects",
+          "title" : "Link Lists ",
+          "subtitle" : "To Curate",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Rosary.json",
+            "path" : "channels\/linklists.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "My Online Presence",
-          "subtitle" : "Links To My Sites",
+          "title" : "Art Lessons",
+          "subtitle" : "Art Lessons Online",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/myonlinepresence.json",
+            "path" : "channels\/artlessons.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
+          "title" : "Art Movements",
+          "subtitle" : "Art Movements In History",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
+            "path" : "channels\/artmovements.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
+          "title" : "Home Decorating",
+          "subtitle" : "How To",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
+            "path" : "channels\/homedecorating.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Halloween",
-          "subtitle" : "Decorating",
+          "title" : "Test Channel",
+          "subtitle" : "Dummy Channel For Testing",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/halloween.json",
+            "path" : "channels\/Test Channel.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Personal & Family"
+      "name" : "Work In Progress"
     }
   ]
 }
