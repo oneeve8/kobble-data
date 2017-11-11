@@ -4,7 +4,7 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "CG 1 C1",
+          "title" : "CG1 C1",
           "subtitle" : "Channel Group 1 Channel 1",
           "channel" : {
             "owner" : "oneeve8",
@@ -37,7 +37,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "CG2 C1",
+          "subtitle" : "Channel Group 2 Channel 1",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/CG2C1.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Channel Group 2"
