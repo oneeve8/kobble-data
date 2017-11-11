@@ -155,7 +155,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "To Do List",
