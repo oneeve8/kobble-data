@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.gcflearnfree.org\/"
         }
       },
-      "title" : "www.gcflearnfree.org",
+      "title" : "GCF Learn Free",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
