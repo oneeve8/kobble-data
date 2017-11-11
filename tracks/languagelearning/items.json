@@ -41,7 +41,7 @@
           "url" : "http:\/\/lingua.ly\/"
         }
       },
-      "title" : "lingua.ly",
+      "title" : "Lingualy",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -58,7 +58,7 @@
           "url" : "http:\/\/www.memrise.com\/courses\/english\/"
         }
       },
-      "title" : "www.memrise.com",
+      "title" : "Memrise",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
