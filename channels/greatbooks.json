@@ -3,6 +3,15 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
+      "title" : "Shakespeare",
+      "subtitle" : "Gutenberg Archives",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Shakespeare",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Classic Fiction Literature",
       "subtitle" : "Gutenberg Archive",
       "track" : {
