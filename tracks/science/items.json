@@ -279,11 +279,28 @@
           "url" : "http:\/\/www.oceanicresearch.org\/education\/wonders\/lesson.html"
         }
       },
-      "title" : "www.oceanicresearch.org",
+      "title" : "Marine Biology",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.oceanicresearch.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/nsdl.oercommons.org\/"
+        }
+      },
+      "title" : "NSDL",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "nsdl.oercommons.org",
       "expanded" : true,
       "children" : [
 
