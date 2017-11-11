@@ -21,8 +21,8 @@
       }
     },
     {
-      "title" : "Archived Books",
-      "subtitle" : "Classics",
+      "title" : "Classic Books",
+      "subtitle" : "Gutenberg Archive",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Archivedbooks",
