@@ -3,20 +3,20 @@
   "subtitle" : "Channel 2",
   "tracks" : [
     {
-      "title" : "Channel 2 Track 2",
-      "subtitle" : "Channel 2 Track 2",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/channelgrouptestchannel2track2",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Channel 2 Track 1",
       "subtitle" : "Channel 2 Track 1",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/channelgrouptestchannel2track1",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Channel 2 Track 2",
+      "subtitle" : "Channel 2 Track 2",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/channelgrouptestchannel2track2",
         "repo" : "kobble-data"
       }
     }
