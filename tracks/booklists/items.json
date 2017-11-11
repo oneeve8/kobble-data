@@ -84,6 +84,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Great_books"
+        }
+      },
+      "title" : "Great Books List",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.m.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
