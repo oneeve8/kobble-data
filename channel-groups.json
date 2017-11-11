@@ -301,7 +301,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
@@ -505,7 +505,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Follow Simmy",
@@ -521,7 +521,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble Projects",
