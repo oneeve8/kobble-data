@@ -484,7 +484,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Music",
+          "subtitle" : "Online Instruments, Reading Notes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Music.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Music"
