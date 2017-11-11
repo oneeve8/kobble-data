@@ -89,6 +89,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/Oedipus.Rex.Sophocles.trans.Watling"
+        }
+      },
+      "title" : "Oedipus Rex : Sophocles [translated by E",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Also known by the title Oedipus the King.An Atheni",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/completewritings010850mbp"
         }
       },
@@ -182,6 +199,40 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "History Volume 3",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/tragedieseuripi00buckgoog"
+        }
+      },
+      "title" : "Euripides",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Tragedies",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/genuineworkship02hippgoog"
+        }
+      },
+      "title" : "Hippocrates",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Genuine Works",
       "expanded" : true,
       "children" : [
 
