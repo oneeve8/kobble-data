@@ -41,7 +41,7 @@
           "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_World_Heritage_Sites_in_Spain"
         }
       },
-      "title" : "en.wikipedia.org",
+      "title" : "Spain",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
