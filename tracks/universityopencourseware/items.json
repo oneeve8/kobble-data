@@ -38,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.khanacademy.org\/"
+        }
+      },
+      "title" : "Khan Academy",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Learn for free about math, art, computer programmi",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/cnx.org\/"
         }
       },
@@ -369,23 +386,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "oyc.yale.edu",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.khanacademy.org\/"
-        }
-      },
-      "title" : "Khan Academy",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Learn for free about math, art, computer programmi",
       "expanded" : true,
       "children" : [
 
