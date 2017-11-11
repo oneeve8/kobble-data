@@ -3,15 +3,6 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
-      "title" : "Science",
-      "subtitle" : "Links",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/science",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Programming",
       "subtitle" : "Learning Sites",
       "track" : {
@@ -75,15 +66,6 @@
       }
     },
     {
-      "title" : "Social Studies",
-      "subtitle" : "History",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/socialstudies",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Learning Tools",
       "subtitle" : "Links",
       "track" : {
@@ -125,6 +107,24 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/primaryed",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Science",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/science",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Social Studies",
+      "subtitle" : "History",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/socialstudies",
         "repo" : "kobble-data"
       }
     },
