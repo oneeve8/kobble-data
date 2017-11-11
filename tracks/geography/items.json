@@ -66,23 +66,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.apples4theteacher.com\/map-of-usa.html"
-            }
-          },
-          "title" : "USA Capitals",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.apples4theteacher.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/www.lizardpoint.com\/fun\/geoquiz\/usaquiz.html"
             }
           },
