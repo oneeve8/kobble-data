@@ -247,8 +247,127 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Literature",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/corneillescinnao00corn"
+            }
+          },
+          "title" : "Corneille, Pierre",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Cinna",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/lecid06corngoog"
+            }
+          },
+          "title" : "Corneille, Pierre",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Le Cid",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/englishworkstho21hobbgoog"
+            }
+          },
+          "title" : "Thomas Hobbes ",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Works",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/hobbessleviathan00hobbuoft"
+            }
+          },
+          "title" : "Thomas Hobbes",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Leviathan",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/completeworksofw00shakrich"
+            }
+          },
+          "title" : "William Shakespeare",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "The Complete Works",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/faeriequeene02spen"
+            }
+          },
+          "title" : "Edmund Spenser",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "The Faerie Queene",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/archive.org\/stream\/edmundspensersam00spenuoft"
+            }
+          },
+          "title" : "Edmund Spenser",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "Amoretti And Epithalamion",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
@@ -340,57 +459,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/edmundspensersam00spenuoft"
-        }
-      },
-      "title" : "Edmund Spenser",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Amoretti And Epithalamion",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/faeriequeene02spen"
-        }
-      },
-      "title" : "Edmund Spenser",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Faerie Queene",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/completeworksofw00shakrich"
-        }
-      },
-      "title" : "William Shakespeare",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Complete Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/worksofwilliamha00harviala"
         }
       },
@@ -399,74 +467,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/hobbessleviathan00hobbuoft"
-        }
-      },
-      "title" : "Thomas Hobbes",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Leviathan",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/englishworkstho21hobbgoog"
-        }
-      },
-      "title" : "Thomas Hobbes ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Works",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/lecid06corngoog"
-        }
-      },
-      "title" : "Corneille, Pierre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Le Cid",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/corneillescinnao00corn"
-        }
-      },
-      "title" : "Corneille, Pierre",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Cinna",
       "expanded" : true,
       "children" : [
 
