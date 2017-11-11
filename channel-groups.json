@@ -472,7 +472,7 @@
       "name" : "Work In Progress"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
