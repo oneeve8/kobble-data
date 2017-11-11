@@ -13,7 +13,7 @@ Written narratives to video introductions, GitHub information, Markdown Cheat Sh
 
 ### Channels: Educational Links
 
-Curated Links to Educational websites. Open Courseware, Open Universities, computer programming, curated educational apps, educational video channels, educational programs, earth sciences information, general reference links, geography, learning and memorization tools, language arts tools, vocabulary spelling and grammar tools, primary education learning links, science (Astronomy, Biology, Chemistry, Physics) educational sites, Social Studies, History, teacher tools and Resources.
+Curated Links to educational websites. Open Courseware, Open Universities, computer programming, curated educational apps, educational video channels, educational programs, earth sciences information, general reference links, geography, learning and memorization tools, language arts tools, vocabulary spelling and grammar tools, primary education learning links, science (Astronomy, Biology, Chemistry, Physics) educational sites, Social Studies, History, teacher tools and Resources.
 
 [Educational Links](kobble://kobble.io/channel?title=Educational%20Links&subtitle=Open%20Courseware&owner=oneeve8&repo=kobble-data&path=channels/educationallinks.json)
 ***
