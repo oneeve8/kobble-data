@@ -211,7 +211,7 @@
           "url" : "http:\/\/www.gutenberg.org\/files\/2500\/2500-h\/2500-h.htm"
         }
       },
-      "title" : "www.gutenberg.org",
+      "title" : "Siddhartha",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -228,7 +228,7 @@
           "url" : "http:\/\/www.sacred-texts.com\/hin\/index.htm"
         }
       },
-      "title" : "www.sacred-texts.com",
+      "title" : "Vedas",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
