@@ -22,8 +22,8 @@
           }
         },
         {
-          "title" : "Channel 3",
-          "subtitle" : "Channel 3",
+          "title" : "CG 1 C3",
+          "subtitle" : "Channel Group 1 Channel 3",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/channelgrouptest3.json",
