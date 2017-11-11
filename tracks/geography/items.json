@@ -141,7 +141,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Memory Quiz",
-      "expanded" : false,
+      "expanded" : true,
       "children" : [
         {
           "data" : {
@@ -270,40 +270,6 @@
             }
           },
           "title" : "Quiz - European Countries",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.purposegames.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-europe-quiz"
-            }
-          },
-          "title" : "Quiz Europe Capitals",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.purposegames.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "http:\/\/www.purposegames.com\/game\/capitals-of-asia-quiz"
-            }
-          },
-          "title" : "Quiz Asia Capitals",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
