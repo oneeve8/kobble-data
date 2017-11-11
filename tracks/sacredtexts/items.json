@@ -41,7 +41,7 @@
           "url" : "http:\/\/www.bibleplaces.com\/"
         }
       },
-      "title" : "www.bibleplaces.com",
+      "title" : "Bible Places",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
