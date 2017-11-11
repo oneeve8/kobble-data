@@ -4,11 +4,11 @@
       "data" : {
         "tag" : "UI.Track.NoData"
       },
-      "title" : "Butterflies",
+      "title" : "Butterflies2",
       "view" : {
         "tag" : "UI.ContentViews.Views.FolderView"
       },
-      "subtitle" : "Images",
+      "subtitle" : "Photos",
       "expanded" : false,
       "children" : [
 
