@@ -3,6 +3,33 @@
   "subtitle" : "Open Courseware",
   "tracks" : [
     {
+      "title" : "Educational Video Channels",
+      "subtitle" : "History, Animals, Science",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/educationalvideochannels",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Educational Programs",
+      "subtitle" : "Subscription Sites",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Subscriptionlearning",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Earth Science",
+      "subtitle" : "Weather,  Space, Volcano, Solar Info",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/earthscience",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Social Studies",
       "subtitle" : "History",
       "track" : {
@@ -66,38 +93,11 @@
       }
     },
     {
-      "title" : "Earth Science",
-      "subtitle" : "Weather,  Space, Volcano, Solar Info",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/earthscience",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Primary Education",
       "subtitle" : "Primary Learning Links ",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/primaryed",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Educational Video Channels",
-      "subtitle" : "History, Animals, Science",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/educationalvideochannels",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Educational Programs",
-      "subtitle" : "Subscription Sites",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Subscriptionlearning",
         "repo" : "kobble-data"
       }
     },
