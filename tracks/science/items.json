@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.chembuddy.com\/"
         }
       },
-      "title" : "www.chembuddy.com",
+      "title" : "Chembuddy",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
