@@ -140,27 +140,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.sacred-texts.com\/"
-        }
-      },
-      "title" : "www.sacred-texts.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.sacred-texts.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.catholic.org\/saints\/sofd.php"
         }
       },
-      "title" : "www.catholic.org",
+      "title" : "Saint Of The Day",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
