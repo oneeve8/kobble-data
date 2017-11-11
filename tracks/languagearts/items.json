@@ -160,7 +160,7 @@
           "url" : "http:\/\/www.funenglishgames.com\/writinggames.html"
         }
       },
-      "title" : "www.funenglishgames.com",
+      "title" : "Writing Games",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -177,7 +177,7 @@
           "url" : "http:\/\/www.writing-world.com\/"
         }
       },
-      "title" : "www.writing-world.com",
+      "title" : "Writing World",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
