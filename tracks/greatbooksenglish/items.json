@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/Comedies_of_Aristophanes"
-        }
-      },
-      "title" : "Aristophanes ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Comedies The Clouds (Νεφέλαι \/ Nephelai) ",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
