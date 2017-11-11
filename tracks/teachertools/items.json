@@ -249,23 +249,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "https:\/\/www.commonsensemedia.org\/"
-            }
-          },
-          "title" : "| Common Sense Media",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Common Sense Media improves the lives of kids and ",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/appsforhomeschooling.com\/"
             }
           },
