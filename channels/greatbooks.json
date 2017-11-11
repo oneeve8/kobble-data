@@ -21,6 +21,15 @@
       }
     },
     {
+      "title" : "Great Books",
+      "subtitle" : "Summaries And Reviews",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksummaries",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Shakespeare",
       "subtitle" : "Gutenberg Archives",
       "track" : {
@@ -98,15 +107,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/greatbooksscience",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Great Books",
-      "subtitle" : "Summaries And Reviews",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/greatbooksummaries",
         "repo" : "kobble-data"
       }
     },
