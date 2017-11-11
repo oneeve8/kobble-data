@@ -184,7 +184,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/world-geography-quiz"
             }
           },
-          "title" : "www.purposegames.com",
+          "title" : "Quiz - World Geography",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
