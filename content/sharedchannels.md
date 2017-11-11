@@ -34,6 +34,8 @@ Instructions on how to pray the rosary, guided slideshow meditation prayers thro
 
 ### Track: Sacred Texts
 
+Avesta, Bible Notes, Bible places, Online Bible
+
 [Sacred Texts](kobble://kobble.io/track?title=Sacred%20Texts&subtitle=Links&owner=oneeve8&repo=kobble-data&path=tracks/sacredtexts)
 
 ***
