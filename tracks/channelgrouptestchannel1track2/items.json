@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/simple.wikipedia.org\/wiki\/Butterfly"
-        }
-      },
-      "title" : "simple.wikipedia.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "simple.wikipedia.org",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
