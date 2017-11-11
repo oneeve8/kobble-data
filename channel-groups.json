@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "CG1 C1",
@@ -35,7 +35,7 @@
       "name" : "Channel Group 1"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "CG2 C1",
@@ -69,7 +69,7 @@
       "name" : "Channel Group 2"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "CG3 C1",
@@ -103,7 +103,7 @@
       "name" : "Channel Group 3"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Doctors of the Church",
@@ -146,7 +146,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "To Do List",
@@ -207,7 +207,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -240,7 +240,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Color",
@@ -301,7 +301,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
@@ -326,7 +326,7 @@
       "name" : "Work"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Business Plan",
@@ -360,7 +360,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Sports",
@@ -376,7 +376,7 @@
       "name" : "Sports News"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Armchair Travel",
@@ -473,7 +473,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -481,7 +481,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "News ",
@@ -497,7 +497,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Follow Simmy",
@@ -513,7 +513,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble Projects",
