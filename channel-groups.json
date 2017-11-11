@@ -252,6 +252,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Art And Creativity",
+          "subtitle" : "Color Tools Art History Museums",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artandcreativity.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Color",
           "subtitle" : "Color Theory And Color Tools",
           "channel" : {
