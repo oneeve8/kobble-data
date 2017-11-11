@@ -1,5 +1,55 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/illiad_0801_librivox3"
+        }
+      },
+      "title" : "The Iliad : Homer : Free Download & Stre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Homer",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/oedipus_rex_1008_librivox"
+        }
+      },
+      "title" : "Oedipus Rex : Sophocles : Free Download ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Oedipus Rex, by Sophocles. O",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/medea_1204_librivox"
+        }
+      },
+      "title" : "Medea : Euripides : Free Download & Stre",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Medea by Euripides, translat",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
