@@ -169,6 +169,74 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/architecture.about.com\/cs\/historicperiods\/a\/timeline.htm"
+        }
+      },
+      "title" : "architecture.about.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "architecture.about.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.socialstudiesforkids.com\/"
+        }
+      },
+      "title" : "www.socialstudiesforkids.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.socialstudiesforkids.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/smarthistory.khanacademy.org\/"
+        }
+      },
+      "title" : "smarthistory.khanacademy.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "smarthistory.khanacademy.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.renaissanceconnection.org\/index2.cfm"
+        }
+      },
+      "title" : "www.renaissanceconnection.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.renaissanceconnection.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
