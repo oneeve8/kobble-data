@@ -84,6 +84,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.wikipaintings.org\/en\/artists-by-art-movement"
+        }
+      },
+      "title" : "Wikipaintings",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.wikipaintings.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
