@@ -218,6 +218,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Classic Literature",
+          "subtitle" : "Archive",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Classicliteraturearchives.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Educational Links",
           "subtitle" : "Open Courseware",
           "channel" : {
