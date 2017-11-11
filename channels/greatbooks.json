@@ -3,6 +3,15 @@
   "subtitle" : "Great Book Classics",
   "tracks" : [
     {
+      "title" : "Classic Books",
+      "subtitle" : "Gutenberg Archive",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Archivedbooks",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Great Books",
       "subtitle" : "Greeks",
       "track" : {
