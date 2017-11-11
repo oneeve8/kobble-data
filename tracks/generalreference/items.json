@@ -2,20 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Geography Quiz",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Memory Quiz",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "http:\/\/dictionary.com\/"
