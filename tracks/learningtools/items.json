@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.quiz.biz\/"
         }
       },
-      "title" : "www.quiz.biz",
+      "title" : "Quiz.biz",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -92,7 +92,7 @@
           "url" : "http:\/\/thatquiz.org\/"
         }
       },
-      "title" : "thatquiz.org",
+      "title" : "That quiz",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
