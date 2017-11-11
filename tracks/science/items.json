@@ -276,23 +276,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.science.gov\/"
-        }
-      },
-      "title" : "www.science.gov",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.science.gov",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.nature.com\/scitable"
         }
       },
@@ -386,6 +369,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.juliantrubin.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.science.gov\/"
+        }
+      },
+      "title" : "www.science.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.science.gov",
       "expanded" : true,
       "children" : [
 
