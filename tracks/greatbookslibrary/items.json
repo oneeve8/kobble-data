@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/historyofengland01davirich"
+        }
+      },
+      "title" : "History of England : David Hume : Free D",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/worksoflucianofs04luciuoft"
         }
       },
@@ -246,23 +263,6 @@
         }
       },
       "title" : "A Treatise Of Human Nature : David Hume ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/historyofengland01davirich"
-        }
-      },
-      "title" : "History of England : David Hume : Free D",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
