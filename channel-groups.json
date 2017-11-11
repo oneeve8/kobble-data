@@ -106,6 +106,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "World Religions",
+          "subtitle" : "Sacred Texts",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/worldreligions.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Doctors of the Church",
           "subtitle" : "Doctors of the Church",
           "channel" : {
