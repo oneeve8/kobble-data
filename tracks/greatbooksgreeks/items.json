@@ -237,6 +237,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/aristophanes01arisgoog"
+        }
+      },
+      "title" : "Aristophanes ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Plays",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
