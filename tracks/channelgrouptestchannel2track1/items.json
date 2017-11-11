@@ -1,5 +1,18 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Butterflies",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Butterfly Information",
+      "expanded" : false,
+      "children" : [
 
+      ]
+    }
   ]
 }
