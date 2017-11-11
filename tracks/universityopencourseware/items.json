@@ -50,6 +50,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/frontrow.bc.edu\/programs\/default.php?category=12"
+        }
+      },
+      "title" : "frontrow.bc.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "frontrow.bc.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/oli.cmu.edu\/"
+        }
+      },
+      "title" : "oli.cmu.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "oli.cmu.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
