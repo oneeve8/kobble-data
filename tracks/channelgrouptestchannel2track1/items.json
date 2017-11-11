@@ -61,7 +61,20 @@
           "children" : [
 
           ]
-        },
+        }
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.NoData"
+      },
+      "title" : "Butterflies",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.FolderView"
+      },
+      "subtitle" : "Butterflies",
+      "expanded" : true,
+      "children" : [
         {
           "data" : {
             "tag" : "UI.Track.UrlD",
@@ -79,20 +92,6 @@
 
           ]
         }
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Butterflies",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Butterflies",
-      "expanded" : true,
-      "children" : [
-
       ]
     }
   ]
