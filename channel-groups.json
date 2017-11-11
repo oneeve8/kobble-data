@@ -524,6 +524,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Videos ",
           "subtitle" : "To Watch",
           "channel" : {
@@ -538,15 +547,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/worldheritage.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
             "repo" : "kobble-data"
           }
         },
