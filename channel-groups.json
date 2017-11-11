@@ -185,15 +185,6 @@
           }
         },
         {
-          "title" : "Recipes",
-          "subtitle" : "Recipes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/recipes.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Christmas",
           "subtitle" : "Decor",
           "channel" : {
@@ -480,6 +471,15 @@
     {
       "isShowing" : true,
       "channels" : [
+        {
+          "title" : "Recipes",
+          "subtitle" : "Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/recipes.json",
+            "repo" : "kobble-data"
+          }
+        },
         {
           "title" : "Kobble Projects",
           "subtitle" : "Projects In Process",
