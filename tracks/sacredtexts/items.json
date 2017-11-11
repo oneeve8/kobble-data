@@ -220,6 +220,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/simple.m.wikipedia.org\/wiki\/List_of_figures_in_Greek_mythology"
+        }
+      },
+      "title" : "Greek Mythology",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "simple.m.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
