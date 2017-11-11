@@ -9,7 +9,7 @@
         "tag" : "UI.ContentViews.Views.FolderView"
       },
       "subtitle" : "Learning Styles And Techniques",
-      "expanded" : true,
+      "expanded" : false,
       "children" : [
         {
           "data" : {
@@ -257,6 +257,23 @@
             "tag" : "UI.ContentViews.Views.WebView"
           },
           "subtitle" : "www.free.ed.gov",
+          "expanded" : true,
+          "children" : [
+
+          ]
+        },
+        {
+          "data" : {
+            "tag" : "UI.Track.UrlD",
+            "contents" : {
+              "url" : "https:\/\/classroom.google.com\/"
+            }
+          },
+          "title" : "classroom.google.com",
+          "view" : {
+            "tag" : "UI.ContentViews.Views.WebView"
+          },
+          "subtitle" : "classroom.google.com",
           "expanded" : true,
           "children" : [
 
