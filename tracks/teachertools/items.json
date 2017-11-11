@@ -249,23 +249,6 @@
           "data" : {
             "tag" : "UI.Track.UrlD",
             "contents" : {
-              "url" : "http:\/\/www.superteacherworksheets.com\/"
-            }
-          },
-          "title" : "Superteacherworksheets",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "www.superteacherworksheets.com",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
               "url" : "http:\/\/rubistar.4teachers.org\/index.php?screen=NewRubric&section_id=7#07"
             }
           },
@@ -303,7 +286,7 @@
               "url" : "http:\/\/www.rcampus.com\/indexrubric.cfm"
             }
           },
-          "title" : "www.rcampus.com",
+          "title" : "Rcampus",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
