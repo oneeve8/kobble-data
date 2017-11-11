@@ -12,6 +12,15 @@
       }
     },
     {
+      "title" : "Writing Workshop",
+      "subtitle" : "Links For Writers",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/writingworkshop",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Study Tools",
       "subtitle" : "Helpful Tools For Memory And Study",
       "track" : {
