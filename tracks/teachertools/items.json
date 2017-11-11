@@ -218,7 +218,7 @@
               "url" : "http:\/\/www.homeworkspot.com\/"
             }
           },
-          "title" : "www.homeworkspot.com",
+          "title" : "Homework Spot",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -235,7 +235,7 @@
               "url" : "https:\/\/toggl.com\/"
             }
           },
-          "title" : "toggl.com",
+          "title" : "Toggl",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
