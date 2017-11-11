@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.sparknotes.com\/lit\/alice\/"
         }
       },
-      "title" : "Alice In Wonderland",
+      "title" : "Alice In Wonderland Notes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -126,7 +126,7 @@
           "url" : "http:\/\/www.gradesaver.com\/anna-karenina"
         }
       },
-      "title" : "Anna Karenina",
+      "title" : "Anna Karenina Notes",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
