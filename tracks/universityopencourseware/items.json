@@ -228,7 +228,7 @@
           "url" : "https:\/\/podcast.ucsd.edu\/default.aspx"
         }
       },
-      "title" : "podcast.ucsd.edu",
+      "title" : "UCSD",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
