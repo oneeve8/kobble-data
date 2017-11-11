@@ -24,7 +24,7 @@
           "url" : "http:\/\/www.learner.org\/resources\/series123.html#program_descriptions"
         }
       },
-      "title" : "www.learner.org",
+      "title" : "Annenberg Learner",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
