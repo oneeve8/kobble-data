@@ -160,7 +160,7 @@
           "url" : "http:\/\/ecmarsh.com\/lxx\/"
         }
       },
-      "title" : "ecmarsh.com",
+      "title" : "Septuagint",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
