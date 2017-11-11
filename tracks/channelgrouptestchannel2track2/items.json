@@ -1,34 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "Butterfly Pictures",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "Pictures",
-      "expanded" : false,
-      "children" : [
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/zube.io\/kobble-test\/kobble-ios\/tickets\/7"
-            }
-          },
-          "title" : "Zube | Agile project management with a s",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Zube lets the product team work alongside the deve",
-          "expanded" : true,
-          "children" : [
 
-          ]
-        }
-      ]
-    }
   ]
 }
