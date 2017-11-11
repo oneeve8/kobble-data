@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Channel Group 3"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "CG1 C1",
           "subtitle" : "Channel Group 1 Channel 1",
