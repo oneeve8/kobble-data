@@ -337,7 +337,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/states-of-the-usa-quiz"
             }
           },
-          "title" : "Quiz ",
+          "title" : "Quiz US States",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
@@ -354,7 +354,7 @@
               "url" : "http:\/\/www.purposegames.com\/game\/46"
             }
           },
-          "title" : "Quiz USA Capitals",
+          "title" : "Quiz US Capitals",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
