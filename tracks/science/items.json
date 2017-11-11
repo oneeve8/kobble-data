@@ -279,7 +279,7 @@
           "url" : "http:\/\/www.nature.com\/scitable"
         }
       },
-      "title" : "www.nature.com",
+      "title" : "Scitable AP Biology",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
