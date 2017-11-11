@@ -306,14 +306,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.digitalhistory.uh.edu\/"
+          "url" : "http:\/\/architecture.about.com\/cs\/historicperiods\/a\/timeline.htm"
         }
       },
-      "title" : "Digital History",
+      "title" : "Timeline - Architecture",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "American History www.digitalhistory.uh.edu",
+      "subtitle" : "Thoughtco",
       "expanded" : true,
       "children" : [
 
@@ -323,31 +323,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/allaboutexplorers.com\/"
+          "url" : "http:\/\/www.rocksinmyheadtoo.com\/TimeLine.htm"
         }
       },
-      "title" : "Explorers",
+      "title" : "Timeline - Geological History",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "allaboutexplorers.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.havefunwithhistory.com\/"
-        }
-      },
-      "title" : "Have Fun With History",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "American History www.havefunwithhistory.com",
+      "subtitle" : "www.rocksinmyheadtoo.com",
       "expanded" : true,
       "children" : [
 
@@ -382,6 +365,57 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.hyperhistory.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/allaboutexplorers.com\/"
+        }
+      },
+      "title" : "Explorers",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "allaboutexplorers.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.digitalhistory.uh.edu\/"
+        }
+      },
+      "title" : "Digital History",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "American History www.digitalhistory.uh.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.havefunwithhistory.com\/"
+        }
+      },
+      "title" : "Have Fun With History",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "American History www.havefunwithhistory.com",
       "expanded" : true,
       "children" : [
 
@@ -467,40 +501,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "www.history-timelines.org.uk",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/architecture.about.com\/cs\/historicperiods\/a\/timeline.htm"
-        }
-      },
-      "title" : "Timeline - Architecture",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Thoughtco",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.rocksinmyheadtoo.com\/TimeLine.htm"
-        }
-      },
-      "title" : "Timeline - Geological History",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.rocksinmyheadtoo.com",
       "expanded" : true,
       "children" : [
 
