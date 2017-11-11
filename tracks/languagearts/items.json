@@ -245,7 +245,7 @@
           "url" : "http:\/\/www.poetryfoundation.org\/learning\/glossary-terms"
         }
       },
-      "title" : "www.poetryfoundation.org",
+      "title" : "Poetry Terms",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
