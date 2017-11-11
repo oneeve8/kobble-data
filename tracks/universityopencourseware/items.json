@@ -174,23 +174,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/ocw.mit.edu\/index.htm"
-        }
-      },
-      "title" : "ocw.mit.edu",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "ocw.mit.edu",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/online.nd.edu\/what-we-do\/"
         }
       },
