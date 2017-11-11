@@ -7,7 +7,7 @@
           "url" : "http:\/\/www.atoptics.co.uk\/"
         }
       },
-      "title" : "www.atoptics.co.uk",
+      "title" : "Atmospheric Optics",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -24,7 +24,7 @@
           "url" : "http:\/\/weather.gc.ca\/satellite\/index_e.html"
         }
       },
-      "title" : "weather.gc.ca",
+      "title" : "Canada Satellite",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
