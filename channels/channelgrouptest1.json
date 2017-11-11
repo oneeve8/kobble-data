@@ -1,10 +1,10 @@
 {
-  "title" : "Channel 1",
-  "subtitle" : "Channel 1",
+  "title" : "CG 1 C1",
+  "subtitle" : "Channel Group 1 Channel 1",
   "tracks" : [
     {
-      "title" : "Channel 1 Track 1",
-      "subtitle" : "Channel 1 Track 1",
+      "title" : "CG1 C1 T1",
+      "subtitle" : "Channel Group 1 Channel 1 Track 1",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/channelgrouptestchannel1track1",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "title" : "Channel 1 Track 2",
+      "title" : "CG1 C1 T2",
       "subtitle" : "Channel 1 Track 2",
       "track" : {
         "owner" : "oneeve8",
