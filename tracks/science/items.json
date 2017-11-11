@@ -33,6 +33,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/scienceworld.wolfram.com\/astronomy\/"
+        }
+      },
+      "title" : "Astronomy",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "scienceworld.wolfram.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.youtube.com\/user\/bozemanbiology\/featured"
+        }
+      },
+      "title" : "Bozeman Science",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Paul Andersen is an educational consultant and You",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
