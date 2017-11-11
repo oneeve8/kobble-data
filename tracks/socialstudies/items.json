@@ -289,6 +289,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_time_periods"
+        }
+      },
+      "title" : "Time Periods List",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.wikipedia.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.youtube.com\/user\/AllHistories"
         }
       },
@@ -297,6 +314,57 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Dedicated to understanding why civilizations rise ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.fsmitha.com\/"
+        }
+      },
+      "title" : "Macro History",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.fsmitha.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.history-timelines.org.uk\/"
+        }
+      },
+      "title" : "History Timelines",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.history-timelines.org.uk",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.historyworld.net\/timesearch\/default.asp?conid=1063"
+        }
+      },
+      "title" : "Timeline - World History",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.historyworld.net",
       "expanded" : true,
       "children" : [
 
@@ -425,23 +493,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.fsmitha.com\/"
-        }
-      },
-      "title" : "Macro History",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.fsmitha.com",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.socialstudiesforkids.com\/"
         }
       },
@@ -467,57 +518,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "smarthistory.khanacademy.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/en.wikipedia.org\/wiki\/List_of_time_periods"
-        }
-      },
-      "title" : "Time Periods List",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "en.wikipedia.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.history-timelines.org.uk\/"
-        }
-      },
-      "title" : "History Timelines",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.history-timelines.org.uk",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.historyworld.net\/timesearch\/default.asp?conid=1063"
-        }
-      },
-      "title" : "Timeline - World History",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.historyworld.net",
       "expanded" : true,
       "children" : [
 
