@@ -327,23 +327,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/en.m.wikiversity.org\/wiki\/Portal:Social_Sciences"
-        }
-      },
-      "title" : "en.m.wikiversity.org",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "en.m.wikiversity.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/demonstrations.wolfram.com\/topics.html"
         }
       },
