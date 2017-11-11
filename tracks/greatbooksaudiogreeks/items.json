@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/EpicurusTheExtantRemainsBaileyOxford1926_201309"
-        }
-      },
-      "title" : "Epicurus ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Extant Remains ",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
