@@ -106,23 +106,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/grb.sonoma.edu\/"
-        }
-      },
-      "title" : "Gamma Ray Bursts",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "grb.sonoma.edu",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.swpc.noaa.gov\/products\/wsa-enlil-solar-wind-prediction"
         }
       },
