@@ -254,6 +254,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/learningscience.org\/"
+        }
+      },
+      "title" : "learningscience.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "learningscience.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.oceanicresearch.org\/education\/wonders\/lesson.html"
+        }
+      },
+      "title" : "www.oceanicresearch.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.oceanicresearch.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
