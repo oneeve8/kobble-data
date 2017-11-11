@@ -527,44 +527,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.archives.gov\/exhibits\/charters\/bill_of_rights_zoom_1.html"
-        }
-      },
-      "title" : "US Bill Of Rights",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.archives.gov",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.archives.gov\/exhibits\/charters\/constitution_zoom_1.html"
         }
       },
       "title" : "US Constitution",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.archives.gov",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.archives.gov\/exhibits\/charters\/declaration_zoom_1.html"
-        }
-      },
-      "title" : "US Declaration Of Independence",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
