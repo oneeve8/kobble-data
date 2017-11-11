@@ -220,6 +220,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/ocw.uci.edu\/courses\/?cat=7"
+        }
+      },
+      "title" : "ocw.uci.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "ocw.uci.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
