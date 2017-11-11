@@ -75,7 +75,7 @@
           "url" : "http:\/\/www.loc.gov\/exhibits\/scrolls\/"
         }
       },
-      "title" : "www.loc.gov",
+      "title" : "Dead Sea Scrolls",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
