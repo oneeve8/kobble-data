@@ -360,7 +360,7 @@
           "url" : "http:\/\/www.history-timelines.org.uk\/"
         }
       },
-      "title" : "www.history-timelines.org.uk",
+      "title" : "History Timelines",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -377,7 +377,7 @@
           "url" : "http:\/\/www.hyperhistory.com\/online_n2\/History_n2\/a.html"
         }
       },
-      "title" : "www.hyperhistory.com",
+      "title" : "Hyperhistory",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
