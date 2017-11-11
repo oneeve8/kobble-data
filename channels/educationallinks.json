@@ -75,15 +75,6 @@
       }
     },
     {
-      "title" : "Classic Books",
-      "subtitle" : "Gutenberg Archive",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Archivedbooks",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Reading Guides",
       "subtitle" : "Comprehension And Notes",
       "track" : {
