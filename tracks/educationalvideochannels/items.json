@@ -50,6 +50,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.sciencechannel.com\/topics.htm"
+        }
+      },
+      "title" : "www.sciencechannel.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.sciencechannel.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.ted.com\/"
+        }
+      },
+      "title" : "www.ted.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.ted.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
