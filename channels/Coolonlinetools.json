@@ -1,24 +1,7 @@
 {
   "title" : "Online Creativity",
-  "subtitle" : "Memes, Images, Gifs",
+  "subtitle" : "Memes, Images, Gifs, Art Tools",
   "tracks" : [
-    {
-      "title" : "Image Generators",
-      "subtitle" : "Online Tools",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/imagegenerators",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Creative Art ",
-      "subtitle" : "Tools Online",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/creativetools",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
