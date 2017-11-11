@@ -103,7 +103,7 @@
       "name" : "Channel Group 3"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "World Religions",
@@ -224,7 +224,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Educational Links",
