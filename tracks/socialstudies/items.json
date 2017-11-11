@@ -18,10 +18,27 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.purposegames.com\/game\/10-lost-cities-quiz"
+          "url" : "http:\/\/www.purposegames.com\/game\/2d186e6a"
         }
       },
       "title" : "www.purposegames.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.purposegames.com\/game\/10-lost-cities-quiz"
+        }
+      },
+      "title" : "Quiz - Lost Cities",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
