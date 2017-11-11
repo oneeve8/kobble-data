@@ -75,7 +75,7 @@
           "url" : "http:\/\/typingweb.com\/"
         }
       },
-      "title" : "typingweb.com",
+      "title" : "Typingweb",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.vocabtest.com\/"
         }
       },
-      "title" : "www.vocabtest.com",
+      "title" : "Vocabtest",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
