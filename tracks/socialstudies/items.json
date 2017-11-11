@@ -18,10 +18,27 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.purposegames.com\/game\/1485"
+        }
+      },
+      "title" : "2 Dates That Changed The World",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.purposegames.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.purposegames.com\/game\/1454"
         }
       },
-      "title" : "www.purposegames.com",
+      "title" : "Dates That Changed The World",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
