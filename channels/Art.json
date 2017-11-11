@@ -2,14 +2,6 @@
   "title" : "Art History",
   "subtitle" : "Paintings And Artists",
   "tracks" : [
-    {
-      "title" : "Art History",
-      "subtitle" : "Websites",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/arthistory",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
