@@ -92,7 +92,7 @@
           "url" : "http:\/\/www.emsc-csem.org\/Earthquake\/seismologist.php"
         }
       },
-      "title" : "www.emsc-csem.org",
+      "title" : "EMSC",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -109,7 +109,7 @@
           "url" : "http:\/\/www.swpc.noaa.gov\/wsa-enlil\/"
         }
       },
-      "title" : "www.swpc.noaa.gov",
+      "title" : "ENLIL",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
