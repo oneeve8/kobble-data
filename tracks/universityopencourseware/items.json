@@ -296,7 +296,7 @@
           "url" : "http:\/\/ocw.usu.edu\/"
         }
       },
-      "title" : "ocw.usu.edu",
+      "title" : "Utah State",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -313,7 +313,7 @@
           "url" : "https:\/\/en.m.wikiversity.org\/wiki\/Wikiversity:Browse"
         }
       },
-      "title" : "en.m.wikiversity.org",
+      "title" : "Wikiversity",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
