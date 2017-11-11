@@ -46,23 +46,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/zube.io\/kobble-test\/issues-found\/tickets"
-        }
-      },
-      "title" : "Zube | Agile project management with a s",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Zube lets the product team work alongside the deve",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/github.com\/"
         }
       },
