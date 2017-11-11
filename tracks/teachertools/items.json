@@ -154,7 +154,7 @@
               "url" : "http:\/\/www.edutopia.org\/multiple-intelligences-learning-styles-quiz"
             }
           },
-          "title" : "www.edutopia.org",
+          "title" : "Multiple Intelligences Self Assessment",
           "view" : {
             "tag" : "UI.ContentViews.Views.WebView"
           },
