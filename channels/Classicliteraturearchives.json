@@ -1,7 +1,24 @@
 {
   "title" : "Classic Literature",
-  "subtitle" : "Archive",
+  "subtitle" : "Gutenberg Archive",
   "tracks" : [
-
+    {
+      "title" : "Shakespeare",
+      "subtitle" : "Gutenberg Archives",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Shakespeare",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Classic Fiction Literature",
+      "subtitle" : "Gutenberg Archive",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Archivedbooks",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
