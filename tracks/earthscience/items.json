@@ -16,6 +16,108 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/weather.gc.ca\/satellite\/index_e.html"
+        }
+      },
+      "title" : "weather.gc.ca",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "weather.gc.ca",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/neutronm.bartol.udel.edu\/\/spaceweather\/welcome.html"
+        }
+      },
+      "title" : "neutronm.bartol.udel.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "neutronm.bartol.udel.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.youtube.com\/user\/dutchsinse"
+        }
+      },
+      "title" : "dutchsinse",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.youtube.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/earthobservatory.nasa.gov\/"
+        }
+      },
+      "title" : "earthobservatory.nasa.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "earthobservatory.nasa.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.emsc-csem.org\/Earthquake\/seismologist.php"
+        }
+      },
+      "title" : "www.emsc-csem.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.emsc-csem.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.swpc.noaa.gov\/wsa-enlil\/"
+        }
+      },
+      "title" : "www.swpc.noaa.gov",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.swpc.noaa.gov",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
