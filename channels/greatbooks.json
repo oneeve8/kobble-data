@@ -1,25 +1,7 @@
 {
-  "title" : "Great Books And Classics",
-  "subtitle" : "Great Book Classics Archive And Audio",
+  "title" : "Great Books",
+  "subtitle" : "Archive ",
   "tracks" : [
-    {
-      "title" : "Book Lists",
-      "subtitle" : "Reading Lists",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/booklists",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Reading Guides",
-      "subtitle" : "Comprehension And Notes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Readingguides",
-        "repo" : "kobble-data"
-      }
-    },
     {
       "title" : "Great Books",
       "subtitle" : "Summaries And Reviews",
