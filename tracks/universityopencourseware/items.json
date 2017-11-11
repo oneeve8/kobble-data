@@ -75,7 +75,7 @@
           "url" : "http:\/\/frontrow.bc.edu\/programs\/default.php?category=12"
         }
       },
-      "title" : "frontrow.bc.edu",
+      "title" : "Boston College",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
