@@ -276,6 +276,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=-yDPc0F060g"
+        }
+      },
+      "title" : "COPERNICUS: Dedication of the Revolution",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Nicolaus Copernicus: Dedication of the Revolutions",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/leviathan_1_2_0802_librivox"
         }
       },
@@ -1100,23 +1117,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of The Idiot (Part 03 and 04) b",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/m.youtube.com\/watch?v=-yDPc0F060g"
-        }
-      },
-      "title" : "COPERNICUS: Dedication of the Revolution",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Nicolaus Copernicus: Dedication of the Revolutions",
       "expanded" : true,
       "children" : [
 
