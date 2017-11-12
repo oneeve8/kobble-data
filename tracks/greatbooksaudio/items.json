@@ -4,40 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theoryofmoralsentiments_0910_librivox"
-        }
-      },
-      "title" : "The Theory of Moral Sentiments (First Ed",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Librivox recording of The Theory of Moral Sentimen",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/essays_francis_bacon_cv3_librivox"
-        }
-      },
-      "title" : "The Essays of Francis Bacon : Francis Ba",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Voltaire was an atheist. Diderot was Enlightened. ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/foundation_city_vol1_1001_librivox"
         }
       },
