@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=-yDPc0F060g"
+        }
+      },
+      "title" : "COPERNICUS: Dedication of the Revolution",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Nicolaus Copernicus: Dedication of the Revolutions",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
