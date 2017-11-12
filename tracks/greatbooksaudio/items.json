@@ -1109,6 +1109,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=-yDPc0F060g"
+        }
+      },
+      "title" : "COPERNICUS: Dedication of the Revolution",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Nicolaus Copernicus: Dedication of the Revolutions",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/brothers_karamazov_1002_librivox"
         }
       },
@@ -1576,23 +1593,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Joseph K. is an unexceptional man. He lives a quie",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/m.youtube.com\/watch?v=-yDPc0F060g"
-        }
-      },
-      "title" : "COPERNICUS: Dedication of the Revolution",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Nicolaus Copernicus: Dedication of the Revolutions",
       "expanded" : true,
       "children" : [
 
