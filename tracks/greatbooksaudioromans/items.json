@@ -16,6 +16,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tacitus_histories_0905_librivox1"
+        }
+      },
+      "title" : "Tacitus",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Publius Cornelius Tacitus",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/tacitus_annals_cb_vol2_0809_librivox1"
+        }
+      },
+      "title" : "Tacitus",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Annals Vol 2, by Publius",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
