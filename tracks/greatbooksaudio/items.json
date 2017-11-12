@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/theoryofmoralsentiments_0910_librivox"
+        }
+      },
+      "title" : "The Theory of Moral Sentiments (First Ed",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Librivox recording of The Theory of Moral Sentimen",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/foundation_city_vol1_1001_librivox"
         }
       },
@@ -1712,23 +1729,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of The Life and Opinions of Tri",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/theoryofmoralsentiments_0910_librivox"
-        }
-      },
-      "title" : "The Theory of Moral Sentiments (First Ed",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Librivox recording of The Theory of Moral Sentimen",
       "expanded" : true,
       "children" : [
 
