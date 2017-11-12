@@ -4,40 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/categories_1004_librivox"
-        }
-      },
-      "title" : "Categories : Aristotle : Free Download &",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Categories, by Aristotle. Re",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/poetics_librivox"
-        }
-      },
-      "title" : "Poetics : Aristotle : Free Download & St",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Librivox recording of Poetics, by Aristotle. Read ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/foundation_city_vol1_1001_librivox"
         }
       },
