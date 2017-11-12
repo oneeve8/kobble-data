@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/prince_pa_librivox"
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion1_0909_librivox"
         }
       },
-      "title" : "The Prince : Niccolo Machiavelli : Free ",
+      "title" : "Institutes of the Christian Religion, Bo",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of The Prince, by Niccolò Machi",
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
       "expanded" : true,
       "children" : [
 
@@ -21,14 +21,48 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/folly_erasmus_0811_librivox"
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion2_1003_librivox"
         }
       },
-      "title" : "The Praise of Folly : Desiderius Erasmus",
+      "title" : "Institutes of the Christian Religion, Bo",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "LibriVox recording of The Praise of Folly, by Desi",
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion_1010_librivox"
+        }
+      },
+      "title" : "Institutes of the Christian Religion, Bo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion4_1107_librivox"
+        }
+      },
+      "title" : "Institutes of the Christian Religion, Bo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of Institutes of the Christian ",
       "expanded" : true,
       "children" : [
 
@@ -233,74 +267,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of Gargantua and Pantagruel, Bo",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion1_0909_librivox"
-        }
-      },
-      "title" : "Institutes of the Christian Religion, Bo",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Institutes of the Christian ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion2_1003_librivox"
-        }
-      },
-      "title" : "Institutes of the Christian Religion, Bo",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Institutes of the Christian ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion_1010_librivox"
-        }
-      },
-      "title" : "Institutes of the Christian Religion, Bo",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Institutes of the Christian ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/institutes_christian_religion4_1107_librivox"
-        }
-      },
-      "title" : "Institutes of the Christian Religion, Bo",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Institutes of the Christian ",
       "expanded" : true,
       "children" : [
 
