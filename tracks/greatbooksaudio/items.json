@@ -4,6 +4,40 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/details\/prince_pa_librivox"
+        }
+      },
+      "title" : "The Prince : Niccolo Machiavelli : Free ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Prince, by Niccolò Machi",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/folly_erasmus_0811_librivox"
+        }
+      },
+      "title" : "The Praise of Folly : Desiderius Erasmus",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "LibriVox recording of The Praise of Folly, by Desi",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/categories_1004_librivox"
         }
       },
@@ -63,40 +97,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of Metamorphoses, by Publius Ov",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tacitus_histories_0905_librivox1"
-        }
-      },
-      "title" : "Tacitus",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of Publius Cornelius Tacitus",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/tacitus_annals_cb_vol2_0809_librivox1"
-        }
-      },
-      "title" : "Tacitus",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Annals Vol 2, by Publius",
       "expanded" : true,
       "children" : [
 
@@ -182,40 +182,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "LibriVox recording of The Canterbury Tales, by Geo",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/prince_pa_librivox"
-        }
-      },
-      "title" : "The Prince : Niccolo Machiavelli : Free ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Prince, by Niccolò Machi",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/details\/folly_erasmus_0811_librivox"
-        }
-      },
-      "title" : "The Praise of Folly : Desiderius Erasmus",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "LibriVox recording of The Praise of Folly, by Desi",
       "expanded" : true,
       "children" : [
 
