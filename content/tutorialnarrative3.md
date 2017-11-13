@@ -12,7 +12,7 @@ You may want to keep track of work related information, or personal information.
 
 You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, you may want to keep all your recipes on Kobble, or keep your to do lists. I will show you some examples of different projects.
 
-I will share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
+I will wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
 I will also show you how to activate a GitHub account and explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
 
