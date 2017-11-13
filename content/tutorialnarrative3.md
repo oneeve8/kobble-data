@@ -51,12 +51,11 @@ And when I am at home, I can focus on my personal channels.
 
 If you plan on collecting a lot of information, you may want to consider creating several channel groups so you can simplify the amount of information that is in view at any given time in your tree.
 
-For example, if you are a student, you may want to create a channel group for each area of study, such as language arts, biology and history
-
+For example, if you are a student, you may want to create a channel group for each area of study, such as language arts, biology and history.
 
 ***
 
-Next I will show you how to cut, copy and paste.
+Next I will show you how to cut, copy and paste. In 
 
 If you want an item in more than one place, you can copy and paste it. Long tap the item you want to copy, then select the track you want it in, long tap it and tap paste.
 
