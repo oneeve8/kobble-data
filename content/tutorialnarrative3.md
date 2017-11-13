@@ -12,7 +12,7 @@ You may want to keep track of work related information, or personal information.
 
 You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, keep recipes, or to do lists. I will show you some examples of different projects.
 
-I will also show you how to cut and copy and paste items in your tree, and how using folders can help you consolidate your work.
+
 
 I will share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
