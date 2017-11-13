@@ -12,7 +12,7 @@ You may want to keep track of work related information, or personal information.
 
 You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or you may even want to keep all your recipes on Kobble. You can also keep your to do lists. I will show you some examples of different projects.
 
-Kobble can be used for a variety of purposes, for personal or professional use. If you are a student, teacher or researcher, you will especially like our spec
+Kobble can be used for a variety of purposes, for personal or professional use. If you are a student, teacher or researcher, you will especially like our special wiki tool and our search tool.
 wiki knowledge base- 
 
 I will also show you how to activate a GitHub account and explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
