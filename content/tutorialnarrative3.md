@@ -2,6 +2,9 @@
 ## #3
 Hi, Welcome back to another Kobble tutorial video. This is tutorial number 3, you may want to check out our Introductory video and our other two tutorials before you view this video.
 
+
+In this video, I will show you how to cut and copy and paste items in your tree, and how using folders can help you consolidate your work.
+
 If you watched some of our other videos, 
 
 By now, you probably have lots of ideas about how you want to use Kobble.
