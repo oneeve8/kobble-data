@@ -6,13 +6,7 @@ In this video, I will show you how to cut and copy and paste items in your tree,
 
 I will show you another handy tool in Kobble that will help you collect your bookmarks while you surf the web.
 
-You might just want to do something as simple as keeping all your internet bookmarks organised.
-
-And f you watched some of our other videos, 
-
-By now, you probably have lots of ideas about how you want to use Kobble.
-
-
+You might just want to do something as simple as keeping all your internet bookmarks organised. But if you watched some of our other videos, by now, you probably have lots of other ideas about how you want to use Kobble.
 
 
 
