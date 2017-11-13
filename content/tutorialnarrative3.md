@@ -10,9 +10,10 @@ You might just want to do something as simple as keeping all your internet bookm
 
 You may want to keep track of work related information, or personal information. So, in this video, I will share some more content management ideas, such as creating channel groups.
 
+You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or to do lists. I will show you some examples of projects.
 I will also show you how to cut and copy and paste items in your tree, and how using folders can help you consolidate your work.
 
-You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or to do lists. I will show you some examples of projects.
+
 
 I will share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
