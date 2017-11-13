@@ -5,11 +5,15 @@ Hi, Welcome back to another Kobble tutorial video. This is tutorial number 3, yo
 
 In this video, I will show you how to cut and copy and paste items in your tree, and how using folders can help you consolidate your work.
 
-You might just want to do something as simple as keeping all your internet bookmarks organised. I will show you another handy tool in Kobble that will help you collect your bookmarks while you surf the web.
+I will show you another handy tool in Kobble that will help you collect your bookmarks while you surf the web.
 
+
+You might just want to do something as simple as keeping all your internet bookmarks organised.
 And f you watched some of our other videos, 
 
 By now, you probably have lots of ideas about how you want to use Kobble.
+
+
 
 
 
