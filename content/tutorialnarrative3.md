@@ -51,7 +51,7 @@ And when I am at home, I can focus on my personal channels.
 
 If you plan on collecting a lot of information, you may want to consider creating several channel groups so you can simplify the amount of information that is in view at any given time in your tree.
 
-For example, if you are a student, you may want to create a channel group for each area of study, such as language arts, biology and chemistry.
+For example, if you are a student, you may want to create a channel group for each area of study, such as language arts, biology and history
 
 
 ***
