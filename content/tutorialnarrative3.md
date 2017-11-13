@@ -10,9 +10,9 @@ You might just want to do something as simple as keeping all your internet bookm
 
 You may want to keep track of work related information, or personal information. So, in this video, I will share some more content management ideas, such as creating channel groups.
 
-You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or you may even want to keep all your recipes on Kobble. You can also keep your do to do lists. I will show you some examples of different projects.
+You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or you may even want to keep all your recipes on Kobble. You can also keep your to do lists. I will show you some examples of different projects.
 
-Kobble can be used for a variety of purposes, for personal or professional use. If you are a student, teacher or researcher, you wil
+Kobble can be used for a variety of purposes, for personal or professional use. If you are a student, teacher or researcher, 
 wiki knowledge base- 
 
 I will also show you how to activate a GitHub account and explain a little more about GitHub, including how to retrieve and edit information in GitHub and the difference between a public and private repo.
