@@ -8,13 +8,11 @@ By now, you probably have lots of ideas about how you want to use Kobble.
 
 You might just want to do something as simple as keeping all your internet bookmarks organised. I will show you another handy tool in Kobble that will help you collect your bookmarks while you surf the web.
 
-
-
 You may want to keep track of work related information, or personal information. So, in this video, I will share some more content management ideas, such as creating folders and channel groups.
 
 I will also show you how to cut and copy and paste items in your tree.
 
-
+You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or to do lists. I will show you some examples of projects.
 
 I will share some more ideas for creating your own projects or wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
