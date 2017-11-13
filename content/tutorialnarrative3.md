@@ -55,7 +55,8 @@ For example, if you are a student, you may want to create a channel group for ea
 
 ***
 
-Next I will show you how to cut, copy and paste. In previous videos, I showed you how to delete and move items in your tree in edit mode. There is another way t
+Next I will show you how to cut, copy and paste.
+
 If you want an item in more than one place, you can copy and paste it. Long tap the item you want to copy, then select the track you want it in, long tap it and tap paste.
 
 In previous videos, I showed you how to delete and move while in edit mode. This is helpful if you plan on reorganising your channels, tracks and items.
