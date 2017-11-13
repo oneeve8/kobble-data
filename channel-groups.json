@@ -496,7 +496,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Recipes",
