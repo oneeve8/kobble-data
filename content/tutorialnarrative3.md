@@ -8,11 +8,9 @@ I will show you another handy tool in Kobble that will help you collect your boo
 
 You might just want to do something as simple as keeping all your internet bookmarks organised. But if you watched some of our other videos, by now, you probably have lots of other ideas about how you want to use Kobble.
 
-
-
 You may want to keep track of work related information, or personal information. So, in this video, I will share some more content management ideas, such as creating channel groups.
 
-You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, keep recipes, or to do lists. I will show you some examples of different projects.
+You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, you may want to keep allrecipes, or to do lists. I will show you some examples of different projects.
 
 
 
