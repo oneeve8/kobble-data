@@ -10,7 +10,7 @@ You might just want to do something as simple as keeping all your internet bookm
 
 You may want to keep track of work related information, or personal information. So, in this video, I will share some more content management ideas, such as creating channel groups.
 
-You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or you may even want to keep all your recipes on Kobble, or keep your to do lists. I will show you some examples of different projects.
+You may want to organise and manage other kinds of content, such as archived books you want to read, research projects you are working on, or you may even want to keep all your recipes on Kobble. You can also keep your do lists of things . I will show you some examples of different projects.
 
 wiki knowledge base- for personal use, or as a student or teacher, or for work related projects.
 
