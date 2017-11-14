@@ -72,7 +72,7 @@ Because a correct understanding of the design of our world provides a basis from
 9. Foucault Pendulum
 10. Upside down moon
 11. Moon Phases
-11. Eclipses
+12. Eclipses
 12. Star trails
 13. The Math Works
 14. Gravity
