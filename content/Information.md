@@ -14,9 +14,9 @@ II. Positive Evidence:
 
 False Proofs:
 
-I. Curvature
-II. M
-III. Model
+I. Flat or Curved
+II. Spinning or Stationary?
+III. 
 
 1. Circumnavigation
 2. Sunrise and Sunset
