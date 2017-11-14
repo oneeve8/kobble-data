@@ -68,8 +68,8 @@ Because a correct understanding of the design of our world provides a basis from
 5. 24 hour sun in Arctic and Antarctic
 6. Time Zones
 7. Seasons
-6. Coriolis Effect
-7. 
+8. Coriolis Effect
+9. Foucault 
 8. Seasons
 9. Foucault Pendulum
 10. Upside down moon
