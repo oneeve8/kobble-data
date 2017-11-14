@@ -2,7 +2,7 @@
 ## Meal Plans
 
 Monday:   
-Fish,  
+Fish, shrimp, tuna
 Macncheese,
 Broccoli or Zucchini
 
