@@ -79,16 +79,16 @@ Because a correct understanding of the design of our world provides a basis from
 16. Star trails
 17. Celestials
 18. Equatorial Mount
-18. Sun position at equinoxes
-19. The Math Works
-20. Gravity
-21. Plate tectonics
-22. We have a picture
-23. We have a video
-24. We went to the moon
-25. The ISS
-26. Satellites
-
+19. Sun position at equinoxes
+20. The Math Works
+21. Gravity
+22. Plate tectonics
+23. We have a picture
+24. We have a video
+25. We went to the moon
+26. The ISS
+27. Satellites
+28. Rocketr
 Flat model:
 1. Michelson Morley
 2. Airys failure
