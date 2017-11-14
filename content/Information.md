@@ -37,11 +37,11 @@ Positive Evidence and instruments:
 2. Level
 3. Theodolite
 4. P900 Camera
-4. Compass
-5. Laser
-6. Gyroscope
-7. Accelerometer
-
+5. Compass
+6. Laser
+7. Gyroscope
+8. Accelerometer
+9. Telescope
 
 6. Gyroscope
 3. Accelerometer
