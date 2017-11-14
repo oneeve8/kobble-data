@@ -63,9 +63,10 @@ Because a correct understanding of the design of our world provides a basis from
 
 1. Ships on the Horizon 
 2. Eratosthenes 
-2. Circumnavigation
-3. Sunrise and Sunset
-4. Time Zones
+3. Circumnavigation
+4. Sunrise and Sunset
+5. Coriolis Effect
+5. Time Zones
 5. Coriolis Effect
 6. Ships on the Horizon
 7. Foucault Pendulum
