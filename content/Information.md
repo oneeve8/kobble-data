@@ -67,7 +67,7 @@ Because a correct understanding of the design of our world provides a basis from
 4. Accelerometer
 5. Compass
 6. Ships on the Horizon 
-7. Distance sighting
+7. Distance sighting (Bedford Level)
 8. Height
 9. Horizon
 8. P900
