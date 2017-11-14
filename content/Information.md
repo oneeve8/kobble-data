@@ -116,12 +116,12 @@ Because a correct understanding of the design of our world provides a basis from
 * We landed on the moon
 * The ISS
 * ISS Tracking
-47. Satellites
-48. Bounce signals off the moon, radio signals
-49. Rocketry
-50. Space Travel
-51. Space Telescopes
-52. Mars Rover
+* Satellites
+* Bounce signals off the moon, radio signals
+* Rocketry
+* Space Travel
+* Space Telescopes
+Mars Rover
 
 
 
