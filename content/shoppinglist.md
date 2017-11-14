@@ -8,4 +8,5 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 2. Organic Apples
 3. Peanuts
 4. Snacks
-3. 
+5. Shrimp
+6. Milk
