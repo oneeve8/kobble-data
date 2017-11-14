@@ -125,9 +125,10 @@ Because a correct understanding of the design of our world provides a basis from
 
 
 
-Positive Evidence and instruments:
+Instruments:
 
 1. Our senses
+Compass
 2. Level
 3. Theodolite
 4. P900 Camera
