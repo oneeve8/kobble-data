@@ -8,7 +8,7 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 2. Organic Apples
 3. Peanuts
 4. Snacks
-5. Shrimp
+5. Shrimp, fish
 6. Milk, chocolate milk
 7. Apple juice, orange juice, fruit punch, lemonade, smoothies.  
 8. Butter, Olivia, cream cheese, shredded cheese, tasty cheese.  
@@ -24,4 +24,5 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 18. Organic udon noodles
 19. Fast noodles
 20. Salsa, teriyaki, satay, soy sauce, ketchup, mayonnaise, mustard
+21. Tuna, salmon
 18. Organic chips
