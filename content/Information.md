@@ -95,14 +95,14 @@ Because a correct understanding of the design of our world provides a basis from
 31. Celestials are spherical
 32. Upside down moon
 33. Moon Phases
-3. Eclipses
-32. Star trails
-33. Celestials
-34. Equatorial Mount
-35. Parallax
-36. Red shift
-37. Mercury
-38. Sun position at equinoxes
+34. Eclipses
+35. Star trails
+36. Celestials
+37. Equatorial Mount
+38. Parallax
+39. Red shift
+40. Mercury
+41. Sun position at equinoxes
 39. The Math Works
 40. Gravity
 41. Plate tectonics
