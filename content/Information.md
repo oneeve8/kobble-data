@@ -20,6 +20,7 @@ False Proofs:
 4. Coriolis Effect
 5. Ships on the Horizon
 6. Foucault Pendulum
-7. 
-7. The Math Works
-8. Gravity
+7. Upsidedown moon
+8. Star trails
+9. The Math Works (in the model)
+10. Gravity
