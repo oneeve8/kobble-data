@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.geniuskitchen.com\/recipe\/restaurant-teriyaki-sauce-133751"
+        }
+      },
+      "title" : "Restaurant Teriyaki Sauce Recipe - Geniu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "You know the nice, sweet, thick Teriyaki sauce you",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
