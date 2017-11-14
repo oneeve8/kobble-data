@@ -1,7 +1,15 @@
 {
-  "title" : "Restaruant",
+  "title" : "Restaurant",
   "subtitle" : "Links",
   "tracks" : [
-
+    {
+      "title" : "Restaurants",
+      "subtitle" : "Eating Out",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/restaurants",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
