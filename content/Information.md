@@ -65,13 +65,13 @@ Because a correct understanding of the design of our world provides a basis from
 2. Eratosthenes 
 3. Circumnavigation
 4. Sunrise and Sunset
-24 hour sun in Arctic and Antarctic
-5. Coriolis Effect
-6. Time Zones
-7. Seasons
-8. Foucault Pendulum
-9. Upside down moon
-10. Moon Phases
+5. 24 hour sun in Arctic and Antarctic
+6. Coriolis Effect
+7. Time Zones
+8. Seasons
+9. Foucault Pendulum
+10. Upside down moon
+11. Moon Phases
 11. Eclipses
 12. Star trails
 13. The Math Works
