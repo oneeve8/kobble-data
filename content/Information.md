@@ -40,7 +40,7 @@ credence: belief in or acceptance of something as true.
 
 What is the difference between belief and knowledge?
 
-Belief: relying on others rather than yourself for information; or you lack knowledge or informat
+Belief: relying on others rather than yourself for information; or you lack knowledge or information, but you are relying on what information you have to formulate enough reason
 Knowing: you have experienced it, observed it, and tested it for yourself
 
 Why do we want to know?
