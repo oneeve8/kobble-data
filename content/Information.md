@@ -66,7 +66,7 @@ Because a correct understanding of the design of our world provides a basis from
 3. Eratosthenes 
 4. Sunrise and Sunset
 5. 24 hour sun in Arctic and Antarctic
-
+6. Time Zones
 6. Coriolis Effect
 7. Time Zones
 8. Seasons
