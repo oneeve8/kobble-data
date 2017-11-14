@@ -71,14 +71,14 @@ Because a correct understanding of the design of our world provides a basis from
 * Accelerometer
 * Ships on the Horizon 
 * Perspective
- Curvature math
-11. Distance sighting
-12. Refraction, Mirage, Fata Morgana
-13. Bedford Level
-14. Laser
-15. Height
-16. Horizon rising
-17. P900 zoom lens
+* Curvature math
+* Distance sighting
+* Refraction, Mirage, Fata Morgana
+* Bedford Level
+* Laser
+* Height
+* Horizon rising
+* P900 zoom lens
 18. Theodolite
 19. Engineering
 20. Surveying
