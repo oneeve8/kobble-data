@@ -88,8 +88,8 @@ Because a correct understanding of the design of our world provides a basis from
 25. Eclipses
 26. Star trails
 27. Celestials
-20. Equatorial Mount
-21. Sun position at equinoxes
+28. Equatorial Mount
+29. Sun position at equinoxes
 22. The Math Works
 23. Gravity
 24. Plate tectonics
