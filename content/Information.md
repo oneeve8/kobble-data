@@ -35,6 +35,7 @@ Positive Evidence and instruments:
 
 1. Our senses
 2. Level
+3. Theodolite
 3. Compass
 
 3. Laser
@@ -45,5 +46,5 @@ Positive Evidence and instruments:
 4. Airy Failure
 5. Michelson Morley
 6. Bedford Level (long distance experiments)
-7. Compass
+
 
