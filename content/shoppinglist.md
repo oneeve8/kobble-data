@@ -6,7 +6,7 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 
 Paknsave:
 
-1. 
+1. Peppers
 2. Organic Apples
 3. Peanuts
 4. Snacks
