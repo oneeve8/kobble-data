@@ -32,4 +32,4 @@ Saturday:
 Pasta
 
 Sunday:
-Pizza
+Pizza, Soup
