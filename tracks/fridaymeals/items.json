@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/greatist.com\/health\/healthy-tofu-recipes"
+        }
+      },
+      "title" : "52 Brilliant Ways to Spice up Boring Tof",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "What exactly should a soy-protein fan do with the ",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
