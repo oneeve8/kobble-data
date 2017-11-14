@@ -40,13 +40,13 @@ SPLASH because you are making a splash with your awesome style!
 S. etting- MAPS Mountains, Arid Deserts, Plains, Seaside
 P. ersonality - MEET Modern, Earthy, Eccentric, Traditional
 L. ifestyle - PART - Provincial (Rural family house), Apartment (space constrained, or temporary), Rustic (Farm life, or very casual), Town (City Life)
-A. ccentuate - TIPS - Texture, Interest, Pattern, Sparkle 
+A. ccentuate - TIPS - Texture, Inspiration, Pattern, Sparkle 
 S. tuff - MESS - Minimalist, Ecclectic, Simple, Special (a hobby or interest collection)
 H. eritage: (Optional, ie Asian, Japanese, German, French, etc.)
 
 More on Accentuate:
 T. extures- soft (fur, faux fur, silky, rough like sisal, wood, smooth metal etc.)
-I. nterest- items that draw attention, something hand made, brings memories, sentimental value, a special gift from someone
+I. Nspiration- items that draw attention, something hand made, brings memories, sentimental value, a special gift from someone
 P. attern - Floral, Paisley, Stripes, Plaid, Mandala, Geometric, Plain, Polkadot, Chevron
 S. parkle - Gold, Silver, Copper, Metallic, Glass, Mirrors, Glitter, Neon or very bright pop of colour
 
