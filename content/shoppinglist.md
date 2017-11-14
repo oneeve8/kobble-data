@@ -4,7 +4,8 @@ Saturday Market
 Spinach, lettuce, zucchini, broccoli, carrots, cucumber, tomato, onions and garlic.
 Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.   
 
-P
+Paknsave:
+
 1. Cabbage
 2. Organic Apples
 3. Peanuts
@@ -31,7 +32,8 @@ P
 24. Laundry soap, cleaning supplies
 25. Tissue, personal supplies
 
-Health food store:   
+Health food store:
+
 1. Potatoes
 2. Rice
 3. Soups
@@ -39,4 +41,5 @@ Health food store:
 5. Chilli
 
 Countdown:   
+
 Juice boxes for lunches.
