@@ -78,7 +78,7 @@ Because a correct understanding of the design of our world provides a basis from
 15. Equatorial Mount
 16. Sun position at equinoxes
 17. The Math Works
-Gravity
+18. Gravity
 
 
 Flat model:
