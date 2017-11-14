@@ -96,10 +96,10 @@ Because a correct understanding of the design of our world provides a basis from
 33. The Math Works
 34. Gravity
 35. Plate tectonics
-36. We have a picture
+36. We have a picture of the earth
 37. We have pictures of the planets
-37. We have a video
-38. We went to the moon
+38. We have a video
+39. We landed on the moon
 39. The ISS
 40. Satellites
 41. Rocketry
