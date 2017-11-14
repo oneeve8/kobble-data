@@ -70,6 +70,7 @@ Curvature:
 6. Ships on the Horizon 
 7. Distance sighting
 8. Height
+9. Horizon
 8. P900
 9. Theodolite
 10. Engineering
