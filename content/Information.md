@@ -14,9 +14,9 @@ II. Positive Evidence:
 
 False Proofs:
 
-I. Flat or Curved
+I. Flat or Curved earth surface
 II. Spinning or Stationary?
-III. 
+III. Spherical, distant
 
 1. Circumnavigation
 2. Sunrise and Sunset
