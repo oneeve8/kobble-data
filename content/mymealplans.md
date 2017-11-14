@@ -8,7 +8,7 @@ Dinner:
 Fish, shrimp, or tuna,   
 Macncheese,   
 Broccoli or Zucchini
-1. Fried shrimp, 2tuna melt, lemon-fish
+1. Fried shrimp, 2. tuna melt, 3. lemon-fish 4.
 
 Tuesday:   
 
