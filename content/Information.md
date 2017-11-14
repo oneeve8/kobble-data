@@ -13,4 +13,7 @@ II. Positive Evidence:
 6. Witness testimony
 
 False Proofs:
-1.Circumnavigation
+
+1. Circumnavigation
+2. Sunrise and Sunset
+3. Time 
