@@ -16,9 +16,9 @@ II. Positive Evidence:
 
 What are we trying to prove?
 
-I. Flat or Spherical?   
+I. Spherical or Flat?   
 II. Spinning or Stationary?   
-III. Spherical, Spinning & distant celestials or Flat, Stationary, & close celestials?   
+III. Distant Celeistial or Close Cele, Stationary, & close celestials?   
 
 1. Circumnavigation
 2. Sunrise and Sunset
