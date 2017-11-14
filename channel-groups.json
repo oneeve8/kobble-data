@@ -158,20 +158,11 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Restaurant",
-          "subtitle" : "Links",
+          "title" : "My Online ",
+          "subtitle" : "Links To My Sites",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Restaurants.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "My Recipes And Restaurants",
-          "subtitle" : "Recipes And Meal Plans",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/myRecipes.json",
+            "path" : "channels\/myonlinepresence.json",
             "repo" : "kobble-data"
           }
         },
@@ -185,15 +176,6 @@
           }
         },
         {
-          "title" : "Personal ",
-          "subtitle" : "Projects",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Rosary.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Videos ",
           "subtitle" : "To Watch",
           "channel" : {
@@ -203,11 +185,29 @@
           }
         },
         {
-          "title" : "My Online ",
-          "subtitle" : "Links To My Sites",
+          "title" : "Personal ",
+          "subtitle" : "Projects",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/myonlinepresence.json",
+            "path" : "channels\/Rosary.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "My Recipes And Restaurants",
+          "subtitle" : "Recipes And Meal Plans",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/myRecipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Restaurant",
+          "subtitle" : "Links",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Restaurants.json",
             "repo" : "kobble-data"
           }
         },
