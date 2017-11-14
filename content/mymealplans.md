@@ -21,11 +21,11 @@ Potatoes,
 Butternut Squash.
 Scrambled, French toast, frittata, 
 
-
 Friday:
 Tofu,
 Udon,   
 Cabbage, carrots
+Miso Soup, 
 
 
 Saturday:
