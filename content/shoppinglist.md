@@ -1,7 +1,7 @@
 # Grocery List
 ## Shopping
 Saturday Market
-Spinach, lettuce, zucchini, broccoli, carrots, cucumber, onions and garlic.
+Spinach, lettuce, zucchini, broccoli, carrots, cucumber, tomato, onions and garlic.
 Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.   
 
 1. Cabbage
@@ -18,3 +18,4 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 12. Chicken
 13. Coconut water, grape juice, coffee.  
 14. Kidney beans, black beans, canned tomato
+15. Tortillas
