@@ -15,7 +15,7 @@ II. Positive Evidence:
 5. Expert Witness Testimony (Not proof, but can provide added certainty)
 6. Photographic or Video Evidence (Not proof, but can provide added certainty)
 
-All these together provide a Preponderance of Evidence
+All these together provide a *Preponderance of Evidence* which gives credence to a theory or hypothesis.
 
 What are we trying to prove?
 
