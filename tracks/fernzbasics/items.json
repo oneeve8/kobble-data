@@ -11,7 +11,7 @@
           }
         }
       },
-      "title" : "Basicinformation",
+      "title" : "Basic Information",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
