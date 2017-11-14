@@ -68,9 +68,9 @@ Because a correct understanding of the design of our world provides a basis from
 5. Coriolis Effect
 6. Ships on the Horizon
 7. Foucault Pendulum
-7. Upside down moon
-8. Star trails
-9. If Math Works (in the globe model)
+8. Upside down moon
+9. Star trails
+10. If Math Works (in the globe model)
 10. Gravity
 
 Positive Evidence and instruments:
