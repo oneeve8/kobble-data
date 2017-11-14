@@ -6,9 +6,9 @@ We are trying to prove whether our earth and cosmos is:
 
 I. Spherical or flat?   
 II. Spinning or stationary?   
-III. 
-III. Has distant celestials or close celestials?
-IV. Is open or enclosed?
+III. Heliocentric or Geocentric?
+IV. Has distant celestials or close celestials?
+V. Is open or enclosed?
 V. Is infinite or limited?
 VI. Is created by an intelligence or is a cosmic accident?
 VII. And we are trying to prove which of the various possible models is correct.
