@@ -6,7 +6,7 @@ I. Debunking *false proofs*
 II. Positive Evidence:
 
 1. Empirical/ Experimental
-2. Mathematical
+2. Mathematical (supports experimental)
 3. Logic and Reasoning
 4. 3D scale model
 5. Computer model
