@@ -31,7 +31,7 @@ Cabbage, carrots
 Saturday:
 Pasta,
 Spinach
-1. Tomato 2. Alfredo 3. Pesto 4.
+1. Tomato 2. Alfredo 3. Pesto 4. 
 
 Sunday:
 Pizza, Soup
