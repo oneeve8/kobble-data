@@ -96,15 +96,15 @@ Because a correct understanding of the design of our world provides a basis from
 * Upside down moon
 * Moon Phases
 * Moon seen in daytime
-* Crescent phase
+* Crescent phases
 * Full moon and new moon
 * Eclipses
 * Star trails
 * Celestials
-37. Equatorial Mount
-38. Parallax
-39. Red shift
-40. Mercury
+* Equatorial Mount
+* Parallax
+* Red shift
+* Mercury
 41. Sun position at equinoxes
 39. The Math Works
 40. Gravity
