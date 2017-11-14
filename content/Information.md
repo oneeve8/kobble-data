@@ -2,11 +2,11 @@
 
 What are we trying to prove?
 
-We are trying to prove whether the earth is:
+We are trying to prove whether our earth is:
 
 I. Spherical or Flat?   
 II. Spinning or Stationary?   
-III. Distant Celestials or Close Celestials?
+III. Has Distant Celestials or Close Celestials?
 IV. Is enclosed or open?
 V. Has limits or is infinite?
 
