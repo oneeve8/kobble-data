@@ -8,11 +8,11 @@ We are trying to prove whether our earth and cosmos is:
 2. Spinning or stationary?   
 3. Heliocentric or Geocentric?
 4. Has distant celestials or close celestials?
-5. Is based on gravity or electromagnetism and density/buoyancy?
+5. Is based on gravity or electromagnetism adensity/buoyancy?
 6. Is open or enclosed?
 7. Is infinite or limited?
-V. Is created by an intelligence or is a cosmic accident?
-VIII. And we are trying to prove which of the various possible models is correct.
+8. Is created by an intelligence or is a cosmic accident?
+9. And we are trying to prove which of the various possible models is correct.
 
 Two types of arguments:
 
