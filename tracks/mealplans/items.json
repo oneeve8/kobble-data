@@ -6,6 +6,27 @@
         "contents" : {
           "spec" : {
             "owner" : "oneeve8",
+            "path" : "content\/shoppinglist.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Grocery List",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Shopping",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
             "path" : "content\/mymealplans.md",
             "repo" : "kobble-data"
           }
