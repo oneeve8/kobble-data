@@ -2,10 +2,12 @@
 ## Meal Plans
 
 Monday:   
-Fish
+Fish,  
+Macncheese
 
 Tuesday:   
 Chicken
+Rice
 
 Wednesday:   
 Takeaway
