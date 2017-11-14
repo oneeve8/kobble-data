@@ -64,6 +64,15 @@
         "path" : "tracks\/studytools",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Link Lists",
+      "subtitle" : "To Curate",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Linkliststocurate",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
