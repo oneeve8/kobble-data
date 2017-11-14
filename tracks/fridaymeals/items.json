@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.countryliving.com\/food-drinks\/recipes\/a41655\/spinach-ham-egg-bakes-recipe\/"
+        }
+      },
+      "title" : "Grab and Go Spinach and Ham Egg Bakes",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Less fancy than quiche, these hearty little egg ba",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
