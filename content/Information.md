@@ -72,17 +72,17 @@ Because a correct understanding of the design of our world provides a basis from
 9. Time Zones
 10. Seasons
 11. Coriolis Effect
-11. Foucault pendulum
-12. Upside down moon
-13. Moon Phases
-14. Eclipses
-15. Star trails
-16. Equatorial Mount
-17. Sun position at equinoxes
-18. The Math Works
-19. Gravity
-20. Plate tectonics
-21. We have a picture
+12. Foucault pendulum
+13. Upside down moon
+14. Moon Phases
+15. Eclipses
+16. Star trails
+17. Equatorial Mount
+18. Sun position at equinoxes
+19. The Math Works
+20. Gravity
+21. Plate tectonics
+22. We have a picture
 22. We have a video
 23. We went to the moon
 24. The ISS
