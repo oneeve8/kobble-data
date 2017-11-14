@@ -4,11 +4,12 @@
 Monday:   
 Fish,  
 Macncheese,
-Broccoli or 
+Broccoli or Zucchini
 
 Tuesday:   
 Chicken,   
-Rice
+Rice,
+Carrots, peppers,
 
 Wednesday:   
 Takeaway
