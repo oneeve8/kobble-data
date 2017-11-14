@@ -129,12 +129,12 @@ Instruments:
 
 * Our senses
 * Compass
+* Sundial
 * Level
 * Plumb
 * Theodolite
-4. P900 Camera
-5. Compass
-6. Laser
+* P900 Camera
+Laser
 7. Gyroscope
 8. Accelerometer
 9. Telescope
