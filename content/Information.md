@@ -42,9 +42,11 @@ What is the difference between belief and knowledge?
 
 Belief: relying on others rather than yourself for information; or you lack knowledge or information, but you are relying on what information you have to formulate enough reason to base your world view upon it.
 
-Knowing: you have experienced it, observed it, and tested it for yourself
+Knowing: You have experienced it, observed it, and tested it for yourself
 
-Faith: 
+Trust: You trust informa
+
+Faith:
 
 Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives.
