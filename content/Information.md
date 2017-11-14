@@ -12,4 +12,5 @@ II. Positive Evidence:
 5. Computer model
 6. Witness testimony
 
-Falst Proofs
+False Proofs:
+1.Circumnavigation
