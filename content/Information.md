@@ -32,8 +32,6 @@ Types of evidence:
 
 All these together provide a *Preponderance of Evidence* which gives credence to a theory or hypothesis.
 
-
-
 1. Circumnavigation
 2. Sunrise and Sunset
 3. Time Zones
