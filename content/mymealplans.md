@@ -8,6 +8,9 @@ Broccoli or Zucchini
 Fried shrimp, tuna melt, lemon-fish
 
 Tuesday:   
+
+Lunch leftover shrimp and macncheese
+
 Chicken,   
 Rice,
 Carrots, peppers, cauliflower, or green beans
