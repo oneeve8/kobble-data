@@ -78,14 +78,14 @@ Because a correct understanding of the design of our world provides a basis from
 14. Laser
 15. Height
 16. Horizon rising
-14. P900 zoom lens
-15. Theodolite
-16. Engineering
-17. Surveying
-18. Geodesic Surveying
-19. Eratosthenes 
-20. Sunrise and Sunset
-21. Sun Dial
+17. P900 zoom lens
+18. Theodolite
+19. Engineering
+20. Surveying
+21. Geodesic Surveying
+22. Eratosthenes 
+23. Sunrise and Sunset
+2. Sun Dial
 22. 24 hour sun in Arctic and Antarctic
 23. Time Zones
 24. Seasons
