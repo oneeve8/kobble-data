@@ -92,14 +92,14 @@ Because a correct understanding of the design of our world provides a basis from
 29. Parallax
 30. Red shift
 31. Mercury
-31. Sun position at equinoxes
-32. The Math Works
-23. Gravity
-24. Plate tectonics
-25. We have a picture
-26. We have a video
-27. We went to the moon
-28. The ISS
+32. Sun position at equinoxes
+33. The Math Works
+34. Gravity
+35. Plate tectonics
+36. We have a picture
+37. We have a video
+38. We went to the moon
+. The ISS
 29. Satellites
 30. Rocketry
 31. Space Travel
