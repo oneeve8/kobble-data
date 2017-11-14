@@ -11,4 +11,4 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 5. Shrimp
 6. Milk, chocolate milk
 7. Apple juice, orange juice, fruit punch, lemonade, smoothies.  
-8. 
+8. Butter, cream cheese, shredded cheese, 
