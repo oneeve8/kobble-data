@@ -64,7 +64,8 @@ Because a correct understanding of the design of our world provides a basis from
 1. Circumnavigation 
 2. Compass
 3. Ships on the Horizon 
-4. Eratosthenes 
+4. Theodolite
+5. Eratosthenes 
 5. Sunrise and Sunset
 6. Sun Dial
 7. 24 hour sun in Arctic and Antarctic
