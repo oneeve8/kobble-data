@@ -141,10 +141,5 @@ Instruments:
 
 Experiments:
 
-6. Gyroscope
-3. Accelerometer
-4. Airy Failure
-5. Michelson Morley
-6. Bedford Level (long distance experiments)
 
 
