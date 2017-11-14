@@ -2,23 +2,6 @@
   "title" : "Recipes",
   "subtitle" : "Recipes",
   "tracks" : [
-    {
-      "title" : "Vegan",
-      "subtitle" : "Recipes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/veganrecipes",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Vegetarian",
-      "subtitle" : "Recipes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/vegrecipes",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
