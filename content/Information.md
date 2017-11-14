@@ -114,9 +114,6 @@ Because a correct understanding of the design of our world provides a basis from
 45. Space Telescopes
 46. Mars Rover
 
-Flat model:
-1. Michelson Morley
-2. A
 
 
 Positive Evidence and instruments:
