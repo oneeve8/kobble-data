@@ -67,12 +67,12 @@ Because a correct understanding of the design of our world provides a basis from
 3. Direct flights in southern regions
 4. Earth spin 1:1 ratio with atmosphere
 5. Coriolis Effect
-3. Gyroscope
-4. Accelerometer
-6. Ships on the Horizon 
-7. Distance sighting
-8. Bedford Level
-9. Height
+6. Gyroscope
+7. Accelerometer
+8. Ships on the Horizon 
+9. Distance sighting
+10. Bedford Level
+11. Height
 10. Horizon
 11. P900
 9. Theodolite
