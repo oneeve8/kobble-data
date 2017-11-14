@@ -8,7 +8,7 @@ II. Positive Evidence:
 1. Empirical
 		observation, 
 		experimentation
-2. Mathematical (supports empirical)
+2. Mathematical (Not proof, but supports empirical)
 3. Logic and Reasoning (makes logical sense)
 4. 3D scale model or computer modelling (works on a small scale)
 5. Expert Witness Testimony
@@ -18,7 +18,7 @@ What are we trying to prove?
 
 I. Spherical or Flat?   
 II. Spinning or Stationary?   
-III. Distant Celeistial or Close Cele, Stationary, & close celestials?   
+III. Distant Celestials or Close Celestials?
 
 1. Circumnavigation
 2. Sunrise and Sunset
