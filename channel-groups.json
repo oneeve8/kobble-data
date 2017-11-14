@@ -219,15 +219,6 @@
             "path" : "channels\/homedecorating.json",
             "repo" : "kobble-data"
           }
-        },
-        {
-          "title" : "Holiday Decor",
-          "subtitle" : "Ideas",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/holidaydecor.json",
-            "repo" : "kobble-data"
-          }
         }
       ],
       "isToggled" : false,
