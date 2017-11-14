@@ -19,4 +19,5 @@ False Proofs:
 3. Time Zones
 4. Coriolis Effect
 5. Ships on the Horizon
-6. F Pendulum
+6. Foucault Pendulum
+7. 
