@@ -35,6 +35,8 @@ Positive Evidence and instruments:
 
 1. Our senses
 2. Level
+3. Compass
+
 3. Laser
 4. Theodolite
 5. Telescope
