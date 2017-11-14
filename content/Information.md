@@ -110,10 +110,10 @@ Because a correct understanding of the design of our world provides a basis from
 46. The ISS
 47. Satellites
 48. Bounce signals off the moon, radio signals
-43. Rocketry
-44. Space Travel
-45. Space Telescopes
-46. Mars Rover
+49. Rocketry
+50. Space Travel
+51. Space Telescopes
+52. Mars Rover
 
 
 
