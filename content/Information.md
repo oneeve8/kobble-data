@@ -12,7 +12,7 @@ V. Is infinite or limited?
 
 Two types of arguments:
 
-I. Debunking a *false proof* of an alternative model
+I. Debunking evidence of a particular model
 
 II. Providing Positive Evidence for a particular model:
 
