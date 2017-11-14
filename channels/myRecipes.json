@@ -1,7 +1,16 @@
 {
-  "title" : "My Recipes",
+  "title" : "My Recipes And Restaurants",
   "subtitle" : "Recipes And Meal Plans",
   "tracks" : [
+    {
+      "title" : "Vegetarian",
+      "subtitle" : "Recipes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Vegetarianmeals",
+        "repo" : "kobble-data"
+      }
+    },
     {
       "title" : "Restaurants",
       "subtitle" : "Eating Out",
