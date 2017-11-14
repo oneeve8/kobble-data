@@ -15,8 +15,8 @@ II. Positive Evidence:
 False Proofs:
 
 I. Curvature
-II. Movement
-Curvature
+II. M
+III. Model
 
 1. Circumnavigation
 2. Sunrise and Sunset
