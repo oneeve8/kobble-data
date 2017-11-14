@@ -34,7 +34,8 @@ III. Spherical, Spinning & distant celestials or Flat, Stationary, & close celes
 Positive Evidence:
 1. Our senses
 2. Level
-2. Gyroscope
+3. Theodol
+3. Gyroscope
 3. Accelerometer
 4. Airy Failure
 5. Michelson Morley
