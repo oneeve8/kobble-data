@@ -8,7 +8,7 @@ II. Positive Evidence:
 1. Empirical
 		observation, 
 		experimentation
-	(Serves as proof as long as it is supported b
+	(Serves as positive evidence)
 2. Mathematical (Not proof, but supports empirical)
 3. Logic and Reasoning (not proof but it must make logical sense)
 4. 3D scale model or computer modelling (Not proof by itself, but must work on a small scale model)
