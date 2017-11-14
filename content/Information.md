@@ -63,7 +63,8 @@ Because a correct understanding of the design of our world provides a basis from
 
 1. Circumnavigation 
 2. Plane flights
-Gyro
+3. Gyroscope
+4. Accelerometer
 2. Compass
 3. Ships on the Horizon 
 4. Theodolite
