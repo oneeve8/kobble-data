@@ -83,10 +83,10 @@ Because a correct understanding of the design of our world provides a basis from
 20. Gravity
 21. Plate tectonics
 22. We have a picture
-22. We have a video
-23. We went to the moon
-24. The ISS
-25. Satellites
+23. We have a video
+24. We went to the moon
+25. The ISS
+26. Satellites
 
 Flat model:
 1. Michelson Morley
