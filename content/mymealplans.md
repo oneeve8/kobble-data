@@ -9,7 +9,7 @@ Broccoli or Zucchini
 Tuesday:   
 Chicken,   
 Rice,
-Carrots, peppers
+Carrots, peppers, beans
 
 Wednesday:   
 Takeaway
