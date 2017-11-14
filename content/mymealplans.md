@@ -5,4 +5,12 @@ Monday
 
 Tuesday
 
-We
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
+
+Sunday
