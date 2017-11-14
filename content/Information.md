@@ -81,6 +81,10 @@ Because a correct understanding of the design of our world provides a basis from
 18. The Math Works
 19. Gravity
 20. Plate tectonics
+21. We have a picture
+22. We have a video
+23. We went to the moon
+24.
 
 Flat model:
 1. Michelson Morley
