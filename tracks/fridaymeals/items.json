@@ -1,55 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.countryliving.com\/food-drinks\/recipes\/a2414\/pesto-ricotta-pie-recipe\/"
-        }
-      },
-      "title" : "Pesto-Ricotta Pie Recipe",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "This savory pie is the perfect for entertaining.",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.countryliving.com\/food-drinks\/recipes\/a41655\/spinach-ham-egg-bakes-recipe\/"
-        }
-      },
-      "title" : "Grab and Go Spinach and Ham Egg Bakes",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Less fancy than quiche, these hearty little egg ba",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.bbcgoodfood.com\/recipes\/2738\/real-spanish-omelette"
-        }
-      },
-      "title" : "Real Spanish omelette",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Make an omelette the Catalonian way, a classic dis",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    }
   ]
 }
