@@ -79,7 +79,7 @@ Level or curved surface:
 * Curvature math
 * Distance sighting
 * Refraction, Mirage, Fata Morgana
-* Bedford Level
+* Bedford Level (lasers)
 * Laser
 * Height
 * How height is measured
