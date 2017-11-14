@@ -9,7 +9,7 @@ Broccoli or Zucchini
 Tuesday:   
 Chicken,   
 Rice,
-Carrots, peppers, beans
+Carrots, peppers, or green beans
 
 Wednesday:   
 Takeaway
@@ -22,6 +22,7 @@ Butternut Squash
 
 Friday:
 Tofu,
+Cabbage
 
 
 Saturday:
