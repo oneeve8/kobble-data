@@ -17,7 +17,7 @@ Takeaway
 Thursday:   
 Eggs,   
 Potatoes,   
-Butte
+Butternut Squash
 
 
 Friday:
