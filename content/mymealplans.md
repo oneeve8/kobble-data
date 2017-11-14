@@ -22,7 +22,8 @@ Butternut Squash
 
 Friday:
 Tofu,
-Cabbage
+Udon,   
+Cabbage, carrots
 
 
 Saturday:
