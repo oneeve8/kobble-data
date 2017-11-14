@@ -31,12 +31,14 @@ III. Spherical, Spinning & distant celestials or Flat, Stationary, & close celes
 9. The Math Works (in the globe model)
 10. Gravity
 
-Positive Evidence:
+Positive Evidence and instruments:
+
 1. Our senses
 2. Level
 3. Laser
 4. Theodolite
-3. Gyroscope
+5. Telescope
+6. Gyroscope
 3. Accelerometer
 4. Airy Failure
 5. Michelson Morley
