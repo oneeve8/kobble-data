@@ -69,11 +69,11 @@ Because a correct understanding of the design of our world provides a basis from
 6. Time Zones
 7. Seasons
 8. Foucault Pendulum
-8. Upside down moon
-9. Moon Phases
-9. Eclipses
-10. Star trails
-10. The Math Works
+9. Upside down moon
+10. Moon Phases
+11. Eclipses
+12. Star trails
+13. The Math Works
 10. Gravity
 
 Positive Evidence and instruments:
