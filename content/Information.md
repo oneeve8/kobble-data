@@ -36,6 +36,7 @@ All these together provide a *Preponderance of Evidence* which adds certainty to
 
 A lack of evidence causes loss of certainty of a hypothesis being true.
 
+Over time, if the original hypothesis is overwhel
 Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition, opinion
 
 Belief: assumption, credo, creed, doctrine, dogma, ideology, principle, precept.
