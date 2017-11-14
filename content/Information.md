@@ -61,12 +61,13 @@ Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives; as well as our ability to help others live more fulfilling and purposeful lives.
 
 
-1. Ships on the Horizon 
+1. Circumnavigation 
+2. Ships on the Horizon 
 2. Eratosthenes 
 3. Sunrise and Sunset
-4. 24 hour sun in Arcti
+4. 24 hour sun in Arctic and Antarctic
 3. Circumnavigation
-5. 24 hour sun in Arctic and Antarctic
+
 6. Coriolis Effect
 7. Time Zones
 8. Seasons
