@@ -3,11 +3,29 @@
   "subtitle" : "Recipes And Meal Plans",
   "tracks" : [
     {
+      "title" : "Meal Plans",
+      "subtitle" : "Meal Plans",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/mealplans",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Monday",
       "subtitle" : "Meals",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/mondaymeals",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Tuesday",
+      "subtitle" : "Meals",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/tuesdaymeals",
         "repo" : "kobble-data"
       }
     },
@@ -53,24 +71,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/sundaymeals",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Tuesday",
-      "subtitle" : "Meals",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/tuesdaymeals",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Meal Plans",
-      "subtitle" : "Meal Plans",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/mealplans",
         "repo" : "kobble-data"
       }
     }
