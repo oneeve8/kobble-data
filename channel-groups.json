@@ -526,47 +526,11 @@
           }
         },
         {
-          "title" : "World Heritage",
-          "subtitle" : "Famous Sites",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/worldheritage.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Link Lists ",
-          "subtitle" : "To Curate",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/linklists.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Mark Twain",
           "subtitle" : "Study Unit",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/marktwain2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art Lessons",
-          "subtitle" : "Art Lessons Online",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artlessons.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Art Movements",
-          "subtitle" : "Art Movements In History",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/artmovements.json",
             "repo" : "kobble-data"
           }
         }
