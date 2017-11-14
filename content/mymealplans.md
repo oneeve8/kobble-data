@@ -9,8 +9,9 @@ Fried shrimp, tuna melt, lemon-fish
 
 Tuesday:   
 
-Lunch leftover shrimp and macncheese
+Lunch: leftover shrimp and macncheese, sandwich for Dom
 
+Dinner:
 Chicken,   
 Rice,
 Carrots, peppers, cauliflower, or green beans
