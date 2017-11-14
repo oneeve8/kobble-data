@@ -52,7 +52,7 @@ Knowledge requires trust in yourself- You have experienced it, observed it, and 
 Faith: Faith is different than belief. Faith is trusting in Divine Providence or a Divine being, or a Divine Order that is protecting and revealing truths. Faith does not require full trust in other humans or even trust in oneself. It is knowing that humans, including oneself, cannot fully be trusted, but one has faith that all truth will be revealed anyway despite ourselves, if we have good will in seeking the truth.
  
 Why do we want to know?
-Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives as well as helping others live more fulfilling and purposeful lives.
+Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives; as well as our ability to help others live more fulfilling and purposeful lives.
 
 
 
