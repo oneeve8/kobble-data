@@ -74,7 +74,7 @@ Because a correct understanding of the design of our world provides a basis from
 11. Eclipses
 12. Star trails
 13. The Math Works
-10. Gravity
+14. Gravity
 
 Positive Evidence and instruments:
 
