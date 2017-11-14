@@ -1,6 +1,8 @@
 # Basic Information
 
-1. Empirical
+Evidence:
+
+1. Empirical/ Experimental
 2. Mathematical
 3. Logic and Reasoning
 2. 3D scale model
