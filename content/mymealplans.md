@@ -2,9 +2,10 @@
 ## Meal Plans
 
 Monday:   
+Fish
 
-
-Tuesday
+Tuesday:   
+Chicken
 
 Wednesday
 
