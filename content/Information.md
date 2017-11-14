@@ -66,7 +66,6 @@ Shape and size:
 * Plane flights straight or angled paths
 * Direct flights in southern regions
 
-
 Spinning or stationary:
 * Earth spin 1:1 ratio with atmosphere
 * Coriolis Effect
