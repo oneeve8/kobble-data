@@ -74,7 +74,7 @@ Spinning or stationary:
 * Accelerometer
 
 Level or curved surface:
-* Eratostha
+* Eratosthenes 
 * Water is level
 * Ships on the Horizon 
 * Perspective
@@ -93,7 +93,6 @@ Level or curved surface:
 * Engineering
 * Surveying
 * Geodesic Surveying
-* Eratosthenes 
 * Sunrise and Sunset
 * Sun Dial
 * 24 hour sun in Arctic and Antarctic
