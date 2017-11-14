@@ -37,8 +37,9 @@ Positive Evidence and instruments:
 2. Level
 3. Theodolite
 4. Compass
-3. Laser
-4. Theodolite
+5. Laser
+6. Gyroscope
+
 
 6. Gyroscope
 3. Accelerometer
