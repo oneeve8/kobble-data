@@ -72,8 +72,9 @@ Because a correct understanding of the design of our world provides a basis from
 8. Ships on the Horizon 
 9. Distance sighting
 10. Bedford Level
-11. Height
-10. Horizon
+11. Laser
+12. Height
+13. Horizon
 11. P900
 9. Theodolite
 10. Engineering
