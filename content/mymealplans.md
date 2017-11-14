@@ -3,10 +3,12 @@
 
 Monday:   
 Lunch: Fast noodles, 
+
+Dinner:
 Fish, shrimp, or tuna,   
 Macncheese,   
 Broccoli or Zucchini
-Fried shrimp, tuna melt, lemon-fish
+1. Fried shrimp, 2tuna melt, lemon-fish
 
 Tuesday:   
 
