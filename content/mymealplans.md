@@ -29,8 +29,10 @@ Cabbage, carrots
 
 
 Saturday:
-Pasta
+Pasta,
+Spinach
+1. 
 
 Sunday:
 Pizza, Soup
-z
+Crudités 
