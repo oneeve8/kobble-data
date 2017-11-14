@@ -77,6 +77,7 @@ Because a correct understanding of the design of our world provides a basis from
 * Bedford Level
 * Laser
 * Height
+* How height is measured
 * Horizon rising
 * P900 zoom lens
 * Theodolite
@@ -105,9 +106,9 @@ Because a correct understanding of the design of our world provides a basis from
 * Parallax
 * Red shift
 * Mercury
-41. Sun position at equinoxes
-39. The Math Works
-40. Gravity
+* Sun position at equinoxes
+* The Math Works
+* Gravity
 41. Plate tectonics
 42. We have a picture of the earth
 43. We have pictures of the planets
