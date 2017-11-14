@@ -66,12 +66,12 @@ Because a correct understanding of the design of our world provides a basis from
 3. Ships on the Horizon 
 4. Theodolite
 5. Eratosthenes 
-5. Sunrise and Sunset
-6. Sun Dial
-7. 24 hour sun in Arctic and Antarctic
-8. Time Zones
-9. Seasons
-10. Coriolis Effect
+6. Sunrise and Sunset
+7. Sun Dial
+8. 24 hour sun in Arctic and Antarctic
+9. Time Zones
+10. Seasons
+11. Coriolis Effect
 11. Foucault pendulum
 12. Upside down moon
 13. Moon Phases
