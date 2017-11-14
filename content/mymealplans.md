@@ -45,13 +45,16 @@ Cabbage, carrots
 
 Market breakfast
 
-Dinner:
-Pasta, ravioli
-Spinach
-1. Creamy Tomato 2. Alfredo 3. Alfredo-Pesto 4. 
+Bread, Soup, salad
+Crudités, hummus
+
+
 ***
 
 # Sunday:
 
-Bread, Soup, salad
-Crudités, hummus
+Dinner:
+Pasta, ravioli
+Spinach
+1. Creamy Tomato 2. Alfredo 3. Alfredo-Pesto 4. 
+
