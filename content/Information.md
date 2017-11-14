@@ -38,7 +38,7 @@ A lack of evidence to support a hypothesis or theory causes loss of credence.
 
 credence: belief in or acceptance of something as true.
 
-What is the difference between belief and knowledge?
+What is the difference between belief and knowing with certainty?
 
 Belief: relying on others rather than yourself for information; or you lack knowledge or information, but you are relying on what information you have to formulate enough reason to base your world view upon it.
 
