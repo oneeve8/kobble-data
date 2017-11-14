@@ -62,6 +62,8 @@ Because a correct understanding of the design of our world provides a basis from
 
 
 1. Circumnavigation 
+2. Plane flights
+Gyro
 2. Compass
 3. Ships on the Horizon 
 4. Theodolite
@@ -76,9 +78,9 @@ Because a correct understanding of the design of our world provides a basis from
 13. Seasons
 14. Coriolis Effect
 15. Foucault pendulum
-1. Celestials are spherical
-14. Upside down moon
-15. Moon Phases
+16. Celestials are spherical
+17. Upside down moon
+18. Moon Phases
 16. We have bounced a signal off the moon
 17. Eclipses
 18. Star trails
