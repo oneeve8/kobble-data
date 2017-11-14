@@ -25,6 +25,7 @@ Carrots, peppers, cauliflower, or green beans
 # Wednesday:   
 Takeaway
 Pizza, sushi, takeaway
+***
 
 # Thursday:   
 Lunch: leftover takeaway
@@ -32,6 +33,7 @@ Lunch: leftover takeaway
 Dinner: Eggs,   
 Potatoes, Butternut Squash.
 1. Scrambled  2. French toast  3. frittata  4. 5.
+***
 
 # Friday:
 Tofu,
