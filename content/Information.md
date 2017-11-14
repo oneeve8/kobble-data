@@ -78,7 +78,8 @@ Because a correct understanding of the design of our world provides a basis from
 15. The Math Works
 16. Gravity
 17. Equatorial Mount
-18. 
+18. Sun position at equinoxes
+
 
 Flat model:
 1. Michelson Morley
