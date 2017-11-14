@@ -82,16 +82,16 @@ Because a correct understanding of the design of our world provides a basis from
 18. Geodesic Surveying
 19. Eratosthenes 
 20. Sunrise and Sunset
-15. Sun Dial
-16. 24 hour sun in Arctic and Antarctic
-17. Time Zones
-18. Seasons
-20. Michelson Morley
-21. Airys Failure
-22. Foucault pendulum
-21. Celestials are spherical
-22. Upside down moon
-23. Moon Phases
+21. Sun Dial
+22. 24 hour sun in Arctic and Antarctic
+23. Time Zones
+24. Seasons
+25. Michelson Morley
+26. Airys Failure
+27. Foucault pendulum
+28. Celestials are spherical
+29. Upside down moon
+2. Moon Phases
 25. Eclipses
 26. Star trails
 27. Celestials
