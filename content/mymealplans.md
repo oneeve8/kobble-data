@@ -29,9 +29,9 @@ Cabbage, carrots
 
 
 Saturday:
-Pasta,
+Pasta, ravioli
 Spinach
-1. Creamy Tomato 2. Alfredo 3. AlfredoPesto 4. 
+1. Creamy Tomato 2. Alfredo 3. Alfredo-Pesto 4. 
 
 Sunday:
 Pizza, Soup
