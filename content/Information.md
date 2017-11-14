@@ -71,7 +71,7 @@ Because a correct understanding of the design of our world provides a basis from
 7. Accelerometer
 8. Ships on the Horizon 
 9. Distance sighting
-10. Refraction, Mirage, 
+10. Refraction, Mirage, Fatima Morgana
 10. Bedford Level
 11. Laser
 12. Height
