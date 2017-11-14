@@ -111,7 +111,7 @@ Because a correct understanding of the design of our world provides a basis from
 * Gravity
 * Plate tectonics
 * Picture of the earth from space
-* Pictures of the planets
+* Pictures of the planets and space
 * Video of the earth in space
 * Moon landing
 * The ISS
