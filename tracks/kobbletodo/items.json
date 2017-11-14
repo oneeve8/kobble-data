@@ -23,6 +23,23 @@
     },
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.pcworld.co.uk\/gbuk\/computing-accessories\/computer-accessories\/headsets-and-microphones\/blue-yeti-professional-usb-microphone-silver-14134734-pdt.html"
+        }
+      },
+      "title" : "www.pcworld.co.uk",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.pcworld.co.uk",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
