@@ -8,7 +8,7 @@ I. Spherical or flat?
 II. Spinning or stationary?   
 III. Heliocentric or Geocentric?
 IV. Has distant celestials or close celestials?
-V. Is based on gravity or electromagnetism?
+V. Is based on gravity or electromagnetism and density/buoyancy?
 V. Is open or enclosed?
 VI. Is infinite or limited?
 VII. Is created by an intelligence or is a cosmic accident?
