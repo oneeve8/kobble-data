@@ -14,7 +14,7 @@ Carrots, peppers, cauliflower, or green beans
 
 Wednesday:   
 Takeaway
-Pizza, sushi, 
+Pizza, sushi, takeaway
 
 Thursday:   
 Eggs,   
