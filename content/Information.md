@@ -63,7 +63,8 @@ Because a correct understanding of the design of our world provides a basis from
 
 1. Circumnavigation
 2. Plane flights Straight or angled paths
-3. Plane fli
+3. Direct flights in southern regions
+4. Earth spin 1:1 ratio or n
 3. Gyroscope
 4. Accelerometer
 5. Compass
