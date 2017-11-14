@@ -85,13 +85,14 @@ Because a correct understanding of the design of our world provides a basis from
 22. The Math Works
 23. Gravity
 24. Plate tectonics
-23. We have a picture
-24. We have a video
-25. We went to the moon
-26. The ISS
-27. Satellites
-28. Rocketry
-29. Space Travel
+25. We have a picture
+26. We have a video
+27. We went to the moon
+28. The ISS
+29. Satellites
+30. Rocketry
+31. Space Travel
+
 Flat model:
 1. Michelson Morley
 2. Airys failure
