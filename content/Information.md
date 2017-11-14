@@ -21,12 +21,12 @@ Types of evidence:
 1. Empirical
 		observation, 
 		experimentation
-	(Can serve as positive evidence)
+	(Can serve as positive evidence if s)
 2. Mathematical (not proof by itself, but supports empirical)
 3. Logic and Reasoning (not proof by itself, but it must make logical sense)
 4. 3D scale model or computer modelling (not proof by itself, but must work on a small scale model)
-5. Expert Witness Testimony (Not proof, but can provide added certainty)
-6. Photographic or Video Evidence (Not proof, but can provide added certainty)
+5. Expert Witness Testimony (not proof by itself, but can provide added certainty)
+6. Photographic or Video Evidence (not proof by itself, but can provide added certainty)
 
 All these together provide a *Preponderance of Evidence* which gives credence to a theory or hypothesis.
 
