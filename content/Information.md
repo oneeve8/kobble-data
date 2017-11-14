@@ -26,9 +26,11 @@ False Proofs:
 10. Gravity
 
 Positive Evidence:
-1. Gyroscope
+1. 
+Gyroscope
 2. Accelerometer
 3. Airy Failure
 4. Michelson Morley
 5. Bedford Level (long distance experiments)
+6. Compass
 
