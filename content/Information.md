@@ -1,9 +1,10 @@
 # Basic Information
 
+Two types of arguments:
 
-I. Debunking *false proofs*
+I. Debunking a *false proofs*
 
-II. Positive Evidence:
+II. Providing Positive Evidence:
 
 1. Empirical
 		observation, 
