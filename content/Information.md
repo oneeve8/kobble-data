@@ -84,7 +84,8 @@ Because a correct understanding of the design of our world provides a basis from
 21. We have a picture
 22. We have a video
 23. We went to the moon
-24.
+24. The ISS
+25. Satellites
 
 Flat model:
 1. Michelson Morley
