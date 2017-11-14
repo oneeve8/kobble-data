@@ -35,3 +35,4 @@ Health food store
 2. Rice
 3. Soups
 4. Miso
+5. Chilli
