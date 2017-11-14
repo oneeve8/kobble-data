@@ -30,4 +30,5 @@ Positive Evidence:
 2. Accelerometer
 3. Airy Failure
 4. Michaelson Morley
-5. 
+5. Bedford Level (long distance experiments)
+
