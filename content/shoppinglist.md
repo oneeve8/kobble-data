@@ -17,4 +17,4 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 11. Eggs
 12. Chicken
 13. Coconut water, grape juice, coffee.  
-14. 
+14. Kidney beans, black beans, canned tomato
