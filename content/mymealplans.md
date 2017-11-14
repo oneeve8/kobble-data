@@ -6,8 +6,7 @@ Lunch: Fast noodles,
 
 Dinner:
 Fish, shrimp, or tuna,   
-Macncheese,   
-Broccoli or Zucchini
+Macncheese, Broccoli or Zucchini
 1. Fried shrimp, 2. tuna melt, 3. lemon-fish 4.
 
 Tuesday:   
