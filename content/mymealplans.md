@@ -2,7 +2,7 @@
 ## Meal Plans
 
 Monday:   
-Fish, shrimp, tuna,   
+Fish, shrimp, or tuna,   
 Macncheese,   
 Broccoli or Zucchini
 
@@ -10,7 +10,7 @@ Tuesday:
 Chicken,   
 Rice,
 Carrots, peppers, or green beans
-1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry
+1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry 5. Roast Chicken
 
 Wednesday:   
 Takeaway
