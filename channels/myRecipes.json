@@ -3,24 +3,6 @@
   "subtitle" : "Recipes And Meal Plans",
   "tracks" : [
     {
-      "title" : "Snacks",
-      "subtitle" : "Ideas",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/snacks",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Vegetarian",
-      "subtitle" : "Recipes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Vegetarianmeals",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Restaurants",
       "subtitle" : "Eating Out",
       "track" : {
@@ -35,6 +17,24 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/mealplans",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Vegetarian",
+      "subtitle" : "Recipes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Vegetarianmeals",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Snacks",
+      "subtitle" : "Ideas",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/snacks",
         "repo" : "kobble-data"
       }
     },
