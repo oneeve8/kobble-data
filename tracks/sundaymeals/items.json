@@ -4,31 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.countryliving.com\/soup-recipes\/"
+          "url" : "http:\/\/www.smh.com.au\/lifestyle\/homestyle\/quick-pasta-meals-25-ways-20110526-1f5kc.html"
         }
       },
-      "title" : "Our Very Best Soup Recipes",
+      "title" : "Quick pasta meals 25 ways",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Soups you can make easily at home, including heart",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.countryliving.com\/food-drinks\/g1309\/dinner-salad-recipe-ideas\/?"
-        }
-      },
-      "title" : "20+ Salad Recipes Hearty Enough for Dinn",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "These full-fledged meals are about more than just ",
+      "subtitle" : "Dinner in a flash: 25 simple pasta sauces ready in",
       "expanded" : true,
       "children" : [
 
