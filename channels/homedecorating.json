@@ -3,6 +3,15 @@
   "subtitle" : "How To",
   "tracks" : [
     {
+      "title" : "Home Decor",
+      "subtitle" : "Decorating Basics",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/skylotus9homedecor",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Home Decorating",
       "subtitle" : "Ideas",
       "track" : {
