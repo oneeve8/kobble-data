@@ -9,8 +9,8 @@ II. Positive Evidence:
 		observation, 
 		experimentation
 2. Mathematical (Not proof, but supports empirical)
-3. Logic and Reasoning (makes logical sense)
-4. 3D scale model or computer modelling (works on a small scale)
+3. Logic and Reasoning (not proof but it must make logical sense)
+4. 3D scale model or computer modelling (Not proof by itself, but must work on a small scale)
 5. Expert Witness Testimony
 6. Photographic or Video Evidence
 
