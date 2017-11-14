@@ -64,14 +64,14 @@ Because a correct understanding of the design of our world provides a basis from
 * Circumnavigation
 * Compass
 * Plane flights straight or angled paths
-3. Direct flights in southern regions
-4. Earth spin 1:1 ratio with atmosphere
-5. Coriolis Effect
-6. Gyroscope
-7. Accelerometer
-8. Ships on the Horizon 
-9. Perspective
-10. Curvature math
+* Direct flights in southern regions
+* Earth spin 1:1 ratio with atmosphere
+* Coriolis Effect
+* Gyroscope
+* Accelerometer
+* Ships on the Horizon 
+* Perspective
+ Curvature math
 11. Distance sighting
 12. Refraction, Mirage, Fata Morgana
 13. Bedford Level
