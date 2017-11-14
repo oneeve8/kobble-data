@@ -72,12 +72,11 @@ Because a correct understanding of the design of our world provides a basis from
 9. Seasons
 10. Coriolis Effect
 11. Foucault pendulum
-10. Seasons
-11. Upside down moon
-12. Moon Phases
-13. Eclipses
-14. Star trails
-15. Equatorial Mount
+12. Upside down moon
+13. Moon Phases
+14. Eclipses
+15. Star trails
+1. Equatorial Mount
 16. Sun position at equinoxes
 17. The Math Works
 18. Gravity
