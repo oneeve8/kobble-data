@@ -73,15 +73,15 @@ Because a correct understanding of the design of our world provides a basis from
 10. Engineering
 11. Surveying
 12. Geodesic Surveying
-8. Eratosthenes 
-9. Sunrise and Sunset
-10. Sun Dial
-11. 24 hour sun in Arctic and Antarctic
-12. Time Zones
-13. Seasons
-14. Coriolis Effect
-15. Foucault pendulum
-16. Celestials are spherical
+13. Eratosthenes 
+14. Sunrise and Sunset
+15. Sun Dial
+16. 24 hour sun in Arctic and Antarctic
+17. Time Zones
+18. Seasons
+19. Coriolis Effect
+20. Foucault pendulum
+21. Celestials are spherical
 17. Upside down moon
 18. Moon Phases
 16. We have bounced a signal off the moon
