@@ -72,6 +72,8 @@ Spinning or stationary:
 * Coriolis Effect
 * Gyroscope
 * Accelerometer
+
+Level or curved surface:
 * Ships on the Horizon 
 * Perspective
 * Curvature math
