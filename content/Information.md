@@ -14,6 +14,8 @@ II. Positive Evidence:
 
 False Proofs:
 
+Model
+Movement
 1. Circumnavigation
 2. Sunrise and Sunset
 3. Time Zones
@@ -22,7 +24,7 @@ False Proofs:
 6. Foucault Pendulum
 7. Upside down moon
 8. Star trails
-9. The Math Works (in the model)
+9. The Math Works (in the globe model)
 10. Gravity
 
 Positive Evidence:
