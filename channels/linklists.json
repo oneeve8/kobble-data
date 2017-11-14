@@ -2,14 +2,6 @@
   "title" : "Link Lists ",
   "subtitle" : "To Curate",
   "tracks" : [
-    {
-      "title" : "Link Lists",
-      "subtitle" : "To Curate",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Linkliststocurate",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
