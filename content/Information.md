@@ -37,9 +37,7 @@ All these together provide a *Preponderance of Evidence* which gives credence to
 A lack of evidence to support a hypothesis or theory causes loss of credence.
 
 credence: belief in or acceptance of something as true.
-"psychoanalysis finds little credence among laymen"
-synonyms:	acceptance, belief, faith, trust, confidence, reliance, traction
-"psychoanalysis finds little credence among laymen"
+
 
 
 1. Circumnavigation
