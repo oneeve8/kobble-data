@@ -18,7 +18,7 @@ Two types of arguments:
 
 I. Debunking evidence
 
-II. Providing Positive Evidence:
+II. Providing Positive Evidence
 
 Types of evidence:
 
