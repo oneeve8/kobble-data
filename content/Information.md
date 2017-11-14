@@ -67,6 +67,7 @@ Because a correct understanding of the design of our world provides a basis from
 4. Accelerometer
 5. Compass
 6. Ships on the Horizon 
+7. Distance si
 7. P900
 7. Theodolite
 5. Engineering
