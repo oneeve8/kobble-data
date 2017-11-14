@@ -49,7 +49,7 @@ You can trust others- You trust information is coming from a source that is trus
 
 Knowledge requires trust in yourself- You have experienced it, observed it, and tested it for yourself. You trust that your own motive is unbiased and objective.
 
-Faith: Faith is different than belief. Faith is trusting in Divine Providence or a Divine being, or a Divine Order that is protecting and revealing truths. Faith does not require full trust in other humans or oneself. It is knowing that humans, including oneself, cannot fully be trusted, but one has faith that “it will all work out” anyway despite ourselves, if we have good will in seeking the truth.
+Faith: Faith is different than belief. Faith is trusting in Divine Providence or a Divine being, or a Divine Order that is protecting and revealing truths. Faith does not require full trust in other humans or oneself. It is knowing that humans, including oneself, cannot fully be trusted, but one has faith that all truth will be revealed anyway despite ourselves, if we have good will in seeking the truth.
  
 
 Why do we want to know?
