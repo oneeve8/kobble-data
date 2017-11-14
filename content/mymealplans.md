@@ -1,7 +1,7 @@
 # Meal Plans
 ## Meal Plans
 
-Monday:   
+#Monday:   
 Lunch: Fast noodles, 
 
 Dinner:
@@ -26,9 +26,8 @@ Pizza, sushi, takeaway
 Thursday:   
 Lunch: leftover takeaway
 
-Dinner:Eggs,   
-Potatoes,   
-Butternut Squash.
+Dinner: Eggs,   
+Potatoes, Butternut Squash.
 1. Scrambled  2. French toast  3. frittata  4. 5.
 
 Friday:
