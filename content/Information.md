@@ -91,8 +91,9 @@ Because a correct understanding of the design of our world provides a basis from
 28. Equatorial Mount
 29. Parallax
 30. Red shift
-29. Sun position at equinoxes
-22. The Math Works
+31. Mercury
+31. Sun position at equinoxes
+32. The Math Works
 23. Gravity
 24. Plate tectonics
 25. We have a picture
