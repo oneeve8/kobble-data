@@ -1,8 +1,14 @@
 # Basic Information
 
+What are we trying to prove?
+
+I. Spherical or Flat?   
+II. Spinning or Stationary?   
+III. Distant Celestials or Close Celestials?
+
 Two types of arguments:
 
-I. Debunking a *false proofs*
+I. Debunking a *false proofs* of an alternative model
 
 II. Providing Positive Evidence:
 
@@ -18,11 +24,7 @@ II. Providing Positive Evidence:
 
 All these together provide a *Preponderance of Evidence* which gives credence to a theory or hypothesis.
 
-What are we trying to prove?
 
-I. Spherical or Flat?   
-II. Spinning or Stationary?   
-III. Distant Celestials or Close Celestials?
 
 1. Circumnavigation
 2. Sunrise and Sunset
