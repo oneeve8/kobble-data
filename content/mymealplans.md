@@ -39,6 +39,10 @@ Potatoes, butternut Squash.
 ***
 
 # Friday:
+
+Lunch:
+
+Dinner:
 Tofu,
 Udon,   
 Cabbage, carrots
