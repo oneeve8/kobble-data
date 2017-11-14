@@ -89,6 +89,8 @@ Because a correct understanding of the design of our world provides a basis from
 26. Star trails
 27. Celestials
 28. Equatorial Mount
+29. Parallax
+30. Red shift
 29. Sun position at equinoxes
 22. The Math Works
 23. Gravity
