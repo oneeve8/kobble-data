@@ -16,4 +16,6 @@ False Proofs:
 
 1. Circumnavigation
 2. Sunrise and Sunset
-3. Time 
+3. Time Zones
+4. Coriolis Effect
+
