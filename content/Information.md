@@ -9,6 +9,7 @@ II. Spinning or Stationary?
 III. Has Distant Celestials or Close Celestials?
 IV. Is open or enclosed?
 V. Is infinite or limited?
+VI. Is created by an intelligence or a cosmic accident?
 
 Two types of arguments:
 
