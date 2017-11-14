@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.bbcgoodfood.com\/recipes\/2738\/real-spanish-omelette"
+        }
+      },
+      "title" : "Real Spanish omelette",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Make an omelette the Catalonian way, a classic dis",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
