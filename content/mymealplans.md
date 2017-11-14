@@ -2,8 +2,7 @@
 ## Meal Plans
 
 Monday:   
-Lunch:
-
+Lunch: Fast noodles, 
 Fish, shrimp, or tuna,   
 Macncheese,   
 Broccoli or Zucchini
