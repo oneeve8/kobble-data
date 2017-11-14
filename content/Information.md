@@ -24,3 +24,7 @@ False Proofs:
 8. Star trails
 9. The Math Works (in the model)
 10. Gravity
+
+Positive Evidence:
+1. Gyroscope
+2. Accelero
