@@ -13,8 +13,10 @@ Takeaway
 Thursday:   
 Eggs
 
-Friday
+Friday:
+Tofu
 
-Saturday
+Saturday:
+
 
 Sunday
