@@ -23,9 +23,11 @@ Rice, carrots, peppers, cauliflower, or green beans
 
 # Wednesday:   
 
-Lunch: Egg salad or tuna 
-Takeaway
-Pizza, sushi, takeaway
+Lunch: Egg salad or tuna salad
+
+Dinner:
+Takeaway-
+Pizza, sushi, other takeaway
 ***
 
 # Thursday:   
