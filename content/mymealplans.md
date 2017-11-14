@@ -9,14 +9,15 @@ Broccoli or Zucchini
 Tuesday:   
 Chicken,   
 Rice,
-Carrots, peppers,
+Carrots, peppers
 
 Wednesday:   
 Takeaway
 
 Thursday:   
 Eggs,   
-Potatoes
+Potatoes,
+
 
 Friday:
 Tofu,
