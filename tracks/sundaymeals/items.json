@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.countryliving.com\/food-drinks\/g1309\/dinner-salad-recipe-ideas\/?"
+        }
+      },
+      "title" : "20+ Salad Recipes Hearty Enough for Dinn",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "These full-fledged meals are about more than just ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
