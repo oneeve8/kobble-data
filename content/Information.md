@@ -70,7 +70,7 @@ Shape and size:
 Spinning or stationary:
 * Earth spin 1:1 ratio with atmosphere
 * Airplanes east or west directions
-
+* Airplanes landing
 * Coriolis Effect
 * Gyroscope
 * Accelerometer
