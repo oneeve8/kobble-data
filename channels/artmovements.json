@@ -3,15 +3,6 @@
   "subtitle" : "Art Movements In History",
   "tracks" : [
     {
-      "title" : "Home Decor",
-      "subtitle" : "Decorating Basics",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/skylotus9homedecor",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Impressionism",
       "subtitle" : "Famous Impressionist Artists",
       "track" : {
