@@ -1,7 +1,7 @@
 # Meal Plans
 ## Meal Plans
 
-#Monday:   
+# Monday:   
 Lunch: Fast noodles, 
 
 Dinner:
@@ -9,7 +9,7 @@ Fish, shrimp, or tuna,
 Macncheese, Broccoli or Zucchini
 1. Fried shrimp, 2. tuna melt, 3. lemon-fish 4.
 
-Tuesday:   
+# Tuesday:   
 
 Lunch: leftover shrimp and macncheese, sandwich for Dom
 
@@ -19,11 +19,11 @@ Rice,
 Carrots, peppers, cauliflower, or green beans
 1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry 
 
-Wednesday:   
+# Wednesday:   
 Takeaway
 Pizza, sushi, takeaway
 
-Thursday:   
+# Thursday:   
 Lunch: leftover takeaway
 
 Dinner: Eggs,   
