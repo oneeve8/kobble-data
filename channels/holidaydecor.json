@@ -2,32 +2,6 @@
   "title" : "Holiday Decor",
   "subtitle" : "Ideas",
   "tracks" : [
-    {
-      "title" : "Easter",
-      "subtitle" : "Decor",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/easterdecor",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Christmas",
-      "subtitle" : "Decor",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Christmasdecor",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Halloween",
-      "subtitle" : "Decor",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/halloween",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
