@@ -78,7 +78,8 @@ Because a correct understanding of the design of our world provides a basis from
 
 Flat model:
 1. Michelson Morley
-2. Airy
+2. Airys failure
+
 
 Positive Evidence and instruments:
 
