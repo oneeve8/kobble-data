@@ -6,14 +6,15 @@ Fish,
 Macncheese
 
 Tuesday:   
-Chicken
+Chicken,   
 Rice
 
 Wednesday:   
 Takeaway
 
 Thursday:   
-Eggs
+Eggs,   
+
 
 Friday:
 Tofu
