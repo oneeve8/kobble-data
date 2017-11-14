@@ -110,8 +110,8 @@ Because a correct understanding of the design of our world provides a basis from
 * The Math
 * Gravity
 * Plate tectonics
-* We have a picture of the earth from space
-* We have pictures of the planets
+* Picture of the earth from space
+* Pictures of the planets
 * We have a video of the earth in space
 * We landed on the moon
 * The ISS
