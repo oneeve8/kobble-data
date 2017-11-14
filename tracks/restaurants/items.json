@@ -7,7 +7,7 @@
           "url" : "http:\/\/indiankitchenhowick.weebly.com\/"
         }
       },
-      "title" : "copy",
+      "title" : "Indian Kitchen",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -93,6 +93,23 @@
         }
       },
       "title" : "restaurants botany - Google Search",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.google.co.nz",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.google.co.nz\/search?q=restaurants+pakuranga&ie=UTF-8&oe=UTF-8&hl=en-nz&client=safari#istate=lrl:xpd"
+        }
+      },
+      "title" : "restaurants pakuranga - Google Search",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
