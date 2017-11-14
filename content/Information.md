@@ -16,7 +16,7 @@ False Proofs:
 
 I. Flat or Curved earth surface
 II. Spinning or Stationary?
-III. Spherical, distant
+III. Spherical, distant celestials or Flat, close cele
 
 1. Circumnavigation
 2. Sunrise and Sunset
