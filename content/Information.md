@@ -61,12 +61,13 @@ Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives; as well as our ability to help others live more fulfilling and purposeful lives.
 
 
-1. Circumnavigation
-2. Sunrise and Sunset
-3. Time Zones
-4. Coriolis Effect
-5. Ships on the Horizon
-6. Foucault Pendulum
+1. Eratosthenes 
+2. Circumnavigation
+3. Sunrise and Sunset
+4. Time Zones
+5. Coriolis Effect
+6. Ships on the Horizon
+7. Foucault Pendulum
 7. Upside down moon
 8. Star trails
 9. If Math Works (in the globe model)
