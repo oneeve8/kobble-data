@@ -4,6 +4,40 @@
       "isShowing" : false,
       "channels" : [
         {
+          "title" : "Business Plan",
+          "subtitle" : "Ideas For Marketing And Advertising Concept",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9businessplan.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Shopify",
+          "subtitle" : "My Shopify Store",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shopify.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Sky Lotus 9",
+          "subtitle" : "Home Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Skylotus9"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
           "title" : "CG1 C1",
           "subtitle" : "Channel Group 1 Channel 1",
           "channel" : {
@@ -155,7 +189,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "My Online ",
@@ -328,36 +362,10 @@
     {
       "isShowing" : false,
       "channels" : [
-        {
-          "title" : "Business Plan",
-          "subtitle" : "Ideas For Marketing And Advertising Concept",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9businessplan.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Shopify",
-          "subtitle" : "My Shopify Store",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shopify.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Sky Lotus 9",
-          "subtitle" : "Home Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
-      "name" : "Skylotus9"
+      "name" : "FERNZ"
     },
     {
       "isShowing" : false,
