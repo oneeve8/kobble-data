@@ -2,14 +2,6 @@
   "title" : "Christmas",
   "subtitle" : "Decor",
   "tracks" : [
-    {
-      "title" : "Christmas",
-      "subtitle" : "Decor",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Christmasdecor",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
