@@ -2,23 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.countryliving.com\/food-drinks\/recipes\/a2414\/pesto-ricotta-pie-recipe\/"
-        }
-      },
-      "title" : "Pesto-Ricotta Pie Recipe",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "This savory pie is the perfect for entertaining.",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
