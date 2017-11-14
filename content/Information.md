@@ -99,11 +99,11 @@ Because a correct understanding of the design of our world provides a basis from
 36. We have a picture
 37. We have a video
 38. We went to the moon
-. The ISS
-29. Satellites
-30. Rocketry
-31. Space Travel
-
+39. The ISS
+40. Satellites
+41. Rocketry
+42. Space Travel
+43. Space Telescopes
 Flat model:
 1. Michelson Morley
 2. Airys failure
