@@ -45,8 +45,8 @@ Belief: relying on others rather than yourself for information; or you lack know
 Knowing: You have experienced it, observed it, and tested it for yourself
 
 Trust: 
-You can trust othersYou trust information is coming from a source that is trustworthy based on prior experience with a person or their work. You trust that the person or information is unbiased and objective.
-
+You can trust others- You trust information is coming from a source that is trustworthy based on prior experience with a person or their work. You trust that the person or information is unbiased and objective.
+You can trust yourself- You have experienced it, observed
 Faith:
 
 Why do we want to know?
