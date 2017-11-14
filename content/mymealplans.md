@@ -30,7 +30,7 @@ Pizza, sushi, takeaway
 Lunch: leftover takeaway
 
 Dinner: Eggs,   
-Potatoes, Butternut Squash.
+Potatoes, butternut Squash.
 1. Scrambled  2. French toast  3. frittata  4. 5.
 ***
 
