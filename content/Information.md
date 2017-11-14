@@ -91,16 +91,16 @@ Because a correct understanding of the design of our world provides a basis from
 27. Foucault pendulum
 28. Celestials are spherical
 29. Upside down moon
-2. Moon Phases
-25. Eclipses
-26. Star trails
-27. Celestials
-28. Equatorial Mount
-29. Parallax
-30. Red shift
-31. Mercury
-32. Sun position at equinoxes
-33. The Math Works
+30. Moon Phases
+31. Eclipses
+32. Star trails
+33. Celestials
+34. Equatorial Mount
+35. Parallax
+36. Red shift
+37. Mercury
+38. Sun position at equinoxes
+3. The Math Works
 34. Gravity
 35. Plate tectonics
 36. We have a picture of the earth
