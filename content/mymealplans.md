@@ -10,7 +10,7 @@ Tuesday:
 Chicken,   
 Rice,
 Carrots, peppers, or green beans
-Mexican, Satay, Teriyaki, Curry
+1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry
 
 Wednesday:   
 Takeaway
@@ -25,7 +25,7 @@ Friday:
 Tofu,
 Udon,   
 Cabbage, carrots
-1. Miso Soup, 2. coconut tofu, 3.stir fry, other kind
+1. Miso Soup, 2. coconut tofu, 3. stir fry, 4. other kind
 
 
 Saturday:
