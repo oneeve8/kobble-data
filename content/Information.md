@@ -107,12 +107,12 @@ Because a correct understanding of the design of our world provides a basis from
 * Red shift
 * Mercury
 * Sun position at equinoxes
-* The Math Works
+* The Math
 * Gravity
-41. Plate tectonics
-42. We have a picture of the earth
-43. We have pictures of the planets
-44. We have a video
+* Plate tectonics
+* We have a picture of the earth
+* We have pictures of the planets
+* We have a video
 45. We landed on the moon
 46. The ISS
 47. Satellites
