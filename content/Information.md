@@ -32,7 +32,8 @@ III. Spherical, Spinning & distant celestials or Flat, Stationary, & close celes
 10. Gravity
 
 Positive Evidence:
-1. Level
+1. Our senses
+2. Level
 2. Gyroscope
 3. Accelerometer
 4. Airy Failure
