@@ -114,7 +114,8 @@ Because a correct understanding of the design of our world provides a basis from
 * We have pictures of the planets
 * We have a video of the earth in space
 * We landed on the moon
-* The ISS/ I c
+* The ISS
+* ISS Tracking
 47. Satellites
 48. Bounce signals off the moon, radio signals
 49. Rocketry
