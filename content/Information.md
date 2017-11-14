@@ -12,9 +12,9 @@ V. Is infinite or limited?
 
 Two types of arguments:
 
-I. Debunking a *false proofs* of an alternative model
+I. Debunking a *false proof* of an alternative model
 
-II. Providing Positive Evidence:
+II. Providing Positive Evidence for a particular model:
 
 1. Empirical
 		observation, 
