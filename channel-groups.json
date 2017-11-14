@@ -194,6 +194,15 @@
           }
         },
         {
+          "title" : "Videos ",
+          "subtitle" : "To Watch",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videostowatch.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "My Online ",
           "subtitle" : "Links To My Sites",
           "channel" : {
@@ -522,15 +531,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/kobbleissues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Videos ",
-          "subtitle" : "To Watch",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/videostowatch.json",
             "repo" : "kobble-data"
           }
         },
