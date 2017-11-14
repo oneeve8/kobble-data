@@ -39,7 +39,7 @@ A lack of evidence to support a hypothesis or theory causes loss of credence.
 credence: belief in or acceptance of something as true.
 
 Why do we want to know?
-Because under
+Because understanding the purpose and design of our world provides a basis 
 
 
 1. Circumnavigation
