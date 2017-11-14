@@ -19,13 +19,13 @@ Thursday:
 Eggs,   
 Potatoes,   
 Butternut Squash.
-Scrambled, French toast, frittata, 
+1. Scrambled, 2. French toast, 3. frittata, 4. 
 
 Friday:
 Tofu,
 Udon,   
 Cabbage, carrots
-Miso Soup, coconut tofu, stir fry, other kind
+1. Miso Soup, 2. coconut tofu, 3.stir fry, other kind
 
 
 Saturday:
