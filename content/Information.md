@@ -75,10 +75,10 @@ Because a correct understanding of the design of our world provides a basis from
 12. Moon Phases
 13. Eclipses
 14. Star trails
-15. The Math Works
-16. Gravity
 17. Equatorial Mount
 18. Sun position at equinoxes
+The Math Works
+Gravity
 
 
 Flat model:
