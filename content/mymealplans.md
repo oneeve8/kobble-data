@@ -22,6 +22,8 @@ Rice, carrots, peppers, cauliflower, or green beans
 ***
 
 # Wednesday:   
+
+Lunch: Egg salad or tuna 
 Takeaway
 Pizza, sushi, takeaway
 ***
