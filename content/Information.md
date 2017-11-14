@@ -8,7 +8,7 @@ I. Spherical or Flat?
 II. Spinning or Stationary?   
 III. Has Distant Celestials or Close Celestials?
 IV. Is open or enclosed?
-V. Has limits or is infinite?
+V. Is infinite or limited?
 
 Two types of arguments:
 
