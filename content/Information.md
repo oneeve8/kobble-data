@@ -1,9 +1,9 @@
 # Basic Information
 
 
-1. Debunking “false proofs”
+I. Debunking false proofs*
 
-2. Positive Evidence:
+II. Positive Evidence:
 
 1. Empirical/ Experimental
 2. Mathematical
