@@ -75,8 +75,10 @@ Because a correct understanding of the design of our world provides a basis from
 12. Moon Phases
 13. Eclipses
 14. Star trails
-13. The Math Works
-14. Gravity
+15. The Math Works
+16. Gravity
+17. Equatorial Mount
+
 
 Flat model:
 1. Michelson Morley
