@@ -65,9 +65,10 @@ Shape and size:
 * Compass
 * Plane flights straight or angled paths
 * Direct flights in southern regions
-* Earth spin 1:1 ratio with atmosphere
 
-Spinnin
+
+Spinning or stationary:
+* Earth spin 1:1 ratio with atmosphere
 * Coriolis Effect
 * Gyroscope
 * Accelerometer
