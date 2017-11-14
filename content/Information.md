@@ -4,14 +4,14 @@ What are we trying to prove?
 
 We are trying to prove whether our earth and cosmos is:
 
-I. Spherical or flat?   
+1. Spherical or flat?   
 II. Spinning or stationary?   
 III. Heliocentric or Geocentric?
 IV. Has distant celestials or close celestials?
 V. Is based on gravity or electromagnetism and density/buoyancy?
-V. Is open or enclosed?
-VI. Is infinite or limited?
-VII. Is created by an intelligence or is a cosmic accident?
+VI. Is open or enclosed?
+VII. Is infinite or limited?
+VIII. Is created by an intelligence or is a cosmic accident?
 VIII. And we are trying to prove which of the various possible models is correct.
 
 Two types of arguments:
