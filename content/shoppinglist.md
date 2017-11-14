@@ -15,7 +15,7 @@ Paknsave:
 7. Apple juice, orange juice, fruit punch, lemonade, smoothies.  
 8. Butter, Olivia, cream cheese, shredded cheese, tasty cheese.  
 9. Tofu, hummus.  
-10. Bread for sandwiches
+10. Bread for sandwiches, banana bread
 11. Eggs
 12. Chicken
 13. Coconut water, grape juice, coffee.  
