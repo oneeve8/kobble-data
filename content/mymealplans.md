@@ -10,7 +10,7 @@ Tuesday:
 Chicken,   
 Rice,
 Carrots, peppers, or green beans
-Mexican, Satay, TER
+Mexican, Satay, Teriyaki, Curry
 
 Wednesday:   
 Takeaway
