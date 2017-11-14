@@ -92,12 +92,12 @@ Because a correct understanding of the design of our world provides a basis from
 * Michelson Morley
 * Airys Failure
 * Foucault pendulum
-31. Celestials are spherical
-32. Upside down moon
-33. Moon Phases
-34. Eclipses
-35. Star trails
-36. Celestials
+* Celestials are spherical
+* Upside down moon
+* Moon Phases
+* Eclipses
+* Star trails
+* Celestials
 37. Equatorial Mount
 38. Parallax
 39. Red shift
