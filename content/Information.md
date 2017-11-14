@@ -105,11 +105,11 @@ Curvature:
 39. We landed on the moon
 40. The ISS
 41. Satellites
-42. Bounce signals off the moon, rado
-42. Rocketry
-43. Space Travel
-44. Space Telescopes
-45. Mars Rover
+42. Bounce signals off the moon, radio signals
+43. Rocketry
+44. Space Travel
+45. Space Telescopes
+46. Mars Rover
 
 Flat model:
 1. Michelson Morley
