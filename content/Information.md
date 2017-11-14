@@ -15,6 +15,8 @@ II. Positive Evidence:
 5. Expert Witness Testimony (Not proof, but can provide added certainty)
 6. Photographic or Video Evidence (Not proof, but can provide added certainty)
 
+All these together provide a Preponderance of Evidence
+
 What are we trying to prove?
 
 I. Spherical or Flat?   
