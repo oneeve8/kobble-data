@@ -362,7 +362,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Overview",
+          "subtitle" : "Basics",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/overview.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "FERNZ"
