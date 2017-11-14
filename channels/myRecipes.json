@@ -2,6 +2,14 @@
   "title" : "My Recipes",
   "subtitle" : "Recipes And Meal Plans",
   "tracks" : [
-
+    {
+      "title" : "Meal Plans",
+      "subtitle" : "Meal Plans",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/mealplans",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
