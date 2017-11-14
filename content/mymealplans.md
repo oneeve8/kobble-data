@@ -1,7 +1,8 @@
 # Meal Plans
 ## Meal Plans
 
-Monday
+Monday:   
+
 
 Tuesday
 
