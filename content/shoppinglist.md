@@ -1,12 +1,12 @@
 # Grocery List
 ## Shopping
 Saturday Market
-Spinach, lettuce, zucchini, broccoli, carrots, cucumber, tomato, onions and garlic.
+Spinach, lettuce, zucchini, broccoli, carrots, cucumber, cabbage, tomato, onions and garlic.
 Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.   
 
 Paknsave:
 
-1. Cabbage
+1. 
 2. Organic Apples
 3. Peanuts
 4. Snacks
