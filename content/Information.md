@@ -110,11 +110,11 @@ Because a correct understanding of the design of our world provides a basis from
 * The Math
 * Gravity
 * Plate tectonics
-* We have a picture of the earth
+* We have a picture of the earth from space
 * We have pictures of the planets
-* We have a video
-45. We landed on the moon
-46. The ISS
+* We have a video of the earth in space
+* We landed on the moon
+* The ISS/ I c
 47. Satellites
 48. Bounce signals off the moon, radio signals
 49. Rocketry
