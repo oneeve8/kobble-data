@@ -69,7 +69,6 @@ Because a correct understanding of the design of our world provides a basis from
 5. Coriolis Effect
 3. Gyroscope
 4. Accelerometer
-5. Compass
 6. Ships on the Horizon 
 7. Distance sighting
 8. Bedford Level
