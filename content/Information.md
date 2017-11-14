@@ -66,14 +66,14 @@ Because a correct understanding of the design of our world provides a basis from
 3. Circumnavigation
 4. Sunrise and Sunset
 5. Coriolis Effect
-5. Time Zones
-5. Seasons
-7. Foucault Pendulum
+6. Time Zones
+7. Seasons
+8. Foucault Pendulum
 8. Upside down moon
 9. Moon Phases
 9. Eclipses
 10. Star trails
-10. If Math Works (in the globe model)
+10. The Math Works
 10. Gravity
 
 Positive Evidence and instruments:
