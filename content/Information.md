@@ -69,6 +69,7 @@ Because a correct understanding of the design of our world provides a basis from
 6. Ships on the Horizon
 7. Foucault Pendulum
 8. Upside down moon
+9. Eclipses
 9. Star trails
 10. If Math Works (in the globe model)
 10. Gravity
