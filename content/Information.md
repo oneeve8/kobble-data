@@ -60,12 +60,14 @@ Faith: Faith is different than belief. Faith is trusting in Divine Providence or
 Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives; as well as our ability to help others live more fulfilling and purposeful lives.
 
-
+Shape and size:
 * Circumnavigation
 * Compass
 * Plane flights straight or angled paths
 * Direct flights in southern regions
 * Earth spin 1:1 ratio with atmosphere
+
+Spinnin
 * Coriolis Effect
 * Gyroscope
 * Accelerometer
