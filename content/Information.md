@@ -34,7 +34,7 @@ Types of evidence:
 
 All these together provide a *Preponderance of Evidence* which adds certainty to a hypothesis being true upon which one can build a theory.
 
-A lack of evidence to support a hypothesis or theory causes loss of certainty of a hypothesis being true.
+A lack of evidence causes loss of certainty of a hypothesis being true.
 
 Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition, opinion
 
