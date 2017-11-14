@@ -65,6 +65,7 @@ Because a correct understanding of the design of our world provides a basis from
 2. Eratosthenes 
 3. Circumnavigation
 4. Sunrise and Sunset
+24 hour sun in Arctic and Antarctic
 5. Coriolis Effect
 6. Time Zones
 7. Seasons
@@ -82,7 +83,7 @@ Flat model:
 3. Bedford Level (modern laser experiments)
 4. Gyroscope
 5. Accelerometer
-6. P900 expermiments
+6. P900 experiments
 
 
 Positive Evidence and instruments:
