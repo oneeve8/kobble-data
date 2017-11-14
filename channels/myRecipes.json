@@ -3,6 +3,15 @@
   "subtitle" : "Recipes And Meal Plans",
   "tracks" : [
     {
+      "title" : "Sunday",
+      "subtitle" : "Meals",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/sundaymeals",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Tuesday",
       "subtitle" : "Meals",
       "track" : {
