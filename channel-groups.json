@@ -158,6 +158,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Holiday Decor",
+          "subtitle" : "Ideas",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/holidaydecor.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "My Recipes And Restaurants",
           "subtitle" : "Recipes And Meal Plans",
           "channel" : {
