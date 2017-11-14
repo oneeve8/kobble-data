@@ -84,10 +84,10 @@ Because a correct understanding of the design of our world provides a basis from
 21. Celestials are spherical
 22. Upside down moon
 23. Moon Phases
-24. a signal off the moon
+24. Bounce signals off the moon
 25. Eclipses
-18. Star trails
-19. Celestials
+26. Star trails
+27. Celestials
 20. Equatorial Mount
 21. Sun position at equinoxes
 22. The Math Works
