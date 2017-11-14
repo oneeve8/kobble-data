@@ -19,3 +19,6 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 13. Coconut water, grape juice, coffee.  
 14. Kidney beans, black beans, canned tomato
 15. Tortillas
+16. Wipes
+17. Cheerios
+18. 
