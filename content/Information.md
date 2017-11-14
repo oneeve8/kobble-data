@@ -8,10 +8,11 @@ I. Spherical or flat?
 II. Spinning or stationary?   
 III. Heliocentric or Geocentric?
 IV. Has distant celestials or close celestials?
+V. Is b
 V. Is open or enclosed?
-V. Is infinite or limited?
-VI. Is created by an intelligence or is a cosmic accident?
-VII. And we are trying to prove which of the various possible models is correct.
+VI. Is infinite or limited?
+VII. Is created by an intelligence or is a cosmic accident?
+VIII. And we are trying to prove which of the various possible models is correct.
 
 Two types of arguments:
 
