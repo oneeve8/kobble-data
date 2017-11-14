@@ -4,35 +4,26 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Business Plan",
-          "subtitle" : "Ideas For Marketing And Advertising Concept",
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
           "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9businessplan.json",
-            "repo" : "kobble-data"
+            "owner" : "kobble-git",
+            "path" : "channels\/kobble.json",
+            "repo" : "kobble-data-common"
           }
         },
         {
-          "title" : "Shopify",
-          "subtitle" : "My Shopify Store",
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Shopify.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Sky Lotus 9",
-          "subtitle" : "Home Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skylotus9.json",
+            "path" : "channels\/Kobbleintro.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Skylotus9"
+      "name" : "Work"
     },
     {
       "isShowing" : false,
@@ -338,26 +329,35 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
+          "title" : "Business Plan",
+          "subtitle" : "Ideas For Marketing And Advertising Concept",
           "channel" : {
-            "owner" : "kobble-git",
-            "path" : "channels\/kobble.json",
-            "repo" : "kobble-data-common"
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9businessplan.json",
+            "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
+          "title" : "Shopify",
+          "subtitle" : "My Shopify Store",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
+            "path" : "channels\/Shopify.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Sky Lotus 9",
+          "subtitle" : "Home Decorating",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Work"
+      "name" : "Skylotus9"
     },
     {
       "isShowing" : false,
