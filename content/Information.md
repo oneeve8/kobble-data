@@ -83,8 +83,8 @@ Because a correct understanding of the design of our world provides a basis from
 18. Seasons
 19. Coriolis Effect
 20. Michelson Morley
-21. Airys
-20. Foucault pendulum
+21. Airys Failure
+22. Foucault pendulum
 21. Celestials are spherical
 22. Upside down moon
 23. Moon Phases
