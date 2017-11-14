@@ -25,7 +25,7 @@ Paknsave:
 17. Cheerios
 18. Organic udon noodles
 19. Fast noodles
-20. Retried beans, Salsa, teriyaki, satay, soy sauce, ketchup, mayonnaise, mustard
+20. Retried beans, salsa, teriyaki, satay, soy sauce, ketchup, mayonnaise, mustard
 21. Tuna, salmon
 22. Organic chips
 23. Crackers, rice crackers, seaweed, granola bars.  
