@@ -16,9 +16,9 @@ We are trying to prove whether our earth and cosmos is:
 
 Two types of arguments:
 
-I. Debunking evidence of a particular model
+I. Debunking evidence
 
-II. Providing Positive Evidence for a particular model:
+II. Providing Positive Evidence:
 
 Types of evidence:
 
