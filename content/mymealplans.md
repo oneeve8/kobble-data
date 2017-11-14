@@ -2,8 +2,8 @@
 ## Meal Plans
 
 Monday:   
-Fish, shrimp, tuna
-Macncheese,
+Fish, shrimp, tuna,   
+Macncheese,   
 Broccoli or Zucchini
 
 Tuesday:   
