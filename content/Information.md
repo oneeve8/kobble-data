@@ -81,10 +81,10 @@ Because a correct understanding of the design of our world provides a basis from
 18. Star trails
 19. Celestials
 20. Equatorial Mount
-19. Sun position at equinoxes
-20. The Math Works
-21. Gravity
-22. Plate tectonics
+21. Sun position at equinoxes
+22. The Math Works
+23. Gravity
+24. Plate tectonics
 23. We have a picture
 24. We have a video
 25. We went to the moon
