@@ -65,9 +65,10 @@ Because a correct understanding of the design of our world provides a basis from
 2. Plane flights
 3. Gyroscope
 4. Accelerometer
-2. Compass
-3. Ships on the Horizon 
-4. Theodolite
+5. Compass
+6. Ships on the Horizon 
+7. P900
+7. Theodolite
 5. Engineering
 6. Surveying
 7. Geodesic Surveying
