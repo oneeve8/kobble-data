@@ -39,7 +39,9 @@ Health food store:
 3. Soups
 4. Miso
 5. Chilli
+6. Pasta
 
 Countdown:   
 
-Juice boxes for lunches.
+Juice boxes for lunches.   
+Pasta
