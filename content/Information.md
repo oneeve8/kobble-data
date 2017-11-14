@@ -70,6 +70,7 @@ Because a correct understanding of the design of our world provides a basis from
 6. Gyroscope
 7. Accelerometer
 8. Ships on the Horizon 
+9. Perspective
 9. Distance sighting
 10. Refraction, Mirage, Fata Morgana
 10. Bedford Level
