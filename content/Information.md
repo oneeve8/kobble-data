@@ -10,7 +10,7 @@ III. Has distant celestials or close celestials?
 IV. Is open or enclosed?
 V. Is infinite or limited?
 VI. Is created by an intelligence or is a cosmic accident?
-
+V
 Two types of arguments:
 
 I. Debunking evidence of a particular model
