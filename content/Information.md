@@ -65,9 +65,10 @@ Because a correct understanding of the design of our world provides a basis from
 2. Compass
 3. Ships on the Horizon 
 4. Theodolite
-5. Surveying
-6. Geodesic Surveying
-5. Eratosthenes 
+5. Engineering
+6. Surveying
+7. Geodesic Surveying
+8. Eratosthenes 
 6. Sunrise and Sunset
 7. Sun Dial
 8. 24 hour sun in Arctic and Antarctic
