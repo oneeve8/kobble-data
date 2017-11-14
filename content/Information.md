@@ -32,9 +32,9 @@ Types of evidence:
 5. Expert Witness Testimony (not proof by itself, but can provide added certainty)
 6. Photographic or Video Evidence (not proof by itself, but can provide added certainty)
 
-All these together provide a *Preponderance of Evidence* which adds certainty to a theory or hypothesis being true.
+All these together provide a *Preponderance of Evidence* which adds certainty to a hypothesis being true.
 
-A lack of evidence to support a hypothesis or theory causes loss of certainty.
+A lack of evidence to support a hypothesis or theory causes loss of certainty of a hypothesis being true.
 
 Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition, opinion
 
