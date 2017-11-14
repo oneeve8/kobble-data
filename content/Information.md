@@ -49,7 +49,7 @@ You can trust others- You trust information is coming from a source that is trus
 
 Knowledge requires trust in yourself- You have experienced it, observed it, and tested it for yourself. You trust that your own motive is unbiased and objective.
 
-Faith: Faith is different than belief. Faith is trus
+Faith: Faith is different than belief. Faith is trusting in Divine Providence or a Divine being, or a Divine Order that protects truth
 
 Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives.
