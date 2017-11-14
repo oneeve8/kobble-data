@@ -6,6 +6,7 @@ We are trying to prove whether our earth and cosmos is:
 
 I. Spherical or flat?   
 II. Spinning or stationary?   
+III. 
 III. Has distant celestials or close celestials?
 IV. Is open or enclosed?
 V. Is infinite or limited?
