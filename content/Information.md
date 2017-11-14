@@ -82,10 +82,10 @@ Because a correct understanding of the design of our world provides a basis from
 19. Coriolis Effect
 20. Foucault pendulum
 21. Celestials are spherical
-17. Upside down moon
-18. Moon Phases
-16. We have bounced a signal off the moon
-17. Eclipses
+22. Upside down moon
+23. Moon Phases
+24. a signal off the moon
+25. Eclipses
 18. Star trails
 19. Celestials
 20. Equatorial Mount
