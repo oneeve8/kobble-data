@@ -95,6 +95,9 @@ Because a correct understanding of the design of our world provides a basis from
 * Celestials are spherical
 * Upside down moon
 * Moon Phases
+* Moon seen in daytime
+* Crescent phase
+* Full moon and new moon
 * Eclipses
 * Star trails
 * Celestials
