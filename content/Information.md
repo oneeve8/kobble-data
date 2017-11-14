@@ -88,7 +88,8 @@ Because a correct understanding of the design of our world provides a basis from
 25. We went to the moon
 26. The ISS
 27. Satellites
-28. Rocketr
+28. Rocketry
+29. Space Travel
 Flat model:
 1. Michelson Morley
 2. Airys failure
