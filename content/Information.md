@@ -21,7 +21,7 @@ Types of evidence:
 1. Empirical
 		observation, 
 		experimentation
-	(Can serve as positive evidence if s)
+	(Can serve as positive evidence if supported by other evidence)
 2. Mathematical (not proof by itself, but supports empirical)
 3. Logic and Reasoning (not proof by itself, but it must make logical sense)
 4. 3D scale model or computer modelling (not proof by itself, but must work on a small scale model)
