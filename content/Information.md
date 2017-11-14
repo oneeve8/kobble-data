@@ -74,8 +74,8 @@ Because a correct understanding of the design of our world provides a basis from
 10. Bedford Level
 11. Laser
 12. Height
-13. Horizon
-11. P900
+13. Horizon rising
+11. P900 zoom lens
 9. Theodolite
 10. Engineering
 11. Surveying
