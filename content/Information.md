@@ -36,7 +36,7 @@ All these together provide a *Preponderance of Evidence* which adds certainty to
 
 A lack of evidence causes loss of certainty of a hypothesis being true.
 
-*Over time, if the original hypothesis is overwhelmingly supported by the greater scientific community, and if no experiments have proven it wrong, it becomes a theory. It’important to keep in mind that a theory is the best explanation of a phenomenon using the data that is currently available.*
+*Over time, if the original hypothesis is overwhelmingly supported by the greater scientific community, and if no experiments have proven it wrong, it becomes a theory. It is important to keep in mind that a theory is the best explanation of a phenomenon using the data that is currently available.*
 
 Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition, opinion
 
