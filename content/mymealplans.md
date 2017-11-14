@@ -5,7 +5,7 @@ Monday:
 Fish, shrimp, or tuna,   
 Macncheese,   
 Broccoli or Zucchini
-Fried shrimp, tuna melt, lemon
+Fried shrimp, tuna melt, lemon-fish
 
 Tuesday:   
 Chicken,   
