@@ -69,6 +69,7 @@ Curvature:
 5. Compass
 6. Ships on the Horizon 
 7. Distance sighting
+8. Height
 8. P900
 9. Theodolite
 10. Engineering
