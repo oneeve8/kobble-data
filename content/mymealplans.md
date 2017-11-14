@@ -9,7 +9,7 @@ Broccoli or Zucchini
 Tuesday:   
 Chicken,   
 Rice,
-Carrots, peppers, or green beans (stir-fry type
+Carrots, peppers, cauliflower, or green beans
 1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry 5. Roast Chicken
 
 Wednesday:   
