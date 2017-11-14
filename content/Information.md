@@ -36,7 +36,9 @@ All these together provide a *Preponderance of Evidence* which gives credence to
 
 A lack of evidence to support a hypothesis or theory causes loss of credence.
 
-Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition
+Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition, opinion
+
+Belie
 
 credence: belief in or acceptance of something as true.
 
