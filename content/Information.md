@@ -7,6 +7,8 @@ We are trying to prove whether the earth is:
 I. Spherical or Flat?   
 II. Spinning or Stationary?   
 III. Distant Celestials or Close Celestials?
+IV. Is enclosed or open?
+
 
 Two types of arguments:
 
