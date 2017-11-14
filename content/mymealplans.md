@@ -30,18 +30,18 @@ Dinner: Eggs,
 Potatoes, Butternut Squash.
 1. Scrambled  2. French toast  3. frittata  4. 5.
 
-Friday:
+# Friday:
 Tofu,
 Udon,   
 Cabbage, carrots
 1. Miso Soup. 2. coconut tofu. 3. sauce 4. other kind
 
 
-Saturday:
+# Saturday:
 Pasta, ravioli
 Spinach
 1. Creamy Tomato 2. Alfredo 3. Alfredo-Pesto 4. 
 
-Sunday:
+# Sunday:
 Bread, Soup, salad
 Crudités 
