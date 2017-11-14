@@ -12,6 +12,15 @@
       }
     },
     {
+      "title" : "Writing Workshop",
+      "subtitle" : "Links For Writers",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/writingworkshop",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Testing Kobble",
       "subtitle" : "Link",
       "track" : {
@@ -35,15 +44,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/kobbletodo",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Writing Workshop",
-      "subtitle" : "Links For Writers",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/writingworkshop",
         "repo" : "kobble-data"
       }
     },
