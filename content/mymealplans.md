@@ -31,7 +31,7 @@ Lunch: leftover takeaway
 
 Dinner: Eggs,   
 Potatoes, butternut Squash.
-1. Scrambled  2. French toast  3. frittata  4. Ham or sausage and eggs 5. Sps
+1. Scrambled  2. French toast  3. frittata  4. Ham or sausage and eggs 5. Spanish omlette
 ***
 
 # Friday:
