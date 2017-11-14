@@ -25,7 +25,7 @@ Friday:
 Tofu,
 Udon,   
 Cabbage, carrots
-Miso Soup, coconut tofu, stir fry
+Miso Soup, coconut tofu, stir fry, other kind
 
 
 Saturday:
