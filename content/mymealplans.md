@@ -24,8 +24,9 @@ Takeaway
 Pizza, sushi, takeaway
 
 Thursday:   
+Lunch: leftover takeaway
 
-Eggs,   
+Dinner:Eggs,   
 Potatoes,   
 Butternut Squash.
 1. Scrambled  2. French toast  3. frittata  4. 5.
