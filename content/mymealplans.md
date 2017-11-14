@@ -3,7 +3,8 @@
 
 Monday:   
 Fish,  
-Macncheese
+Macncheese,
+Broccoli or 
 
 Tuesday:   
 Chicken,   
@@ -14,10 +15,11 @@ Takeaway
 
 Thursday:   
 Eggs,   
-
+Potatoes
 
 Friday:
-Tofu
+Tofu,
+
 
 Saturday:
 Pasta
