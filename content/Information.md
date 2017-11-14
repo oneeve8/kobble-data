@@ -34,11 +34,11 @@ Types of evidence:
 
 All these together provide a *Preponderance of Evidence* which gives credence to a theory or hypothesis.
 
-A lack of evidence to support a hypothesis or theory causes loss of credence.
+A lack of evidence to support a hypothesis or theory causes loss of certaint
 
 Acceptance, assumption, axiom, certainty, conclusion, conjecture, conviction, deduction, theorem, theory, guess, hypothesis, postulation, presumption, presupposition, supposition, opinion
 
-Belief: assumption, credo, creed, doctrine, dogma, ideology,
+Belief: assumption, credo, creed, doctrine, dogma, ideology, principle, precept.
 
 credence: belief in or acceptance of something as true.
 
