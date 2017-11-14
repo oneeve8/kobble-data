@@ -14,8 +14,10 @@ II. Positive Evidence:
 
 False Proofs:
 
-Model
-Movement
+I. Curvature
+II. Movement
+Curvature
+
 1. Circumnavigation
 2. Sunrise and Sunset
 3. Time Zones
