@@ -11,7 +11,7 @@ Wednesday:
 Takeaway
 
 Thursday:   
-
+Eggs
 
 Friday
 
