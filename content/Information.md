@@ -64,8 +64,8 @@ Because a correct understanding of the design of our world provides a basis from
 1. Ships on the Horizon 
 2. Eratosthenes 
 3. Sunrise and Sunset
+4. 24 hour sun in Arcti
 3. Circumnavigation
-4. Sunrise and Sunset
 5. 24 hour sun in Arctic and Antarctic
 6. Coriolis Effect
 7. Time Zones
