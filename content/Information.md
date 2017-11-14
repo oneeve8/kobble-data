@@ -2,12 +2,12 @@
 
 What are we trying to prove?
 
-We are trying to prove whether our earth is:
+We are trying to prove whether our earth and cosmos is:
 
 I. Spherical or Flat?   
 II. Spinning or Stationary?   
 III. Has Distant Celestials or Close Celestials?
-IV. Is enclosed or open?
+IV. Is open or enclosed?
 V. Has limits or is infinite?
 
 Two types of arguments:
