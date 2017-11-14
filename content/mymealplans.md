@@ -9,6 +9,8 @@ Fish, shrimp, or tuna,
 Macncheese, Broccoli or Zucchini
 1. Fried shrimp, 2. tuna melt, 3. lemon-fish 4.
 
+***
+
 # Tuesday:   
 
 Lunch: leftover shrimp and macncheese, sandwich for Dom
@@ -18,6 +20,7 @@ Chicken,
 Rice,
 Carrots, peppers, cauliflower, or green beans
 1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry 
+***
 
 # Wednesday:   
 Takeaway
