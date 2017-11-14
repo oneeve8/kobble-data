@@ -67,10 +67,11 @@ Because a correct understanding of the design of our world provides a basis from
 4. Accelerometer
 5. Compass
 6. Ships on the Horizon 
-7. Distance sighting (Bedford Level)
-8. Height
-9. Horizon
-8. P900
+7. Distance sighting
+8. Bedford Level
+9. Height
+10. Horizon
+11. P900
 9. Theodolite
 10. Engineering
 11. Surveying
