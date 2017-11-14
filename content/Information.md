@@ -69,13 +69,12 @@ Because a correct understanding of the design of our world provides a basis from
 6. Time Zones
 7. Seasons
 8. Coriolis Effect
-9. Foucault 
-8. Seasons
-9. Foucault Pendulum
-10. Upside down moon
-11. Moon Phases
-12. Eclipses
-12. Star trails
+9. Foucault pendulum
+10. Seasons
+11. Upside down moon
+12. Moon Phases
+13. Eclipses
+14. Star trails
 13. The Math Works
 14. Gravity
 
