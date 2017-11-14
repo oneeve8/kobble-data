@@ -29,3 +29,5 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 23. Crackers, rice crackers, seaweed, granola bars.  
 24. Laundry soap, cleaning supplies
 25. Tissue, personal supplies
+
+Health food store
