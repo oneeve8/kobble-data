@@ -25,4 +25,5 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 19. Fast noodles
 20. Salsa, teriyaki, satay, soy sauce, ketchup, mayonnaise, mustard
 21. Tuna, salmon
-18. Organic chips
+22. Organic chips
+23. Crackers, rice crackers, seawead
