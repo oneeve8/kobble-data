@@ -8,7 +8,7 @@ II. Positive Evidence:
 1. Empirical
 		observation, 
 		experimentation
-2. Mathematical (supports experimental)
+2. Mathematical (supports empirical)
 3. Logic and Reasoning
 4. 3D scale model
 5. Computer model
