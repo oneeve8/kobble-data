@@ -62,7 +62,7 @@ Because a correct understanding of the design of our world provides a basis from
 
 
 1. Circumnavigation
-2. Plane flights Straight or angled paths
+2. Plane flights straight or angled paths
 3. Direct flights in southern regions
 4. Earth spin 1:1 ratio with atmosphere
 5. Coriolis Effect
