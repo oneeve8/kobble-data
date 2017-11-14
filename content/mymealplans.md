@@ -17,8 +17,7 @@ Lunch: leftover shrimp and macncheese, sandwich for Dom
 
 Dinner:
 Chicken,   
-Rice,
-Carrots, peppers, cauliflower, or green beans
+Rice, carrots, peppers, cauliflower, or green beans
 1. Mexican, 2. Satay, 3. Teriyaki, 4. Curry 
 ***
 
