@@ -203,6 +203,15 @@
           }
         },
         {
+          "title" : "Home Decorating",
+          "subtitle" : "How To",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/homedecorating.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Holiday Decor",
           "subtitle" : "Ideas",
           "channel" : {
@@ -567,15 +576,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/artmovements.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Home Decorating",
-          "subtitle" : "How To",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/homedecorating.json",
             "repo" : "kobble-data"
           }
         }
