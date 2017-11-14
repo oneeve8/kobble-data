@@ -7,9 +7,11 @@ Fish
 Tuesday:   
 Chicken
 
-Wednesday
+Wednesday:   
+Takeaway
 
-Thursday
+Thursday:   
+
 
 Friday
 
