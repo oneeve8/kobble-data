@@ -46,7 +46,7 @@ Dinner:
 Tofu,
 Udon,   
 Cabbage, carrots
-1. Miso Soup. 2. coconut tofu. 3. sauce 4. other kind
+1. Miso Soup. 2. coconut tofu. 3. Fried 4. Sauce
 ***
 
 # Saturday:
