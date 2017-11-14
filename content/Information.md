@@ -62,9 +62,10 @@ Because a correct understanding of the design of our world provides a basis from
 
 
 1. Circumnavigation 
-2. Ships on the Horizon 
-3. Eratosthenes 
-4. Sunrise and Sunset
+2. Compass
+3. Ships on the Horizon 
+4. Eratosthenes 
+5. Sunrise and Sunset
 5. 24 hour sun in Arctic and Antarctic
 6. Time Zones
 7. Seasons
