@@ -19,7 +19,7 @@ Thursday:
 Eggs,   
 Potatoes,   
 Butternut Squash.
-Omelette, French toast, frittata, 
+Scrambled, French toast, frittata, 
 
 
 Friday:
