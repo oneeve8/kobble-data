@@ -116,11 +116,7 @@ Because a correct understanding of the design of our world provides a basis from
 
 Flat model:
 1. Michelson Morley
-2. Airys failure
-3. Bedford Level (modern laser experiments)
-4. Gyroscope
-5. Accelerometer
-6. P900 experiments
+2. A
 
 
 Positive Evidence and instruments:
