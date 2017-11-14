@@ -65,6 +65,7 @@ Shape and size:
 * Compass
 * Plane flights straight or angled paths
 * Direct flights in southern regions
+* Gyroscope
 
 Spinning or stationary:
 * Earth spin 1:1 ratio with atmosphere
