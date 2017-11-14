@@ -16,7 +16,7 @@ II. Positive Evidence:
 
 What are we trying to prove?
 
-I. Flat or Curved earth surface?   
+I. Flat or Spherical?   
 II. Spinning or Stationary?   
 III. Spherical, Spinning & distant celestials or Flat, Stationary, & close celestials?   
 
