@@ -76,11 +76,11 @@ Because a correct understanding of the design of our world provides a basis from
 13. Moon Phases
 14. Eclipses
 15. Star trails
-1. Equatorial Mount
-16. Sun position at equinoxes
-17. The Math Works
-18. Gravity
-
+16. Equatorial Mount
+17. Sun position at equinoxes
+18. The Math Works
+19. Gravity
+20. Plate tectonics
 
 Flat model:
 1. Michelson Morley
