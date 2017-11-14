@@ -49,4 +49,4 @@ Spinach
 # Sunday:
 
 Bread, Soup, salad
-Crudités 
+Crudités, hummus
