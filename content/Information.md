@@ -46,7 +46,8 @@ Knowing: You have experienced it, observed it, and tested it for yourself
 
 Trust: 
 You can trust others- You trust information is coming from a source that is trustworthy based on prior experience with a person or their work. You trust that the person or information is unbiased and objective.
-You can trust yourself- You have experienced it, observed
+You can trust yourself- You have experienced it, observed it, and tested it for yourself. You trust that your own motive is unbiased
+
 Faith:
 
 Why do we want to know?
