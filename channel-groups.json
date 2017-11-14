@@ -158,7 +158,7 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "My Recipes",
+          "title" : "My Recipes And Restaurants",
           "subtitle" : "Recipes And Meal Plans",
           "channel" : {
             "owner" : "oneeve8",
