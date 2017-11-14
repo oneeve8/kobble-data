@@ -360,7 +360,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
@@ -522,7 +522,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble Projects",
