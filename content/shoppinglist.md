@@ -12,4 +12,5 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 6. Milk, chocolate milk
 7. Apple juice, orange juice, fruit punch, lemonade, smoothies.  
 8. Butter, Olivia, cream cheese, shredded cheese, tasty cheese.  
-9. 
+9. Tofu, hummus.  
+10. Bread for san
