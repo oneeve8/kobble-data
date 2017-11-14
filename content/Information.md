@@ -77,7 +77,8 @@ Because a correct understanding of the design of our world provides a basis from
 14. Moon Phases
 15. Eclipses
 16. Star trails
-17. Equatorial Mount
+17. Celestials
+18. Equatorial Mount
 18. Sun position at equinoxes
 19. The Math Works
 20. Gravity
