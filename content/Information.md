@@ -67,12 +67,12 @@ Because a correct understanding of the design of our world provides a basis from
 4. Accelerometer
 5. Compass
 6. Ships on the Horizon 
-7. Distance si
-7. P900
-7. Theodolite
-5. Engineering
-6. Surveying
-7. Geodesic Surveying
+7. Distance sighting
+8. P900
+9. Theodolite
+10. Engineering
+11. Surveying
+12. Geodesic Surveying
 8. Eratosthenes 
 9. Sunrise and Sunset
 10. Sun Dial
