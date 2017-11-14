@@ -1,6 +1,6 @@
 # Basic Information
 
-Empirical
-3D scale model
-Computer model
-Witness testimony
+1. Empirical
+2. 3D scale model
+3. Computer model
+4. Witness testimony
