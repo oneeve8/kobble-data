@@ -134,10 +134,10 @@ Instruments:
 * Plumb
 * Theodolite
 * P900 Camera
-Laser
-7. Gyroscope
-8. Accelerometer
-9. Telescope
+* Laser
+* Gyroscope
+* Accelerometer
+* Telescope
 
 Experiments:
 
