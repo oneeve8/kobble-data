@@ -10,3 +10,4 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 4. Snacks
 5. Shrimp
 6. Milk
+7. Chocolate milk, apple juice, orange juice, fruit pu
