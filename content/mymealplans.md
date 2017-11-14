@@ -16,7 +16,8 @@ Takeaway
 
 Thursday:   
 Eggs,   
-Potatoes,
+Potatoes,   
+
 
 
 Friday:
