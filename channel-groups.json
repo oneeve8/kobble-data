@@ -201,24 +201,6 @@
             "path" : "channels\/holidaydecor.json",
             "repo" : "kobble-data"
           }
-        },
-        {
-          "title" : "Christmas",
-          "subtitle" : "Decor",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Christmasdecor.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Halloween",
-          "subtitle" : "Decorating",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/halloween.json",
-            "repo" : "kobble-data"
-          }
         }
       ],
       "isToggled" : false,
