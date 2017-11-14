@@ -74,12 +74,14 @@ Spinning or stationary:
 * Accelerometer
 
 Level or curved surface:
+* Water is level
 * Ships on the Horizon 
 * Perspective
 * Curvature math
 * Distance sighting
 * Refraction, Mirage, Fata Morgana
 * Bedford Level (lasers)
+* Flat areas
 * Laser
 * Height
 * How height is measured
