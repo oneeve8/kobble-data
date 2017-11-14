@@ -2,14 +2,6 @@
   "title" : "World Heritage",
   "subtitle" : "Famous Sites",
   "tracks" : [
-    {
-      "title" : "World Heritage Sites",
-      "subtitle" : "Famous Places",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/worldheritagesites",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
