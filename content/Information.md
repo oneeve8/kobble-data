@@ -27,4 +27,6 @@ False Proofs:
 
 Positive Evidence:
 1. Gyroscope
-2. Accelero
+2. Accelerometer
+3. Airy Failure
+4. Miche
