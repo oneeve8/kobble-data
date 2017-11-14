@@ -17,6 +17,7 @@ Friday:
 Tofu
 
 Saturday:
+Pasta
 
-
-Sunday
+Sunday:
+Pizza
