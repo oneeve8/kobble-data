@@ -26,4 +26,6 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 20. Salsa, teriyaki, satay, soy sauce, ketchup, mayonnaise, mustard
 21. Tuna, salmon
 22. Organic chips
-23. Crackers, rice crackers, seawead
+23. Crackers, rice crackers, seaweed, granola bars.  
+24. Laundry soap, cleaning supplies
+
