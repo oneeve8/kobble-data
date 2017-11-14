@@ -73,6 +73,24 @@
         "path" : "tracks\/Linkliststocurate",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Art Classes",
+      "subtitle" : "Online Lessons",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/artclasses",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Music",
+      "subtitle" : "Links",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/musiclinks",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
