@@ -16,4 +16,5 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 10. Bread for sandwiches
 11. Eggs
 12. Chicken
-13. Coconut wa
+13. Coconut water, grape juice, coffee.  
+14. 
