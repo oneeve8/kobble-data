@@ -31,3 +31,7 @@ Oranges, lemons, strawberries, market breakfast, bread or bagels, hummus.
 25. Tissue, personal supplies
 
 Health food store
+1. Potatoes
+2. Rice
+3. Soups
+4. Miso
