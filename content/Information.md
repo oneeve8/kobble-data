@@ -70,7 +70,7 @@ Because a correct understanding of the design of our world provides a basis from
 5. Seasons
 7. Foucault Pendulum
 8. Upside down moon
-
+9. Moon Phases
 9. Eclipses
 10. Star trails
 10. If Math Works (in the globe model)
