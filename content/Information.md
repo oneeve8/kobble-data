@@ -74,6 +74,7 @@ Spinning or stationary:
 * Accelerometer
 
 Level or curved surface:
+* Eratostha
 * Water is level
 * Ships on the Horizon 
 * Perspective
@@ -81,7 +82,7 @@ Level or curved surface:
 * Distance sighting
 * Refraction, Mirage, Fata Morgana
 * Bedford Level (lasers)
-* Flat areas
+* Flat areas of the earth
 * Laser
 * Height
 * How height is measured
