@@ -10,9 +10,8 @@ II. Positive Evidence:
 		experimentation
 2. Mathematical (supports empirical)
 3. Logic and Reasoning (makes logical sense)
-4. 3D scale model (works on a small sca
-5. Computer model
-6. Witness testimony
+4. 3D scale model or computer modelling (works on a small scale)
+5. Witness testimony
 
 False Proofs:
 
