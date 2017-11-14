@@ -76,6 +76,9 @@ Because a correct understanding of the design of our world provides a basis from
 13. The Math Works
 14. Gravity
 
+Flat model:
+
+
 Positive Evidence and instruments:
 
 1. Our senses
