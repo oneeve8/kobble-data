@@ -3,15 +3,6 @@
   "subtitle" : "Projects In Process",
   "tracks" : [
     {
-      "title" : "Educational Tracks",
-      "subtitle" : "In Progress",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/educationalinprogress",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "World Heritage Sites",
       "subtitle" : "Famous Places",
       "track" : {
