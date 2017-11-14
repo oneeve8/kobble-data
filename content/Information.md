@@ -36,9 +36,11 @@ Positive Evidence and instruments:
 1. Our senses
 2. Level
 3. Theodolite
+4. P900 Camera
 4. Compass
 5. Laser
 6. Gyroscope
+7. Accelerometer
 
 
 6. Gyroscope
