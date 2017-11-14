@@ -14,7 +14,7 @@ II. Positive Evidence:
 5. Expert Witness Testimony
 6. Photographic or Video Evidence
 
-False Proofs:
+What are we trying to prove?
 
 I. Flat or Curved earth surface?   
 II. Spinning or Stationary?   
@@ -28,7 +28,7 @@ III. Spherical, Spinning & distant celestials or Flat, Stationary, & close celes
 6. Foucault Pendulum
 7. Upside down moon
 8. Star trails
-9. The Math Works (in the globe model)
+9. If Math Works (in the globe model)
 10. Gravity
 
 Positive Evidence and instruments:
