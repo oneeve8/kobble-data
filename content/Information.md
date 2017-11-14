@@ -62,7 +62,7 @@ Because a correct understanding of the design of our world provides a basis from
 
 Curvature:
 
-1. Circumnavigation 
+1. Circumnavigation
 2. Plane flights
 3. Gyroscope
 4. Accelerometer
