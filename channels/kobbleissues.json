@@ -12,6 +12,15 @@
       }
     },
     {
+      "title" : "World Heritage Sites",
+      "subtitle" : "Famous Places",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/worldheritagesites",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Writing Workshop",
       "subtitle" : "Links For Writers",
       "track" : {
