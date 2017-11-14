@@ -158,6 +158,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "My Recipes",
+          "subtitle" : "Recipes And Meal Plans",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/myRecipes.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "To Do List",
           "subtitle" : "To Do List",
           "channel" : {
