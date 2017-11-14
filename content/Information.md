@@ -16,6 +16,8 @@ I. Debunking evidence of a particular model
 
 II. Providing Positive Evidence for a particular model:
 
+Types of evidence:
+
 1. Empirical
 		observation, 
 		experimentation
