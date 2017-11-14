@@ -47,7 +47,7 @@ Knowing: You have experienced it, observed it, and tested it for yourself
 Belief requires trust in others: 
 You can trust others- You trust information is coming from a source that is trustworthy based on prior experience with a person or their work. You trust that the person or information is unbiased and objective.
 
-Knowledge reqYou can trust yourself- You have experienced it, observed it, and tested it for yourself. You trust that your own motive is unbiased and objective.
+Knowledge requires trust in yourself- You have experienced it, observed it, and tested it for yourself. You trust that your own motive is unbiased and objective.
 
 Faith:
 
