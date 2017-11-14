@@ -155,7 +155,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "To Do List",
@@ -215,7 +215,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Educational Links",
@@ -283,7 +283,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
