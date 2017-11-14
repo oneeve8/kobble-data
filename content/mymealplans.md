@@ -53,7 +53,7 @@ Cabbage, carrots
 
 Market breakfast
 
-Bread, Soup, salad
+Bread, Soup, salad, fruit
 Crudités, hummus
 ***
 
