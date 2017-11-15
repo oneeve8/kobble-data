@@ -143,9 +143,8 @@ Model Questions:
 * Plate tectonics
 * Distance of the Sun and Moon
 * What is the Sun?
-* What is the Moon
-* What are the stars and planets
-
+* What is the Moon?
+* What are the stars and planets?
 
 Images:
 
@@ -170,6 +169,8 @@ Motive, Hints and clues:
 * Freemasonry
 * Historical background
 * Compartmentalization
+* Bias
+* Cognitive Diss
 
 
 
