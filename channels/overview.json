@@ -3,24 +3,6 @@
   "subtitle" : "A History Of Cosmology",
   "tracks" : [
     {
-      "title" : "History Of Cosmology",
-      "subtitle" : "Historical Knowledge Of The Cosmos",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/historycosmology",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "The Explorers And Mapmakers",
-      "subtitle" : "History Of Exploration",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/explorers",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Maps",
       "subtitle" : "Different Types Of Maps",
       "track" : {
@@ -120,6 +102,15 @@
       }
     },
     {
+      "title" : "The Explorers And Mapmakers",
+      "subtitle" : "History Of Exploration",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/explorers",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Infinite Or Limited",
       "subtitle" : "Nature Of Our World",
       "track" : {
@@ -143,6 +134,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Simulation",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "History Of Cosmology",
+      "subtitle" : "Historical Knowledge Of The Cosmos",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/historycosmology",
         "repo" : "kobble-data"
       }
     },
