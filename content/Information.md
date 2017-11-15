@@ -123,8 +123,6 @@ Spinning or stationary:
 * 24 hour sun
 * eclipses
 
-
-
 Model Questions:
 
 * Sun dial
