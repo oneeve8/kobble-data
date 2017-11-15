@@ -4,9 +4,9 @@ What are we trying to prove?
 
 We are trying to prove whether our earth and cosmos:
 
-1. Spherical or flat?   
-2. Spinning or stationary?   
-3. Heliocentric or Geocentric?
+1. Is spherical or flat?   
+2. Is spinning or stationary?   
+3. Is heliocentric or geocentric?
 4. Has distant celestials or close celestials?
 5. Is based on gravity or electromagnetism, density/buoyancy?
 6. Is open or enclosed?
