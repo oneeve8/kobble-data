@@ -73,6 +73,7 @@ Shape and size:
 Spinning or stationary:
 * Earth spin 1:1 ratio with atmosphere
 * Water and air
+* Coriolis 
 * Airplanes east or west directions
 * Airplanes landing
 * Coriolis Effect
