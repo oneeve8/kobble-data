@@ -120,6 +120,7 @@ Engineering and Surveying:
 
 Model Questions:
 
+* Sun dial
 * Time Zones
 * Seasons
 * Upside down moon
@@ -155,7 +156,7 @@ Space and Space Travel:
 * Space Telescopes
 * Mars Rover
 
-Motive Hints and clues:
+Motive, Hints and clues:
 
 * Flat earth in songs and movies
 * Freemasonry
