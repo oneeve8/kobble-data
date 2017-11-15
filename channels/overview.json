@@ -3,20 +3,20 @@
   "subtitle" : "Basics",
   "tracks" : [
     {
-      "title" : "History Of Cosmology",
-      "subtitle" : "Historical Knowledge Of The Cosmos",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/historycosmology",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Basics",
       "subtitle" : "Overview Basic Information",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/fernzbasics",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "History Of Cosmology",
+      "subtitle" : "Historical Knowledge Of The Cosmos",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/historycosmology",
         "repo" : "kobble-data"
       }
     },
