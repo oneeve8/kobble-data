@@ -109,7 +109,7 @@ Level or curved surface:
 * Seasons
 
 
-* Celestials are spherical
+
 * Upside down moon
 * Moon Phases
 * Moon seen in daytime
