@@ -100,6 +100,9 @@ Level or curved surface:
 * Horizon rising
 * Fish Eye lens
 * P900 zoom lens
+* Gyroscope
+* Airplanes
+* Submarines
 
 Engineering and Surveying:
 
