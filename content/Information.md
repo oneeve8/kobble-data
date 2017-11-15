@@ -118,13 +118,10 @@ Engineering and Surveying:
 * Sunrise and Sunset
 * Sun Dial
 
-* Time Zones
-* Seasons
-
-
 Model Questions:
 
-
+* Time Zones
+* Seasons
 * Upside down moon
 * Moon Phases
 * Moon seen in daytime
