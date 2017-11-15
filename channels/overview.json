@@ -12,6 +12,15 @@
       }
     },
     {
+      "title" : "History Of Cosmology",
+      "subtitle" : "Historical Knowledge Of The Cosmos",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/historycosmology",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Horizontal",
       "subtitle" : "Level Or Curved",
       "track" : {
@@ -125,15 +134,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Simulation",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "History Of Cosmology",
-      "subtitle" : "Historical Knowledge Of The Cosmos",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/historycosmology",
         "repo" : "kobble-data"
       }
     },
