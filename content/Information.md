@@ -107,9 +107,8 @@ Spinning or stationary:
 * Michelson Morley
 * Airys Failure
 * Star Trails
-* 24 hour sun eclipse?
-
-
+* 24 hour sun
+* eclipses
 
 Engineering and Surveying:
 
