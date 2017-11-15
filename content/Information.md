@@ -66,6 +66,7 @@ Shape and size:
 * Compass
 * 24 hour sun in Arctic and Antarcic
 * Plane flights straight or angled paths
+* Submarines
 * Direct flights in southern regions
 * Gyroscope
 
@@ -104,7 +105,7 @@ Level or curved surface:
 Engineering and Surveying:
 
 * Theodolite
-* Bridges, roads, trains, Tu
+* Bridges, roads, trains, tunnels
 * Surveying
 * Geodesic Surveying
 * Sunrise and Sunset
