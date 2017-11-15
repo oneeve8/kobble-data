@@ -3,6 +3,15 @@
   "subtitle" : "Basics",
   "tracks" : [
     {
+      "title" : "Models",
+      "subtitle" : "DIfferent Models",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Models",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Maps",
       "subtitle" : "Different Types Of Maps",
       "track" : {
