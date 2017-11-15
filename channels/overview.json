@@ -66,6 +66,15 @@
       }
     },
     {
+      "title" : "Engineering And Surveying",
+      "subtitle" : "Theodelite",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/engineeringsurveying",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Spherical Or Disk",
       "subtitle" : "Circumnavigaition",
       "track" : {
@@ -80,15 +89,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/spinorstationary",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Engineering And Surveying",
-      "subtitle" : "Theodelite",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/engineeringsurveying",
         "repo" : "kobble-data"
       }
     },
