@@ -21,6 +21,24 @@
       }
     },
     {
+      "title" : "The Explorers And Mapmakers",
+      "subtitle" : "History Of Exploration",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/explorers",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Celestial Observations",
+      "subtitle" : "Telescopes Parallax",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/celestialobservations",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Horizontal",
       "subtitle" : "Level Or Curved",
       "track" : {
@@ -62,15 +80,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/engineeringsurveying",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Celestial Observations",
-      "subtitle" : "Telescopes Parallax",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/celestialobservations",
         "repo" : "kobble-data"
       }
     },
@@ -134,15 +143,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Simulation",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "The Explorers And Mapmakers",
-      "subtitle" : "History Of Exploration",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/explorers",
         "repo" : "kobble-data"
       }
     }
