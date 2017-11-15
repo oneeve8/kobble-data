@@ -91,7 +91,8 @@ Spherical or circular and flat (Shape and size):
 
 * Celestials are spherical
 * Circumnavigation by boat
-* Circumnavigation by airpl
+* Circumnavigation by airplane
+* North/South Circumnavigation
 * Compass
 * 24 hour sun in Arctic and Antarctic
 * Plane flights straight or angled paths
