@@ -86,28 +86,7 @@ Spinning or stationary:
 * Star Trails
 * 24 hour sun eclipse?
 
-Level or curved surface:
 
-* Eratosthenes 
-* Water is level
-* Sun Rise and sunset
-* Ships on the Horizon 
-* Perspective
-* Curvature math
-* Distance sighting
-* Refraction, Mirage, Fata Morgana
-* Bedford Level (lasers)
-* Flat areas of the earth
-* Laser
-* Height
-* How height is measured
-* Horizon rising
-* Fish Eye lens
-* P900 zoom lens
-* Gyroscope
-* Airplanes
-* Submarines
-* Compass?
 
 Engineering and Surveying:
 
