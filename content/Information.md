@@ -69,6 +69,7 @@ Level or curved surface (Horizontal):
 * Ships on the Horizon 
 * Perspective
 * Curvature math
+* Can we or can we not measure curvature?
 * Distance sighting
 * Refraction, Mirage, Fata Morgana
 * Bedford Level (lasers)
