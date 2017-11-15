@@ -75,7 +75,8 @@ Spinning or stationary:
 * Coriolis Effect
 * Gyroscope
 * Accelerometer
-* 
+* Michelson Morley
+* Airys Failure
 
 Level or curved surface:
 * Eratosthenes 
