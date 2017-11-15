@@ -102,6 +102,15 @@
       }
     },
     {
+      "title" : "The Explorers And Mapmakers",
+      "subtitle" : "History Of Exploration",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/explorers",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Images",
       "subtitle" : "Earth And Space",
       "track" : {
