@@ -118,7 +118,6 @@ Spinning or stationary:
 * Michelson Morley
 * Airys Failure
 * Star Trails
-* 24 hour sun
 * eclipses
 
 Model Questions:
@@ -164,6 +163,8 @@ Space and Space Travel:
 * Mars Rover
 
 Antarctica:
+* 24 hour sun
+*
 
 
 
