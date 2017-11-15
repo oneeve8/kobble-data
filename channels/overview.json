@@ -3,24 +3,6 @@
   "subtitle" : "A History Of Cosmology",
   "tracks" : [
     {
-      "title" : "Maps",
-      "subtitle" : "Different Types Of Maps",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/map",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Celestial Observations",
-      "subtitle" : "Telescopes Parallax",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/celestialobservations",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Basic Science",
       "subtitle" : "Overview Basic Information",
       "track" : {
@@ -75,15 +57,6 @@
       }
     },
     {
-      "title" : "Models",
-      "subtitle" : "DIfferent Models",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Models",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Images",
       "subtitle" : "Earth And Space",
       "track" : {
@@ -98,6 +71,24 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Spacetravel",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Models",
+      "subtitle" : "DIfferent Models",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Models",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Maps",
+      "subtitle" : "Different Types Of Maps",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/map",
         "repo" : "kobble-data"
       }
     },
@@ -143,6 +134,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/historycosmology",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Celestial Observations",
+      "subtitle" : "Telescopes Parallax",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/celestialobservations",
         "repo" : "kobble-data"
       }
     },
