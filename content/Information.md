@@ -94,6 +94,14 @@ Spherical or flat (Shape and size):
 * Direct flights in southern regions
 * Gyroscope
 
+Level or flaEngineering and Surveying:
+
+* Theodolite
+* Bridges, roads, trains, tunnels
+* Large construction projects
+* Surveying
+* Geodesic Surveying
+
 Spinning or stationary:
 
 * Earth spin 1:1 ratio with atmosphere
@@ -110,13 +118,7 @@ Spinning or stationary:
 * 24 hour sun
 * eclipses
 
-Engineering and Surveying:
 
-* Theodolite
-* Bridges, roads, trains, tunnels
-* Large construction projects
-* Surveying
-* Geodesic Surveying
 
 Model Questions:
 
