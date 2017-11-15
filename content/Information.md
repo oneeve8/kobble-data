@@ -110,6 +110,7 @@ Spinning or stationary:
 * Earth spin 1:1 ratio with atmosphere
 * Water and air
 * Coriolis Effect
+* On the contradiction betwee
 * Foucault Pendulum
 * Airplanes east or west directions
 * Airplanes landing
