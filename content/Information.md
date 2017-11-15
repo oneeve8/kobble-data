@@ -89,8 +89,6 @@ Level or curved surface (Vertical)
 * P900 zoom lens
 * Gyroscope
 
-
-
 Spherical or flat (Shape and size):
 
 * Celestials are spherical
