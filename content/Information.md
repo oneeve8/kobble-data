@@ -86,7 +86,6 @@ Level or curved surface (Vertical)
 * How height is measured
 * Horizon rising
 * Fish Eye lens
-* P900 zoom lens
 * Gyroscope
 * Airplanes
 
