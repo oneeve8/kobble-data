@@ -69,7 +69,6 @@ Level or curved surface (Horizontal):
 * Ships on the Horizon 
 * Perspective
 * Curvature math
-
 * Distance sighting
 * Refraction, Mirage, Fata Morgana
 * Bedford Level (lasers)
@@ -84,9 +83,11 @@ Level or curved surface (Vertical)
 * Height
 * How height is measured
 * Horizon rising
+* High Altitude 
 * Fish Eye lens
 * Gyroscope
 * Airplanes
+* Can we or can we not measure curvature?
 
 Spherical or circular and flat (Shape and size):
 
