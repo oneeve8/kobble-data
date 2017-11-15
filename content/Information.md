@@ -119,6 +119,8 @@ Spinning or stationary:
 * Michelson Morley
 * Airys Failure
 * Star Trails
+* Rim velocity
+* Centrifugal
 * eclipses
 
 Model Questions:
