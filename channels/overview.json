@@ -93,15 +93,6 @@
       }
     },
     {
-      "title" : "Infinite Or Enclosed",
-      "subtitle" : "Nature Of Our World",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/infiniteenclosed",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Models",
       "subtitle" : "DIfferent Models",
       "track" : {
@@ -125,6 +116,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Spacetravel",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Infinite Or Enclosed",
+      "subtitle" : "Nature Of Our World",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/infiniteenclosed",
         "repo" : "kobble-data"
       }
     },
