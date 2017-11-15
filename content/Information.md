@@ -74,6 +74,7 @@ Spinning or stationary:
 * Airplanes east or west directions
 * Airplanes landing
 * Coriolis Effect
+* Foucault 
 * Gyroscope
 * Accelerometer
 * Michelson Morley
@@ -104,8 +105,7 @@ Level or curved surface:
 
 * Time Zones
 * Seasons
-* Michelson Morley
-* Airys Failure
+
 * Foucault pendulum
 * Celestials are spherical
 * Upside down moon
