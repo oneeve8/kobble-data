@@ -81,6 +81,7 @@ Spinning or stationary:
 * Accelerometer
 * Michelson Morley
 * Airys Failure
+* Star Trails
 
 Level or curved surface:
 * Eratosthenes 
@@ -116,7 +117,6 @@ Level or curved surface:
 * Crescent phases
 * Full moon and new moon
 * Eclipses
-* Star trails
 * Celestials
 * Equatorial Mount
 * Parallax
