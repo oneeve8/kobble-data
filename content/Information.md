@@ -120,7 +120,8 @@ Spinning or stationary:
 * Airys Failure
 * Star Trails
 * Rim velocity
-* Centrifugal
+* Centrifugal And Centripetal forces
+* rim velovi
 * eclipses
 
 Model Questions:
