@@ -103,11 +103,13 @@ Level or curved surface:
 * Gyroscope
 * Airplanes
 * Submarines
+* Compass?
 
 Engineering and Surveying:
 
 * Theodolite
 * Bridges, roads, trains, tunnels
+
 * Surveying
 * Geodesic Surveying
 * Sunrise and Sunset
