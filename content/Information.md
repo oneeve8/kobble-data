@@ -82,7 +82,7 @@ Spinning or stationary:
 * Michelson Morley
 * Airys Failure
 * Star Trails
-* 24 hour sun eclip
+* 24 hour sun eclipse?
 
 Level or curved surface:
 * Eratosthenes 
