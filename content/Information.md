@@ -111,6 +111,7 @@ Level or curved surface:
 * Seasons
 
 
+Model Questions:
 
 * Upside down moon
 * Moon Phases
@@ -128,7 +129,8 @@ Level or curved surface:
 * Gravity
 * Plate tectonics
 
-Images
+Images:
+
 * Picture of the earth from space
 * Pictures of the planets and space
 * Video of the earth in space
