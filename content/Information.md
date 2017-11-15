@@ -141,8 +141,10 @@ Model Questions:
 * The Math
 * Gravity
 * Plate tectonics
-* What is the Sun
+* Distance of the Sun and Moon
+* What is the Sun?
 * What is the Moon
+* What are the stars and planets
 
 
 Images:
