@@ -97,7 +97,7 @@ Spherical or circular and flat (Shape and size):
 * Compass
 * Is there a 24 hour sun in Arctic or Antarctic?
 * Do planes fly in straight or or angled paths
-* Direct flights in southern regions
+* Are direct flights in southern regions possible on a flat earth model?
 * Gyroscope
 
 Level or curved (Engineering and Surveying):
