@@ -3,24 +3,6 @@
   "subtitle" : "A History Of Cosmology",
   "tracks" : [
     {
-      "title" : "Electric Universe Theory",
-      "subtitle" : "Is Our Universe Electric?",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Electricuniverse",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Simulation Theory",
-      "subtitle" : "Are We In A Simulation?",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Simulation",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Basics",
       "subtitle" : "Overview Basic Information",
       "track" : {
@@ -125,6 +107,24 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/map",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Electric Universe Theory",
+      "subtitle" : "Is Our Universe Electric?",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Electricuniverse",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Simulation Theory",
+      "subtitle" : "Are We In A Simulation?",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Simulation",
         "repo" : "kobble-data"
       }
     },
