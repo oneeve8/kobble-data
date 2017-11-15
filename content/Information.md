@@ -88,11 +88,11 @@ Level or curved surface (Vertical)
 * Fish Eye lens
 * P900 zoom lens
 * Gyroscope
+* Airplanes
 
 Spherical or flat (Shape and size):
 
 * Celestials are spherical
-* Circumnavigation
 * Compass
 * 24 hour sun in Arctic and Antarcic
 * Plane flights straight or angled paths
