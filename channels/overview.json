@@ -3,20 +3,38 @@
   "subtitle" : "Basics",
   "tracks" : [
     {
-      "title" : "Space Travel",
-      "subtitle" : "Rocketry Hoaxes ",
+      "title" : "Basics",
+      "subtitle" : "Overview Basic Information",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/Spacetravel",
+        "path" : "tracks\/fernzbasics",
         "repo" : "kobble-data"
       }
     },
     {
-      "title" : "Images",
-      "subtitle" : "Earth And Space",
+      "title" : "Horizontal",
+      "subtitle" : "Level Or Curved",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/Images",
+        "path" : "tracks\/horizontal",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Vertical",
+      "subtitle" : "Level Or Curved",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/vertical",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Spinning Or Stationary",
+      "subtitle" : "Gyroscope Accelerometer Airy",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/spinorstationary",
         "repo" : "kobble-data"
       }
     },
@@ -39,15 +57,6 @@
       }
     },
     {
-      "title" : "Spinning Or Stationary",
-      "subtitle" : "Gyroscope Accelerometer Airy",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/spinorstationary",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Engineering And Surveying",
       "subtitle" : "Theodelite",
       "track" : {
@@ -66,29 +75,20 @@
       }
     },
     {
-      "title" : "Vertical",
-      "subtitle" : "Level Or Curved",
+      "title" : "Images",
+      "subtitle" : "Earth And Space",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/vertical",
+        "path" : "tracks\/Images",
         "repo" : "kobble-data"
       }
     },
     {
-      "title" : "Horizontal",
-      "subtitle" : "Level Or Curved",
+      "title" : "Space Travel",
+      "subtitle" : "Rocketry Hoaxes ",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/horizontal",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Basics",
-      "subtitle" : "Overview Basic Information",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/fernzbasics",
+        "path" : "tracks\/Spacetravel",
         "repo" : "kobble-data"
       }
     }
