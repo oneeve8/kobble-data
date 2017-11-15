@@ -3,6 +3,15 @@
   "subtitle" : "Basics",
   "tracks" : [
     {
+      "title" : "Vertical",
+      "subtitle" : "Level Or Curved",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/vertical",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Horizontal",
       "subtitle" : "Level Or Curved",
       "track" : {
