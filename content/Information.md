@@ -66,7 +66,6 @@ Shape and size:
 * Compass
 * 24 hour sun in Arctic and Antarcic
 * Plane flights straight or angled paths
-* Submarines
 * Direct flights in southern regions
 * Gyroscope
 
