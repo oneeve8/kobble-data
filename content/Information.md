@@ -93,7 +93,7 @@ Spherical or circular and flat (Shape and size):
 * Circumnavigation by boat
 * Circumnavigation by airplane
 * North/South Circumnavigation
-* Travel by train orCars
+* Travel by train or Car
 * Compass
 * 24 hour sun in Arctic and Antarctic
 * Plane flights straight or angled paths
