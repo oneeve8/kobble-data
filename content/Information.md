@@ -64,6 +64,7 @@ Shape and size:
 * Circumnavigation
 * Compass
 * 24 hour sun in Arctic and Antarcic
+* Time 
 * Plane flights straight or angled paths
 * Direct flights in southern regions
 * Gyroscope
@@ -101,7 +102,7 @@ Level or curved surface:
 * Geodesic Surveying
 * Sunrise and Sunset
 * Sun Dial
-* 24 hour sun in Arctic and Antarctic
+
 * Time Zones
 * Seasons
 * Michelson Morley
