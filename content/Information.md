@@ -79,9 +79,9 @@ Level or curved surface (Horizontal):
 * Submarines
 * Compass
 * Accelerometer
+* P900 Camera
 
 Level or curved surface (Vertical)
-* Travel by Airplane
 * Height
 * How height is measured
 * Horizon rising
