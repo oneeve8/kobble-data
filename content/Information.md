@@ -82,7 +82,7 @@ Level or curved surface:
 * Gyroscope
 * Airplanes
 * Submarines
-* Compass?
+* Compass
 
 Spherical or flat (Shape and size):
 
@@ -93,7 +93,6 @@ Spherical or flat (Shape and size):
 * Plane flights straight or angled paths
 * Direct flights in southern regions
 * Gyroscope
-
 
 Spinning or stationary:
 
