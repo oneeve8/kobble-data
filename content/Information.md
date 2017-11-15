@@ -95,8 +95,8 @@ Spherical or circular and flat (Shape and size):
 * North/South Circumnavigation
 * Travel by train or Car
 * Compass
-* Is there a 24 hour sun in Arctic or Antarctic
-* Plane flights straight or angled paths
+* Is there a 24 hour sun in Arctic or Antarctic?
+* Do planes fly in straight or or angled paths
 * Direct flights in southern regions
 * Gyroscope
 
