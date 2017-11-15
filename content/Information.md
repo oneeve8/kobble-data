@@ -64,7 +64,6 @@ Shape and size:
 * Circumnavigation
 * Compass
 * 24 hour sun in Arctic and Antarcic
-* Time 
 * Plane flights straight or angled paths
 * Direct flights in southern regions
 * Gyroscope
