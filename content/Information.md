@@ -164,7 +164,8 @@ Space and Space Travel:
 
 Antarctica:
 * 24 hour sun
-*
+* Admiral Byrd
+* Captain Cook
 
 
 
