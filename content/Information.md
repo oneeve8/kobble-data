@@ -126,11 +126,11 @@ Spinning or stationary:
 Map Questions:
 * an accurate map
 * time zones
-* dist
+* distances and sizes of continents
+
 Model Questions:
 
 * Sun dial
-* Time Zones
 * Seasons
 * Upside down moon
 * Moon Phases
