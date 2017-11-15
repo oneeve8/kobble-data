@@ -2,7 +2,7 @@
 
 What are we trying to prove?
 
-We are trying to prove whether our earth and cosmos is:
+We are trying to prove whether our earth and cosmos:
 
 1. Spherical or flat?   
 2. Spinning or stationary?   
