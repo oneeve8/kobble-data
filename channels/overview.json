@@ -3,15 +3,6 @@
   "subtitle" : "A History Of Cosmology",
   "tracks" : [
     {
-      "title" : "By Design Or Accident?",
-      "subtitle" : "Intelligent Design",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/designoraccident",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "History Of Cosmology",
       "subtitle" : "Historical Knowledge Of The Cosmos",
       "track" : {
@@ -152,6 +143,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Simulation",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "By Design Or Accident?",
+      "subtitle" : "Intelligent Design",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/designoraccident",
         "repo" : "kobble-data"
       }
     }
