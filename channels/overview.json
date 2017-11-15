@@ -154,6 +154,15 @@
         "path" : "tracks\/designoraccident",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Philosophy Of Cosmology",
+      "subtitle" : "Philosophical Implications",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Philosophy ",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
