@@ -12,7 +12,7 @@ We are trying to prove whether our earth and cosmos:
 6. Is open or enclosed?
 7. Is infinite or limited?
 8. Is created by an intelligence or is a cosmic accident?
-9. And we are trying to prove which of the various possible models is correct.
+9. And we are trying to prove which of the various possible models and maps are correct.
 
 Two types of arguments:
 
