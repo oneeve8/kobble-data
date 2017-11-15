@@ -81,13 +81,14 @@ Level or curved surface (Horizontal):
 * Accelerometer
 
 Level or curved surface (Vertical)
+* Travel by Airplane
 * Height
 * How height is measured
 * Horizon rising
 * Fish Eye lens
 * P900 zoom lens
 * Gyroscope
-* Airplanes
+
 
 
 Spherical or flat (Shape and size):
