@@ -12,15 +12,6 @@
       }
     },
     {
-      "title" : "History Of Cosmology",
-      "subtitle" : "Historical Knowledge Of The Cosmos",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/historycosmology",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Horizontal",
       "subtitle" : "Level Or Curved",
       "track" : {
@@ -84,6 +75,15 @@
       }
     },
     {
+      "title" : "Space Travel",
+      "subtitle" : "Rocketry Hoaxes ",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Spacetravel",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Models",
       "subtitle" : "DIfferent Models",
       "track" : {
@@ -102,6 +102,15 @@
       }
     },
     {
+      "title" : "History Of Cosmology",
+      "subtitle" : "Historical Knowledge Of The Cosmos",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/historycosmology",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "The Explorers And Mapmakers",
       "subtitle" : "History Of Exploration",
       "track" : {
@@ -116,15 +125,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Images",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Space Travel",
-      "subtitle" : "Rocketry Hoaxes ",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Spacetravel",
         "repo" : "kobble-data"
       }
     }
