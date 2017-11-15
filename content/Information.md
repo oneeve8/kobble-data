@@ -87,6 +87,7 @@ Spinning or stationary:
 * 24 hour sun eclipse?
 
 Level or curved surface:
+
 * Eratosthenes 
 * Water is level
 * Ships on the Horizon 
@@ -122,6 +123,7 @@ Engineering and Surveying:
 
 
 Model Questions:
+
 
 * Upside down moon
 * Moon Phases
