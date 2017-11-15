@@ -178,8 +178,6 @@ Antarctica:
 * Admiral Byrd
 * Captain Cook
 
-
-
 Motive, Hints and clues:
 
 * Flat earth in songs and movies
