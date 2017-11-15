@@ -141,6 +141,9 @@ Model Questions:
 * The Math
 * Gravity
 * Plate tectonics
+* What is the Sun
+* What is the Moon
+
 
 Images:
 
