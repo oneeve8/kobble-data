@@ -93,7 +93,6 @@ Level or curved surface (Vertical)
 Spherical or flat (Shape and size):
 
 * Celestials are spherical
-* Compass
 * 24 hour sun in Arctic and Antarcic
 * Plane flights straight or angled paths
 * Direct flights in southern regions
