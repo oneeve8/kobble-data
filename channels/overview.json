@@ -21,6 +21,15 @@
       }
     },
     {
+      "title" : "Maps",
+      "subtitle" : "Different Types Of Maps",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/map",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Celestial Observations",
       "subtitle" : "Telescopes Parallax",
       "track" : {
@@ -116,15 +125,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Spacetravel",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Maps",
-      "subtitle" : "Different Types Of Maps",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/map",
         "repo" : "kobble-data"
       }
     },
