@@ -74,6 +74,7 @@ Level or curved surface (Horizontal):
 * Bedford Level (lasers)
 * Flat areas of the earth
 * Laser
+* Circumnavigation by boat
 
 Level or curved surface (Vertical)
 * Height
