@@ -90,6 +90,7 @@ Level or curved surface:
 
 * Eratosthenes 
 * Water is level
+* Su
 * Ships on the Horizon 
 * Perspective
 * Curvature math
@@ -116,7 +117,6 @@ Engineering and Surveying:
 * Surveying
 * Geodesic Surveying
 * Sunrise and Sunset
-* Sun Dial
 
 Model Questions:
 
