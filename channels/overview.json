@@ -3,6 +3,15 @@
   "subtitle" : "Basics",
   "tracks" : [
     {
+      "title" : "Spinning Or Stationary",
+      "subtitle" : "Gyroscope Accelerometer Airy",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/spinorstationary",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Engineering And Surveying",
       "subtitle" : "Theodelite",
       "track" : {
