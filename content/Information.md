@@ -83,7 +83,6 @@ Spinning or stationary:
 * Airys Failure
 * Star Trails
 * 24 hour sun eclipse?
-* Sun, moon and stars
 
 Level or curved surface:
 * Eratosthenes 
