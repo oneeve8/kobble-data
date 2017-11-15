@@ -124,7 +124,9 @@ Spinning or stationary:
 * eclipses
 
 Map Questions:
-
+* an accurate map
+* time zones
+* dist
 Model Questions:
 
 * Sun dial
