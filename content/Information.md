@@ -83,7 +83,7 @@ Level or curved surface (Vertical)
 * Height
 * How height is measured
 * Horizon rising
-* High Altitude 
+* High Altitude footage
 * Fish Eye lens
 * Gyroscope
 * Airplanes
