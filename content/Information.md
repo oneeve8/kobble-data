@@ -96,9 +96,9 @@ Spherical or circular and flat (Shape and size):
 * Travel by train or Car
 * Compass
 * Is there a 24 hour sun in Arctic or Antarctic?
-* Do planes fly in straight or or angled paths
+* Do planes fly in straight or or angled paths?
 * Are direct flights in southern regions possible on a flat earth model?
-* Gyroscope
+* Does a gyroscope
 
 Level or curved (Engineering and Surveying):
 
