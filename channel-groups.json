@@ -363,8 +363,8 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Overview",
-          "subtitle" : "Basics",
+          "title" : "Cosmology",
+          "subtitle" : "A History Of Cosmology",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/overview.json",
