@@ -90,7 +90,7 @@ Level or curved surface:
 
 * Eratosthenes 
 * Water is level
-* Su
+* Sunrise and sunset
 * Ships on the Horizon 
 * Perspective
 * Curvature math
