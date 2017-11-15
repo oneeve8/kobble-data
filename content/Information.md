@@ -202,7 +202,6 @@ Instruments:
 * Accelerometer
 * Telescope
 
-Experiments:
 
 
 
