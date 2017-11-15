@@ -159,7 +159,9 @@ Motive:
 
 * Flat earth in songs and movies
 * Freemasonry
-* 
+* Historical background
+* Compartmentalization
+
 
 
 Instruments:
