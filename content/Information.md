@@ -61,6 +61,7 @@ Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives; as well as our ability to help others live more fulfilling and purposeful lives.
 
 Shape and size:
+* Celestials are spherical
 * Circumnavigation
 * Compass
 * 24 hour sun in Arctic and Antarcic
@@ -68,13 +69,14 @@ Shape and size:
 * Direct flights in southern regions
 * Gyroscope
 
+
 Spinning or stationary:
 * Earth spin 1:1 ratio with atmosphere
 * Water and air
 * Airplanes east or west directions
 * Airplanes landing
 * Coriolis Effect
-* Foucault 
+* Foucault Pendulum
 * Gyroscope
 * Accelerometer
 * Michelson Morley
@@ -106,7 +108,7 @@ Level or curved surface:
 * Time Zones
 * Seasons
 
-* Foucault pendulum
+
 * Celestials are spherical
 * Upside down moon
 * Moon Phases
