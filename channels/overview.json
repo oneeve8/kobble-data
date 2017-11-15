@@ -111,20 +111,20 @@
       }
     },
     {
-      "title" : "Electric Universe Theory",
-      "subtitle" : "Is Our Universe Electric?",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Electricuniverse",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Simulation Theory",
       "subtitle" : "Are We In A Simulation?",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/Simulation",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Electric Universe Theory",
+      "subtitle" : "Is Our Universe Electric?",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Electricuniverse",
         "repo" : "kobble-data"
       }
     },
