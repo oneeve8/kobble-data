@@ -84,7 +84,7 @@ Level or curved surface:
 * Submarines
 * Compass?
 
-Spherical or Shape and size:
+Spherical or flat (Shape and size):
 
 * Celestials are spherical
 * Circumnavigation
