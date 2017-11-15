@@ -3,15 +3,6 @@
   "subtitle" : "Basics",
   "tracks" : [
     {
-      "title" : "Celestial Observations",
-      "subtitle" : "Telescopes Parallax",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/celestialobservations",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Basics",
       "subtitle" : "Overview Basic Information",
       "track" : {
@@ -62,6 +53,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/engineeringsurveying",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Celestial Observations",
+      "subtitle" : "Telescopes Parallax",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/celestialobservations",
         "repo" : "kobble-data"
       }
     },
