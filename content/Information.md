@@ -98,7 +98,7 @@ Spherical or circular and flat (Shape and size):
 * Is there a 24 hour sun in Arctic or Antarctic?
 * Do planes fly in straight or or angled paths?
 * Are direct flights in southern regions possible on a flat earth model?
-* Would an Accelerometer h
+* Accelerometer
 
 Level or curved (Engineering and Surveying):
 
