@@ -94,7 +94,7 @@ Spherical or flat (Shape and size):
 * Direct flights in southern regions
 * Gyroscope
 
-Level or flaEngineering and Surveying:
+Level or curved (Engineering and Surveying):
 
 * Theodolite
 * Bridges, roads, trains, tunnels
