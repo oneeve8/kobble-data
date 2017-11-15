@@ -77,7 +77,8 @@ Level or curved surface (Horizontal):
 * Circumnavigation by boat
 * Trains
 * Submarines
-*
+* Compass
+* Accelerometer
 
 Level or curved surface (Vertical)
 * Height
