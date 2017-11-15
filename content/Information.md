@@ -75,6 +75,9 @@ Level or curved surface (Horizontal):
 * Flat areas of the earth
 * Laser
 * Circumnavigation by boat
+* Trains
+* Submarines
+*
 
 Level or curved surface (Vertical)
 * Height
@@ -84,8 +87,7 @@ Level or curved surface (Vertical)
 * P900 zoom lens
 * Gyroscope
 * Airplanes
-* Submarines
-* Compass
+
 
 Spherical or flat (Shape and size):
 
