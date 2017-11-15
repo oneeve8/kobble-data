@@ -133,12 +133,12 @@ Images
 * Pictures of the planets and space
 * Video of the earth in space
 
-Sp
+Space and Space Travel:
+
 * Moon landing
 * The ISS
 * ISS Tracking
 * Satellites
-* Bounce signals off the moon, radio signals
 * Rocketry
 * Space Travel
 * Space Telescopes
