@@ -75,7 +75,7 @@ Level or curved surface:
 * Flat areas of the earth
 * Laser
 
-Level 
+Level or curved surface (vertical)
 * Height
 * How height is measured
 * Horizon rising
