@@ -170,9 +170,7 @@ Motive, Hints and clues:
 * Historical background
 * Compartmentalization
 * Bias
-* Cognitive Diss
-
-
+* Cognitive Dissonance
 
 Instruments:
 
