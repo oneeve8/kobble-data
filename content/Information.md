@@ -61,7 +61,7 @@ Why do we want to know?
 Because a correct understanding of the design of our world provides a basis from which other truths are derived. A correct understanding of our place and purpose in the cosmos is the foundation to all our other philosophies, beliefs or world view.  It provides a foundation upon which to discern and make other decisions about the direction and purpose of our own lives; as well as our ability to help others live more fulfilling and purposeful lives.
 
 
-Level or curved surface:
+Level or curved surface (Horizontal):
 
 * Eratosthenes 
 * Water is level
@@ -75,7 +75,7 @@ Level or curved surface:
 * Flat areas of the earth
 * Laser
 
-Level or curved surface (vertical)
+Level or curved surface (Vertical)
 * Height
 * How height is measured
 * Horizon rising
