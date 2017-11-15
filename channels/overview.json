@@ -30,11 +30,29 @@
       }
     },
     {
+      "title" : "Spherical Or Round",
+      "subtitle" : "Circumnavigaition",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/sphericalorround",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Spinning Or Stationary",
       "subtitle" : "Gyroscope Accelerometer Airy",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/spinorstationary",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Engineering And Surveying",
+      "subtitle" : "Theodelite",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/engineeringsurveying",
         "repo" : "kobble-data"
       }
     },
@@ -53,24 +71,6 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/map",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Engineering And Surveying",
-      "subtitle" : "Theodelite",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/engineeringsurveying",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Spherical Or Round",
-      "subtitle" : "Circumnavigaition",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/sphericalorround",
         "repo" : "kobble-data"
       }
     },
