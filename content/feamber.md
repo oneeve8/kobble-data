@@ -1,4 +1,4 @@
-# Amber, Trees, Electricity
+# Amber, Trees, Electricity and what I have been up to.
 ## Speculation On Tree Of Knowledge
 
 What is consciousness...?
