@@ -29,40 +29,6 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "CG1 C1",
-          "subtitle" : "Channel Group 1 Channel 1",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest1.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG1 C2",
-          "subtitle" : "Channel Group 1 Channel 2",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG1 C3",
-          "subtitle" : "Channel Group 1 Channel 3",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest3.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Channel Group 1"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
           "title" : "CG2 C1",
           "subtitle" : "Channel Group 2 Channel 1",
           "channel" : {
@@ -92,6 +58,40 @@
       ],
       "isToggled" : false,
       "name" : "Channel Group 2"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "CG1 C1",
+          "subtitle" : "Channel Group 1 Channel 1",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/channelgrouptest1.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "CG1 C2",
+          "subtitle" : "Channel Group 1 Channel 2",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/channelgrouptest2.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "CG1 C3",
+          "subtitle" : "Channel Group 1 Channel 3",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/channelgrouptest3.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Channel Group 1"
     },
     {
       "isShowing" : true,
