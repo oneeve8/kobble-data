@@ -5,7 +5,7 @@ I’ve been following my intuition.
 
 I had an obsession with puzzles for a while
 
-So I got a puzzle from a second hand shop, I hadn’t done one in a while.
+So I got a puzzle from a second hand shop, I had not done one in a while.
 
 
 
