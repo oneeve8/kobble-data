@@ -29,7 +29,7 @@ And we know it is a sort of *place*
 
 *Realm* = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
-So, it is a *Temporal Realm*. I think it is a pretty good description... what do you think?
+So, it is a *Temporal Realm*. I think it is a pretty good description.
 
 This is a limited realm of existence.
 
