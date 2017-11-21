@@ -1,7 +1,7 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
-I’ve been following my intuition.
+I have been following my intuition.
 
 I had an inclination to do a puzzle.
 
@@ -50,7 +50,7 @@ Maybe there are *worlds* or *realms* or *heavens* beyond this realm. [image of h
 
 John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?”
 
-Instead of the word *rooms*, other translations use the words Dwelling places, or mansions
+Instead of the word *rooms*, other translations use the words Dwelling places, or mansions.
 
 So, where is the edge of our realm? We have not found it yet. Neither in mainstream science or our flat earth cosmology model. Not knowing about where the edge is, or even if there is one, limits our comprehension about where we are, and how to fill in the missing pieces.
 
