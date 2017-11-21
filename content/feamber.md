@@ -21,7 +21,7 @@ Maybe the only limit is our imagination.
 
 I think we live in a Temporal Realm.
 
-We are just here temporarily.
+We know that we are just here temporarily... because death is a reality.
 
 *Temporal* = time
 
