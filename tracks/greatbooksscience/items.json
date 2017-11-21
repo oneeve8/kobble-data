@@ -305,6 +305,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/anthropologymode00boas"
+        }
+      },
+      "title" : "Anthropology and modern life : Boas, Fra",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "References: p. 247-255",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
