@@ -19,9 +19,7 @@ It has boundaries, set limits, it is defined by a mind or consciousness.
 
 Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
-I believe so. Do you?
-
-
+I believe so... Do you?
 
 Once something is defined, it begins to have substance and purpose.
 
