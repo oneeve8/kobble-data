@@ -152,6 +152,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/HistoryOfTheRussianRevolutionVolume1"
+        }
+      },
+      "title" : "History of the Russian Revolution Volume",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A perspective by the leader of the Red Army",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
