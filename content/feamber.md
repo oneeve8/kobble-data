@@ -42,7 +42,7 @@ BELIEF
 If it does have boundaries, perhaps it is only defined by our own consciousness. It was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know.
 
-Maybe there are *worlds* or *realms* or *heavens* beyond this realm.
+Maybe there are *worlds* or *realms* or *heavens* beyond this realm. [image of heavenly realms]
 
 John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?”
 
