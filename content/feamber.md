@@ -5,7 +5,7 @@ I’ve been following my intuition.
 
 I had an inclination to do a puzzle.
 
-So I got a puzzle from a second hand shop, I had not done one in a while. [picture of puzzle] we even
+So I got a puzzle from a second hand shop, I had not done one in a while. [picture of puzzle] my daughter wanted to save it, so we glued it to cardboard and 
 
 It became an obsession to finish it. I thought to myself: *why am I wasting my time doing this*? But for some reason, I had to complete the puzzle even though I felt like I was procrastinating on other things. 
 
