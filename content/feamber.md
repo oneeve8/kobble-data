@@ -35,9 +35,10 @@ This is a limited realm of existence.
 
 Whatever it is, we do not have full knowledge about it. We have been prevented from having a full understanding of the edge and from having a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence. And this is whether you consider a flat earth model or the standard globe model.
 
-When we don’t have full knowledge about something... we call this a:
+When we don’t have full and complete knowledge about something... we call this a:
 
 BELIEF
+
 
 If it does have boundaries, perhaps it is only defined by our own consciousness. It was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know.
