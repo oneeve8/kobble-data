@@ -13,5 +13,7 @@ Or a collaborative work of consciousness agreement.
 
 Carl Jung spoke of the collective unconscious.
 
+Hypnosis sessions that tap into the subconsciou
+
 What if everything is a symbol, a metaphor?
 
