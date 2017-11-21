@@ -444,66 +444,53 @@
     },
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/storyburntnjal00daseiala"
+        }
       },
-      "title" : "Literature",
+      "title" : "The story of Burnt Njal",
       "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
+        "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Literature",
+      "subtitle" : "Translated From The Icelandic",
       "expanded" : true,
       "children" : [
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/storyburntnjal00daseiala"
-            }
-          },
-          "title" : "The story of Burnt Njal",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Translated From The Icelandic",
-          "expanded" : true,
-          "children" : [
 
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/gulliverstravel04swifgoog"
-            }
-          },
-          "title" : "Jonathan Swift",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "Gulliver’s Travels",
-          "expanded" : true,
-          "children" : [
-
-          ]
-        },
-        {
-          "data" : {
-            "tag" : "UI.Track.UrlD",
-            "contents" : {
-              "url" : "https:\/\/archive.org\/stream\/journaltostella00swifgoog"
-            }
-          },
-          "title" : "Jonathan Swift",
-          "view" : {
-            "tag" : "UI.ContentViews.Views.WebView"
-          },
-          "subtitle" : "The Journal to Stella ",
-          "expanded" : true,
-          "children" : [
-
-          ]
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/gulliverstravel04swifgoog"
         }
+      },
+      "title" : "Jonathan Swift",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Gulliver’s Travels",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/journaltostella00swifgoog"
+        }
+      },
+      "title" : "Jonathan Swift",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Journal to Stella ",
+      "expanded" : true,
+      "children" : [
+
       ]
     }
   ]
