@@ -15,7 +15,9 @@ This is a limited realm.
 
 It has boundaries, set limits, it is defined by a mind.
 
-Once something is defined, it 
+Once something is defined, it begins to have substance and purpose.
+
+A 
 
 We are spiritual beings dwelling in a physical body.
 
