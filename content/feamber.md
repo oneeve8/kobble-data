@@ -5,13 +5,15 @@ We live in a Temporal Realm.
 
 We are just here temporarily.
 
+This is a limited realm.
+
 We are spiritual beings dwelling in a physical body.
 
-This is a limited realm.
+Th
 
 We placed limits on our spiritual being-ness by coming into this realm.
 
-perhaps iis a creation of our own mind.
+perhaps this realm is a creation of our own mind.
 
 Or a collaborative work of consciousness agreement.
 
