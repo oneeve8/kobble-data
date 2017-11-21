@@ -39,7 +39,7 @@ When we don’t have full and complete knowledge about something... we call this
 
 BELIEF
 
-Because it requires a leap of consciousness to consider what it is while not knowing for sure. And then coming to that temporary conclusion that fits what else we know about our reality... and then basing our world views on that paradigm... all based on as
+Because it requires a leap of consciousness to consider what it *IS* while actually not knowing what it ifor sure. And then coming to that temporary conclusion that fits what else we know about our reality... and then basing our world views on that paradigm... all based on assumptions.
 
 If it does have boundaries, perhaps it is only defined by our own consciousness. It was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know.
