@@ -7,6 +7,8 @@ We live in a Temporal Realm.
 
 We are just here temporarily.
 
+Temporal = time
+
 This is a limited realm.
 
 We are spiritual beings dwelling in a physical body.
