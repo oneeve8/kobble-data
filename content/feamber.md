@@ -19,6 +19,8 @@ Once something is defined, it begins to have substance and purpose.
 
 A matrix or world can be built around an idea.
 
+We think our world has to make logical sense. 
+
 Does it have to make logical sense?
 
 We are spiritual beings dwelling in a physical body.
