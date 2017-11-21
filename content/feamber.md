@@ -15,7 +15,11 @@ Carl Jung spoke of the collective unconscious.
 
 Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these stories are *past lives*
 
-Other people believe we only li
+Other people believe we only live *one life*
+
+What if time is not what we think it is?
+
+What if there is no
 
 What if everything is a symbol, a metaphor?
 
