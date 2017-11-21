@@ -13,7 +13,7 @@ Or a collaborative work of consciousness agreement.
 
 Carl Jung spoke of the collective unconscious.
 
-Hypnosis sessions that tap into the subconscious mind 
+Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these are 
 
 What if everything is a symbol, a metaphor?
 
