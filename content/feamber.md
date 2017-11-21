@@ -82,5 +82,5 @@ What if there is no *time* as we understand it?
 
 Or what if time is not actually linear?
 
-What if everything is a symbol, a metaphor?
+What if everything is a symbol, a metaphor? What if life is just o
 
