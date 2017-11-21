@@ -27,7 +27,7 @@ Temporal Realm. I think it is a pretty good description... what do you think?
 
 This is a limited realm of existence.
 
-It has boundaries, set limits, it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. People do not like the word God anymore. Its loaded with preconceived ideas and religious dogma. Lets call this intelligence *divine* for now.
+It has boundaries, set limits, it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An inteLets call this intelligence *divine* for now.
 
 Who is this Divine Intelligence? Many people have different ideas of who or what this consciousness is. There are many different religions.
 
