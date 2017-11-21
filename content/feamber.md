@@ -1,3 +1,3 @@
 # Amber, Trees, Electricity
-## Speculation On Tree Of Knowledge
+## Speculation OnTree Of Knowledge
 
