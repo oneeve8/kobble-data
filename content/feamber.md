@@ -30,7 +30,7 @@ This world began with the naming of things by a conscious being— a human being
 
 A matrix or world can be built around an idea or ideas. 
 
-Things are brought into being out of the *void* and given a name. Classified, differentiated by a cons
+Things are brought into being out of the *void* and given a name. Classified, differentiated by a consciousness.
 
 We think our world has to make logical sense. 
 
