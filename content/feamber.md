@@ -1,4 +1,4 @@
-# What I have been up to and the crazy things I have been thinking about.
+# Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
 What is consciousness...?
