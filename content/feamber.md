@@ -35,7 +35,7 @@ This is a limited realm of existence.
 
 We do not have full knowledge about it. We have been prevented from having a full understanding of the edge and from having a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence.
 
-When we don’t have full knowledge about something... we call this:
+When we don’t have full knowledge about something... we call this a:
 
 BELIEF
 
