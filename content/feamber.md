@@ -24,6 +24,8 @@ Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
 I believe so... Do you?
 
+Where is the edge?
+
 Once something is defined, it begins to have substance and purpose. The border of a defined reality is the *edge* of reality. Things that are not yet defined are what set the limits between this realm and the realm of possibilities. Perhaps *out there* it is simply a gelatinous, nebulous collection of potentialities.
 
 This world began with the naming of things by a conscious being— a human being.
