@@ -42,7 +42,9 @@ But does it? Does it make logical sense?
 
 Does it necessarily *have* to make logical sense?
 
-When you have a dream, does it make sense? I have had a lot of nonsensical dreams. While I am in the dream, everything seems to 
+When you have a dream, does it make sense? I have had a lot of nonsensical dreams. While I am in the dream, everything seems to make perfect sense. When I wake up, it no longer does make sense.
+
+Maybe we are in a dream.
 
 We are spiritual beings dwelling in a physical body.
 
