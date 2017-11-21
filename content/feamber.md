@@ -3,7 +3,9 @@
 
 What is consciousness...?
 
-We live in a Temporal Realm.
+Bear with me...
+
+Ok, We live in a Temporal Realm.
 
 We are just here temporarily.
 
@@ -23,7 +25,7 @@ We think our world has to make logical sense.
 
 But does it? Does it make logical sense?
 
-Does it have to make logical sense?
+Does it necessarily have to make logical sense?
 
 We are spiritual beings dwelling in a physical body.
 
