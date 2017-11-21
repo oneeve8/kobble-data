@@ -35,7 +35,7 @@ John 14:2 *In my Father’s house are many rooms; if that were not so, would I h
 
 Instead of the word *rooms*, other translations use the words Dwelling places, or mansions
 
-Where is the edge of our realm?
+Where is the edge of our realm? We have not found it yet. Neither in mainstream science or our flat earth cosmology model.
 
 Once something is defined, it begins to have substance and purpose. The border of a defined reality is the *edge* of reality. Things that are not yet defined are what set the limits between this realm and the realm of possibilities. Perhaps *out there* it is simply a gelatinous, nebulous collection of potentialities.
 
