@@ -9,6 +9,8 @@ We are spiritual beings dwelling in a physical body.
 
 This is a limited realm.
 
+We placed limits on our spiritual 
+
 perhaps it is a creation of our own mind.
 
 Or a collaborative work of consciousness agreement.
