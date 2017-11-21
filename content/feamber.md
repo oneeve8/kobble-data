@@ -37,7 +37,7 @@ We love stories, especially those with a challenge and a happy ending.
 
 But does it? Does it make logical sense?
 
-Does it necessarily have to make logical sense?
+Does it necessarily *have* to make logical sense?
 
 We are spiritual beings dwelling in a physical body.
 
