@@ -21,7 +21,9 @@ A matrix or world can be built around an idea.
 
 We think our world has to make logical sense. 
 
-But does it? Make logical sense, I mean.
+But does it? Does it make logical sense?
+
+Does it have to make logical sense?
 
 We are spiritual beings dwelling in a physical body.
 
