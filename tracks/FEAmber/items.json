@@ -11,7 +11,7 @@
           }
         }
       },
-      "title" : "Amber, Trees, Electricity",
+      "title" : "Amber, Trees Electricity",
       "view" : {
         "tag" : "UI.ContentViews.Views.MarkdownView"
       },
