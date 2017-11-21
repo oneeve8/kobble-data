@@ -497,14 +497,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/faustgoethe00goetiala"
+          "url" : "https:\/\/archive.org\/stream\/faustgoethe00goetiala"
         }
       },
-      "title" : "Faust : Goethe, Johann Wolfgang von, 174",
+      "title" : "Faust, Johann Wolfgang von",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Goethe",
       "expanded" : true,
       "children" : [
 
