@@ -33,7 +33,7 @@ Maybe there are *worlds* or *realms* or *heavens* beyond this realm.
 
 John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?”
 
-Dwelling places, mansions
+Instead of the Other translations use the words Dwelling places, mansions
 
 I believe so... Do you?
 
