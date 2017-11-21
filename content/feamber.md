@@ -31,7 +31,9 @@ And we know it is a sort of *place*
 
 So, it is a *Temporal Realm*. I think it is a pretty good description.
 
-This is a limited realm of existence. We know that it i
+This is a limited realm of existence.
+
+We do not have full knowledge about it. We have be
 
 It has boundaries, set limits, it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An intelligence that is beyond our own intelligence. I would this intelligence *divine* because it is beyond what I can comprehend or know.
 
