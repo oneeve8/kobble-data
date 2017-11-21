@@ -3,7 +3,9 @@
 
 I’ve been following my intuition.
 
-I had an obsession with puzzles for a while. I thought to myself: *why am I wasting my time doing this*? 
+I had an incl
+
+I had an obsession with puzzles for a while. I thought to myself: *why am I wasting my time doing this*? But for some reason, I had to complete the puzzle
 
 So I got a puzzle from a second hand shop, I had not done one in a while.
 
