@@ -15,7 +15,11 @@ Realm = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
 This is a limited realm of existence.
 
-It has boundaries, set limits, it is defined by a mind.
+It has boundaries, set limits, it is defined by a mind or consciousness.
+
+Maybe there are *worlds* or *realms
+
+
 
 Once something is defined, it begins to have substance and purpose.
 
