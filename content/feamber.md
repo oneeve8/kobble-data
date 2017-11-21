@@ -13,5 +13,5 @@ Or a collaborative work of consciousness agreement.
 
 Carl Jung spoke of the collective unconscious.
 
-What if everything is a symbol, a m
+What if everything is a symbol, a metaphor?
 
