@@ -50,7 +50,9 @@ When volunteers are placed under hypnosis, they come up with all kinds of storie
 
 Maybe we are in a dream.
 
-Maybe we are in a dream and the real 
+Maybe we are in a dream and the real world is out there... somewhere.
+
+What is *real*
 
 We are spiritual beings dwelling in a physical body.
 
