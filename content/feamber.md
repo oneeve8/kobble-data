@@ -1,4 +1,4 @@
-# The crazy things I have been thinking and what I have been up to.
+# What I have been up to and the crazy things I have been thinking an
 ## 
 
 What is consciousness...?
