@@ -7,6 +7,8 @@ I had an obsession with puzzles for a while
 
 So I got a puzzle from a second hand shop, I had not done one in a while.
 
+Then I realised there were online puzzles. So I 
+
 A puzzle is easier to do if you find all the edges first. Then you put all the pieces into piles by Color and then by shape.
 
 Once you get toward the end of finishing a puzzle, it goes faster.
