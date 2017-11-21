@@ -16,7 +16,7 @@ Temporal Realm. I think it is a good enough description... what do you think?
 
 This is a limited realm of existence.
 
-It has boundaries, set limits, it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an inte
+It has boundaries, set limits, it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. Lets call it 
 
 Who is this Divine Intelligence? Many people have different ideas of who or what this consciousness is. There are many different religions.
 
