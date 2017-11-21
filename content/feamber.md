@@ -11,7 +11,7 @@ It was a hard puzzle, but it became an obsession to finish it. I thought to myse
 
 Then I realised there were online puzzles. So I got obsessed with those for a while.
 
-I realised through my temporary obsession, that a puzzle is a good metaphor for solving problems. It is a good metaphor for life. A puzzle is easier to do if you find all the edges first. It really helps to define your borders. Then you put all the pieces into piles by Color and then by shape. You can only see the whole picture, once you fit all the pieces together. Once you get toward the end of finishing a puzzle, it goes a lot faster. And finishing it, gives you a certain sense of satisfaction of accomplishment
+I realised through my temporary obsession, that a puzzle is a good metaphor for solving problems. It is a good metaphor for life. A puzzle is easier to do if you find all the edges first. It really helps to define your borders. Then you put all the pieces into piles by Color and then by shape. You can only see the whole picture, once you fit all the pieces together. Once you get toward the end of finishing a puzzle, it goes a lot faster. And finishing it, gives you a certain sense of satisfaction of accomplishment.
 
 What is consciousness...? [picture of a brain] 
 
