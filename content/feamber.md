@@ -1,7 +1,9 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
-I’ve been following my intuition on things.
+I’ve been following my intuition.
+
+I had an obsession with puzzles for a while
 
 What is consciousness...?
 
