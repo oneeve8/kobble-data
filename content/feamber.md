@@ -9,6 +9,8 @@ We are just here temporarily.
 
 Temporal = time
 
+Realm = kingdom, sovereign state, dom
+
 This is a limited realm.
 
 We are spiritual beings dwelling in a physical body.
