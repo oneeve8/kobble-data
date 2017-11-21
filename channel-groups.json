@@ -363,6 +363,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Narratives",
+          "subtitle" : "For Videos FE",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/fernzvideonarrative.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Cosmology",
           "subtitle" : "A History Of Cosmology",
           "channel" : {
