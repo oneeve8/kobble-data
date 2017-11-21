@@ -9,9 +9,7 @@ So I got a puzzle from a second hand shop, I had not done one in a while.
 
 It became an obsession to finish it. I thought to myself: *why am I wasting my time doing this*? But for some reason, I had to complete the puzzle even though I felt like I was procrastinating on other things. 
 
-
-
-Then I realised there were online puzzles. So I 
+Then I realised there were online puzzles. So I got obsessed with those for a while.
 
 A puzzle is easier to do if you find all the edges first. Then you put all the pieces into piles by Color and then by shape.
 
