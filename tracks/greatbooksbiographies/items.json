@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/autobiographyofg02goet"
+        }
+      },
+      "title" : "The autobiography of Goethe : truth and ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Oxenford's translation of books I-X is an almost l",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
