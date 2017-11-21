@@ -33,7 +33,7 @@ So, it is a *Temporal Realm*. I think it is a pretty good description.
 
 This is a limited realm of existence.
 
-We do not have full knowledge about it. We have been prevented from having a full understanding of the edge and from having a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence. And this is whether you consider a flat earth model or the standard globe model.
+Whatever it is, we do not have full knowledge about it. We have been prevented from having a full understanding of the edge and from having a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence. And this is whether you consider a flat earth model or the standard globe model.
 
 When we don’t have full knowledge about something... we call this a:
 
