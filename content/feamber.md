@@ -50,7 +50,7 @@ We are spiritual beings dwelling in a physical body.
 
 Maybe we placed limits on our infinite spiritual being-ness by coming into this realm.
 
-Perhaps this realm is a creation of our own consciousness. Maybe the
+Perhaps this realm is a creation of our own consciousness. We call it *reality* but maybe it is no more of a *reality* than the dream world.
 
 Again, what is consciousness?
 
