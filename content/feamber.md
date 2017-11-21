@@ -15,7 +15,7 @@ This is a limited realm.
 
 It has boundaries, set limits, it is defined by a mind.
 
-
+Once something is defined, it 
 
 We are spiritual beings dwelling in a physical body.
 
