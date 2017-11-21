@@ -40,7 +40,7 @@ We want life to have a story.
 
 We love stories, especially those with a challenge and a happy ending.
 
-But does it? Does it make logical sense?
+But does it? Does it make logical sense? Does our story make sense?
 
 Does it necessarily *have* to make logical sense?
 
