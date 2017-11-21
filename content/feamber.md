@@ -13,7 +13,9 @@ Realm = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
 This is a limited realm.
 
-It has boundaries, limits, it is defined
+It has boundaries, set limits, it is defined by a mind.
+
+
 
 We are spiritual beings dwelling in a physical body.
 
