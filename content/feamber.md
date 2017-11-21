@@ -17,7 +17,7 @@ What is consciousness...? [picture of a brain]
 
 Does consciousness have a limit? [Picture of a Brain opening]
 
-
+Maybe the only limit is our imagination.
 
 I think we live in a Temporal Realm.
 
