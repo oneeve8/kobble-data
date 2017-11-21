@@ -2,20 +2,6 @@
   "items" : [
     {
       "data" : {
-        "tag" : "UI.Track.NoData"
-      },
-      "title" : "American",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.FolderView"
-      },
-      "subtitle" : "American",
-      "expanded" : false,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/archive.org\/stream\/autobiographieso00gibb"
