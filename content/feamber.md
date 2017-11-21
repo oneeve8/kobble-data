@@ -11,7 +11,7 @@ It became an obsession to finish it. I thought to myself: *why am I wasting my t
 
 Then I realised there were online puzzles. So I got obsessed with those for a while.
 
-I realised through my temporary obsession, that a puzzle is a good metaphor for solving problems. A puzzle is easier to do if you find all the edges first. Then you put all the pieces into piles by Color and then by shape. You can only see the whole picture, once you fit all the pieces together. Fitting the pieces together, and then seeing the whole picture
+I realised through my temporary obsession, that a puzzle is a good metaphor for solving problems. A puzzle is easier to do if you find all the edges first. Then you put all the pieces into piles by Color and then by shape. You can only see the whole picture, once you fit all the pieces together. Accomplishing the border first
 
 Once you get toward the end of finishing a puzzle, it goes faster.
 
