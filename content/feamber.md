@@ -82,5 +82,9 @@ What if there is no *time* as we understand it?
 
 Or what if time is not actually linear?
 
-What if everything is a symbol, a metaphor? What if life is just o
+What if everything is a symbol, a metaphor? What if life is just one big lesson...
+
+A lesson in love.
+
+If we learn to love, is there any reason to come back?
 
