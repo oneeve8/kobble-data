@@ -17,9 +17,11 @@ Hypnosis sessions that tap into the subconscious mind reveal the complexity of t
 
 Other people believe we only live *one life*
 
+
+
 What if time is not what we think it is?
 
-What if there is no
+What if there is no *time* as we understand it?
 
 What if everything is a symbol, a metaphor?
 
