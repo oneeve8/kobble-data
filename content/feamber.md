@@ -19,9 +19,9 @@ Does consciousness have a limit? [Picture of a Brain opening]
 
 Maybe the only limit is our imagination.
 
-I think we live in a Temporal Realm.
+I think we live in a Temporal Realm. [flammarion engraving]
 
-We know that we are just here temporarily... because death is a reality.
+We know that we are just here temporarily... because death is a reality. [gravestone]
 
 And we know it is a sort of *place*
 
