@@ -35,7 +35,9 @@ This is a limited realm of existence.
 
 We do not have full knowledge about it. We have been prevented from having a full understanding of the edge and the complete picture of this realm. So we are limited in our knowledge and understanding about our existence.
 
-If it does have boundaries, perhaps it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An intelligence that is beyond our own intelligence. I would this intelligence *divine* because it is beyond what I can comprehend or know.
+When we don’t have full knowledge about 
+
+If it does have boundaries, perhaps it is only defined by our own consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An intelligence that is beyond our own intelligence. I would this intelligence *divine* because it is beyond what I can comprehend or know.
 
 Maybe there are *worlds* or *realms* or *heavens* beyond this realm.
 
