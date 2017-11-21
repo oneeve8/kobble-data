@@ -31,7 +31,9 @@ Things brought into being and given a name. Classified, differentiated.
 
 We think our world has to make logical sense. 
 
-We want life t
+We want life to have a story.
+
+We love stories, especially those with a challenge and a happy ending.
 
 But does it? Does it make logical sense?
 
