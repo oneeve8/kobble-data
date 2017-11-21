@@ -42,6 +42,8 @@ But does it? Does it make logical sense?
 
 Does it necessarily *have* to make logical sense?
 
+When you have a dream
+
 We are spiritual beings dwelling in a physical body.
 
 We placed limits on our spiritual being-ness by coming into this realm.
