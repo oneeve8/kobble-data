@@ -36,7 +36,7 @@ Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
 In my house there are many mansions... scripture
 
-John 14:2 
+John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to 
 
 I believe so... Do you?
 
