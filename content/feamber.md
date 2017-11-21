@@ -29,11 +29,7 @@ This is a limited realm of existence.
 
 It has boundaries, set limits, it is defined by a mind or consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An intelligence that is beyond our own intelligence. I would this intelligence *divine* because it is beyond what I can comprehend or know.
 
-Who is this Divine Intelligence? Many people have different ideas of who or what
-
-Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
-
-In my house there are many mansions... scripture
+Maybe there are *worlds* or *realms* or *heavens* beyond this realm.
 
 John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?”
 
