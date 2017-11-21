@@ -1,7 +1,16 @@
 {
-  "title" : "Great Books",
-  "subtitle" : "Archive ",
+  "title" : "Great Books Archive",
+  "subtitle" : "Foundations Of Western Culture",
   "tracks" : [
+    {
+      "title" : "Great Books",
+      "subtitle" : "Biographies, Autobiographies",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/greatbooksbiographies",
+        "repo" : "kobble-data"
+      }
+    },
     {
       "title" : "Great Books",
       "subtitle" : "Greek Authors",
