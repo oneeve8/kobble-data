@@ -48,9 +48,9 @@ Maybe we are in a dream.
 
 We are spiritual beings dwelling in a physical body.
 
-We placed limits on our spiritual being-ness by coming into this realm.
+Maybe we placed limits on our infinite spiritual being-ness by coming into this realm.
 
-Perhaps this realm is a creation of our own consciousness.
+Perhaps this realm is a creation of our own consciousness. Maybe the
 
 Again, what is consciousness?
 
