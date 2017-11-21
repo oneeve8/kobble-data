@@ -8,9 +8,9 @@ I think we live in a Temporal Realm.
 
 We are just here temporarily.
 
-Temporal = time
+*Temporal* = time
 
-Realm = kingdom, sovereign state, domain, sphere, area, field, department, arena
+*Realm* = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
 This is a limited realm of existence.
 
