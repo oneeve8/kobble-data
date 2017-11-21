@@ -20,7 +20,7 @@ Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
 I believe so... Do you?
 
-Once something is defined, it begins to have substance and purpose. Things not yet defined set the limits. Perhaps it is a gelatinous, n
+Once something is defined, it begins to have substance and purpose. Things not yet defined the limits. Perhaps it is a gelatinous, nebulous collection of potentialities.
 
 This world began with the naming of things by a conscious being— a human being.
 
