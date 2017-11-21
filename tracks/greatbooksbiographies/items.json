@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/autobiographyofg02goet"
+          "url" : "https:\/\/archive.org\/stream\/autobiographyofg02goet"
         }
       },
-      "title" : "The autobiography of Goethe : truth and ",
+      "title" : "Goethe",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Oxenford's translation of books I-X is an almost l",
+      "subtitle" : "Truth And Poetry From My Own Life",
       "expanded" : true,
       "children" : [
 
