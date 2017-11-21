@@ -42,7 +42,7 @@ But does it? Does it make logical sense?
 
 Does it necessarily *have* to make logical sense?
 
-When you have a dream
+When you have a dream, does it make sense? I have had a lot of nonsensical dreams. While I am in the dream, everything seems to 
 
 We are spiritual beings dwelling in a physical body.
 
