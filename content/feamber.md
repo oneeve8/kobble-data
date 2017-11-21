@@ -7,7 +7,7 @@ I had an inclination to do a puzzle.
 
 So I got a puzzle from a second hand shop, I had not done one in a while.
 
-It became an obsession to finish it. I thought to myself: *why am I wasting my time doing this*? But for some reason, I had to complete the puzzle even though I feel like 
+It became an obsession to finish it. I thought to myself: *why am I wasting my time doing this*? But for some reason, I had to complete the puzzle even though I felt like I was procrastinating on other things. 
 
 
 
