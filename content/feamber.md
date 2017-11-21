@@ -41,7 +41,7 @@ BELIEF
 
 Because it requires a leap of consciousness to consider what it *IS* while actually not knowing what it is for sure. And then coming to that temporary conclusion that fits what else we know about our reality... and then basing our world views on that paradigm... all based on assumptions. Whether we like it or not, what we think we know... is a belief *system*.
 
-A belief system can have various degrees of certainty by the believer, but it may never be a proven fact.
+A belief system can have various degrees of certainty by the believer, but it may never be a proven fact. We may never have full knowledge, because we are limited. Our brains are limited from containing all the
 
 If it does have boundaries, perhaps it is only defined by our own consciousness. I think that it was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond an intelligence that we can consider must be another intelligence that created *it*
