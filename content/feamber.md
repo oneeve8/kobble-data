@@ -58,7 +58,7 @@ Once something is defined, it begins to have substance and purpose. The border o
 
 Perhaps this world did begin with the naming of things by a conscious being— a human being.
 
-A matrix or world can be built around an idea or ideas. 
+A matrix or world of ideas can be built around a particular idea or ideas. 
 
 Things are brought into being out of the *void* and given a name. Classified, differentiated by a consciousness.
 
