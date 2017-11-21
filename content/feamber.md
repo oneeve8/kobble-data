@@ -17,7 +17,7 @@ What is consciousness?
 
 Is consciousness of the mind or beyond the mind?
 
-Or a collaborative work of consciousness agreement.
+Perhaps this realm is a collaborative work of consciousness agreement.
 
 Carl Jung spoke of the collective unconscious.
 
