@@ -39,7 +39,8 @@ When we don’t have full knowledge about something... we call this a:
 
 BELIEF
 
-If it does have boundaries, perhaps it is only defined by our own consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An intelligence that is beyond our own intelligence. I would cthis intelligence *divine* because it is beyond what I can personally comprehend or know. I can only imagine that the intelligence that designed this world is far beyond any human intelligence.
+If it does have boundaries, perhaps it is only defined by our own consciousness. Brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. An intelligence that is beyond our own intelligence. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
+I would call this intelligence *divine* because it is beyond what I can personally comprehend or know.
 
 Maybe there are *worlds* or *realms* or *heavens* beyond this realm.
 
