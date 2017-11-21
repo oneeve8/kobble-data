@@ -9,11 +9,10 @@ This is a limited realm.
 
 We are spiritual beings dwelling in a physical body.
 
-Th
-
 We placed limits on our spiritual being-ness by coming into this realm.
 
-perhaps this realm is a creation of our own mind.
+Perhaps this realm is a creation of our own consciousness.
+
 
 Or a collaborative work of consciousness agreement.
 
