@@ -1,6 +1,8 @@
 # Amber, Trees, Electricity
 ## Speculation On Tree Of Knowledge
 
+What is consciousness?
+
 We live in a Temporal Realm.
 
 We are just here temporarily.
