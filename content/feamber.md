@@ -9,7 +9,7 @@ We are just here temporarily.
 
 Temporal = time
 
-Realm = kingdom, sovereign state, dom
+Realm = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
 This is a limited realm.
 
