@@ -34,6 +34,8 @@ Who is this Divine Intelligence? Many people have different ideas of who or what
 
 Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
+In my house there are many mansions... scri
+
 I believe so... Do you?
 
 Where is the edge?
