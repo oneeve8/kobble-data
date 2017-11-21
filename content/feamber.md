@@ -24,7 +24,7 @@ We are just here temporarily.
 
 *Realm* = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
-Temporal Realm. I think it is a description... what do you think?
+Temporal Realm. I think it is a pretty good description... what do you think?
 
 This is a limited realm of existence.
 
