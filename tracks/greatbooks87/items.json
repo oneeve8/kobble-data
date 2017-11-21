@@ -38,11 +38,11 @@
           "url" : "https:\/\/archive.org\/stream\/boswellsjohnson01bosw"
         }
       },
-      "title" : "Boswell",
+      "title" : "Boswell, James",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "I-IV. Life.--V. Tour to the Hebrides (1773) and Jo",
+      "subtitle" : "Journal I-IV. Life.--V. Tour to the Hebrides (1773)",
       "expanded" : true,
       "children" : [
 
@@ -55,7 +55,7 @@
           "url" : "https:\/\/archive.org\/stream\/lifeofsamueljohn00boswuoft"
         }
       },
-      "title" : "Boswell, Ja",
+      "title" : "Boswell, James",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
