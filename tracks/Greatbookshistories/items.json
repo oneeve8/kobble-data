@@ -157,14 +157,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/HistoryOfTheRussianRevolutionVolume1"
+          "url" : "https:\/\/archive.org\/stream\/HistoryOfTheRussianRevolutionVolume1"
         }
       },
-      "title" : "History of the Russian Revolution Volume",
+      "title" : "Leon Trotsky",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "A perspective by the leader of the Red Army",
+      "subtitle" : "History Of The Russian Revolution",
       "expanded" : true,
       "children" : [
 
