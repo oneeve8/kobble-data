@@ -23,5 +23,7 @@ What if time is not what we think it is?
 
 What if there is no *time* as we understand it?
 
+Or what if time is not actually linear?
+
 What if everything is a symbol, a metaphor?
 
