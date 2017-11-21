@@ -52,11 +52,11 @@ Maybe we are in a dream.
 
 Maybe we are in a dream and the real world is out there... somewhere.
 
-What is *real*
+What is *real*?
 
 We are spiritual beings dwelling in a physical body.
 
-Maybe we placed limits on our infinite spiritual being-ness by coming into this realm.
+Maybe we placed limits on our infinite spiritual being-ness by coming into this realm. Maybe we decided to play a part in the sto
 
 Perhaps this realm is a creation of our own consciousness. We call it *reality* but maybe it is no more of a *reality* than the dream world.
 
