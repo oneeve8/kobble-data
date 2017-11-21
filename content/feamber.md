@@ -7,7 +7,7 @@ I had an obsession with puzzles for a while
 
 So I got a puzzle from a second hand shop, I had not done one in a while.
 
-A puzzle is easier to 
+A puzzle is easier to do if you find all the edges first
 
 
 What is consciousness...?
