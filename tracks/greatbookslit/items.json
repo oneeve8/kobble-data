@@ -140,23 +140,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/battlebooks00swifgoog"
-        }
-      },
-      "title" : "Jonathan Swift",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The Battle of the Books ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/details\/playsofmolire01moliuoft"
         }
       },
@@ -293,6 +276,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/newlifelavitanuo00dantuoft"
+        }
+      },
+      "title" : "Dante ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The New Life (La Vita Nuova)",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/canterburytaleso00chauuoft"
         }
       },
@@ -378,23 +378,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/newlifelavitanuo00dantuoft"
-        }
-      },
-      "title" : "Dante ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The New Life (La Vita Nuova)",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/divinecomedyofda030159mbp"
         }
       },
@@ -420,6 +403,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Translated From The Icelandic",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/battlebooks00swifgoog"
+        }
+      },
+      "title" : "Jonathan Swift",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Battle of the Books ",
       "expanded" : true,
       "children" : [
 
