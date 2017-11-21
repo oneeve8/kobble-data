@@ -140,14 +140,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/historyofdecline01gibbuoft"
+          "url" : "https:\/\/archive.org\/stream\/historyofdecline01gibbuoft"
         }
       },
-      "title" : "archive.org",
+      "title" : "Gibbon, Edward",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "The History Of The Decline And Fall Of The Roman Empire",
       "expanded" : true,
       "children" : [
 
