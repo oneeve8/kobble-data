@@ -38,7 +38,7 @@ In my house there are many mansions... scripture
 
 John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?”
 
-
+Dwelling places, mansions
 
 I believe so... Do you?
 
