@@ -4,7 +4,7 @@
 What is consciousness...?
 
 
-I thinklive in a Temporal Realm.
+I think we live in a Temporal Realm.
 
 We are just here temporarily.
 
