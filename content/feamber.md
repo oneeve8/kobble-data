@@ -3,9 +3,8 @@
 
 What is consciousness...?
 
-Bear with me...
 
-Ok, We live in a Temporal Realm.
+I thinklive in a Temporal Realm.
 
 We are just here temporarily.
 
