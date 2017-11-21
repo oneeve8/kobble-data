@@ -13,6 +13,9 @@ We placed limits on our spiritual being-ness by coming into this realm.
 
 Perhaps this realm is a creation of our own consciousness.
 
+What is consciousness?
+
+Is consciousness of the mind or beyond the mind?
 
 Or a collaborative work of consciousness agreement.
 
