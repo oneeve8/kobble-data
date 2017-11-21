@@ -13,11 +13,11 @@ Or a collaborative work of consciousness agreement.
 
 Carl Jung spoke of the collective unconscious.
 
-Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these stories are *past lives*
+Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these stories reveal *past lives*
 
 Other people believe we only live *one life*
 
-
+They believe we have one chance to get it right.
 
 What if time is not what we think it is?
 
