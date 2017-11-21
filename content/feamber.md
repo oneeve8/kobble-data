@@ -1,5 +1,5 @@
-# Amber, Trees, Electricity and what I have been up to.
-## Speculation On Tree Of Knowledge
+# The crazy things I  I have been up to.
+## 
 
 What is consciousness...?
 
