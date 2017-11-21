@@ -293,14 +293,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/mindofprimitivem031738mbp"
+          "url" : "https:\/\/archive.org\/stream\/mindofprimitivem031738mbp"
         }
       },
-      "title" : "The Mind Of Primitive Man : Boas,Franz. ",
+      "title" : "Boas,Franz",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "The Mind Of Primitive Man",
       "expanded" : true,
       "children" : [
 
