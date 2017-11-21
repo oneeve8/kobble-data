@@ -23,6 +23,8 @@ I believe so... Do you?
 
 Once something is defined, it begins to have substance and purpose.
 
+This world began with the naming of things by a conscious being-
+
 A matrix or world can be built around an idea.
 
 We think our world has to make logical sense. 
