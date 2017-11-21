@@ -17,7 +17,9 @@ It has boundaries, set limits, it is defined by a mind.
 
 Once something is defined, it begins to have substance and purpose.
 
-A 
+A matrix or world can be built around an idea.
+
+Does it have to make logical sense?
 
 We are spiritual beings dwelling in a physical body.
 
