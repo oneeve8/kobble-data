@@ -12,6 +12,7 @@ We are just here temporarily.
 
 *Realm* = kingdom, sovereign state, domain, sphere, area, field, department, arena
 
+It is a good enough description, what do you think?
 This is a limited realm of existence.
 
 It has boundaries, set limits, it is defined by a mind or consciousness.
