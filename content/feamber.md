@@ -18,7 +18,7 @@ This is a limited realm of existence.
 
 It has boundaries, set limits, it is defined by a mind or consciousness.
 
-Who is this Divine Intelligence?
+Who is this Divine Intelligence? Many people have different ideas of who or what this consciousness is. There are many dif
 
 Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
