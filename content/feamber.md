@@ -5,6 +5,8 @@ We live in a Temporal Realm.
 
 We are just here temporarily.
 
+We are spiritual beings dwelling in a physical body.
+
 This is a limited realm.
 
 perhaps it is a creation of our own mind.
