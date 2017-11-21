@@ -17,7 +17,9 @@ This is a limited realm of existence.
 
 It has boundaries, set limits, it is defined by a mind or consciousness.
 
-Maybe there are *worlds* or *realms
+Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
+
+I believe so. Do you?
 
 
 
