@@ -60,7 +60,7 @@ Maybe we placed limits on our infinite spiritual being-ness by coming into this 
 
 All the world is a stage...
 
-Perhaps this realm is a creation of our own consciousness. We call it *reality* but maybe it is no more of a *reality* than the dream world.
+Perhaps this realm is a creation of our own consciousness. We call it *reality* but maybe it is no more of a *reality* than the dream world is.
 
 Again, what is consciousness?
 
