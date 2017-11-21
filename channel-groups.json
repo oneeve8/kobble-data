@@ -128,7 +128,7 @@
       "name" : "Channel Group 2"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "World Religions",
@@ -180,7 +180,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "My Online ",
@@ -250,7 +250,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
@@ -310,7 +310,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Art And Creativity",
@@ -360,7 +360,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Cosmology",
@@ -376,7 +376,7 @@
       "name" : "FERNZ"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Armchair Travel",
@@ -473,7 +473,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Music",
@@ -489,7 +489,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sports",
@@ -514,7 +514,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Follow Simmy",
@@ -530,7 +530,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble Projects",
