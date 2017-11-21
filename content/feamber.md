@@ -1,6 +1,8 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
+I’ve been following my intuition on things.
+
 What is consciousness...?
 
 
