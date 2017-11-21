@@ -15,7 +15,6 @@ I realised through my temporary obsession, that a puzzle is a good metaphor for 
 
 What is consciousness...? Does consciousness have a limit?
 
-
 I think we live in a Temporal Realm.
 
 We are just here temporarily.
