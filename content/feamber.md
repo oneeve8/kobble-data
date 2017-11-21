@@ -36,6 +36,8 @@ Maybe there are *worlds* or *realms* or *heavens* beyond our realm.
 
 In my house there are many mansions... scripture
 
+John 14:2 
+
 I believe so... Do you?
 
 Where is the edge?
