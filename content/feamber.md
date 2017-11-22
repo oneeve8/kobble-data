@@ -45,7 +45,7 @@ For some other people, we started poking holes in that certainty of what we thou
 
 Some of us actually base our certainty of belief on faith in a higher power than ourselves who we think actually *DOES* know everything. And we also think our puzzle pieces seem to fit into some sort of picture that is starting to make sense.
 
-I think that this world was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. 
+I personally think that this world was brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. 
 
 It must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. 
