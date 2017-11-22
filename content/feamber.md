@@ -35,7 +35,7 @@ When we don’t have full and complete knowledge about something... we call this
 
 BELIEF
 
-Because it requires a leap of consciousness to consider what it *IS* while actually not knowing what it is for sure. And then coming to that temporary conclusion that fits what else we think we know about our reality... and then basing our world views on that paradigm... all based on assumptions. Whether we like it or not, what we think we know... is a belief *system*.
+Because it requires a leap of consciousness to consider what it *IS* while actually not knowing what it is for sure. And then it requires that we come to a temporary conclusion that fits what else we think we know about our reality... and then basing our world views on that paradigm... all based on assumptions. BecWhether we like it or not, what we think we know... is a belief *system*.
 
 A belief system can have various degrees of certainty by the believer, that makes us THINK we know something with 100% certainty. But I would argue that in this realm that we find ourselves in, we can NEVER EVER know anything with 100% certainty. We may never have full knowledge, because we are limited. Our human brains have limited capacity. So, we are limited from containing all the knowledge that there is. So, at some point, we must come to that understanding and acquiesce that we will never know everything. We must conclude that some things will always remain a mystery. And I think its best to come to terms with that and be at peace with mystery.
 
