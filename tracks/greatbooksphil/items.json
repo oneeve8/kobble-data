@@ -815,6 +815,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/newsystemofchemi01daltuoft"
+        }
+      },
+      "title" : "A new system of chemical philosophy : Da",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "14",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
