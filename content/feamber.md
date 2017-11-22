@@ -93,7 +93,7 @@ When you have a dream, does it make sense? I have had a lot of nonsensical dream
 
 When volunteers are placed under hypnosis, they come up with all kinds of stories that seem to make logical sense... they are stories. So, another binge session I have been on is watching hypnosis sessions by 
 
-Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these stories reveal *past lives*
+Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these stories reveal *past lives*. I have another take on this.
 
 Maybe we are in a dream.
 
