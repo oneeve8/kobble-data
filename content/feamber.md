@@ -64,7 +64,7 @@ But I am going to ask a question for those of you who have difficulty with the b
 
 This is where I would like to try to explain what I believe about the bible and other sacred texts and origin stories around the world. Maybe this will help you too.
 
-Science tries to answer the what is it and how is it. But it can never answer Why is it? We hope that somewhere in those sacred texts are some answers to the questions we have been asking. Who are we? Where did we come from? And Why are we here? Most of these sacred texts couch truths in METAPHOR. Why? Because the real reality is beyond this realm. It is incomprehensible to us. Since all we know is this realm, we have no knowledge of how things truly are.
+Science tries to answer the what is it and how is it. But it can never answer Why is it? We hope that somewhere in those sacred texts of the world are some answers to the questions we have been asking. Who are we? Where did we come from? And Why are we here? Most of these sacred texts couch truths in METAPHOR. Why? Because the real reality is beyond this realm. It is incomprehensible to us. Since all we know is this realm, we have no knowledge of how things truly are.
 
 Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a metaphor. It explains the unexplainable by comparing it to things that are familiar. He always began His parables with “The kingdom of God is like...” 
 
