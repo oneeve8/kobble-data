@@ -76,6 +76,8 @@ If you don’t agree with me on this and you are a Christian. All I ask is that 
 
 I think it is because all He wanted to do with all that he said is to direct our thoughts to spiritual things. He said, his kingdom is not of this world.
 
+So, before Jesus came, the Old Testament is 
+
 What is consciousness...? [picture of a brain] 
 
 Does consciousness have a limit? [Picture of a Brain opening]
