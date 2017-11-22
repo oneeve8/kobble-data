@@ -74,6 +74,8 @@ Because for me, it is completely obvious that the WHOLE WORLD IS A METAPHOR, so 
 
 If you don’t agree with me on this and you are a Christian. All I ask is that you be polite about it if you want to comment below. And just do me a favour and ask yourself Why do YOU think that most of what Jesus taught was told in parable form? What would be the purpose of that? If he could tell us literally what heaven is, why would he not just say it plainly? Why did Jesus only speak on heavenly things?
 
+I think it is because all 
+
 What is consciousness...? [picture of a brain] 
 
 Does consciousness have a limit? [Picture of a Brain opening]
