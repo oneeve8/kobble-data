@@ -21,7 +21,7 @@ I think we live in a Temporal Realm. [flammarion engraving]
 
 We know that we are just here temporarily... because we know that death is a reality. [gravestone]
 
-And we know it is a sort of *place*
+And we know it is some sort of *place* I like the word Rea
 
 *Temporal* = time
 
