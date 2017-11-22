@@ -35,7 +35,7 @@ BELIEF
 
 Because it requires a leap of consciousness to consider what it *IS* while actually not knowing what it is for sure. And then coming to that temporary conclusion that fits what else we know about our reality... and then basing our world views on that paradigm... all based on assumptions. Whether we like it or not, what we think we know... is a belief *system*.
 
-A belief system can have various degrees of certainty by the believer, that makes us THINK we know something with 100% certainty. But I would argue that in this realm that we find ourselves in, we can never know anything with 100% certainty. We may never have full knowledge, because we are limited. Our human brains are limited from containing all the knowledge that there is. So, at some point, we must come to that understanding and acquiesce that we will never know everythi
+A belief system can have various degrees of certainty by the believer, that makes us THINK we know something with 100% certainty. But I would argue that in this realm that we find ourselves in, we can never know anything with 100% certainty. We may never have full knowledge, because we are limited. Our human brains are limited from containing all the knowledge that there is. So, at some point, we must come to that understanding and acquiesce that we will never know everything. That things will remain a mystery. And to be at peace with that.
 
 For some people, they are satisfied with not knowing everything because they rely on other human beings who they think know things. And they think that their *puzzle pieces* seem to fit into sort of a picture that is starting to make sense.
 
