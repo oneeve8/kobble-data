@@ -820,14 +820,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/newsystemofchemi01daltuoft"
+          "url" : "https:\/\/archive.org\/stream\/newsystemofchemi01daltuoft"
         }
       },
-      "title" : "A new system of chemical philosophy : Da",
+      "title" : "Dalton, John",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "14",
+      "subtitle" : "A New System of Chemical Philosophy ",
       "expanded" : true,
       "children" : [
 
