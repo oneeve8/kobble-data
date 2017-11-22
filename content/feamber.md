@@ -1,7 +1,7 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
-In this video, I will be sharing what I think about what is belief, about our creator God, the bible, what we can know about this realm. I especially wanted to put it into some sort of comprehensive format and share it after watching Rob Skibas interview and his explanation of belief. And after viewing what other people have said about the difference
+In this video, I will be sharing what I think about what is belief, about our creator God, the bible, what we can know about this realm. I especially wanted to put it into some sort of comprehensive format and share it after watching Rob Skibas interview and his explanation of belief. And after viewing what other people have said about the difference between knowing something and belief.
 
 Lately, I have been following my intuition.
 
