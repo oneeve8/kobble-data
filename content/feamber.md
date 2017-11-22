@@ -58,7 +58,7 @@ This is the Argument of causation or the First cause argument: in philosophy, is
 
 I personally believe in a divine creator who knows us, loves us and can communicate with us. I personally believe this, because I have had personal experiences which I consider evidence through synchronicities or what I like to call divine providence in my life. If you have not had these experiences, I suggest you simply ask. 
 
-Many of these providential things happen when I open the bible. I might contemplate a scripture in the bible, and then an event or circumstance in my life helps to explain its meaning. Or I will have an event or but for your benefit, I am going to ask you a question. If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
+Many of these providential things happen when I open the bible. I might contemplate a scripture in the bible, and then an event or circumstance in my life helps to explain its meaning. Or vice versa, an event or circumstance will correspond to a scripturebut for your benefit, I am going to ask you a question. If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
 
 This is where I would like to try to explain what I believe about the bible and other sacred texts and origin stories around the world.
 
