@@ -803,14 +803,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/essayonprincipl00malt"
+          "url" : "https:\/\/archive.org\/stream\/essayonprincipl00malt"
         }
       },
-      "title" : "An essay on the principle of population,",
+      "title" : "Malthus",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "32",
+      "subtitle" : "An essay on the principle of population,",
       "expanded" : true,
       "children" : [
 
