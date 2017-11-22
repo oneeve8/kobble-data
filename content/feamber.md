@@ -51,7 +51,7 @@ An atheist would try to deny this fact, but he must eventually come to the concl
 
 Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the *Prime mover* that is thought to be a deity of *pure form*. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
 
-I perIf this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
+I personally believe in a divine creator, but for your benefit, I am going to ask you a question. If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
 
 If we could only search the world for sacred texts and find some inspiration, some sort of answers. Something that helps us put the puzzle pieces together. These were written by human beings you say? Do you think that maybe a divine being would inspire some people with some truths? Science tries to answer the what is it and how is it. But it can never answer Why is it? We hope that somewhere in those sacred texts are some answers to the questions we have been asking. Who are we? Where did we come from? And Why are we here?
 
