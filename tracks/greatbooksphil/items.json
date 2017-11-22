@@ -883,6 +883,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/principlesofpoli00ricauoft"
+        }
+      },
+      "title" : "The principles of political economy & ta",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "31",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
