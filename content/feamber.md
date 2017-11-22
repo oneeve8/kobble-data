@@ -29,7 +29,7 @@ And we know it is a sort of *place*
 
 So, it is a *Temporal Realm*. I think it is a pretty good description.
 
-This is a limited realm of existence.
+I think this place we are in This is a limited realm of existence.
 
 Whatever it is, we do not have full knowledge about it. We do not have a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence. And this is true whatever cosmology model you happen to be considering. We do not know whether or not it has limits, what shape it is, or even what it looks like.
 
