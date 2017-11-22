@@ -15,7 +15,7 @@ Then I realised there were online puzzles. So I got obsessed with those for a wh
 
 I realised through my temporary obsession, that a puzzle is a good metaphor for solving problems. It is a good metaphor for life. A puzzle is easier to do if you find all the edges first. It really helps to define your borders. Then you put all the pieces into piles by Color and then by shape. You can only see the whole picture, once you fit all the pieces together. Once you get toward the end of finishing a puzzle, it goes a lot faster. And finishing it, gives you a certain sense of satisfaction of accomplishment.
 
-Because of my background in literature, philosophy and studying religions around the world, I see a lot of things as metaphor. I learn from everything, and try to see the deeper meaning of why something is happening in my life or why my interests lead me in a certain direction... and what it all means. We are constantly seeking meaning in our lives.
+Because of my background in literature, philosophy and studying religions around the world, I see a lot of things as metaphor. I learn from everything, and try to see the deeper meaning of why something is happening in my life or why my interests lead me in a certain direction... and then I try to look at the bigger picture of what it all means. We are constantly seeking meaning in our lives.
 
 I think we live in a Temporal Realm. [flammarion engraving]
 
