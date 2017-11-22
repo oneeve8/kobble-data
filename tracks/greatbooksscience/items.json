@@ -339,6 +339,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/analyticaltheory00fourrich"
+        }
+      },
+      "title" : "Fourier, Jean Baptiste Joseph",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The analytical theory of heat",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
