@@ -572,7 +572,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Emma.org",
+      "subtitle" : "Emma",
       "expanded" : true,
       "children" : [
 
