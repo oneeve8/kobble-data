@@ -49,7 +49,7 @@ I would call this intelligence *divine* because it is beyond what I can personal
 Richard Dawkins clip
 An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond an intelligence that we can consider must be another intelligence that created *it*
 
-Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the “Prime mover” that is thought to be a deity of “pure form”. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
+Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the *Prime mover* that is thought to be a deity of “pure form”. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
 
 If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
 
