@@ -526,6 +526,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/cu31924102776576"
+        }
+      },
+      "title" : "The complete poetical works of Samuel Ta",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The metadata below describe the original scanning.",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
