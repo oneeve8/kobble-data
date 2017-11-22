@@ -37,7 +37,7 @@ Because it requires a leap of consciousness to consider what it *IS* while actua
 
 A belief system can have various degrees of certainty by the believer, but it may never be a proven fact. We may never have full knowledge, because we are limited. Our human brains are limited from containing all the knowledge that there is.
 
-For some people, they are satisfied with not knowing everything because they rely on other human beings who they think know things. And they think that their *puzzle pieces* seem to fit into sort of a picture that is starting to make sense, even though it may have a few holes in it.
+For some people, they are satisfied with not knowing everything because they rely on other human beings who they think know things. And they think that their *puzzle pieces* seem to fit into sort of a picture that is starting to make sense.
 
 For some other people who are satisfied with not knowing everything, our certainty of belief is based on faith in a higher power than ourselves who we think actually *DOES* know everything.
 
