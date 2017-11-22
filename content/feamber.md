@@ -46,7 +46,7 @@ A belief system can have various degrees of certainty by the believer, but it ma
 If this realm does have boundaries, perhaps it is only defined by our own consciousness. I think that it was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond an intelligence that we can consider must be another intelligence that created *it*
 
-First cause argument: in philosophy, the self created being (ie God to which every chain of causes must ultimately go back. “Prime mover” that is a deity of “pure form referred to by Aristotle The term was used by Greek thinkiers and became an underlying assumption in the Jude’s-Christian tradition... Aquinas argued th
+Argument of causation or the First cause argument: in philosophy, the self created being (ie God to which every chain of causes must ultimately go back. “Prime mover” that is a deity of “pure form referred to by Aristotle The term was used by Greek thinkiers and became an underlying assumption in the Jude’s-Christian tradition... Aquinas argued th
 
 Maybe there are *worlds* or *realms* or *heavens* beyond this realm. [image of heavenly realms]
 
