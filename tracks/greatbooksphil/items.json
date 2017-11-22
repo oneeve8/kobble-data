@@ -823,11 +823,11 @@
           "url" : "https:\/\/archive.org\/details\/analyticaltheory00fourrich"
         }
       },
-      "title" : "The analytical theory of heat : Fourier,",
+      "title" : "Fourier,",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "The analytical theory of heat",
       "expanded" : true,
       "children" : [
 
