@@ -65,7 +65,7 @@ If this realm does have boundaries, perhaps it is only defined by our own consci
 
 Maybe there are *worlds* or *realms* or *heavens* beyond this realm. [image of heavenly realms]
 
-John 14:2 *In my Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?”
+John 14:2 *In my Fathers house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?*
 
 Instead of the word *rooms*, other translations use the words Dwelling places, or mansions.
 
