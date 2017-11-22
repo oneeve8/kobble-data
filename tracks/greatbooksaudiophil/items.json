@@ -313,11 +313,11 @@
           "url" : "https:\/\/archive.org\/details\/principle_population_0908_librivox"
         }
       },
-      "title" : "archive.org",
+      "title" : "An Essay on the Principle of Population ",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "LibriVox recording of An Essay on the Principle of",
       "expanded" : true,
       "children" : [
 
