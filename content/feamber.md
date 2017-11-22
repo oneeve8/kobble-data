@@ -61,7 +61,7 @@ Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a
 
 And so, this is where I differ from believers such as Rob Skiba and other Christians who speak about taking the bible as LITERAL.
 
-For me, the WHOLE WORLD IS A METAPHOR, so NOTHING can be taken as literal.
+For me, the WHOLE WORLD IS A METAPHOR, so NOTHING can be taken as literal. Nothing in this world IS literal. All of creation ser
 
 What is consciousness...? [picture of a brain] 
 
