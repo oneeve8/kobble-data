@@ -871,14 +871,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/lecturesonphilos00hegerich"
+          "url" : "https:\/\/archive.org\/stream\/lecturesonphilos00hegerich"
         }
       },
-      "title" : "Lectures on the philosophy of history : ",
+      "title" : "Hegel",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Lectures on the Philosophy of History",
       "expanded" : true,
       "children" : [
 
