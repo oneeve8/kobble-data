@@ -60,7 +60,7 @@ I personally believe in a divine creator who knows us, loves us and can communic
 
 Many of these providential things happen when I open the bible. I might contemplate a scripture in the bible, and then an event or circumstance in my life helps to explain its meaning. Or vice versa, an event or circumstance happens, and I open my bible and the scripture I read relates to it. 
 
-But for those of you who have difficulty with the bible, (because I had difficulty with it too at first) ut for your benefit, I am going to ask you a question. If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
+But I am going to ask a question for those of you who have difficulty with the bible, (because I had difficulty with it too at first). I am going If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
 
 This is where I would like to try to explain what I believe about the bible and other sacred texts and origin stories around the world.
 
