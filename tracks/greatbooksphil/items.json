@@ -849,6 +849,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/cu31924014578979"
+        }
+      },
+      "title" : "Hegel's Philosophy of right : Hegel, Geo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The metadata below describe the original scanning.",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
