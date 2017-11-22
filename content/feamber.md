@@ -41,7 +41,9 @@ A belief system can have various degrees of certainty by the believer, that make
 
 For some people, they are satisfied with not knowing everything because they rely on other human beings who they think know things. And they think that their *puzzle pieces* seem to fit into sort of a picture that is starting to make sense.
 
-For some other people, we started poking holes in that certainty of what we thought we knew. Some of us actually started basing our certainty of belief on faith in a higher power than ourselves who we think actually *DOES* know everything. And we also think our puzzle pieces seem to fit into some sort of picture that is starting to make sense.
+For some other people, we started poking holes in that certainty of what we thought we knew. 
+
+Some of us actually base our certainty of belief on faith in a higher power than ourselves who we think actually *DOES* know everything. And we also think our puzzle pieces seem to fit into some sort of picture that is starting to make sense.
 
 I think that this world was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. 
 
