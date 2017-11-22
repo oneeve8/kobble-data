@@ -888,14 +888,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/principlesofpoli00ricauoft"
+          "url" : "https:\/\/archive.org\/stream\/principlesofpoli00ricauoft"
         }
       },
-      "title" : "The principles of political economy & ta",
+      "title" : "B",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "31",
+      "subtitle" : "The Principles of Political Economy & Taxation",
       "expanded" : true,
       "children" : [
 
