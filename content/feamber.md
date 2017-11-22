@@ -70,7 +70,7 @@ Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a
 
 And so, this is where I differ from other Christian believers (even though I respect and appreciate them very much) who speak about taking the bible as LITERAL. 
 
-Because for me, it is completely obvious that the WHOLE WORLD IS A METAPHOR, so really NOTHING can be taken as literal. Even though historical events may have actually happened in the bible just as they are told, they TOO are METAPHOR. Because all of life is a METAPHOR to explain the divine. Nothing in this world IS literal. All of creation serves only to point us to a realm beyond this realm... which is the kingdom of God.
+Because for me, it is completely obvious that the WHOLE WORLD IS A METAPHOR, so really NOTHING can be taken as quote *literal* even though it contains TRUTH. Even though historical events may have actually happened in the bible just as they are told, they TOO are METAPHOR. Because all of life is a METAPHOR to explain the divine. Nothing in this world IS literal. All of creation serves only to point us to a realm beyond this realm... which is the kingdom of God.
 
 If you don’t agree with me on this and you are a Christian. All I ask is that you be polite about it if you want to comment below. And just do me a favour and ask yourself Why do YOU think that most of what Jesus taught was told in parable form? What would be the purpose of that? If he could tell us literally what heaven is, why would he not just say it plainly? Why did Jesus only speak on heavenly things?
 
