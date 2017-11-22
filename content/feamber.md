@@ -51,6 +51,8 @@ An atheist would try to deny this fact, but he must eventually come to the concl
 
 Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the “Prime mover” that is thought to be a deity of “pure form”. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
 
+If this divine being exists, I would hope that this creator would have left us 
+
 What is consciousness...? [picture of a brain] 
 
 Does consciousness have a limit? [Picture of a Brain opening]
