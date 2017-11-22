@@ -47,7 +47,7 @@ It must be an intelligence that is beyond our own intelligence. Because, as far 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. 
 
 Richard Dawkins clip
-An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond any intelligence that we can consider, there must be *another* intelligence that created *it* and so on...
+An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond any intelligence that we can consider, there must be *another* intelligence that created *it* and so on... to a first intelligence.
 
 Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the *Prime mover* that is thought to be a deity of *pure form*. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
 
