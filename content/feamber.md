@@ -31,7 +31,7 @@ So, it is a *Temporal Realm*. I think it is a pretty good description.
 
 I think this place we are in is a limited realm of existence.
 
-Whatever it is, we do not have full knowledge about it. We do not have a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence. And this is true whatever cosmology model you happen to be considering. We do not know whether or not it has limits, what shape it is, or even what it looks like. We don’t have a full picture, or even it
+Whatever it is, we do not have full knowledge about it. We do not have a complete picture of this realm and what it is all about. So we are limited in our knowledge and understanding about our existence. And this is true whatever cosmology model you happen to be considering. We do not know whether or not it has limits, what shape it is, or even what it looks like. We don’t have a full picture, or even have its edges defined yet.
 
 When we don’t have full and complete knowledge about something... we call this a:
 
