@@ -76,7 +76,7 @@ If you don’t agree with me on this and you are a Christian. All I ask is that 
 
 I think it is because all He wanted to do with all that he said is to direct our thoughts to spiritual things. He said, his kingdom is not of this world.
 
-So, before Jesus came, the Old Testament mainly describes things all about this human world. Worldly things, worldly kings, imperfect people with an imperfect understanding of who God really is and what the heavenly kingdom is really like. So just think about that when you read the Old Testament and compare it with the 
+So, before Jesus came, the Old Testament mainly describes things all about this human world. Worldly things, worldly kings, imperfect people with an imperfect understanding of who God really is and what the heavenly kingdom is really like. So just think about that when you read the Old Testament and compare it with the New Testament.
 
 What is consciousness...? [picture of a brain] 
 
