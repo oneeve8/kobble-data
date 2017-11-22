@@ -55,7 +55,7 @@ I personally believe in a divine creator, but for your benefit, I am going to as
 
 If we could only search the world for sacred texts and find some inspiration, some sort of answers. Something that helps us put the puzzle pieces together. Maybe we could find some truth. What do you think? I am being facetious of course. There are many books considered sacred that might have some information for us. Do you think that maybe a divine being would inspire some people with some truths? Science tries to answer the what is it and how is it. But it can never answer Why is it? We hope that somewhere in those sacred texts are some answers to the questions we have been asking. Who are we? Where did we come from? And Why are we here? Most of these sacred texts couch truths in METAPHOR. Why? Because the real reality is beyond this realm. It is incomprehensible to us. Since all we know is this realm, we have no knowledge of how things truly are.
 
-Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a metaphor. It explains the unexplainable by 
+Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a metaphor. It explains the unexplainable by comparing it to things that are familiar.
 
 What is consciousness...? [picture of a brain] 
 
