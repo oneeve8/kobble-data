@@ -815,6 +815,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/jstor-25665666"
+        }
+      },
+      "title" : "HEGEL'S PHENOMENOLOGY OF SPIRIT : Harris",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "HEGEL'S PHENOMENOLOGY OF SPIRIT is an article from",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
