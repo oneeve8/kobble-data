@@ -815,23 +815,6 @@
       "children" : [
 
       ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/newsystemofchemi01daltuoft"
-        }
-      },
-      "title" : "Dalton, John",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "A New System of Chemical Philosophy ",
-      "expanded" : true,
-      "children" : [
-
-      ]
     }
   ]
 }
