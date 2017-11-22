@@ -47,7 +47,8 @@ Some of us actually base our certainty of belief on faith in a higher power than
 
 I personally think that this world was brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. 
 
-It must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
+It must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence that I have ever encountered.
+
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. 
 
 Richard Dawkins clip
