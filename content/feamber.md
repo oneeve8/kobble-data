@@ -13,11 +13,6 @@ Then I realised there were online puzzles. So I got obsessed with those for a wh
 
 I realised through my temporary obsession, that a puzzle is a good metaphor for solving problems. It is a good metaphor for life. A puzzle is easier to do if you find all the edges first. It really helps to define your borders. Then you put all the pieces into piles by Color and then by shape. You can only see the whole picture, once you fit all the pieces together. Once you get toward the end of finishing a puzzle, it goes a lot faster. And finishing it, gives you a certain sense of satisfaction of accomplishment.
 
-What is consciousness...? [picture of a brain] 
-
-Does consciousness have a limit? [Picture of a Brain opening]
-
-Maybe the only limit is our imagination.
 
 I think we live in a Temporal Realm. [flammarion engraving]
 
@@ -47,6 +42,12 @@ If this realm does have boundaries, perhaps it is only defined by our own consci
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond an intelligence that we can consider must be another intelligence that created *it*
 
 Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the “Prime mover” that is thought to be a deity of “pure form”. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
+
+What is consciousness...? [picture of a brain] 
+
+Does consciousness have a limit? [Picture of a Brain opening]
+
+Maybe the only limit is our imagination.
 
 Maybe there are *worlds* or *realms* or *heavens* beyond this realm. [image of heavenly realms]
 
