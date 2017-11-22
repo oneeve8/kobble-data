@@ -17,7 +17,7 @@ I realised through my temporary obsession, that a puzzle is a good metaphor for 
 
 I think we live in a Temporal Realm. [flammarion engraving]
 
-We know that we are just here temporarily... because death is a reality. [gravestone]
+We know that we are just here temporarily... because we know that death is a reality. [gravestone]
 
 And we know it is a sort of *place*
 
