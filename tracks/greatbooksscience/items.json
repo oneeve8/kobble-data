@@ -364,11 +364,11 @@
           "url" : "https:\/\/archive.org\/stream\/onwar00maudgoog"
         }
       },
-      "title" : "On war : Clausewitz, Carl von, 1780-1831",
+      "title" : "Clausewitz, Carl von",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Book digitized by Google and uploaded to the Inter",
+      "subtitle" : "On War",
       "expanded" : true,
       "children" : [
 
