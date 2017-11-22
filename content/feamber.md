@@ -91,7 +91,7 @@ Does it necessarily *have* to make logical sense?
 
 When you have a dream, does it make sense? I have had a lot of nonsensical dreams. While I am in the dream, everything seems to make perfect sense. When I wake up, it no longer does make sense. Dreams are full of symbolism and metaphor.
 
-When volunteers are placed under hypnosis, they come up with all kinds of stories that seem to make logical sense... and some that do not. I have been watching hypnosis sessions by 
+When volunteers are placed under hypnosis, they come up with all kinds of stories that seem to make logical sense... and some that do not. So, another binge session I have been on is watching hypnosis sessions by 
 
 Hypnosis sessions that tap into the subconscious mind reveal the complexity of the human mind. Some people think that these stories reveal *past lives*
 
