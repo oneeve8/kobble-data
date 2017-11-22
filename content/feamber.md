@@ -46,6 +46,7 @@ I think that this world was definitely brought into being by an intelligence, or
 It must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. 
 
+Richard Dawkins clip
 An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond an intelligence that we can consider must be another intelligence that created *it*
 
 Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the “Prime mover” that is thought to be a deity of “pure form”. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
