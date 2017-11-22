@@ -1,7 +1,7 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
-In this video, I will be sharing what I think about God, a creator, 
+In this video, I will be sharing what I think about God, a creator, the bible, 
 
 I have been following my intuition.
 
