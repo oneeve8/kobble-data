@@ -53,7 +53,7 @@ Argument of causation or the First cause argument: in philosophy, is the self cr
 
 If this divine being exists, I would hope that this creator would have left us some sort of instructions about this place. Or maybe this creator would send us some messengers about this place too. We would like to have some sort of users manual. What do you think?
 
-If we could only search the world for sacred texts and find some inspiration, some sort of answers. Something that helps us put the puzzle pieces together. These were written by human beings you say? Do you think that maybe a divine being would inspire some people with some truths? Some Even though it was written by human beings, we hope that somewhere in there are some answers to the questions we have been asking. Who are we? Where did we come from? And Why are we here?
+If we could only search the world for sacred texts and find some inspiration, some sort of answers. Something that helps us put the puzzle pieces together. These were written by human beings you say? Do you think that maybe a divine being would inspire some people with some truths? Science tries to answer the what is it and we hope that somewhere in there are some answers to the questions we have been asking. Who are we? Where did we come from? And Why are we here?
 
 What is consciousness...? [picture of a brain] 
 
