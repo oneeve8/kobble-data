@@ -54,7 +54,7 @@ I would call this intelligence *divine* because it is beyond what I can personal
 Richard Dawkins clip
 An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond any intelligence that we can consider, there must be *another* intelligence that created *it* and so on... up to a first intelligence.
 
-Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the *Prime mover* that is thought to be a deity of *pure form*. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
+This is the Argument of causation or the First cause argument: in philosophy, is the self created being to which every chain of causes must ultimately go back. Which Aristotle called the *Prime mover* that is thought to be a deity of *pure form*. This same argument was also considered by the Christian theologian St. Thomas Aquinas as proof of God in the Christian tradition.
 
 I personally believe in a divine creator who knows us, loves us and can communicate with us. I personally believe this, because I have had personal experiences which I consider evidence through synchronicities or what I like to call divine providence in my life. If you have not had these experiences, I suggest you simply ask. 
 
