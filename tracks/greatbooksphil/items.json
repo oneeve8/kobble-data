@@ -820,7 +820,7 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/jstor-25665666"
+          "url" : "https:\/\/archive.org\/stream\/jstor-25665666"
         }
       },
       "title" : "HEGEL'S PHENOMENOLOGY OF SPIRIT : Harris",
@@ -837,14 +837,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/hegelsscienceofl033218mbp"
+          "url" : "https:\/\/archive.org\/stream\/hegelsscienceofl033218mbp"
         }
       },
-      "title" : "Hegels Science Of Logic Vol II : Johnsto",
+      "title" : "Hegel",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Science of Logic Vol II",
       "expanded" : true,
       "children" : [
 
