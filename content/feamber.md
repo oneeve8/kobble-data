@@ -37,7 +37,7 @@ Because it requires a leap of consciousness to consider what it *IS* while actua
 
 A belief system can have various degrees of certainty by the believer, but it may never be a proven fact. We may never have full knowledge, because we are limited. Our human brains are limited from containing all the knowledge that there is.
 
-For people who are satisfied with not knowing everything because they 
+For some people, they are satisfied with not knowing everything because they rely on other human beings who they think know things.
 For people who are satisfied with not knowing, our certainty of belief is based on faith in a higher power than ourselves who we think actually *DOES* know everything.
 
 If this realm does have boundaries, perhaps it is only defined by our own consciousness. I think that it was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
