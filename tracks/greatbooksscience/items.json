@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/stream\/newsystemofchemi01daltuoft"
-        }
-      },
-      "title" : "Dalton, John",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "A New System of Chemical Philosophy ",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/tayloreuclid00euclrich"
         }
       },
@@ -335,6 +318,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Anthropology and Modern Life",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/newsystemofchemi01daltuoft"
+        }
+      },
+      "title" : "Dalton, John",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A New System of Chemical Philosophy ",
       "expanded" : true,
       "children" : [
 
