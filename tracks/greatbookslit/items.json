@@ -531,14 +531,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/cu31924102776576"
+          "url" : "https:\/\/archive.org\/stream\/cu31924102776576"
         }
       },
-      "title" : "The complete poetical works of Samuel Ta",
+      "title" : "Samuel Taylor Coleridge",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The metadata below describe the original scanning.",
+      "subtitle" : "Complete Poetical Works",
       "expanded" : true,
       "children" : [
 
