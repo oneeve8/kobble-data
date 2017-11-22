@@ -565,14 +565,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/archive.org\/details\/emmaausten00austrich"
+          "url" : "https:\/\/archive.org\/stream\/emmaausten00austrich"
         }
       },
-      "title" : "Emma : Austen, Jane, 1775-1817 : Free Do",
+      "title" : "Austen, Jane",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "archive.org",
+      "subtitle" : "Emma.org",
       "expanded" : true,
       "children" : [
 
