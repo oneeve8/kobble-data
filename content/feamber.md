@@ -1,7 +1,7 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
-In this video, I will be sharing what I think about a creator God, the bible, what we can know about this realm. 
+In this video, I will be sharing what I think about what is belief, about our creator God, the bible, what we can know about this realm. 
 
 Lately, I have been following my intuition.
 
