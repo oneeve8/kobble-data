@@ -1,7 +1,7 @@
 # Post Flat Earth: What I have been up to and the crazy things I have been thinking about.
 ## 
 
-In this video, I will be sharing what I think about God, a creator, the bible, 
+In this video, I will be sharing what I think about a creator God, a creator,the bible, 
 
 I have been following my intuition.
 
@@ -65,7 +65,7 @@ Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a
 
 And so, this is where I differ from believers (even though I respect and appreciate them very much) such as Rob Skiba and other Christians who speak about taking the bible as LITERAL. 
 
-Because for me, it is completely obvious that the WHOLE WORLD IS A METAPHOR, so NOTHING can be taken as literal. Even though historical events may have actually happened in the bible just as they are told, they TOO are METAPHOR. Because all of life is a METAPHORNothing in this world IS literal. All of creation serves only to point us to a realm beyond this realm... which is the kingdom of God.
+Because for me, it is completely obvious that the WHOLE WORLD IS A METAPHOR, so NOTHING can be taken as literal. Even though historical events may have actually happened in the bible just as they are told, they TOO are METAPHOR. Because all of life is a METAPHOR for the divine. Nothing in this world IS literal. All of creation serves only to point us to a realm beyond this realm... which is the kingdom of God.
 
 What is consciousness...? [picture of a brain] 
 
