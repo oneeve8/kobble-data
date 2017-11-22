@@ -39,7 +39,7 @@ A belief system can have various degrees of certainty by the believer, but it ma
 
 For some people, they are satisfied with not knowing everything because they rely on other human beings who they think know things. And they think that their *puzzle pieces* seem to fit into sort of a picture that is starting to make sense, even though it may have a few holes in it.
 
-For some other people who are satisfied with not knowingour certainty of belief is based on faith in a higher power than ourselves who we think actually *DOES* know everything.
+For some other people who are satisfied with not knowing everything, our certainty of belief is based on faith in a higher power than ourselves who we think actually *DOES* know everything.
 
 If this realm does have boundaries, perhaps it is only defined by our own consciousness. I think that it was definitely brought into being by an intelligence, ordered by an intelligence, defined by an intelligence. And it must be an intelligence that is beyond our own intelligence. Because, as far as I know, no human being can create a world like this. I can only imagine that the intelligence that designed this world is far beyond any human intelligence. 
 I would call this intelligence *divine* because it is beyond what I can personally comprehend or know. An atheist would try to deny this fact, but he must eventually come to the conclusion that beyond an intelligence that we can consider must be another intelligence that created *it*
