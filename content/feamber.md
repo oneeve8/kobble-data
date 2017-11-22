@@ -63,7 +63,7 @@ If we could only search the world for sacred texts and find some inspiration, so
 
 Jesus spoke about the kingdom of God in the form of PARABLE. A parable is like a metaphor. It explains the unexplainable by comparing it to things that are familiar. He always began His parables with “The kingdom of God is like...” 
 
-And so, this is where I differ from believers (while I respect them very much) such as Rob Skiba and other Christians who speak about taking the bible as LITERAL. 
+And so, this is where I differ from believers (even though I respect and appreciate them very much) such as Rob Skiba and other Christians who speak about taking the bible as LITERAL. 
 
 For me, the WHOLE WORLD IS A METAPHOR, so NOTHING can be taken as literal. Nothing in this world IS literal. All of creation serves only to point us to a realm beyond this realm... which is the kingdom of God.
 
