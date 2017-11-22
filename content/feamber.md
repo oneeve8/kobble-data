@@ -72,6 +72,8 @@ And so, this is where I differ from other Christian believers (even though I res
 
 Because for me, it is completely obvious that the WHOLE WORLD IS A METAPHOR, so really NOTHING can be taken as literal. Even though historical events may have actually happened in the bible just as they are told, they TOO are METAPHOR. Because all of life is a METAPHOR to explain the divine. Nothing in this world IS literal. All of creation serves only to point us to a realm beyond this realm... which is the kingdom of God.
 
+If you don’t a
+
 What is consciousness...? [picture of a brain] 
 
 Does consciousness have a limit? [Picture of a Brain opening]
