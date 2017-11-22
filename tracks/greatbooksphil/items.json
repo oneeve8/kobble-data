@@ -832,6 +832,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/hegelsscienceofl033218mbp"
+        }
+      },
+      "title" : "Hegels Science Of Logic Vol II : Johnsto",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "archive.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
