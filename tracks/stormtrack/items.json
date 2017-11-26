@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.researchgate.net\/publication\/220876210_q-Anon_Rethinking_Anonymity_for_Social_Networks"
+        }
+      },
+      "title" : "q-Anon: Rethinking Anonymity for Social ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Full-text (PDF) | This paper proposes that social ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
