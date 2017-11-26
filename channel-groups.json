@@ -183,6 +183,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Storm Info",
+          "subtitle" : "Storm",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/storm.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "My Online ",
           "subtitle" : "Links To My Sites",
           "channel" : {
