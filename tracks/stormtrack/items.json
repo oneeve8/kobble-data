@@ -101,6 +101,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/lettersfromthegulag.blogspot.co.nz\/"
+        }
+      },
+      "title" : "Letters From the Gulag",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "lettersfromthegulag.blogspot.co.nz",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
