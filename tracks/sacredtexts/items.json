@@ -2,6 +2,27 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/testmarkdown.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Test",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Test",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "http:\/\/www.avesta.org\/"
