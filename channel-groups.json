@@ -180,7 +180,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Storm Info",
@@ -259,7 +259,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -319,7 +319,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Art And Creativity",
@@ -369,7 +369,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Narratives",
@@ -394,7 +394,7 @@
       "name" : "FERNZ"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Armchair Travel",
@@ -491,7 +491,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Music",
@@ -507,7 +507,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Sports",
@@ -532,7 +532,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Follow Simmy",
