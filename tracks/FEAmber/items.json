@@ -20,6 +20,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=bPdH0AG3Tt0"
+        }
+      },
+      "title" : "How To Set up a Blue Yeti On Mac",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "How yo set up the blue yeti usb studio microphone ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
