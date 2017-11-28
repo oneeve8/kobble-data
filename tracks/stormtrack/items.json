@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/co-creatingournewearth.blogspot.co.nz\/2017\/11\/q-for-normies-part-2-october-29-30-2017.html"
+        }
+      },
+      "title" : "Q for \"normies\" Part 2. October 29-30, 2",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Blogs by Bronny NZ. Co-creating an amazing future ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.researchgate.net\/publication\/220876210_q-Anon_Rethinking_Anonymity_for_Social_Networks"
         }
       },
