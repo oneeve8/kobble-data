@@ -40,6 +40,23 @@
     },
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=WIBTbRWuNG4"
+        }
+      },
+      "title" : "Blue Yeti Sound Test and 6 Tips for Sett",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Blue Yeti Sound Test and six tips for getting the ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
