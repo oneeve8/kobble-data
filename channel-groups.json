@@ -344,7 +344,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Business Plan",
