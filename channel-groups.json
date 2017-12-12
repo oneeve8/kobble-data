@@ -3,14 +3,6 @@
     {
       "isShowing" : true,
       "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "videos"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
         {
           "title" : "Plain Domain",
           "subtitle" : "Videos",
@@ -19,7 +11,14 @@
             "path" : "channels\/PlainDomain.json",
             "repo" : "kobble-data"
           }
-        },
+        }
+      ],
+      "isToggled" : false,
+      "name" : "videos"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
