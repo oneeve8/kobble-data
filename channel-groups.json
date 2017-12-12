@@ -3,6 +3,23 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "videos"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Plain Domain",
+          "subtitle" : "Videos",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/PlainDomain.json",
+            "repo" : "kobble-data"
+          }
+        },
         {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
