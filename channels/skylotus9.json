@@ -3,6 +3,24 @@
   "subtitle" : "Home Decorating",
   "tracks" : [
     {
+      "title" : "Dream",
+      "subtitle" : "Image",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/dreamimage",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Care",
+      "subtitle" : "Image",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Careimage",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Be",
       "subtitle" : "Image",
       "track" : {
