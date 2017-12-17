@@ -3,15 +3,6 @@
   "subtitle" : "Home Decorating",
   "tracks" : [
     {
-      "title" : "Easter",
-      "subtitle" : "Image",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/easterimage",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Be",
       "subtitle" : "Image",
       "track" : {
@@ -62,6 +53,15 @@
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/healimage",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Easter",
+      "subtitle" : "Image",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/easterimage",
         "repo" : "kobble-data"
       }
     },
