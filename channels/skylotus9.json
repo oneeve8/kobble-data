@@ -48,20 +48,20 @@
       }
     },
     {
-      "title" : "Live",
-      "subtitle" : "Image",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/liveimage",
-        "repo" : "kobble-data"
-      }
-    },
-    {
       "title" : "Heal",
       "subtitle" : "Image",
       "track" : {
         "owner" : "oneeve8",
         "path" : "tracks\/healimage",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Inspire",
+      "subtitle" : "Image",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Inspireimage",
         "repo" : "kobble-data"
       }
     },
@@ -75,11 +75,11 @@
       }
     },
     {
-      "title" : "Inspire",
+      "title" : "Live",
       "subtitle" : "Image",
       "track" : {
         "owner" : "oneeve8",
-        "path" : "tracks\/Inspireimage",
+        "path" : "tracks\/liveimage",
         "repo" : "kobble-data"
       }
     },
