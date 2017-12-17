@@ -21,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/grass-easter-eggs-basket-41346\/"
-        }
-      },
-      "title" : "Free stock photo of basket, colorful, co",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.pexels.com\/photo\/rabbit-plush-toy-with-pink-dress-63652\/"
         }
       },
