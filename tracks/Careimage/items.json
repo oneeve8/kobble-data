@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.pexels.com\/photo\/animal-easter-chick-chicken-5145\/"
+        }
+      },
+      "title" : "Free stock photo of animal, chick, chick",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "One of many great free stock photos from Pexels. T",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
