@@ -55,23 +55,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/beige-analog-gauge-697662\/"
-        }
-      },
-      "title" : "Beige Analog Compass",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.pexels.com\/photo\/beautiful-bloom-blooming-blossom-414160\/"
         }
       },
