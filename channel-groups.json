@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Plain Domain",
@@ -17,7 +17,7 @@
       "name" : "videos"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
@@ -144,7 +144,7 @@
       "name" : "Channel Group 2"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "World Religions",
@@ -196,7 +196,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Organization",
@@ -292,7 +292,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Educational Links",
@@ -394,7 +394,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Narratives",
