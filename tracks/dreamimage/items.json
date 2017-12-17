@@ -55,23 +55,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/children-wearing-pink-ball-dress-36033\/"
-        }
-      },
-      "title" : "Children Wearing Pink Ball Dress",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.pexels.com\/photo\/aroma-aromatherapy-aromatic-basket-531539\/"
         }
       },
@@ -93,40 +76,6 @@
         }
       },
       "title" : "Free stock photo of aromatherapy, aromat",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/backlit-blur-close-up-dawn-279467\/"
-        }
-      },
-      "title" : "Free stock photo of backlit, blur, close",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/block-blow-blur-child-279453\/"
-        }
-      },
-      "title" : "Free stock photo of block, blow, blur",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
