@@ -21,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/2-babies-wearing-white-headdress-white-holding-white-plush-toys-36039\/"
-        }
-      },
-      "title" : "2 Babies Wearing White Headdress White H",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.pexels.com\/photo\/beautiful-girl-bench-blur-dress-632125\/"
         }
       },
