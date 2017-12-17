@@ -21,23 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/animal-bright-bunny-chamomile-372166\/"
-        }
-      },
-      "title" : "Free stock photo of animal, bright, bunn",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.pexels.com\/photo\/hare-on-basket-with-happy-easter-card-on-mouth-730848\/"
         }
       },
