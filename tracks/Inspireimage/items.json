@@ -21,40 +21,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/rabbit-plush-toy-with-pink-dress-63652\/"
-        }
-      },
-      "title" : "Rabbit Plush Toy With Pink Dress",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.pexels.com\/photo\/easter-eggs-3343\/"
-        }
-      },
-      "title" : "Free stock photo of easter, eggs",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "One of many great free stock photos from Pexels. T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.pexels.com\/photo\/color-decoration-easter-easter-decor-372205\/"
         }
       },
