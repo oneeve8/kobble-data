@@ -3,6 +3,24 @@
   "subtitle" : "Home Decorating",
   "tracks" : [
     {
+      "title" : "Live",
+      "subtitle" : "Image",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/liveimage",
+        "repo" : "kobble-data"
+      }
+    },
+    {
+      "title" : "Jubilate",
+      "subtitle" : "Image",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/jubilateimage",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Inspire",
       "subtitle" : "Image",
       "track" : {
