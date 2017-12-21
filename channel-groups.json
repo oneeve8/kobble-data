@@ -199,6 +199,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Gardening",
+          "subtitle" : "Videos",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/gardening.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Organization",
           "subtitle" : "Videos",
           "channel" : {
