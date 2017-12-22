@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "message:%3C45875C9B-A1A4-4521-A1AF-30B5BBF5B92B@gmail.com%3E"
-        }
-      },
-      "title" : "title",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "subtitle",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
