@@ -196,7 +196,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Gardening",
