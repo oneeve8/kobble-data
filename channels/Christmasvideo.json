@@ -2,6 +2,14 @@
   "title" : "Christmas",
   "subtitle" : "Video",
   "tracks" : [
-
+    {
+      "title" : "Christmas",
+      "subtitle" : "Video 2017",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/christmasvideo2017",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
