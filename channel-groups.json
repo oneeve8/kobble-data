@@ -199,6 +199,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Christmas",
+          "subtitle" : "Video",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasvideo.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Gardening",
           "subtitle" : "Videos",
           "channel" : {
