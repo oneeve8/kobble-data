@@ -372,6 +372,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "December",
+          "subtitle" : "December Images",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Decemberimages.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Business Plan",
           "subtitle" : "Ideas For Marketing And Advertising Concept",
           "channel" : {
