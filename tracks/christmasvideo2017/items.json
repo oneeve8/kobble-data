@@ -101,6 +101,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.pexels.com\/photo\/coffee-in-white-coffee-cup-221082\/"
+        }
+      },
+      "title" : "Coffee in White Coffee Cup",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "One of many great free stock photos from Pexels. T",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
