@@ -16,6 +16,40 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.pexels.com\/photo\/cold-snow-holiday-winter-40541\/"
+        }
+      },
+      "title" : "White Red and Black Snowman",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "One of many great free stock photos from Pexels. T",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.pexels.com\/photo\/close-up-of-christmas-decoration-hanging-on-tree-250177\/"
+        }
+      },
+      "title" : "Close-up of Christmas Decoration Hanging",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "One of many great free stock photos from Pexels. T",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
