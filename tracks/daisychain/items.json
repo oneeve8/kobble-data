@@ -118,6 +118,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.thespruce.com\/essential-elements-of-french-country-style-1976888"
+        }
+      },
+      "title" : "Designer Tips for Decorating in the Rust",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Learn how to bring the elements of French Country ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
