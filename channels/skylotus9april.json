@@ -2,6 +2,14 @@
   "title" : "April",
   "subtitle" : "Stuff",
   "tracks" : [
-
+    {
+      "title" : "Daisy Chain",
+      "subtitle" : "Bracelet",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/daisychain",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
