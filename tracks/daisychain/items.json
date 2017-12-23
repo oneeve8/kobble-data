@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.delish.com\/cooking\/g2095\/easy-french-recipes\/?slide=1"
+        }
+      },
+      "title" : "22 Easy French-Inspired Recipes That Any",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "They're as easy as pie...er, soufflé.",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/encrypted-tbn3.gstatic.com\/images?q=tbn:ANd9GcQgsoHaq_svSirfiYIC8zSQFzZgBNIc5bpNQK6kZnduE9WK09JdocwUxpxRLQ"
         }
       },
