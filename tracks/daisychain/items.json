@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.google.co.nz\/imgres?imgurl=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51Dv2vBHeIL._AA300_.jpg&imgrefurl=http%3A%2F%2Fwww.kidscreativechaos.com%2F2012%2F03%2Fhappy-birthday-dr-seuss-daisy-head.html&docid=cECifLDFOMRbPM&tbnid=50Yial46cPzq6M%3A&vet=10ahUKEwinw6PQ6p_YAhULyLwKHVIVDas4ZBAzCHQoWzBb..i&w=300&h=300&hl=en-au&client=safari&bih=795&biw=1112&q=daisy%20crafts&ved=0ahUKEwinw6PQ6p_YAhULyLwKHVIVDas4ZBAzCHQoWzBb&iact=mrc&uact=8"
+        }
+      },
+      "title" : "Redirect Notice",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.google.co.nz",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=8MJtH0RBmWU"
         }
       },
