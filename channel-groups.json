@@ -381,6 +381,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Fairy",
+          "subtitle" : "Theme",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/fairytheme.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "April",
           "subtitle" : "Stuff",
           "channel" : {
