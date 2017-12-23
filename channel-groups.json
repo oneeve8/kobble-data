@@ -381,6 +381,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "April",
+          "subtitle" : "Stuff",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skylotus9april.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "December",
           "subtitle" : "December Images",
           "channel" : {
