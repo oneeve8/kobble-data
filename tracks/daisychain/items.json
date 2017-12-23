@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.google.co.nz\/imgres?imgurl=https%3A%2F%2Ffunfamilycrafts.com%2Fwp-content%2Fuploads%2F2017%2F05%2FDaisy.jpg&imgrefurl=https%3A%2F%2Ffunfamilycrafts.com%2Frice-krispie-daisy-cake%2F&docid=uBcJS6Xp_ovrPM&tbnid=-GeveGMMzyD6MM%3A&vet=10ahUKEwjmquu165_YAhUEw7wKHSHEBqg4rAIQMwhHKDgwOA..i&w=640&h=640&hl=en-au&client=safari&bih=795&biw=1112&q=daisy%20crafts&ved=0ahUKEwjmquu165_YAhUEw7wKHSHEBqg4rAIQMwhHKDgwOA&iact=mrc&uact=8"
+        }
+      },
+      "title" : "Redirect Notice",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.google.co.nz",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=r8hu4fBdrCo"
         }
       },
