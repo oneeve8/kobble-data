@@ -199,6 +199,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Read Later",
+          "subtitle" : "To Read",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/readlater.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Christmas",
           "subtitle" : "Video",
           "channel" : {
