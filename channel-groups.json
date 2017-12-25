@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Virtues",
+          "subtitle" : "Notes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Virtues.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "virtues"
