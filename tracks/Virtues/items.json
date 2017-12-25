@@ -1,1 +1,273 @@
-{"items":[{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Intro.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Video","title":"Intro","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/What.md","repo":"kobble-data"}}},"expanded":false,"subtitle":"An Enlightened Path","title":"What is Virtue?","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Response.md","repo":"kobble-data"}}},"expanded":false,"subtitle":"Responding to God's Love","title":"Our Loving Response","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Why.md","repo":"kobble-data"}}},"expanded":false,"subtitle":"Personal Enlightenment","title":"Why Seek Virtue?","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Progress.md","repo":"kobble-data"}}},"expanded":false,"subtitle":"Progress and Transformation in Virtue","title":"Personal Progress","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Humility.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Foundational: Humility","title":"Humility","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Gratitude.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Foundational: Gratitude","title":"Gratitude","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Forgiveness.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Foundational: Forgiveness","title":"Forgiveness","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Dignity.md","repo":"kobble-data"}}},"expanded":false,"subtitle":"Foundational: Dignity","title":"Dignity","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Faith.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Theological: Faith","title":"Faith","view":{"tag":"UI.ContentViews.Views.MarkdownView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Hope.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Theological: Hope","title":"Hope","view":{"tag":"UI.ContentViews.Views.RevealView"}},{"children":[],"data":{"tag":"UI.Track.MarkdownD","contents":{"spec":{"gist":null,"owner":"oneeve8","path":"content/Charity.md","repo":"kobble-data"}}},"expanded":true,"subtitle":"Theological: Charity","title":"Charity","view":{"tag":"UI.ContentViews.Views.RevealView"}}]}
+{
+  "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Intro.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Intro",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Video",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/penelope.uchicago.edu\/Thayer\/E\/Roman\/Texts\/Plutarch\/Moralia\/Quomodo_quis_sentiat*.html"
+        }
+      },
+      "title" : "Plutarch • How We may Become Aware of Ou",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "An English translation of the essay some titled Qu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/What.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "What is Virtue?",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "An Enlightened Path",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Response.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Our Loving Response",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Responding to God's Love",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Why.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Why Seek Virtue?",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Personal Enlightenment",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Progress.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Personal Progress",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Progress and Transformation in Virtue",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Humility.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Humility",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Foundational: Humility",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Gratitude.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Gratitude",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Foundational: Gratitude",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Forgiveness.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Forgiveness",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Foundational: Forgiveness",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Dignity.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Dignity",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Foundational: Dignity",
+      "expanded" : false,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Faith.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Faith",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Theological: Faith",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Hope.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Hope",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Theological: Hope",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/Charity.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Charity",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.RevealView"
+      },
+      "subtitle" : "Theological: Charity",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
+  ]
+}
