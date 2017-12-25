@@ -406,6 +406,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Projects",
+          "subtitle" : "Instructions",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/projects.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Fairy",
           "subtitle" : "Theme",
           "channel" : {
