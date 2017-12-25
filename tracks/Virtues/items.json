@@ -25,6 +25,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/modernstoicism.com\/what-is-stoic-virtue-by-chris-gill\/"
+        }
+      },
+      "title" : "'What is Stoic Virtue?' by Chris Gill",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Marcus Aurelius and Stoic virtue  by Christopher G",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/penelope.uchicago.edu\/Thayer\/E\/Roman\/Texts\/Plutarch\/Moralia\/Quomodo_quis_sentiat*.html"
         }
       },
