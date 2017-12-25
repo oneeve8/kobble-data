@@ -2,6 +2,14 @@
   "title" : "Virtues",
   "subtitle" : "Notes",
   "tracks" : [
-
+    {
+      "title" : "Virtues",
+      "subtitle" : "Notes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Virtues",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
