@@ -2,6 +2,14 @@
   "title" : "Crypto",
   "subtitle" : "Notes",
   "tracks" : [
-
+    {
+      "title" : "Crypto",
+      "subtitle" : "Notes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/crypto",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
