@@ -215,6 +215,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Crypto",
+          "subtitle" : "Notes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/crypto.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Read Later",
           "subtitle" : "To Read",
           "channel" : {
