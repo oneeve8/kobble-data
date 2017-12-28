@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.catholicculture.org\/culture\/liturgicalyear\/calendar\/day.cfm?date=2017-12-31"
+        }
+      },
+      "title" : "Feast of the Holy Family - December 31, ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Scripture tells us practically nothing about the f",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
