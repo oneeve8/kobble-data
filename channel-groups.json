@@ -215,6 +215,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Bible",
+          "subtitle" : "Study For Family",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/familybiblestudy.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Crypto",
           "subtitle" : "Notes",
           "channel" : {
