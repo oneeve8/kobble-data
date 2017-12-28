@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-december-31-2017-the-holy-family\/"
+        }
+      },
+      "title" : "Reflections for Sunday, December 31, 201",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Meditation and Questions for Reflection or Group D",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
