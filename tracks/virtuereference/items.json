@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/en.m.wikiversity.org\/wiki\/Virtues"
+        }
+      },
+      "title" : "Virtues - Wikiversity",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "en.m.wikiversity.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
