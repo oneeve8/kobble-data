@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.virtuesforlife.com\/virtues-list\/"
+        }
+      },
+      "title" : "www.virtuesforlife.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.virtuesforlife.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
