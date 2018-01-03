@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/moralphilosophy.info\/normative-ethics\/virtue-ethics\/the-cardinal-virtues\/"
+        }
+      },
+      "title" : "Moral Philosophy » The Cardinal Virtues",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "moralphilosophy.info",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.virtuesforlife.com\/virtues-list\/"
         }
       },
