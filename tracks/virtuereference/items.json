@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/virtuefirst.org\/"
+        }
+      },
+      "title" : "HOME",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Many of you feel like you have been abandoned and ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
