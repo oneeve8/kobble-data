@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.philosophybasics.com\/branch_virtue_ethics.html"
+        }
+      },
+      "title" : "Virtue Ethics - By Branch \/ Doctrine - T",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Philosophy: Ethics > Virtue Ethics",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
