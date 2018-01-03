@@ -72,6 +72,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.thinkvirtues.com\/"
+        }
+      },
+      "title" : "ThinkVirtues - Empowering Happy, Confide",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "ThinkVirtues empowers kids to be happy, confident ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/virtuefirst.org\/"
         }
       },
