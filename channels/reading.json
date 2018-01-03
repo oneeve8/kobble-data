@@ -2,6 +2,14 @@
   "title" : "Reading",
   "subtitle" : "To Read",
   "tracks" : [
-
+    {
+      "title" : "Reading",
+      "subtitle" : "To Read",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/reading",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
