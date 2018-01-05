@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.barbrothersgroningen.com\/wp-content\/uploads\/2014\/08\/no-equipment-8-beginner-routine.jpg"
+        }
+      },
+      "title" : "www.barbrothersgroningen.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.barbrothersgroningen.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
