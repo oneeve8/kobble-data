@@ -451,6 +451,51 @@
           }
         },
         {
+          "title" : "Dream",
+          "subtitle" : "Dream",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/dream.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Explore",
+          "subtitle" : "Explore",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/explore.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Give",
+          "subtitle" : "Give",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/give.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Heal",
+          "subtitle" : "Heal",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/heal.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Inspire",
+          "subtitle" : "Inspire",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/inspire.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Jubilate",
           "subtitle" : "Jubilate",
           "channel" : {
@@ -465,51 +510,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/live.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Explore",
-          "subtitle" : "Explore",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/explore.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Inspire",
-          "subtitle" : "Inspire",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/inspire.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Heal",
-          "subtitle" : "Heal",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/heal.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Dream",
-          "subtitle" : "Dream",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/dream.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Give",
-          "subtitle" : "Give",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/give.json",
             "repo" : "kobble-data"
           }
         },
