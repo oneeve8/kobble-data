@@ -433,6 +433,24 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Inspire",
+          "subtitle" : "Inspire",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/inspire.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Heal",
+          "subtitle" : "Heal",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/heal.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Dream",
           "subtitle" : "Dream",
           "channel" : {
