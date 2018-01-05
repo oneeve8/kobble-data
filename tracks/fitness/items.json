@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.verywell.com\/top-yoga-workouts-for-beginners-3567167"
+        }
+      },
+      "title" : "Try These Quick Yoga Routines If You're ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "These 10 short yoga routines for beginners can eit",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
