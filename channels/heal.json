@@ -2,6 +2,14 @@
   "title" : "Heal",
   "subtitle" : "Heal",
   "tracks" : [
-
+    {
+      "title" : "Fitness",
+      "subtitle" : "Fitness",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/fitness",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
