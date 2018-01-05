@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/solopoly.net\/2014\/10\/04\/relationship-skills-a-checklist\/"
+        }
+      },
+      "title" : "Relationship skills: a checklist",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Mutually satisfying, healthy and fulfilling intima",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
