@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/greatist.com\/move\/mat-pilates-workout"
+        }
+      },
+      "title" : "The 20-Minute Pilates Workout for Any Fi",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "These mat-based moves will fire up your core and g",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
