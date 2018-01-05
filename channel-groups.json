@@ -433,6 +433,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Dream",
+          "subtitle" : "Dream",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/dream.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Give",
           "subtitle" : "Give",
           "channel" : {
