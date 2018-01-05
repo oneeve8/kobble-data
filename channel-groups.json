@@ -433,6 +433,33 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Be",
+          "subtitle" : "Be",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/be.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Care",
+          "subtitle" : "Care",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/care.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Jubilate",
+          "subtitle" : "Jubilate",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/jubilate.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Live",
           "subtitle" : "Live",
           "channel" : {
@@ -483,24 +510,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/give.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Care",
-          "subtitle" : "Care",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/care.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Be",
-          "subtitle" : "Be",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/be.json",
             "repo" : "kobble-data"
           }
         },
