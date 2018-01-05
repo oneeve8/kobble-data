@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.doyouyoga.com\/a-10-minute-morning-yoga-sequence-for-beginners\/"
+        }
+      },
+      "title" : "www.doyouyoga.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.doyouyoga.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
