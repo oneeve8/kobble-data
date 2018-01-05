@@ -433,6 +433,24 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Live",
+          "subtitle" : "Live",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/live.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Explore",
+          "subtitle" : "Explore",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/explore.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Inspire",
           "subtitle" : "Inspire",
           "channel" : {
