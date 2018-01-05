@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.goodtherapy.org\/blog\/5-relationship-skills-you-wont-find-in-self-help-books-1207154"
+        }
+      },
+      "title" : "The 5 Relationship Skills You Won't Find",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Many of the relationship skills taught in self-hel",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
