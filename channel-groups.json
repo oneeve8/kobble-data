@@ -433,6 +433,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Give",
+          "subtitle" : "Give",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/give.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Care",
           "subtitle" : "Care",
           "channel" : {
