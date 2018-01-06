@@ -33,6 +33,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.organicauthority.com\/how-to-cook-tofu-x-different-ways-like-a-chef\/"
+        }
+      },
+      "title" : "How to Cook Tofu 6 Different Ways: Flavo",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Kick up the flavor meatless-style with these tasty",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
