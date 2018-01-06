@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.skillsyouneed.com\/ips\/communication-skills.html"
+        }
+      },
+      "title" : "Communication Skills | SkillsYouNeed",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Learn effective and simple ways to develop your co",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/solopoly.net\/2014\/10\/04\/relationship-skills-a-checklist\/"
         }
       },
