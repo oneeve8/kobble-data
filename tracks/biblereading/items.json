@@ -4,57 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.catholic.org\/bible\/daily_reading\/?select_date=2017-12-31"
-        }
-      },
-      "title" : "Daily Reading for Sunday, December 31st,",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The daily readings are taken from the lectionary w",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-december-31-2017-the-holy-family\/"
-        }
-      },
-      "title" : "Reflections for Sunday, December 31, 201",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Meditation and Questions for Reflection or Group D",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/sacredheartmessenger.com\/tag\/sunday-december-31st-2017\/"
-        }
-      },
-      "title" : "Sunday December 31st 2017",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Posts about Sunday December 31st 2017 written by T",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/www.catholicculture.org\/culture\/liturgicalyear\/calendar\/day.cfm?date=2017-12-31"
         }
       },
