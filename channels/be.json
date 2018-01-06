@@ -3,6 +3,15 @@
   "subtitle" : "Be",
   "tracks" : [
     {
+      "title" : "Quizzes",
+      "subtitle" : "Quizzes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/quizzes",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Be Images",
       "subtitle" : "Images",
       "track" : {
