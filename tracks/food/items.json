@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.tasteofhome.com\/collection\/top-10-casserole-recipes\/view-all\/"
+        }
+      },
+      "title" : "Top 10 Casserole Recipes for Dinner Toni",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Check out our collection of top-rated casseroles. ",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
