@@ -4,14 +4,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.catholicculture.org\/culture\/liturgicalyear\/calendar\/day.cfm?date=2017-12-31"
+          "url" : "http:\/\/www.usccb.org\/bible\/readings\/010718.cfm"
         }
       },
-      "title" : "Feast of the Holy Family - December 31, ",
+      "title" : "January 7, 2018",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Scripture tells us practically nothing about the f",
+      "subtitle" : "www.usccb.org",
       "expanded" : true,
       "children" : [
 
