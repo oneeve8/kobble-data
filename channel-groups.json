@@ -430,7 +430,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Be",
