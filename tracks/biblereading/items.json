@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.desiringgod.org\/articles\/four-prayers-for-bible-reading"
+        }
+      },
+      "title" : "Four Prayers for Bible Reading",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Prayer is a conversation God starts. His voice sou",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-january-7-2018-the-epiphany-of-the-lord\/"
         }
       },
