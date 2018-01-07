@@ -433,6 +433,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Public Domain",
+          "subtitle" : "Images",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/publicdomainimages.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Be",
           "subtitle" : "Be",
           "channel" : {
