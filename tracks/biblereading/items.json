@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/biblestudyforcatholics.com\/prayer-before-reading-scripture\/"
+        }
+      },
+      "title" : "Prayer Before Reading Scripture - The Gr",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Lord, inspire me to read your Scriptures and to me",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.desiringgod.org\/articles\/four-prayers-for-bible-reading"
         }
       },
