@@ -2,6 +2,14 @@
   "title" : "Brain Chemistry",
   "subtitle" : "Notes",
   "tracks" : [
-
+    {
+      "title" : "Brain Chemsitry",
+      "subtitle" : "Notes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/brainchemistry",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
