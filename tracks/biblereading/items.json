@@ -38,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.usccb.org\/bible\/readings\/011418.cfm"
+        }
+      },
+      "title" : "January 14, 2018",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.usccb.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-january-14-2018\/"
         }
       },
