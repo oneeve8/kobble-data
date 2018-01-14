@@ -38,10 +38,10 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-january-7-2018-the-epiphany-of-the-lord\/"
+          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-january-14-2018\/"
         }
       },
-      "title" : "Reflections for Sunday, January 7, 2018:",
+      "title" : "Reflections for Sunday, January 14, 2018",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
