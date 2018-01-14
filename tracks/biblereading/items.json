@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.usccb.org\/bible\/readings\/010718.cfm"
-        }
-      },
-      "title" : "January 7, 2018",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.usccb.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/biblestudyforcatholics.com\/prayer-before-reading-scripture\/"
         }
       },
