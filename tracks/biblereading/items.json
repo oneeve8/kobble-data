@@ -38,14 +38,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-january-14-2018\/"
+          "url" : "http:\/\/www.catholic.org\/bible\/daily_reading\/?select_date=2018-02-11"
         }
       },
-      "title" : "Reflections for Sunday, January 14, 2018",
+      "title" : "Daily Reading for Sunday, February 11th,",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Meditation and Questions for Reflection or Group D",
+      "subtitle" : "The daily readings are taken from the lectionary w",
       "expanded" : true,
       "children" : [
 
