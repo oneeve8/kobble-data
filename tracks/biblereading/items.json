@@ -50,6 +50,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-february-11-2018-6th-sunday-in-ordinary-time\/"
+        }
+      },
+      "title" : "Reflections for Sunday, February 11, 201",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Meditation and Questions for Reflection or Group D",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
