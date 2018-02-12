@@ -152,6 +152,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.lifeway.com\/en\/articles\/sermon-contentment-learned-virtue-philippians-4"
+        }
+      },
+      "title" : "Sermon: Contentment: The Learned Virtue ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.lifeway.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
