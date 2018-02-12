@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/sniggle.net\/TPL\/index5.php?entry=17Nov09"
+        }
+      },
+      "title" : "Aristotle on Self-Control • TPL",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "I’m going to try to sum up what Aristotle had to s",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/moralphilosophy.info\/normative-ethics\/virtue-ethics\/the-cardinal-virtues\/"
         }
       },
