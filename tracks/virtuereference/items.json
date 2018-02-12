@@ -135,6 +135,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.wisdomcommons.org\/"
+        }
+      },
+      "title" : "www.wisdomcommons.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.wisdomcommons.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
