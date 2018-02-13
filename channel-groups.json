@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Music Channels",
+          "subtitle" : "Music Channel",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/musicchannels.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "music"
