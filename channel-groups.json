@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "music"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Virtues",
           "subtitle" : "Notes",
