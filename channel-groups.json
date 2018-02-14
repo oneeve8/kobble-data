@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Video How to"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Music Channels",
           "subtitle" : "Music Channel",
