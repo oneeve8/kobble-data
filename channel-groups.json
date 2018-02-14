@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Videohowto",
+          "subtitle" : "Video How To",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videohowto.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Video How to"
