@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Q Anon",
+          "subtitle" : "Q Anon",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/qanon.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Q Anon"
