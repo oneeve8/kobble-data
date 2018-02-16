@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Upcycle",
@@ -26,7 +26,7 @@
       "name" : "Cheerz"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Q Anon",
