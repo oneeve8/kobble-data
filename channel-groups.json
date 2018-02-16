@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Alii Express",
+          "subtitle" : "Items To Sell",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/AliiExpress.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Cheerz"
