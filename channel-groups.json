@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Cheerz"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
         {
           "title" : "Q Anon",
           "subtitle" : "Q Anon",
@@ -17,7 +25,7 @@
       "name" : "Q Anon"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Videohowto",
@@ -33,7 +41,7 @@
       "name" : "Video How to"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Music Channels",
@@ -49,7 +57,7 @@
       "name" : "music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Virtues",
@@ -260,7 +268,7 @@
       "name" : "Spiritual"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Brain Chemistry",
@@ -487,7 +495,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Public Domain",
@@ -647,7 +655,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Narratives",
