@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Upcycle",
+          "subtitle" : "Ideas",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Upcycleideas.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Alii Express",
           "subtitle" : "Items To Sell",
           "channel" : {
