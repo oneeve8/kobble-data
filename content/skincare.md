@@ -67,4 +67,8 @@ NAC
 Anti-inflammatory
 enhances collagen formation
 
+500 mg
+
+Ginseng
+
 ## Skin Care
