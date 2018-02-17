@@ -10,4 +10,5 @@ Aloe Vera
 Seven Minerals Aloe Vera Gel (second to honey)
 Anti-inflammatory
 Accelerates wound healing
+Increases collagen formation
 ## Skin Care
