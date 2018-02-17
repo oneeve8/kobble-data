@@ -85,4 +85,6 @@ Selenium - Brazil Nuts 2 nuts daily
 
 Magnesium
 
+Zinc
+
 ## Skin Care
