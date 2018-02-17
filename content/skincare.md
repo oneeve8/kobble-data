@@ -90,5 +90,7 @@ Zinc
 ## Skin Care
 
 Summary:
-Raw unpasteurised honey (localised)
+Raw unpasteurised honey (localised before bed
+
+Aloe Vera Seven Minerals Gel Apply 
 
