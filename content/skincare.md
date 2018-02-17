@@ -76,6 +76,6 @@ Lowers inflammation
 Vitamin E - almonds
 Zinc - Thorne Research Zinc Picolinate free from magnesium steerage
 Vitamin A
-
+Vitamin D - 15 minutes of sunlight
 
 ## Skin Care
