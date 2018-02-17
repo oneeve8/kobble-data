@@ -105,7 +105,10 @@ Witch hazel and aloe formula alcohol free
 Apply to whole face 
 
 Green Tea Leaf distillation
-Apply to whol
+Apply to whole face
+
+MSM 1000 mg
+NZC N acetyl cystein
 
 
 
