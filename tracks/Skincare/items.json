@@ -2,6 +2,27 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/skincare.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Skin Care",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Skin Care",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "http:\/\/supernaturalacnetreatment.com\/top-7-natural-topical-acne-treatments\/"
