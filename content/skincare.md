@@ -51,5 +51,7 @@ Apply to whole face
 
 MSM (Methylsulfonylmethane)
 Kala Health Distilled MSM
+Anti-inflammatory
+enhances collagen formation
 
 ## Skin Care
