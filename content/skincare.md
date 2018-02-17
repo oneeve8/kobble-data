@@ -75,6 +75,7 @@ Lowers inflammation
 
 Vitamin E - almonds
 Zinc - Thorne Research Zinc Picolinate free from magnesium steerage
-Vitamin 
+Vitamin A
+
 
 ## Skin Care
