@@ -41,7 +41,8 @@ Alcohol free
 Thayer unscented witch hazel and aloe Vera formula
 Synergistic with vitamin E
 Apply to whole face with cotton bud
-Green Tera
-Nature’s answ
+Green Tea
+Reduces oily skin
+Nature’s answer Alcohol Free Green Tea Leaf distillation
 
 ## Skin Care
