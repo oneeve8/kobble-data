@@ -47,5 +47,6 @@ Reduces sebum production
 Reduces oily skin 57% - 65% (falls by week) 
 reduction in pimple counts
 Nature’s answer Alcohol Free Green Tea Leaf distillation
+Apply to whole face
 
 ## Skin Care
