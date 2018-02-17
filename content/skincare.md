@@ -16,7 +16,8 @@ Grape seed oil
 Vitamin E
 Linoleic acid
 Moisturising
-Cold-Pressed unrefined Grapeseed oil
+Cold-Pressed (expeller pressed) unrefined Grapeseed oil
 Spread the oil around your face
 
+Sea Buckthorn Oil
 ## Skin Care
