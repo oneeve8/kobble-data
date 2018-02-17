@@ -101,8 +101,11 @@ Sea Buckthorn Oil - thin layer to entire face
 Tea Tea Oil - localised
 Now Foods Tea tree oil over 15 percent terrine 4
 
-Witch hazel and aloe formula 
+Witch hazel and aloe formula alcohol free
 Apply to whole face 
+
+Green Tea Leaf distillation
+Apply to whol
 
 
 
