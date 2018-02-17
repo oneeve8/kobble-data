@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/supernaturalacnetreatment.com\/top-7-natural-topical-acne-treatments\/"
+        }
+      },
+      "title" : "supernaturalacnetreatment.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "supernaturalacnetreatment.com",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
