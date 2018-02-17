@@ -2,6 +2,14 @@
   "title" : "Skin Care",
   "subtitle" : "Skin Care",
   "tracks" : [
-
+    {
+      "title" : "Skin Care",
+      "subtitle" : "Skin Care",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Skincare",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
