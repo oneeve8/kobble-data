@@ -15,5 +15,6 @@ Apply before sleep
 Grape seed oil
 Vitamin E
 Linoleic acid
-M
+Moisturising
+Cold-Pressed unrefined Grapeseed oil
 ## Skin Care
