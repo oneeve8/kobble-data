@@ -98,5 +98,6 @@ Grape Seed Oil (cold expeller pressed)
 
 Sea Buckthorn Oil - thin layer to entire face
 
-Tea Tea Oil
+Tea Tea Oil - localised
+Now Foods Tea tree oil )
 
