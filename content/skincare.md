@@ -6,5 +6,6 @@ Antibacterial
 Hydrogen peroxide
 Use as localised treatment: apply a small globule to each pimple, let it dry and go to bed for 8 hours
 
-Al
+Aloe Vera
+Seven Minerals Aloe Vera Gel (second to honey)
 ## Skin Care
