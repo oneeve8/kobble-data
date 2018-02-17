@@ -79,5 +79,8 @@ Vitamin A
 Vitamin D - 15 minutes of sunlight
 Garden of Life Raw Vitamin D3
 Vitamin C
+Garden of Life Vitamin Code Vitamin C
+
+Selenium
 
 ## Skin Care
