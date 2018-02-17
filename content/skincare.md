@@ -30,5 +30,6 @@ Antibacterial and
 anti-inflammatory
 Kills demoted mites
 Now Foods tea tree oil
+Apply 
 
 ## Skin Care
