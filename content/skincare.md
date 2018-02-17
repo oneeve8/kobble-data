@@ -70,6 +70,6 @@ enhances collagen formation
 500 mg
 
 Ginseng
-Korean Panax Ginseng Supplement
+Korean Panax Ginseng Supplement 
 
 ## Skin Care
