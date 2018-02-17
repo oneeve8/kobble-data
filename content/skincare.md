@@ -53,6 +53,9 @@ MSM (Methylsulfonylmethane)
 Kala Health Distilled MSM
 Distilled not crystallised
 (Take 1000 mg per day)
+
+N-acetyl cysteine (NAC)
+Increased glut
 Anti-inflammatory
 enhances collagen formation
 
