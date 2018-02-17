@@ -77,5 +77,6 @@ Vitamin E - almonds
 Zinc - Thorne Research Zinc Picolinate free from magnesium steerage
 Vitamin A
 Vitamin D - 15 minutes of sunlight
+Garden of Life Raw Vitamin D3
 
 ## Skin Care
