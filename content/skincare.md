@@ -74,5 +74,6 @@ Korean Panax Ginseng Supplement
 Lowers inflammation
 
 Vitamin E - almonds
+Zinc - 
 
 ## Skin Care
