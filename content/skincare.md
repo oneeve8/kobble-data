@@ -92,5 +92,7 @@ Zinc
 Summary:
 Raw unpasteurised honey (localised before bed
 
-Aloe Vera Seven Minerals Gel Apply 
+Aloe Vera Seven Minerals Gel Apply before sleep
+
+Grape Seed Oil (cold expeller pressed)
 
