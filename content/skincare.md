@@ -58,6 +58,7 @@ N-acetyl cysteine (NAC)
 Increased glutathione production
 Lowers acne by 50%
 Thorne Research N-Acetylcysteine
+(Acne prone skin shown to have 20% less glutathione)
 Anti-inflammatory
 enhances collagen formation
 
