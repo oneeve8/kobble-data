@@ -20,4 +20,7 @@ Cold-Pressed (expeller pressed) unrefined Grapeseed oil
 Spread the oil around your face
 
 Sea Buckthorn Oil
+Improves Oily skin
+Reduces skins sensitivity to testosterone and DHT
+
 ## Skin Care
