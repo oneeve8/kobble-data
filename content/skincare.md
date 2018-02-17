@@ -108,7 +108,7 @@ Green Tea Leaf distillation
 Apply to whole face
 
 MSM 1000 mg
-NZC N acetyl cystein
+Nac N acetyl cystein 500 mg
 
 
 
