@@ -40,6 +40,8 @@ Anti-inflammatory
 Alcohol free 
 Thayer unscented witch hazel and aloe Vera formula
 Synergistic with vitamin E
-Apply to whole face with cotto
+Apply to whole face with cotton bud
+Green Tera
+Nature’s answ
 
 ## Skin Care
