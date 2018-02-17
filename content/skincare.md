@@ -74,6 +74,7 @@ Korean Panax Ginseng Supplement
 Lowers inflammation
 
 Vitamin E - almonds
-Zinc - 
+Zinc - Thorne Research Zinc Picolinate free from magnesium steerage
+Vitamin 
 
 ## Skin Care
