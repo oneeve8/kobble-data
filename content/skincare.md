@@ -24,4 +24,5 @@ Improves Oily skin
 Reduces skins sensitivity to testosterone and DHT
 Vitamin A
 Reduces sebum production up to 45%
+Apply a thin layer
 ## Skin Care
