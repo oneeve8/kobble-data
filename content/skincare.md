@@ -12,4 +12,8 @@ Anti-inflammatory
 Accelerates wound healing
 Increases collagen formation
 Apply before sleep
+Grape seed oil
+Vitamin E
+Linoleic acid
+M
 ## Skin Care
