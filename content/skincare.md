@@ -113,6 +113,9 @@ Nac N acetyl cystein 500 mg
 Vitamin E
 Zinc Picolinate
 Vitamin A
+Vitamin D - 15 minutes of sunlight
+Vitamin C
+Brazil Nuts 
 
 
 
