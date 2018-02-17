@@ -1,6 +1,22 @@
 {
   "groups" : [
     {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Skin Care",
+          "subtitle" : "Skin Care",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skincare.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Skin Care"
+    },
+    {
       "isShowing" : false,
       "channels" : [
         {
@@ -26,7 +42,7 @@
       "name" : "Cheerz"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Q Anon",
