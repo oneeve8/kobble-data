@@ -9,4 +9,5 @@ Use as localised treatment: apply a small globule to each pimple, let it dry and
 Aloe Vera
 Seven Minerals Aloe Vera Gel (second to honey)
 Anti-inflammatory
+Accelerates wound healing
 ## Skin Care
