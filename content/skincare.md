@@ -110,12 +110,13 @@ Apply to whole face
 MSM 1000 mg
 Nac N acetyl cystein 500 mg
 
-Vitamin E
+Vitamin E - handful of almonds
 Zinc Picolinate
 Vitamin A
 Vitamin D - 15 minutes of sunlight
 Vitamin C
-Brazil Nuts 
+Brazil Nuts - 2 nuts daily
+Magnesium
 
 
 
