@@ -61,7 +61,9 @@ Thorne Research N-Acetylcysteine
 (Acne prone skin shown to have 20% less glutathione)
 Detoxifies
 
+Reduction to 50% after 
 Selenium - 49% reduction after 8 weeks
+NAC - 50% af
 Anti-inflammatory
 enhances collagen formation
 
