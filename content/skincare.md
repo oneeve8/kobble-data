@@ -96,5 +96,7 @@ Aloe Vera Seven Minerals Gel Apply before sleep
 
 Grape Seed Oil (cold expeller pressed)
 
-Sea Buckthorn Oil - thin layer to entire f
+Sea Buckthorn Oil - thin layer to entire face
+
+Tea Tea Oil
 
