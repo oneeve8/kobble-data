@@ -22,5 +22,6 @@ Spread the oil around your face
 Sea Buckthorn Oil
 Improves Oily skin
 Reduces skins sensitivity to testosterone and DHT
-Reduces sebum production up to 4
+Vitamin A
+Reduces sebum production up to 45%
 ## Skin Care
