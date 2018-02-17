@@ -83,4 +83,6 @@ Garden of Life Vitamin Code Vitamin C
 
 Selenium - Brazil Nuts 2 nuts daily
 
+Magnesium
+
 ## Skin Care
