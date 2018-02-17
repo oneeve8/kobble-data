@@ -52,6 +52,7 @@ Apply to whole face
 MSM (Methylsulfonylmethane)
 Kala Health Distilled MSM
 Distilled not crystallised
+(Take 1000 mg per day)
 Anti-inflammatory
 enhances collagen formation
 
