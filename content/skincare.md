@@ -34,5 +34,10 @@ Apply a small quantity to pimples
 Now Foods Tea tree oil
 (High concentration of terrines 4 (over 15% is ideal)
 
+Witch Hazel
+Antioxidant
+Anti-inflammatory
+Alcohol free 
+Th
 
 ## Skin Care
