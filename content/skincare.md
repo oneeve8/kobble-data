@@ -38,6 +38,6 @@ Witch Hazel
 Antioxidant
 Anti-inflammatory
 Alcohol free 
-Th
+Thayer unscented witch hazel and aloe Vera formula
 
 ## Skin Care
