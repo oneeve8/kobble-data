@@ -30,8 +30,9 @@ Antibacterial and
 anti-inflammatory
 Kills demoted mites
 Not on entire face
-Apply a small quantity
+Apply a small quantity to pimples
 Now Foods Tea tree oil
-(High concentration of 
+(High concentration of terrines 4 (over 15% is ideal)
+
 
 ## Skin Care
