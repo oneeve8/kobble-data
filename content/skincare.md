@@ -81,6 +81,6 @@ Garden of Life Raw Vitamin D3
 Vitamin C
 Garden of Life Vitamin Code Vitamin C
 
-Selenium
+Selenium - Brazil Nuts 2 
 
 ## Skin Care
