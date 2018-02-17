@@ -41,7 +41,9 @@ Alcohol free
 Thayer unscented witch hazel and aloe Vera formula
 Synergistic with vitamin E
 Apply to whole face with cotton bud
+
 Green Tea
+Reduces sebum producti
 Reduces oily skin 57% - 65% (falls by week) 
 reduction in pimple counts
 Nature’s answer Alcohol Free Green Tea Leaf distillation
