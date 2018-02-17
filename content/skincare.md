@@ -25,4 +25,7 @@ Reduces skins sensitivity to testosterone and DHT
 Vitamin A
 Reduces sebum production up to 45%
 Apply a thin layer of oil to entire face (might stain)
+Tea Tree oil
+Antibacterial and anti-inflammatory
+Now Foods tea tree oil
 ## Skin Care
