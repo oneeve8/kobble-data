@@ -71,5 +71,6 @@ enhances collagen formation
 
 Ginseng
 Korean Panax Ginseng Supplement 
+Lowers inflammation
 
 ## Skin Care
