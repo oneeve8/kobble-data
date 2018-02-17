@@ -17,4 +17,6 @@ Vitamin E
 Linoleic acid
 Moisturising
 Cold-Pressed unrefined Grapeseed oil
+Spread the oil around your face
+
 ## Skin Care
