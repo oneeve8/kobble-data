@@ -55,7 +55,9 @@ Distilled not crystallised
 (Take 1000 mg per day)
 
 N-acetyl cysteine (NAC)
-Increased glut
+Increased glutathione production
+Lowers acne by 50%
+Thorne Research N-Acetylcysteine
 Anti-inflammatory
 enhances collagen formation
 
