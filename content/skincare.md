@@ -110,5 +110,9 @@ Apply to whole face
 MSM 1000 mg
 Nac N acetyl cystein 500 mg
 
+Vitamin E
+Zinc Picolinate
+Vitamin A
+
 
 
