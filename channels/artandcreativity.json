@@ -3,6 +3,15 @@
   "subtitle" : "Color Tools Art History Museums",
   "tracks" : [
     {
+      "title" : "Flooring",
+      "subtitle" : "Flooring",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/flooring",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Color",
       "subtitle" : "Color Theory and Tools",
       "track" : {
