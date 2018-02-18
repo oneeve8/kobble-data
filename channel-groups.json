@@ -512,7 +512,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Art And Creativity",
