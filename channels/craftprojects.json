@@ -3,6 +3,15 @@
   "subtitle" : "Projects",
   "tracks" : [
     {
+      "title" : "Paper",
+      "subtitle" : "Craft",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/papercraft",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Craft",
       "subtitle" : "Projects",
       "track" : {
