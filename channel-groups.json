@@ -515,6 +515,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Craft",
+          "subtitle" : "Projects",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/craftprojects.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Art And Creativity",
           "subtitle" : "Color Tools Art History Museums",
           "channel" : {
