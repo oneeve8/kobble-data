@@ -37,6 +37,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=I0B7RXCp47k"
+        }
+      },
+      "title" : "HOW I CURED MY ACNE (Cystic, Digestive, ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "I suffered with acne all throughout high school an",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
