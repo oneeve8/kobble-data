@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Skin Care",
@@ -42,7 +42,7 @@
       "name" : "Cheerz"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Q Anon",
