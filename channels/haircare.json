@@ -2,6 +2,14 @@
   "title" : "Hair",
   "subtitle" : "Care",
   "tracks" : [
-
+    {
+      "title" : "Hair",
+      "subtitle" : "Care",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/haircare",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
