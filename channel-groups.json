@@ -1,6 +1,14 @@
 {
   "groups" : [
     {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Hair Care"
+    },
+    {
       "isShowing" : false,
       "channels" : [
         {
@@ -452,7 +460,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
 
       ],
