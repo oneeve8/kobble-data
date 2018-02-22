@@ -18,7 +18,7 @@
 2006 Nickel Mines Pennsylvania 6/3 Charles Carl Roberts 
 2007 Virginia Tech shooting 33 dead 23 wounded Seung-Hui Cho.  
 2008 Northrn Illinois University 6/21 Steven Kazmierczak
-2012 Oakland California 7/3 One Goh (mentally unfit for t
+2012 Oakland California 7/3 One Goh (mentally unfit for trial)
 
 
 
@@ -35,4 +35,6 @@
 2012 Chardonnay Ohio 3/3 semi-automatic handgun Thomas Lane 3/3
 
 2012 Jacksonville Fl Shane Schumerth a fired Spanish teacher AK-47 concealed in a guitar case.
+
+20
 ## Shootings
