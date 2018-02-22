@@ -25,5 +25,5 @@
 
 1996 SD California State University Frederick Martin Davidson thought professors were involved in a conspiracy against him.
 
-2010 Austin Texas AK-47 Colton Tooley opened fire then killed himself
+2010 Austin Texas AK-47 Colton Tooley opened fire in library then killed himself 1/0
 ## Shootings
