@@ -17,6 +17,7 @@
 2005 Red Lake Minnesota 10/7. 
 2006 Nickel Mines Pennsylvania 6/3 Charles Carl Roberts 
 2007 Virginia Tech shooting 33 dead 23 wounded Seung-Hui Cho.  
+2008 Northrn Illinois University
 
 
 
