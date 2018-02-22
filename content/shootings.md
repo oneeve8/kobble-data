@@ -1,5 +1,5 @@
 # Shootings
-19
+1986 Cokeville Wyoming 2/74
 1988 Oakland Elementary South Carolina 2/9
 1989 Stockton California 6/32
 1991 University of Iowa 6/1
