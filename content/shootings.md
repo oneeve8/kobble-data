@@ -1,4 +1,5 @@
 # Shootings
+1989 Stockton Califor
 1991 University of Iowa 6/1
 1992 Olivehurst CA Lindhurst 3/10 
 1998 Arkansas Westside Middle School 5/10
