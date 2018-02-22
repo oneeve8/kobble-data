@@ -17,5 +17,5 @@
 2007 Virginia Tech shooting 33 dead 23 wounded. 
 
 
-19
+1994 Albany, NY Ralph J. Tortorici military veteran and psychology
 ## Shootings
