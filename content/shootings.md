@@ -27,5 +27,6 @@
 
 2010 Austin Texas AK-47 Colton Tooley opened fire in library then killed himself 1/0
 
-2010 Carlsbad CA Brendan O’rourke Kelly Elementary 
+2010 Carlsbad CA Brendan O’rourke Kelly Elementary opened fire on students 0/2
+
 ## Shootings
