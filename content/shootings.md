@@ -20,6 +20,7 @@
 2008 Northrn Illinois University 6/21 Steven Kazmierczak
 2012 Oakland California 7/3 One Goh (mentally unfit for trial)
 2012 Sandy Hook Elementary Adam Lanza 28/2 killed himself
+2013 6/4 Santa Monica CA John Zawahri
 
 
 
