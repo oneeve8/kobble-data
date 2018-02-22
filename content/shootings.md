@@ -32,4 +32,6 @@
 2010 Marinette Wisonsin Samuel Hengel 23 hostages and a teacher  killed himself 1/0
 
 2012 Chardonnay Ohio 3/3 semi-automatic handgun Thomas Lane 3/3
+
+2012 Jacksonville Fl Shane Schumerth
 ## Shootings
