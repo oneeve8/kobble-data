@@ -38,5 +38,5 @@
 
 2012 Perry Hall Maryland 0/1 Robert Gladden fired into a cafeteria.
 
-2012
+2012 Normal Illinois 0/0 
 ## Shootings
