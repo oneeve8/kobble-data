@@ -1,4 +1,5 @@
 # Shootings
+Olivehurst CA Lindhurst  
 1998 Arkansas Westside Middle School 5/10
 1998 Thurston Springfield Oregon 4/23
 1999 Columbine Colorado 15/21
