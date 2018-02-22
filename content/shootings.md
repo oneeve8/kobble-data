@@ -17,5 +17,5 @@
 2007 Virginia Tech shooting 33 dead 23 wounded. 
 
 
-1994 Albany, NY Ralph J. Tortorici military veteran and psychology
+1994 Albany, NY Ralph J. Tortorici military veteran and psychology major ant State University of New York at Albany held hostage. Go
 ## Shootings
