@@ -1,5 +1,6 @@
 # Shootings
-Olivehurst CA Lindhurst 3/10 
+1991 University of Iowa 6/1
+1992 Olivehurst CA Lindhurst 3/10 
 1998 Arkansas Westside Middle School 5/10
 1998 Thurston Springfield Oregon 4/23
 1999 Columbine Colorado 15/21
