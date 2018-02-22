@@ -19,5 +19,5 @@
 
 1994 Albany, NY Ralph J. Tortorici military veteran and psychology major ant State University of New York at Albany held hostage. Government had implanted a control chip in his head during a medical procedure at Albany Medical Center
 
-1996 SD California State University Frederick Martin Davidson thought professors were involved in a cons
+1996 SD California State University Frederick Martin Davidson thought professors were involved in a conspiracy against him.
 ## Shootings
