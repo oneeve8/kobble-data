@@ -38,5 +38,7 @@
 
 2012 Perry Hall Maryland 0/1 Robert Gladden fired into a cafeteria.
 
-2012 Normal Illinois 0/0 14 yo student fired shots in class
+2012 Normal Illinois 0/0 14 yo student fired shots in classroom
+
+2012 Mobile Alabama 1/0 Gil Collar hallucinogen
 ## Shootings
