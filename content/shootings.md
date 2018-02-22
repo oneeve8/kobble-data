@@ -29,4 +29,5 @@
 
 2010 Carlsbad CA Brendan O’rourke Kelly Elementary opened fire on students 0/2
 
+2010 Marinette Wisonsin Samuel Hengel 23 hosta1/0
 ## Shootings
