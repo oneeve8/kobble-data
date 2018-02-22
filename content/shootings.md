@@ -46,4 +46,6 @@
 2013 Taft California Bryan Oliver fired shots into a science classroom 0/2
 
 2013 Dublin Virginia 0/2 Neil Allen MacInnis
+
+
 ## Shootings
