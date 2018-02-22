@@ -30,4 +30,6 @@
 2010 Carlsbad CA Brendan O’rourke Kelly Elementary opened fire on students 0/2
 
 2010 Marinette Wisonsin Samuel Hengel 23 hostages and a teacher  killed himself 1/0
+
+2012 Chardonnay Ohio 3/3 semi-automatic handgun
 ## Shootings
