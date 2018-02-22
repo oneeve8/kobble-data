@@ -36,5 +36,7 @@
 
 2012 Jacksonville Fl Shane Schumerth a fired Spanish teacher AK-47 concealed in a guitar case.
 
-2012 Perry HaRobert Gladden fired into a cafeteria.
+2012 Perry Hall Maryland 0/1 Robert Gladden fired into a cafeteria.
+
+2012
 ## Shootings
