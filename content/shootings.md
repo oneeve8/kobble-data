@@ -1,6 +1,7 @@
 # Shootings
 1966 University of Texas 17/31. 
 1974 Olean NY 3/11. 
+1979 Cleveland Elementary SD Californi
 1984 LA California 2/12. 
 1986 Cokeville Wyoming 2/74. 
 1988 Oakland Elementary South Carolina 2/9. 
