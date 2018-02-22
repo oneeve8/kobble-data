@@ -18,7 +18,7 @@
 2006 Nickel Mines Pennsylvania 6/3 Charles Carl Roberts 
 2007 Virginia Tech shooting 33 dead 23 wounded Seung-Hui Cho.  
 2008 Northrn Illinois University 6/21 Steven Kazmierczak
-2012 Oakland California
+2012 Oakland California 7/3 One Goh (mentally unfit for t
 
 
 
