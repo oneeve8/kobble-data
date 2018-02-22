@@ -1,4 +1,5 @@
 # Shootings
+1984 LA California 2/12
 1986 Cokeville Wyoming 2/74
 1988 Oakland Elementary South Carolina 2/9
 1989 Stockton California 6/32
