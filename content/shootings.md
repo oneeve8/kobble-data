@@ -33,5 +33,5 @@
 
 2012 Chardonnay Ohio 3/3 semi-automatic handgun Thomas Lane 3/3
 
-2012 Jacksonville Fl Shane Schumerth
+2012 Jacksonville Fl Shane Schumerth a fired Spanish teacher AK-47 concealed i
 ## Shootings
