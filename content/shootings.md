@@ -9,6 +9,7 @@
 1991 University of Iowa 6/1. Gang Lu
 1992 Olivehurst CA Lindhurst 3/10 Eric Houston. 
 1992 0/11 Detroit Michigan 0/11
+1997 Pearl Mississippi
 1998 Arkansas Westside Middle School 5/10. 
 1998 Thurston Springfield Oregon  4/23. 
 1999 Columbine Colorado 15/21. 
