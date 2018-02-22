@@ -51,7 +51,9 @@
 
 2013 0/0 Decatur Georgia Automatic rifle Michael Brandon Hill
 
-2014 5/1 Marysville WA 5/1 
+2014 5/1 Marysville WA 5/1 Jayden Fryberg
+
+2014 1/3
 
 
 ## Shootings
