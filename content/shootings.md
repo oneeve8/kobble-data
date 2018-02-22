@@ -36,5 +36,5 @@
 
 2012 Jacksonville Fl Shane Schumerth a fired Spanish teacher AK-47 concealed in a guitar case.
 
-2012 Robert Gladden fired into a cafeteria Down syndrome.
+2012 Perry HaRobert Gladden fired into a cafeteria.
 ## Shootings
