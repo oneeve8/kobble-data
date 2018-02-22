@@ -44,4 +44,6 @@
 2012 Mobile Alabama 1/0 Gil Collar hallucinogenic 251-NBOMe
 
 2013 Taft California Bryan Oliver fired shots into a science classroom 0/2
+
+2013 Dublin Virginia 
 ## Shootings
