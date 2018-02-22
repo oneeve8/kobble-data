@@ -1,5 +1,5 @@
 # Shootings
-1966 University of Texas 17/3
+1966 University of Texas 17/31
 1974 Olean NY 3/11
 1984 LA California 2/12
 1986 Cokeville Wyoming 2/74
