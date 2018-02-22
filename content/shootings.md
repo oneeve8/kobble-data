@@ -49,6 +49,7 @@
 
 2013 Dublin Virginia 0/2 Neil Allen MacInnis
 
+2013 0/0 Decatur Georgia Automatic rifle Michael Brandon Hill
 
 
 ## Shootings
