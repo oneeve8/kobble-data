@@ -1,12 +1,12 @@
 # Shootings
-1966 University of Texas 17/31
-1974 Olean NY 3/11
-1984 LA California 2/12
-1986 Cokeville Wyoming 2/74
-1988 Oakland Elementary South Carolina 2/9
-1989 Stockton California 6/32
-1991 University of Iowa 6/1
-1992 Olivehurst CA Lindhurst 3/10 
+1966 University of Texas 17/31. 
+1974 Olean NY 3/11. 
+1984 LA California 2/12. 
+1986 Cokeville Wyoming 2/74. 
+1988 Oakland Elementary South Carolina 2/9. 
+1989 Stockton California 6/32. 
+1991 University of Iowa 6/1. 
+1992 Olivehurst CA Lindhurst 3/10.  
 1998 Arkansas Westside Middle School 5/10
 1998 Thurston Springfield Oregon 4/23
 1999 Columbine Colorado 15/21
