@@ -2,6 +2,14 @@
   "title" : "Current",
   "subtitle" : "Events",
   "tracks" : [
-
+    {
+      "title" : "Current",
+      "subtitle" : "Events",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/currentevents",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
