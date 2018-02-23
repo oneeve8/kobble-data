@@ -25,6 +25,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/fuckedscience.com\/"
+        }
+      },
+      "title" : "Fucked Science - atomic structure, gravi",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Science has never been absolute, what makes you th",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/stream\/ProjectMars\/MarsProject#page\/n179\/mode\/2up"
         }
       },
