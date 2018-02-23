@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/theacneproject.com\/supplements-for-acne-best-acne-pills\/"
+        }
+      },
+      "title" : "theacneproject.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "theacneproject.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/supernaturalacnetreatment.com\/l-lysine-supplements-the-full-story-on-whether-they-really-clear-acne\/"
         }
       },
