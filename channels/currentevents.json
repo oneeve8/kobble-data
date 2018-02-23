@@ -3,6 +3,15 @@
   "subtitle" : "Events",
   "tracks" : [
     {
+      "title" : "News Channels",
+      "subtitle" : "To Follow",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/newschannels",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Current",
       "subtitle" : "Events",
       "track" : {
