@@ -729,7 +729,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Narratives",
