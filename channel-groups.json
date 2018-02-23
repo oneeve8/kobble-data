@@ -33,7 +33,7 @@
       "name" : "Hair Care"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Skin Care",
