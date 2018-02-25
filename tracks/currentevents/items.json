@@ -25,6 +25,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/static01.nyt.com\/newsgraphics\/2018\/02\/23\/fbi-transcripts\/assets\/fbi-transcript.pdf"
+        }
+      },
+      "title" : "static01.nyt.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "static01.nyt.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.infoplease.com\/us\/crime\/timeline-worldwide-school-and-mass-shootings"
         }
       },
