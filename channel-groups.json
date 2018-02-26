@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Mu & Lumeria",
+          "subtitle" : "Ancient History",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/mulemuria.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Mu Lemuria"
