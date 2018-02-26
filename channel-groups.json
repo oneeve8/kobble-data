@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Mu Lemuria"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
         {
           "title" : "Current",
           "subtitle" : "Events",
@@ -17,7 +25,7 @@
       "name" : "Current Events"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Hair",
@@ -33,7 +41,7 @@
       "name" : "Hair Care"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Skin Care",
