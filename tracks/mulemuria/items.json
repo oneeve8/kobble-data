@@ -19,6 +19,23 @@
     },
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/details\/TheSacredSymbolsOfMuJamesChurchward"
+        }
+      },
+      "title" : "The Sacred Symbols Of Mu James Churchwar",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Sanskrit Books Digitized by Ishwar Ashram Trust, '",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
