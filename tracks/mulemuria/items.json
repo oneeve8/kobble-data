@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/mafiadoc.com\/james-chupchwapd-and-his-lost-pacific-continent-golden-planet-_59d3c63c1723dded51720a20.html"
+        }
+      },
+      "title" : "james chupchwapd and his lost pacific co",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Colonel James M. Churchward, author of the Mu book",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/cosmicforcesofmu00chur_2"
         }
       },
