@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/avalonlibrary.net\/ebooks\/James%20Churchward%20-%20The%20Lost%20Continent%20of%20Mu%20(1974).pdf"
+        }
+      },
+      "title" : "avalonlibrary.net",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "avalonlibrary.net",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/archive.org\/details\/cosmicforcesofmu00chur_2"
         }
       },
