@@ -1,5 +1,42 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/archive.org\/stream\/childrenofmubyja00chur_0#page\/180\/mode\/2up"
+        }
+      },
+      "title" : "The children of Mu, by James Churchward ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "archive.org",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/mulemurianotes.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Mu & Lemuria",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Notes",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
