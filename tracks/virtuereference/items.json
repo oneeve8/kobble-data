@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/thevirtueblog.com\/2016\/09\/27\/anscombe-on-belief-motives-for-beliefs-of-all-sorts\/"
+        }
+      },
+      "title" : "Anscombe on Belief: “Motives for Beliefs",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "G.E.M.  Anscombe (1919-2001) was a British analyti",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.philosophybasics.com\/branch_virtue_ethics.html"
         }
       },
