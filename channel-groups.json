@@ -573,7 +573,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Kobble",
@@ -595,7 +595,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Work"
+      "name" : "Work Kobble"
     },
     {
       "isShowing" : true,
@@ -620,7 +620,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Cheerz"
+      "name" : "Work Cheerz"
     },
     {
       "isShowing" : true,
@@ -805,7 +805,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Skylotus9"
+      "name" : "Work Skylotus9"
     },
     {
       "isShowing" : false,
