@@ -2,14 +2,6 @@
   "title" : "Mu & Lumeria",
   "subtitle" : "Ancient History",
   "tracks" : [
-    {
-      "title" : "Mu & Lemuria",
-      "subtitle" : "Ancient History",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/mulemuria",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
