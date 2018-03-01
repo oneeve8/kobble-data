@@ -196,7 +196,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Bible",
@@ -329,7 +329,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Prayer",
@@ -770,7 +770,7 @@
       "name" : "Work Skylotus9"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble Projects",
