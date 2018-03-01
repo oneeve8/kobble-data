@@ -22,10 +22,10 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Mu Lemuria"
+      "name" : "History"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Current",
@@ -98,7 +98,7 @@
       "name" : "Cheerz"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Q Anon",
@@ -143,7 +143,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "music"
+      "name" : "Music"
     },
     {
       "isShowing" : false,
@@ -159,7 +159,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "virtues"
+      "name" : "Virtues"
     },
     {
       "isShowing" : false,
@@ -200,7 +200,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "videos"
+      "name" : "Videos"
     },
     {
       "isShowing" : false,
