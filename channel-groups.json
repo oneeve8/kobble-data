@@ -617,14 +617,7 @@
             "path" : "channels\/AliiExpress.json",
             "repo" : "kobble-data"
           }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Work Cheerz"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
+        },
         {
           "title" : "Narratives",
           "subtitle" : "For Videos FE",
@@ -633,16 +626,15 @@
             "path" : "channels\/fernzvideonarrative.json",
             "repo" : "kobble-data"
           }
-        },
-        {
-          "title" : "Cosmology",
-          "subtitle" : "A History Of Cosmology",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/overview.json",
-            "repo" : "kobble-data"
-          }
         }
+      ],
+      "isToggled" : false,
+      "name" : "Work Cheerz"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
       ],
       "isToggled" : false,
       "name" : "FERNZ"
