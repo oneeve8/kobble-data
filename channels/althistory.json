@@ -2,6 +2,14 @@
   "title" : "History",
   "subtitle" : "Alternative Studies",
   "tracks" : [
-
+    {
+      "title" : "Mu & Lemuria",
+      "subtitle" : "Ancient History",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/mulemuria",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
