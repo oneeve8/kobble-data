@@ -2,23 +2,6 @@
   "title" : "Virtues",
   "subtitle" : "Notes",
   "tracks" : [
-    {
-      "title" : "Virtue Reference",
-      "subtitle" : "Links",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/virtuereference",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Virtues",
-      "subtitle" : "Notes",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/Virtues",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
