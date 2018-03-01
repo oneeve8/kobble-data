@@ -347,6 +347,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Prayer",
+          "subtitle" : "Videos",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Prayervideos.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "World Religions",
           "subtitle" : "Sacred Texts",
           "channel" : {
