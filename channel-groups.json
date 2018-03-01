@@ -1,44 +1,62 @@
 {
   "groups" : [
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
-
+        {
+          "title" : "Craft",
+          "subtitle" : "Projects",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/craftprojects.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Art And Creativity",
+          "subtitle" : "Color Tools Art History Museums",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/artandcreativity.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
-      "name" : "Amber"
+      "name" : "Art & Creativity"
     },
     {
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Mu & Lumeria",
-          "subtitle" : "Ancient History",
+          "title" : "Upcycle",
+          "subtitle" : "Ideas",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/mulemuria.json",
+            "path" : "channels\/Upcycleideas.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Alii Express",
+          "subtitle" : "Items To Sell",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/AliiExpress.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "History"
+      "name" : "Cheerz"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
-        {
-          "title" : "Current",
-          "subtitle" : "Events",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/currentevents.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
-      "name" : "Current Events"
+      "name" : "Health & Fitness"
     },
     {
       "isShowing" : false,
@@ -76,42 +94,77 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Upcycle",
-          "subtitle" : "Ideas",
+          "title" : "Mu & Lumeria",
+          "subtitle" : "Ancient History",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Upcycleideas.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Alii Express",
-          "subtitle" : "Items To Sell",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/AliiExpress.json",
+            "path" : "channels\/mulemuria.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Cheerz"
+      "name" : "History"
     },
     {
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Videohowto",
-          "subtitle" : "Video How To",
+          "title" : "Educational Links",
+          "subtitle" : "Open Courseware",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/videohowto.json",
+            "path" : "channels\/educationallinks.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Classic Literature",
+          "subtitle" : "Gutenberg Archive",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Classicliteraturearchives.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Literature Guides",
+          "subtitle" : "Comprehension Notes Summaries Reviews",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/literatureguides.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Great Books Audio",
+          "subtitle" : "Archive",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooksaudioarchive.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Great Books Archive",
+          "subtitle" : "Foundations Of Western Culture",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/greatbooks.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Video How to"
+      "name" : "Educational"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Amber"
     },
     {
       "isShowing" : false,
@@ -133,110 +186,58 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Virtues",
-          "subtitle" : "Notes",
+          "title" : "Music",
+          "subtitle" : "Online Instruments, Reading Notes",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Virtues.json",
+            "path" : "channels\/Music.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Virtues"
+      "name" : "Music"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Current",
+          "subtitle" : "Events",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/currentevents.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Current Events"
     },
     {
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Kobble",
-          "subtitle" : "Kobble Base Tracks",
+          "title" : "Sports",
+          "subtitle" : "Sports",
           "channel" : {
-            "owner" : "kobble-git",
-            "path" : "channels\/kobble.json",
-            "repo" : "kobble-data-common"
+            "owner" : "kobble-ios",
+            "path" : "channels\/sports.json",
+            "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Kobble Introduction",
-          "subtitle" : "A Guide To Kobble",
+          "title" : "News ",
+          "subtitle" : "Current Events",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/Kobbleintro.json",
+            "path" : "channels\/newslinks.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Work"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Plain Domain",
-          "subtitle" : "Videos",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/PlainDomain.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Videos"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "World Religions",
-          "subtitle" : "Sacred Texts",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/worldreligions.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Doctors of the Church",
-          "subtitle" : "Doctors of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/Doctors-of-the-Church.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Fathers of the Church",
-          "subtitle" : "Fathers of the Church",
-          "channel" : {
-            "owner" : "catholic-place",
-            "path" : "channels\/fathers.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "World Prayers",
-          "subtitle" : "Prayers From Around The World",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Prayers.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Virtues ",
-          "subtitle" : "A Plan Of Life",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/virtuesproject.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Spiritual"
+      "name" : "News"
     },
     {
       "isShowing" : false,
@@ -392,87 +393,224 @@
     {
       "isShowing" : false,
       "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Health & Fitness"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
         {
-          "title" : "Educational Links",
-          "subtitle" : "Open Courseware",
+          "title" : "World Religions",
+          "subtitle" : "Sacred Texts",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/educationallinks.json",
+            "path" : "channels\/worldreligions.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Classic Literature",
-          "subtitle" : "Gutenberg Archive",
+          "title" : "Doctors of the Church",
+          "subtitle" : "Doctors of the Church",
           "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Classicliteraturearchives.json",
+            "owner" : "catholic-place",
+            "path" : "channels\/Doctors-of-the-Church.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Literature Guides",
-          "subtitle" : "Comprehension Notes Summaries Reviews",
+          "title" : "Fathers of the Church",
+          "subtitle" : "Fathers of the Church",
           "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/literatureguides.json",
+            "owner" : "catholic-place",
+            "path" : "channels\/fathers.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Great Books Audio",
-          "subtitle" : "Archive",
+          "title" : "World Prayers",
+          "subtitle" : "Prayers From Around The World",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/greatbooksaudioarchive.json",
+            "path" : "channels\/Prayers.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Great Books Archive",
-          "subtitle" : "Foundations Of Western Culture",
+          "title" : "Virtues ",
+          "subtitle" : "A Plan Of Life",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/greatbooks.json",
+            "path" : "channels\/virtuesproject.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Educational"
+      "name" : "Spiritual"
     },
     {
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "Craft",
-          "subtitle" : "Projects",
+          "title" : "Armchair Travel",
+          "subtitle" : "Online Exploration Of Places",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/craftprojects.json",
+            "path" : "channels\/armchairtravel.json",
             "repo" : "kobble-data"
           }
         },
         {
-          "title" : "Art And Creativity",
-          "subtitle" : "Color Tools Art History Museums",
+          "title" : "Web Cameras",
+          "subtitle" : "Web Cameras Around The World",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/artandcreativity.json",
+            "path" : "channels\/worldwebcams.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Travel Websites",
+          "subtitle" : "Popular Travel Sites",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelwebsites.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Australia & New Zealand",
+          "subtitle" : "Travel Places  Down Under",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryaustralianz.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Pacific Islands ",
+          "subtitle" : "Travel Countries In Oceana",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryoceana.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "South America",
+          "subtitle" : "Travel Countries In South America",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountrysouthamerica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "North America",
+          "subtitle" : "Travel Countries In North America",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryorthamerica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Africa",
+          "subtitle" : "Travel Countries In Africa",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryafrica.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Europe",
+          "subtitle" : "Travel Countries In Europe",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryeurope.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Asia",
+          "subtitle" : "Travel Countries In Asia",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/travelbycountryasia.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Art & Creativity"
+      "name" : "Travel"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Videohowto",
+          "subtitle" : "Video How To",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videohowto.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Video How to"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Plain Domain",
+          "subtitle" : "Videos",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/PlainDomain.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Videos"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Virtues",
+          "subtitle" : "Notes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Virtues.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Virtues"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Kobble",
+          "subtitle" : "Kobble Base Tracks",
+          "channel" : {
+            "owner" : "kobble-git",
+            "path" : "channels\/kobble.json",
+            "repo" : "kobble-data-common"
+          }
+        },
+        {
+          "title" : "Kobble Introduction",
+          "subtitle" : "A Guide To Kobble",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Kobbleintro.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Work"
     },
     {
       "isShowing" : false,
@@ -658,144 +796,6 @@
       ],
       "isToggled" : false,
       "name" : "FERNZ"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Armchair Travel",
-          "subtitle" : "Online Exploration Of Places",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/armchairtravel.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Web Cameras",
-          "subtitle" : "Web Cameras Around The World",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/worldwebcams.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Travel Websites",
-          "subtitle" : "Popular Travel Sites",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelwebsites.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Australia & New Zealand",
-          "subtitle" : "Travel Places  Down Under",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryaustralianz.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Pacific Islands ",
-          "subtitle" : "Travel Countries In Oceana",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryoceana.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "South America",
-          "subtitle" : "Travel Countries In South America",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountrysouthamerica.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "North America",
-          "subtitle" : "Travel Countries In North America",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryorthamerica.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Africa",
-          "subtitle" : "Travel Countries In Africa",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryafrica.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Europe",
-          "subtitle" : "Travel Countries In Europe",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryeurope.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Asia",
-          "subtitle" : "Travel Countries In Asia",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/travelbycountryasia.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Travel"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Music",
-          "subtitle" : "Online Instruments, Reading Notes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Music.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Music"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Sports",
-          "subtitle" : "Sports",
-          "channel" : {
-            "owner" : "kobble-ios",
-            "path" : "channels\/sports.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "News ",
-          "subtitle" : "Current Events",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/newslinks.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "News"
     },
     {
       "isShowing" : false,
