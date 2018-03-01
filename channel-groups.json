@@ -509,7 +509,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Videohowto",
@@ -525,7 +525,7 @@
       "name" : "Video How to"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Plain Domain",
@@ -598,7 +598,7 @@
       "name" : "Work Kobble"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Upcycle",
@@ -623,7 +623,7 @@
       "name" : "Work Cheerz"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Narratives",
@@ -645,10 +645,10 @@
         }
       ],
       "isToggled" : false,
-      "name" : "FERNZ"
+      "name" : "Work FERNZ"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Public Domain",
