@@ -4,23 +4,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/m.youtube.com\/watch?v=5rj6H70rqGw"
-        }
-      },
-      "title" : "Dec 12, 2017 BEST Q Clearance Anonymous ",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Dec 12, 2017 BEST Q Clearance Anonymous video! #KE",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=j9B4paTXrYs"
         }
       },
