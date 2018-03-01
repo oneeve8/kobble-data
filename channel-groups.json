@@ -69,14 +69,14 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
-          "title" : "Mu & Lumeria",
-          "subtitle" : "Ancient History",
+          "title" : "History",
+          "subtitle" : "Alternative Studies",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/mulemuria.json",
+            "path" : "channels\/althistory.json",
             "repo" : "kobble-data"
           }
         }
@@ -137,7 +137,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Music Channels",
@@ -153,7 +153,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Music",
@@ -535,7 +535,7 @@
       "name" : "Videos In Progress"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Videohowto",
