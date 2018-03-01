@@ -502,7 +502,7 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Virtues",
@@ -534,7 +534,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Plain Domain",
@@ -550,7 +550,7 @@
       "name" : "Videos In Progress"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Videohowto",
