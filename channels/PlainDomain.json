@@ -2,14 +2,6 @@
   "title" : "Plain Domain",
   "subtitle" : "Videos",
   "tracks" : [
-    {
-      "title" : "Info",
-      "subtitle" : "Sources",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/infosources",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
