@@ -617,15 +617,6 @@
             "path" : "channels\/AliiExpress.json",
             "repo" : "kobble-data"
           }
-        },
-        {
-          "title" : "Narratives",
-          "subtitle" : "For Videos FE",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/fernzvideonarrative.json",
-            "repo" : "kobble-data"
-          }
         }
       ],
       "isToggled" : false,
@@ -634,7 +625,24 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Narratives",
+          "subtitle" : "For Videos FE",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/fernzvideonarrative.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Cosmology",
+          "subtitle" : "A History Of Cosmology",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/overview.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "FERNZ"
