@@ -54,6 +54,24 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Hair",
+          "subtitle" : "Care",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/haircare.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Skin Care",
+          "subtitle" : "Skin Care",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/skincare.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Health",
           "subtitle" : "Health",
           "channel" : {
@@ -69,15 +87,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Hair",
-          "subtitle" : "Care",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/haircare.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Hair Care"
@@ -85,15 +95,7 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Skin Care",
-          "subtitle" : "Skin Care",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/skincare.json",
-            "repo" : "kobble-data"
-          }
-        }
+
       ],
       "isToggled" : false,
       "name" : "Skin Care"
