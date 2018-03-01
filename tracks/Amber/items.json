@@ -16,6 +16,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/curiousmatic.com\/talking-trees-plants-use-telepathy-strange-signals\/"
+        }
+      },
+      "title" : "curiousmatic.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "curiousmatic.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
