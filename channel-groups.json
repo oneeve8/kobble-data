@@ -38,6 +38,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Brain Chemistry",
+          "subtitle" : "Notes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/brainchemistry.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Hair",
           "subtitle" : "Care",
           "channel" : {
@@ -180,15 +189,6 @@
     {
       "isShowing" : true,
       "channels" : [
-        {
-          "title" : "Brain Chemistry",
-          "subtitle" : "Notes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/brainchemistry.json",
-            "repo" : "kobble-data"
-          }
-        },
         {
           "title" : "Reading",
           "subtitle" : "To Read",
