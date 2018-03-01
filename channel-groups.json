@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Interior",
+          "subtitle" : "Design",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/interiordesign.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Craft",
           "subtitle" : "Projects",
           "channel" : {
