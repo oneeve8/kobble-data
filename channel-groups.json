@@ -171,15 +171,6 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Current",
-          "subtitle" : "Events",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/currentevents.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Sports",
           "subtitle" : "Sports",
           "channel" : {
