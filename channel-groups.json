@@ -509,38 +509,6 @@
       "name" : "Travel"
     },
     {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Videohowto",
-          "subtitle" : "Video How To",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/videohowto.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Video How to"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Plain Domain",
-          "subtitle" : "Videos",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/PlainDomain.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Videos"
-    },
-    {
       "isShowing" : false,
       "channels" : [
         {
@@ -571,6 +539,38 @@
       ],
       "isToggled" : false,
       "name" : "Follow"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Plain Domain",
+          "subtitle" : "Videos",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/PlainDomain.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Videos"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Videohowto",
+          "subtitle" : "Video How To",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/videohowto.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Video How to"
     },
     {
       "isShowing" : false,
