@@ -137,14 +137,6 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Amber"
-    },
-    {
       "isShowing" : false,
       "channels" : [
         {
