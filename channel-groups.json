@@ -26,7 +26,7 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Hair",
@@ -168,7 +168,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Current",
@@ -184,7 +184,7 @@
       "name" : "Current Events"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Sports",
@@ -570,7 +570,7 @@
         }
       ],
       "isToggled" : false,
-      "name" : "Video How to"
+      "name" : "Work Video How to"
     },
     {
       "isShowing" : false,
