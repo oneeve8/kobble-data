@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/wikivisually.com\/wiki\/Harmine"
+        }
+      },
+      "title" : "WikiVisually.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The entire wikipedia with video and photo gallerie",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Harmine"
         }
       },
