@@ -1,21 +1,5 @@
 {
   "items" : [
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/m.youtube.com\/watch?v=j9B4paTXrYs"
-        }
-      },
-      "title" : "Divine Mercy to break the cycle of repea",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Are you experiencing repeated setbacks, failures, ",
-      "expanded" : true,
-      "children" : [
 
-      ]
-    }
   ]
 }
