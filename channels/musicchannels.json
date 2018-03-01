@@ -2,14 +2,6 @@
   "title" : "Music Channels",
   "subtitle" : "Music Channel",
   "tracks" : [
-    {
-      "title" : "Instrumental",
-      "subtitle" : "Instrumental",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/instrumental",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
