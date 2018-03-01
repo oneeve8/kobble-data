@@ -19,6 +19,15 @@
         "path" : "tracks\/currentevents",
         "repo" : "kobble-data"
       }
+    },
+    {
+      "title" : "Q Anon",
+      "subtitle" : "Q Anon",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/qanon",
+        "repo" : "kobble-data"
+      }
     }
   ]
 }
