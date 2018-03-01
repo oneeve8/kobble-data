@@ -190,20 +190,20 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Reading",
-          "subtitle" : "To Read",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/reading.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Bible",
           "subtitle" : "Study For Family",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/familybiblestudy.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Christmas",
+          "subtitle" : "Video",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Christmasvideo.json",
             "repo" : "kobble-data"
           }
         },
@@ -217,20 +217,29 @@
           }
         },
         {
+          "title" : "Home Decorating",
+          "subtitle" : "How To",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/homedecorating.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Reading",
+          "subtitle" : "To Read",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/reading.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Read Later",
           "subtitle" : "To Read",
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/readlater.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Christmas",
-          "subtitle" : "Video",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Christmasvideo.json",
             "repo" : "kobble-data"
           }
         },
@@ -312,15 +321,6 @@
           "channel" : {
             "owner" : "oneeve8",
             "path" : "channels\/Restaurants.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Home Decorating",
-          "subtitle" : "How To",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/homedecorating.json",
             "repo" : "kobble-data"
           }
         }
