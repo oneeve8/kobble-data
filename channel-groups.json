@@ -181,6 +181,15 @@
             "path" : "channels\/newslinks.json",
             "repo" : "kobble-data"
           }
+        },
+        {
+          "title" : "Storm Info",
+          "subtitle" : "Storm",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/storm.json",
+            "repo" : "kobble-data"
+          }
         }
       ],
       "isToggled" : false,
@@ -226,24 +235,6 @@
           }
         },
         {
-          "title" : "Reading",
-          "subtitle" : "To Read",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/reading.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Read Later",
-          "subtitle" : "To Read",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/readlater.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
           "title" : "Gardening",
           "subtitle" : "Videos",
           "channel" : {
@@ -262,11 +253,20 @@
           }
         },
         {
-          "title" : "Storm Info",
-          "subtitle" : "Storm",
+          "title" : "Reading",
+          "subtitle" : "To Read",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/storm.json",
+            "path" : "channels\/reading.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Read Later",
+          "subtitle" : "To Read",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/readlater.json",
             "repo" : "kobble-data"
           }
         },
