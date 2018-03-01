@@ -170,14 +170,6 @@
     {
       "isShowing" : true,
       "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Current Events"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
         {
           "title" : "Current",
           "subtitle" : "Events",
