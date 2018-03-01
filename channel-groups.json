@@ -26,31 +26,6 @@
       "name" : "Art & Creativity"
     },
     {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Upcycle",
-          "subtitle" : "Ideas",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Upcycleideas.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Alii Express",
-          "subtitle" : "Items To Sell",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/AliiExpress.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Cheerz"
-    },
-    {
       "isShowing" : true,
       "channels" : [
         {
@@ -83,22 +58,6 @@
       ],
       "isToggled" : false,
       "name" : "Health & Fitness"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Hair Care"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-
-      ],
-      "isToggled" : false,
-      "name" : "Skin Care"
     },
     {
       "isShowing" : false,
@@ -614,7 +573,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Kobble",
@@ -639,7 +598,57 @@
       "name" : "Work"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Upcycle",
+          "subtitle" : "Ideas",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Upcycleideas.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Alii Express",
+          "subtitle" : "Items To Sell",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/AliiExpress.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Cheerz"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
+        {
+          "title" : "Narratives",
+          "subtitle" : "For Videos FE",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/fernzvideonarrative.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Cosmology",
+          "subtitle" : "A History Of Cosmology",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/overview.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "FERNZ"
+    },
+    {
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Public Domain",
@@ -797,31 +806,6 @@
       ],
       "isToggled" : false,
       "name" : "Skylotus9"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Narratives",
-          "subtitle" : "For Videos FE",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/fernzvideonarrative.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Cosmology",
-          "subtitle" : "A History Of Cosmology",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/overview.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "FERNZ"
     },
     {
       "isShowing" : false,
