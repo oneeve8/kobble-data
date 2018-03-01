@@ -128,7 +128,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -168,7 +168,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Current",
