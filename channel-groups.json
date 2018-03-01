@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Amber"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
         {
           "title" : "Mu & Lumeria",
           "subtitle" : "Ancient History",
@@ -90,7 +98,7 @@
       "name" : "Cheerz"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Q Anon",
@@ -138,7 +146,7 @@
       "name" : "music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Virtues",
@@ -152,22 +160,6 @@
       ],
       "isToggled" : false,
       "name" : "virtues"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Plain Domain",
-          "subtitle" : "Videos",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/PlainDomain.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "videos"
     },
     {
       "isShowing" : false,
@@ -198,103 +190,17 @@
       "isShowing" : false,
       "channels" : [
         {
-          "title" : "CG3 C1",
-          "subtitle" : "Channel Group 3 Channel 1",
+          "title" : "Plain Domain",
+          "subtitle" : "Videos",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/cg3c1.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG3 C2",
-          "subtitle" : "Channel Group 3 Channel 2",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/cg3c2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG3 C3",
-          "subtitle" : "Channel Group 3 Channel 3",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/cg3c3.json",
+            "path" : "channels\/PlainDomain.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Channel Group 3"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "CG1 C1",
-          "subtitle" : "Channel Group 1 Channel 1",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest1.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG1 C2",
-          "subtitle" : "Channel Group 1 Channel 2",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG1 C3",
-          "subtitle" : "Channel Group 1 Channel 3",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/channelgrouptest3.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Channel Group 1"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "CG2 C1",
-          "subtitle" : "Channel Group 2 Channel 1",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/CG2C1.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG2 C2",
-          "subtitle" : "Channel Group 2 Channel 2",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/cg2c2.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "CG2 C3",
-          "subtitle" : "Channel Group 2 Channel 3",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/cg2c3.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Channel Group 2"
+      "name" : "videos"
     },
     {
       "isShowing" : false,
@@ -500,7 +406,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -745,7 +651,7 @@
       "name" : "Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Narratives",
