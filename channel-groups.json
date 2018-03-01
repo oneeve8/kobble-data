@@ -503,22 +503,6 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Plain Domain",
-          "subtitle" : "Videos",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/PlainDomain.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Videos In Progress"
-    },
-    {
       "isShowing" : true,
       "channels" : [
         {
@@ -558,6 +542,31 @@
       ],
       "isToggled" : false,
       "name" : "Work Kobble"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
+          "title" : "Kobble Projects",
+          "subtitle" : "Projects In Process",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/kobbleissues.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
+          "title" : "Mark Twain",
+          "subtitle" : "Study Unit",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/marktwain2.json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Work Kobble In Progress"
     },
     {
       "isShowing" : false,
@@ -773,26 +782,17 @@
       "isShowing" : true,
       "channels" : [
         {
-          "title" : "Kobble Projects",
-          "subtitle" : "Projects In Process",
+          "title" : "Plain Domain",
+          "subtitle" : "Videos",
           "channel" : {
             "owner" : "oneeve8",
-            "path" : "channels\/kobbleissues.json",
-            "repo" : "kobble-data"
-          }
-        },
-        {
-          "title" : "Mark Twain",
-          "subtitle" : "Study Unit",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/marktwain2.json",
+            "path" : "channels\/PlainDomain.json",
             "repo" : "kobble-data"
           }
         }
       ],
       "isToggled" : false,
-      "name" : "Work In Progress"
+      "name" : "Work Videos In Progress"
     }
   ]
 }
