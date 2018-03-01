@@ -2,32 +2,6 @@
   "title" : "Current",
   "subtitle" : "Events",
   "tracks" : [
-    {
-      "title" : "News Channels",
-      "subtitle" : "To Follow",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/newschannels",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Current",
-      "subtitle" : "Events",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/currentevents",
-        "repo" : "kobble-data"
-      }
-    },
-    {
-      "title" : "Q Anon",
-      "subtitle" : "Q Anon",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/qanon",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
