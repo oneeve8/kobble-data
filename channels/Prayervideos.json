@@ -2,6 +2,14 @@
   "title" : "Prayer",
   "subtitle" : "Videos",
   "tracks" : [
-
+    {
+      "title" : "Prayer",
+      "subtitle" : "Videos",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/prayervideos",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
