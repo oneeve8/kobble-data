@@ -1,7 +1,7 @@
 {
   "groups" : [
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Craft",
@@ -60,7 +60,7 @@
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Mu & Lumeria",
@@ -344,7 +344,7 @@
       "name" : "Personal & Family"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Prayer",
@@ -500,22 +500,6 @@
       ],
       "isToggled" : false,
       "name" : "Travel"
-    },
-    {
-      "isShowing" : true,
-      "channels" : [
-        {
-          "title" : "Virtues",
-          "subtitle" : "Notes",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Virtues.json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Virtues"
     },
     {
       "isShowing" : false,
