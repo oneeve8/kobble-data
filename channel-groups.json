@@ -51,15 +51,23 @@
       "name" : "Cheerz"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Health",
+          "subtitle" : "Health",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Health.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Health & Fitness"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Hair",
@@ -75,7 +83,7 @@
       "name" : "Hair Care"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Skin Care",
@@ -159,7 +167,7 @@
       "name" : "Educational"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
 
       ],
@@ -199,7 +207,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Current",
@@ -591,6 +599,22 @@
       "isShowing" : false,
       "channels" : [
         {
+          "title" : "Follow Simmy",
+          "subtitle" : "Content To Share",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Shared .json",
+            "repo" : "kobble-data"
+          }
+        }
+      ],
+      "isToggled" : false,
+      "name" : "Follow"
+    },
+    {
+      "isShowing" : false,
+      "channels" : [
+        {
           "title" : "Kobble",
           "subtitle" : "Kobble Base Tracks",
           "channel" : {
@@ -796,22 +820,6 @@
       ],
       "isToggled" : false,
       "name" : "FERNZ"
-    },
-    {
-      "isShowing" : false,
-      "channels" : [
-        {
-          "title" : "Follow Simmy",
-          "subtitle" : "Content To Share",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/Shared .json",
-            "repo" : "kobble-data"
-          }
-        }
-      ],
-      "isToggled" : false,
-      "name" : "Follow"
     },
     {
       "isShowing" : false,
