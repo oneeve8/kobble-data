@@ -165,6 +165,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Channels",
+          "subtitle" : "and Website Links",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Channelswebsites.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Sports",
           "subtitle" : "Sports",
           "channel" : {
