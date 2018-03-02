@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.independent.co.uk\/news\/world\/europe\/amber-room-nazis-russian-catherine-palace-st-petersburg-tsar-second-world-war-stolen-treasure-a8008526.html"
+        }
+      },
+      "title" : "A group of pensioners think they have di",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "German researchers believe they have found the leg",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=0oaj2odtqno"
         }
       },
