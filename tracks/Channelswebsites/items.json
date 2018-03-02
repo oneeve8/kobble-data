@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.antischool.us\/"
+        }
+      },
+      "title" : "antischool",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.antischool.us",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
