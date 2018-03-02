@@ -24,11 +24,11 @@
           "url" : "https:\/\/m.youtube.com\/watch?v=t5w9eIPYodg"
         }
       },
-      "title" : "m.youtube.com",
+      "title" : "What is ozone ?",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "m.youtube.com",
+      "subtitle" : "What is ozone ?",
       "expanded" : true,
       "children" : [
 
