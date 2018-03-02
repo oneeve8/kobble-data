@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=vya5rDfBeUU"
+        }
+      },
+      "title" : "Re-Creation of the Amber Room",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Amber Room was designed in 1701 by German arch",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/en.m.wikipedia.org\/wiki\/Amber_Room"
         }
       },
