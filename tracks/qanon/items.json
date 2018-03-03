@@ -19,6 +19,23 @@
     },
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/pastebin.com\/vTs4pdpC"
+        }
+      },
+      "title" : "Q Text - Pastebin.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "pastebin.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
