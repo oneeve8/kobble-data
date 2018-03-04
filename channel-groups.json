@@ -797,7 +797,7 @@
       "name" : "Work Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Plain Domain",
