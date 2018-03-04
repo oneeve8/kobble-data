@@ -41,45 +41,11 @@
           "url" : "http:\/\/www.catholic.org\/bible\/daily_reading\/?select_date=2018-02-11"
         }
       },
-      "title" : "Daily Reading for Sunday, February 11th,",
+      "title" : "www.catholic.org",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "The daily readings are taken from the lectionary w",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-february-11-2018-6th-sunday-in-ordinary-time\/"
-        }
-      },
-      "title" : "Reflections for Sunday, February 11, 201",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Meditation and Questions for Reflection or Group D",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.tribwatch.com\/popmill.htm"
-        }
-      },
-      "title" : "www.tribwatch.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.tribwatch.com",
+      "subtitle" : "www.catholic.org",
       "expanded" : true,
       "children" : [
 
