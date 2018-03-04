@@ -165,6 +165,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "You Tube",
+          "subtitle" : "Channels",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Youtubechannels.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Channels",
           "subtitle" : "and Website Links",
           "channel" : {
