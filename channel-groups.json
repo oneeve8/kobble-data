@@ -162,7 +162,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "You Tube",
@@ -214,7 +214,7 @@
       "name" : "News"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Bible",
@@ -521,7 +521,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Videohowto",
