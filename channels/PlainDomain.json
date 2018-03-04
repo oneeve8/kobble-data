@@ -3,6 +3,15 @@
   "subtitle" : "Videos",
   "tracks" : [
     {
+      "title" : "Time & Dimensions",
+      "subtitle" : "Info",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/timedimensions",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Amber",
       "subtitle" : "Amber",
       "track" : {
