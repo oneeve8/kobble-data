@@ -41,11 +41,11 @@
           "url" : "http:\/\/www.catholic.org\/bible\/daily_reading\/?select_date=2018-02-11"
         }
       },
-      "title" : "www.catholic.org",
+      "title" : "Daily Reading for Sunday, February 11th,",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.catholic.org",
+      "subtitle" : "The daily readings are taken from the lectionary w",
       "expanded" : true,
       "children" : [
 
