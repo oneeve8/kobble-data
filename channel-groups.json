@@ -162,7 +162,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "You Tube",
@@ -521,7 +521,7 @@
       "name" : "Follow"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Videohowto",
@@ -612,7 +612,7 @@
       "name" : "Work Cheerz"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Narratives",
@@ -797,7 +797,7 @@
       "name" : "Work Skylotus9"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Plain Domain",
