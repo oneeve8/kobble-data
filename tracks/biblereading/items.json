@@ -55,6 +55,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.usccb.org\/bible\/readings\/031118-year-b.cfm"
+        }
+      },
+      "title" : "March 11, 2018 - Year B",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.usccb.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.usccb.org\/bible\/readings\/021118.cfm"
         }
       },
