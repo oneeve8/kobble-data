@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/throughthelookingglassnews.wordpress.com\/2017\/11\/24\/q-anon-learn-to-read-the-map\/amp\/"
+        }
+      },
+      "title" : "throughthelookingglassnews.wordpress.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "throughthelookingglassnews.wordpress.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/docs.google.com\/spreadsheets\/d\/1B-95giwldeKgsd0nYiw_sEaSf4kGNLZgEIvEhL2mVAw\/htmlview#gid=0"
         }
       },
