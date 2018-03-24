@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.philosophybasics.com\/"
+        }
+      },
+      "title" : "The Basics of Philosophy: A huge subject",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The Basics of Philosophy: A huge subject broken do",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.philosophybasics.com\/branch_virtue_ethics.html"
         }
       },
