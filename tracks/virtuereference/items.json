@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.scribd.com\/doc\/21422849\/Characteristic-List-Definitions"
+        }
+      },
+      "title" : "Characteristic List & Definitions | Feel",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Scribd is the world's largest social reading and p",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/liveboldandbloom.com\/02\/self-awareness-2\/list-of-personality-traits"
         }
       },
