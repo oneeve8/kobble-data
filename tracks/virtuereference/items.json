@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/ideonomy.mit.edu\/essays\/traits.html"
+        }
+      },
+      "title" : "ideonomy.mit.edu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "ideonomy.mit.edu",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.scribd.com\/doc\/21422849\/Characteristic-List-Definitions"
         }
       },
