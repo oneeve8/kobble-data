@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.compatibilitycode.com\/book-resources\/personal-qualities-list\/"
+        }
+      },
+      "title" : "The Compatibility Code",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "In 1968, Norman Anderson came up with the 555 pers",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/ideonomy.mit.edu\/essays\/traits.html"
         }
       },
