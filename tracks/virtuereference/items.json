@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/liveboldandbloom.com\/02\/self-awareness-2\/list-of-personality-traits"
+        }
+      },
+      "title" : "List Of Personality Traits",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Read the ultimate list of 600 personality traits t",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/thevirtueblog.com\/2016\/09\/27\/anscombe-on-belief-motives-for-beliefs-of-all-sorts\/"
         }
       },
