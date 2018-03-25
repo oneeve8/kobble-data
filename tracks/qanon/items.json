@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/steemit.com\/qanon\/@ronsheckelson\/q-anon-mention-flatearth-solved-clues"
+        }
+      },
+      "title" : "Q Anon mention flatearth solved clues — ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Q Anon mentioned Flat Earth in one of his post! Th",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/throughthelookingglassnews.wordpress.com\/2017\/11\/24\/q-anon-learn-to-read-the-map\/amp\/"
         }
       },
