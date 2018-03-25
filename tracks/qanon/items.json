@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.broadsheet.ie\/2018\/01\/02\/all-will-become-clear\/"
+        }
+      },
+      "title" : "All Will Become Clear",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "The latest drop by ‘qanon’ on 8chan Chompsky: “Bod",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/steemit.com\/q-anon\/@ronsheckelson\/q-anon-flat-earth-crumbs-solved"
         }
       },
