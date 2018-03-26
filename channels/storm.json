@@ -2,14 +2,6 @@
   "title" : "Storm Info",
   "subtitle" : "Storm",
   "tracks" : [
-    {
-      "title" : "Storm Track",
-      "subtitle" : "Info",
-      "track" : {
-        "owner" : "oneeve8",
-        "path" : "tracks\/stormtrack",
-        "repo" : "kobble-data"
-      }
-    }
+
   ]
 }
