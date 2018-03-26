@@ -21,6 +21,15 @@
       }
     },
     {
+      "title" : "Storm Track",
+      "subtitle" : "Info",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/stormtrack",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Current",
       "subtitle" : "Events",
       "track" : {
