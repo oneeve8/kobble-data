@@ -199,15 +199,6 @@
             "path" : "channels\/newslinks.json",
             "repo" : "kobble-data"
           }
-        },
-        {
-          "title" : "Storm Info",
-          "subtitle" : "Storm",
-          "channel" : {
-            "owner" : "oneeve8",
-            "path" : "channels\/storm.json",
-            "repo" : "kobble-data"
-          }
         }
       ],
       "isToggled" : false,
