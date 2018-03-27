@@ -21,10 +21,27 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/img.4plebs.org\/boards\/pol\/image\/1471\/47\/1471476828386.png"
+        }
+      },
+      "title" : "img.4plebs.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "img.4plebs.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/8ch.net\/qresearch\/catalog.html"
         }
       },
-      "title" : "8ch.net",
+      "title" : "\/qresearch\/ - Catalog",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
