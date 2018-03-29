@@ -3,6 +3,15 @@
   "subtitle" : "A History Of Cosmology",
   "tracks" : [
     {
+      "title" : "Biblical",
+      "subtitle" : "Cosmology",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Biblicalcosmology",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Basic Science",
       "subtitle" : "Overview Basic Information",
       "track" : {
