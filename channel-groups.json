@@ -208,6 +208,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Art",
+          "subtitle" : "Project",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/art.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Bible",
           "subtitle" : "Study For Family",
           "channel" : {
