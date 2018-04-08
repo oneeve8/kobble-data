@@ -38,23 +38,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "http:\/\/www.catholic.org\/bible\/daily_reading\/?select_date=2018-02-11"
-        }
-      },
-      "title" : "Daily Reading for Sunday, February 11th,",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "The daily readings are taken from the lectionary w",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "http:\/\/www.usccb.org\/bible\/readings\/031118-year-b.cfm"
         }
       },
