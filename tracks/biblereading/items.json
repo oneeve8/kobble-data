@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.usccb.org\/bible\/readings\/040818.cfm"
+        }
+      },
+      "title" : "Second Sunday of Easter (Or Sunday of Di",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.usccb.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/biblestudyforcatholics.com\/prayer-before-reading-scripture\/"
         }
       },
@@ -29,57 +46,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Prayer is a conversation God starts. His voice sou",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.usccb.org\/bible\/readings\/031118-year-b.cfm"
-        }
-      },
-      "title" : "March 11, 2018 - Year B",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.usccb.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.usccb.org\/bible\/readings\/021118.cfm"
-        }
-      },
-      "title" : "Sixth Sunday in Ordinary Time",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.usccb.org",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "http:\/\/www.catholiclane.com\/reflections-for-sunday-february-11-2018-6th-sunday-in-ordinary-time\/"
-        }
-      },
-      "title" : "Reflections for Sunday, February 11, 201",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Meditation and Questions for Reflection or Group D",
       "expanded" : true,
       "children" : [
 
