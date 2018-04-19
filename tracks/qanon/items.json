@@ -7,7 +7,7 @@
           "url" : "https:\/\/informedplanet.org\/"
         }
       },
-      "title" : "informedplanet.org",
+      "title" : "Informed Planet",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
