@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/thegoldwater.com\/news\/23545-Nancy-Pelosi-Reveals-Classified-Details-on-North-Korea-Visits-Discussing-Missile-Technology"
+        }
+      },
+      "title" : "thegoldwater.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "thegoldwater.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/informedplanet.org\/"
         }
       },
