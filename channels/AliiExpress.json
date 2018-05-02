@@ -3,6 +3,15 @@
   "subtitle" : "Items To Sell",
   "tracks" : [
     {
+      "title" : "Toys",
+      "subtitle" : "Toys",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/toys",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Bells",
       "subtitle" : "Bells",
       "track" : {
