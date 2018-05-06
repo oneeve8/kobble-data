@@ -42,6 +42,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.cryptocompare.com\/ico\/#\/upcoming"
+        }
+      },
+      "title" : "Crypto Compare",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Compare ICOs based on start date, coins offered, m",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/icoindex.com\/index\/upcoming"
         }
       },
@@ -169,23 +186,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "ICO Hot list is a curated and up to date list of a",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.cryptocompare.com\/ico\/#\/upcoming"
-        }
-      },
-      "title" : "Crypto Compare",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Compare ICOs based on start date, coins offered, m",
       "expanded" : true,
       "children" : [
 
