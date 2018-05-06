@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
+        }
+      },
+      "title" : "Upcoming ICOs and future token sales",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "See upcoming. Get token sale start alerts.",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
