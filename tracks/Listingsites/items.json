@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/icoholder.com\/en\/icos\/upcoming"
+        }
+      },
+      "title" : "Upcoming ICOs - ICOholder",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Upcoming ICOs - ICOholder. Lists with detailed inf",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/cryptoslate.com\/ico-database\/upcoming-icos\/"
         }
       },
