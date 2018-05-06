@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/cryptoslate.com\/ico-database\/upcoming-icos\/"
+        }
+      },
+      "title" : "Upcoming ICOs | CryptoSlate",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "cryptoslate.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
         }
       },
