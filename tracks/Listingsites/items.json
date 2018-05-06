@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/icoindex.com\/index\/upcoming"
+        }
+      },
+      "title" : "icoindex.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "icoindex.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/icoholder.com\/en\/icos\/upcoming"
         }
       },
