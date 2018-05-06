@@ -113,7 +113,7 @@
           "url" : "https:\/\/www.trackico.io\/upcoming\/"
         }
       },
-      "title" : "Upcoming ICO projects | TrackICO",
+      "title" : "TrackICO",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
