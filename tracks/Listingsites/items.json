@@ -96,7 +96,7 @@
           "url" : "https:\/\/cryptoslate.com\/ico-database\/upcoming-icos\/"
         }
       },
-      "title" : "Upcoming ICOs | CryptoSlate",
+      "title" : "CryptoSlate",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -198,7 +198,7 @@
           "url" : "https:\/\/www.coinschedule.com\/"
         }
       },
-      "title" : "ICOs That Can Be Trusted - Coinschedule",
+      "title" : "Coinschedule",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
