@@ -1,6 +1,14 @@
 {
   "groups" : [
     {
+      "isShowing" : true,
+      "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Work ICOs"
+    },
+    {
       "isShowing" : false,
       "channels" : [
         {
