@@ -181,7 +181,7 @@
           "url" : "https:\/\/www.cryptocompare.com\/ico\/#\/upcoming"
         }
       },
-      "title" : "ICO List for Upcoming ICOs, Ongoing ICOs",
+      "title" : "Crypto Compare",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
