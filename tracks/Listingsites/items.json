@@ -79,7 +79,7 @@
           "url" : "https:\/\/icoholder.com\/en\/icos\/upcoming"
         }
       },
-      "title" : "Upcoming ICOs - ICOholder",
+      "title" : "ICOholder",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
@@ -113,7 +113,7 @@
           "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
         }
       },
-      "title" : "Upcoming ICOs | Urban Crypto",
+      "title" : "Urban Crypto",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
