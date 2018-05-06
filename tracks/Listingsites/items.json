@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/bitcoinchaser.com\/ico-hub\/upcoming-icos"
+        }
+      },
+      "title" : "bitcoinchaser.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "bitcoinchaser.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.trackico.io\/upcoming\/"
         }
       },
