@@ -2,6 +2,14 @@
   "title" : "Listings",
   "subtitle" : "ICO Listing Sites",
   "tracks" : [
-
+    {
+      "title" : "Listing Sites",
+      "subtitle" : "ICOs",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Listingsites",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
