@@ -4,14 +4,31 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.icohotlist.com\/"
+          "url" : "https:\/\/www.listico.io\/"
         }
       },
-      "title" : "www.icohotlist.com",
+      "title" : "BEST ICO LIST: Upcoming ICOs List and On",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.icohotlist.com",
+      "subtitle" : "ListICO is the Best ICO list || Upcoming ICOs in 2",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.icohotlist.com\/"
+        }
+      },
+      "title" : "ICO Hot List: The Best Initial Coin Offe",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "ICO Hot list is a curated and up to date list of a",
       "expanded" : true,
       "children" : [
 
