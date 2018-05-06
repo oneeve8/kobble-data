@@ -249,7 +249,7 @@
           "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
         }
       },
-      "title" : "Upcoming ICOs and future token sales",
+      "title" : "Token Market",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
