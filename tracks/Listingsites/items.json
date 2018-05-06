@@ -2,6 +2,27 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/ICOs.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "ICO Offerings",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Upcoming",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
           "url" : "https:\/\/icoindex.com\/index\/upcoming"
