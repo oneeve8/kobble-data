@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.cryptocompare.com\/ico\/#\/upcoming"
+        }
+      },
+      "title" : "ICO List for Upcoming ICOs, Ongoing ICOs",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Compare ICOs based on start date, coins offered, m",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.coinschedule.com\/"
         }
       },
