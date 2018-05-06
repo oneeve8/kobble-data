@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/topicolist.com\/upcoming-icos"
+        }
+      },
+      "title" : "Best Upcoming ICOs 2018 - Discover tomor",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Discover the best upcoming ICOs for 2018 and secur",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.listico.io\/"
         }
       },
