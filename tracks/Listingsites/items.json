@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
+        }
+      },
+      "title" : "Upcoming ICOs | Urban Crypto",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "With the prolification of ICOs in recent time, we ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/bitcoinchaser.com\/ico-hub\/upcoming-icos"
         }
       },
