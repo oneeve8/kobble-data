@@ -76,23 +76,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.icoalert.com\/"
-        }
-      },
-      "title" : "ICO Alert",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Claims Complete List By Date",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
         }
       },
@@ -203,23 +186,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "List Not By Date",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/icowatchlist.com\/upcoming"
-        }
-      },
-      "title" : "ICO Watch List",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Unverified?",
       "expanded" : true,
       "children" : [
 
