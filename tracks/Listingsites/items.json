@@ -117,7 +117,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "bitcoinchaser.com",
+      "subtitle" : "List",
       "expanded" : true,
       "children" : [
 
