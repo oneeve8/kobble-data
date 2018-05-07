@@ -178,7 +178,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "You Tube",
@@ -603,7 +603,7 @@
       "name" : "Work Kobble In Progress"
     },
     {
-      "isShowing" : true,
+      "isShowing" : false,
       "channels" : [
         {
           "title" : "Upcycle",
