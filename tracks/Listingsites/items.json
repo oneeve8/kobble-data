@@ -83,7 +83,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Complete List",
+      "subtitle" : "Complete List By Date",
       "expanded" : true,
       "children" : [
 
