@@ -49,7 +49,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Rated",
+      "subtitle" : "Rated - Graph",
       "expanded" : true,
       "children" : [
 
