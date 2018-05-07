@@ -134,7 +134,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "List Some Duplicates",
+      "subtitle" : "Curated Short List",
       "expanded" : true,
       "children" : [
 
