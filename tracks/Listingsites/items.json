@@ -42,14 +42,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/icoindex.com\/index\/upcoming"
+          "url" : "https:\/\/icoholder.com\/en\/icos\/upcoming"
         }
       },
-      "title" : "icoindex.com",
+      "title" : "ICOholder",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "icoindex.com",
+      "subtitle" : "Upcoming ICOs - ICOholder. Lists with detailed inf",
       "expanded" : true,
       "children" : [
 
@@ -59,14 +59,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/icoholder.com\/en\/icos\/upcoming"
+          "url" : "https:\/\/icoindex.com\/index\/upcoming"
         }
       },
-      "title" : "ICOholder",
+      "title" : "icoindex.com",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Upcoming ICOs - ICOholder. Lists with detailed inf",
+      "subtitle" : "icoindex.com",
       "expanded" : true,
       "children" : [
 
