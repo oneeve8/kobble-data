@@ -117,7 +117,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Curated List",
+      "subtitle" : "Curated Short List",
       "expanded" : true,
       "children" : [
 
