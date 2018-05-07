@@ -168,7 +168,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "List",
+      "subtitle" : "Curated List By Date",
       "expanded" : true,
       "children" : [
 
