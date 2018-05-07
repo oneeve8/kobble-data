@@ -49,7 +49,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Browse ICO listing, calendar and ratings. Use ICOb",
+      "subtitle" : "IcoBench",
       "expanded" : true,
       "children" : [
 
