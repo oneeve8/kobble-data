@@ -59,6 +59,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/icobazaar.com\/?gclid=EAIaIQobChMIm-Heiozz2gIVxzUrCh0WOAG4EAAYASAAEgI43fD_BwE"
+        }
+      },
+      "title" : "ICObazaar — crypto market insight",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Metaindex",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
         }
       },
