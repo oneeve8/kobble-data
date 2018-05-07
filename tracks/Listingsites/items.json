@@ -76,6 +76,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
+        }
+      },
+      "title" : "Token Market",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Curated List",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/cryptoslate.com\/ico-database\/upcoming-icos\/"
         }
       },
@@ -203,23 +220,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Unverified?",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
-        }
-      },
-      "title" : "Token Market",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "See upcoming. Get token sale start alerts.",
       "expanded" : true,
       "children" : [
 
