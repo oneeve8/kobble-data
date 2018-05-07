@@ -42,6 +42,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/icobench.com\/icos?filterSort=started-asc"
+        }
+      },
+      "title" : "Browse ICOs and ratings",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Browse ICO listing, calendar and ratings. Use ICOb",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/icoholder.com\/en\/icos\/upcoming"
         }
       },
