@@ -164,11 +164,11 @@
           "url" : "https:\/\/www.icohotlist.com\/"
         }
       },
-      "title" : "ICO Hot List: The Best Initial Coin Offe",
+      "title" : "ICO Hot List",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "ICO Hot list is a curated and up to date list of a",
+      "subtitle" : "Curated List",
       "expanded" : true,
       "children" : [
 
