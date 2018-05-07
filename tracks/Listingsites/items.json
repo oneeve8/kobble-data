@@ -151,7 +151,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Listing \/ Duplicates",
+      "subtitle" : "List Some Duplicates",
       "expanded" : true,
       "children" : [
 
@@ -168,7 +168,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Listing",
+      "subtitle" : "List",
       "expanded" : true,
       "children" : [
 
