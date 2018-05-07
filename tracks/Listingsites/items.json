@@ -32,7 +32,7 @@
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Rated Verified",
+      "subtitle" : "Rated Verified No Calendar",
       "expanded" : true,
       "children" : [
 
