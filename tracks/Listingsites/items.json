@@ -147,11 +147,11 @@
           "url" : "https:\/\/icodrops.com\/"
         }
       },
-      "title" : "ICO Drops - Calendar of active and upcom",
+      "title" : "ICO Drops",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "ICO Drops contains a complete list of all ICOs (In",
+      "subtitle" : "List",
       "expanded" : true,
       "children" : [
 
