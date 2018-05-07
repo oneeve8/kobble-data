@@ -76,6 +76,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.icoalert.com\/"
+        }
+      },
+      "title" : "ICO Alert",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Complete List",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
         }
       },
@@ -84,91 +101,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Curated List",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/cryptoslate.com\/ico-database\/upcoming-icos\/"
-        }
-      },
-      "title" : "CryptoSlate",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Listing",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
-        }
-      },
-      "title" : "Urban Crypto",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Listing \/ Duplicates",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/bitcoinchaser.com\/ico-hub\/upcoming-icos"
-        }
-      },
-      "title" : "bitcoinchaser.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "List",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/topicolist.com\/upcoming-icos"
-        }
-      },
-      "title" : "Top ICO List",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "List Some Duplicates",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/icodrops.com\/"
-        }
-      },
-      "title" : "ICO Drops",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "List",
       "expanded" : true,
       "children" : [
 
@@ -195,14 +127,82 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.icoalert.com\/"
+          "url" : "https:\/\/topicolist.com\/upcoming-icos"
         }
       },
-      "title" : "ICO Alert",
+      "title" : "Top ICO List",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Complete List",
+      "subtitle" : "List Some Duplicates",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
+        }
+      },
+      "title" : "Urban Crypto",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Listing \/ Duplicates",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/cryptoslate.com\/ico-database\/upcoming-icos\/"
+        }
+      },
+      "title" : "CryptoSlate",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Listing",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/bitcoinchaser.com\/ico-hub\/upcoming-icos"
+        }
+      },
+      "title" : "bitcoinchaser.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "List",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/icodrops.com\/"
+        }
+      },
+      "title" : "ICO Drops",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "List",
       "expanded" : true,
       "children" : [
 
