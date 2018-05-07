@@ -198,11 +198,11 @@
           "url" : "https:\/\/icowatchlist.com\/upcoming"
         }
       },
-      "title" : "ICO Watch List - Upcoming Crypto Token C",
+      "title" : "ICO Watch List",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Don't miss any upcoming ICOs (Initial Coin Offerin",
+      "subtitle" : "Unverified?",
       "expanded" : true,
       "children" : [
 
