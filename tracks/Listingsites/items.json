@@ -59,14 +59,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/icoindex.com\/index\/upcoming"
+          "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
         }
       },
-      "title" : "icoindex.com",
+      "title" : "Token Market",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Verified Incomplete Scam Alert",
+      "subtitle" : "Curated Short List By Date",
       "expanded" : true,
       "children" : [
 
@@ -76,14 +76,14 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/tokenmarket.net\/ico-calendar\/upcoming"
+          "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
         }
       },
-      "title" : "Token Market",
+      "title" : "Urban Crypto",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Curated Short List By Date",
+      "subtitle" : "Curated List By Date",
       "expanded" : true,
       "children" : [
 
@@ -118,23 +118,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Curated Short List",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/urbancrypto.com\/upcoming-icos\/"
-        }
-      },
-      "title" : "Urban Crypto",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Curated List By Date",
       "expanded" : true,
       "children" : [
 
@@ -186,6 +169,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "List Not By Date",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/icoindex.com\/index\/upcoming"
+        }
+      },
+      "title" : "icoindex.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Verified Incomplete Scam Alert",
       "expanded" : true,
       "children" : [
 
