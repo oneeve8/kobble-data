@@ -42,23 +42,6 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
-          "url" : "https:\/\/www.cryptocompare.com\/ico\/#\/upcoming"
-        }
-      },
-      "title" : "Crypto Compare",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "Compare ICOs based on start date, coins offered, m",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
           "url" : "https:\/\/icoindex.com\/index\/upcoming"
         }
       },
@@ -271,6 +254,23 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "ListICO is the Best ICO list || Upcoming ICOs in 2",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.cryptocompare.com\/ico\/#\/upcoming"
+        }
+      },
+      "title" : "Crypto Compare",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Compare ICOs based on start date, coins offered, m",
       "expanded" : true,
       "children" : [
 
