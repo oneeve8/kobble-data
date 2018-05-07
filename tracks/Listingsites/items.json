@@ -181,11 +181,11 @@
           "url" : "https:\/\/www.icoalert.com\/"
         }
       },
-      "title" : "ICO Alert - The only complete list of IC",
+      "title" : "ICO Alert",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "ICO Alert maintains the only complete calendar of ",
+      "subtitle" : "Complete List",
       "expanded" : true,
       "children" : [
 
