@@ -7,7 +7,7 @@
           "url" : "https:\/\/qmap.pub\/"
         }
       },
-      "title" : "qmap.pub",
+      "title" : "QMapp",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
