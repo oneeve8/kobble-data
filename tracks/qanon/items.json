@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.magapill.com\/news\/index.html"
+        }
+      },
+      "title" : "Breaking News Articles | MAGA PILL",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Breaking news articles from around the web. Trump ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/thegoldwater.com\/news\/23545-Nancy-Pelosi-Reveals-Classified-Details-on-North-Korea-Visits-Discussing-Missile-Technology"
         }
       },
