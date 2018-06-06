@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/pinchofyum.com\/thai-yellow-chicken-curry-with-potatoes"
+        }
+      },
+      "title" : "Thai Yellow Chicken Curry with Potatoes ",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Thai Yellow Chicken Curry with Potatoes - the ulti",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.savoryexperiments.com\/coconut-curry-sauce\/"
         }
       },
