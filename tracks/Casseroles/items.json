@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.allrecipes.com\/recipe\/13755\/restaurant-style-hashbrown-casserole\/"
+        }
+      },
+      "title" : "Restaurant-Style Hashbrown Casserole Rec",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Frozen hash browns are mixed with a can of cream o",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.allrecipes.com\/recipe\/220520\/classic-hash-browns\/"
         }
       },
