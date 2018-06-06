@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Casseroles",
+          "subtitle" : "Casseroles",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/casseroles.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Eggs",
           "subtitle" : "Eggs",
           "channel" : {
