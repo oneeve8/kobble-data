@@ -2,6 +2,14 @@
   "title" : "Casseroles",
   "subtitle" : "Casseroles",
   "tracks" : [
-
+    {
+      "title" : "Casseroles",
+      "subtitle" : "Casseroles",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Casseroles",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
