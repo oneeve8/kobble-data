@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.allrecipes.com\/recipe\/53299\/ramen-noodle-frittata\/?internalSource=hub%20recipe&referringContentType=search%20results"
+        }
+      },
+      "title" : "Ramen Noodle Frittata Recipe",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Ramen noodles are baked into a frittata and topped",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.allrecipes.com\/recipe\/217124\/bell-pepper-frittata\/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2040"
         }
       },
