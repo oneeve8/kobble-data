@@ -4,6 +4,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Quiches & Frittatas",
+          "subtitle" : "Eggs",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Quiches & Frittatas.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Sauces",
           "subtitle" : "Sauce Recipes",
           "channel" : {
