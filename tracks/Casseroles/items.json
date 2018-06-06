@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.geniuskitchen.com\/recipe\/cream-of-chicken-soup-when-you-dont-have-canned-substitute-277130"
+        }
+      },
+      "title" : "Cream Of Chicken Soup - When You Dont Ha",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "I was out of Cream of Chicken soup in my pantry an",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.julieseatsandtreats.com\/cheesy-fish-stick-hash-brown-casserole\/"
         }
       },
