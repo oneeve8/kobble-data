@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Sauces",
+          "subtitle" : "Sauce Recipes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/Sauces.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Recipes"
