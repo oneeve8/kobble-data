@@ -37,6 +37,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "http:\/\/www.myrecipes.com\/recipe\/curry-coconut-sauce"
+        }
+      },
+      "title" : "Curry-Coconut Sauce",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Learn how to make Curry-Coconut Sauce. MyRecipes h",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
