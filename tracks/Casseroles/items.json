@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.delish.com\/cooking\/recipe-ideas\/recipes\/a58285\/easy-homemade-potatoes-au-gratin-recipe\/"
+        }
+      },
+      "title" : "Potatoes Au Gratin",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "That cream sauce though.",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.geniuskitchen.com\/recipe\/cream-of-chicken-soup-when-you-dont-have-canned-substitute-277130"
         }
       },
