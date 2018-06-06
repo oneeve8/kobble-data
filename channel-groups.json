@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Recipes"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Listings",
           "subtitle" : "ICO Listing Sites",
