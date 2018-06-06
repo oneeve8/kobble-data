@@ -7,11 +7,11 @@
           "url" : "https:\/\/www.allrecipes.com\/recipe\/25881\/basic-curry-sauce\/"
         }
       },
-      "title" : "www.allrecipes.com",
+      "title" : "Basic Curry Sauce Recipe",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.allrecipes.com",
+      "subtitle" : "Fragrant and rich, this sauce includes spices like",
       "expanded" : true,
       "children" : [
 
