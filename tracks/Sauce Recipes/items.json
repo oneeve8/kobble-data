@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.geniuskitchen.com\/recipe\/creamy-curry-sauce-161679"
+        }
+      },
+      "title" : "Creamy Curry Sauce Recipe - Genius Kitch",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "This is a blend of about 6 different curry recipes",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.allrecipes.com\/recipe\/25881\/basic-curry-sauce\/"
         }
       },
