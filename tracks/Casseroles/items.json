@@ -19,6 +19,23 @@
     },
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.allrecipes.com\/recipe\/220520\/classic-hash-browns\/"
+        }
+      },
+      "title" : "Classic Hash Browns Recipe",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "These classic diner-style hash browns are crispy o",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
