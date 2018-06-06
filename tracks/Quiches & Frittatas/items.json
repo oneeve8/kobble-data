@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.allrecipes.com\/recipe\/217124\/bell-pepper-frittata\/?internalSource=recipe%20hub&referringContentType=search%20results&clickId=cardslot%2040"
+        }
+      },
+      "title" : "Bell Pepper Frittata Recipe",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A pretty hollowed-out red bell pepper bakes to ten",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.allrecipes.com\/recipe\/20876\/crustless-spinach-quiche\/"
         }
       },
