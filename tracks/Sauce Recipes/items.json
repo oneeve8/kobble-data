@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/pinchofyum.com\/5-ingredient-coconut-curry"
+        }
+      },
+      "title" : "5 Ingredient Coconut Curry - Pinch of Yu",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "This 5-ingredient coconut curry has broccoli and c",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.realsimple.com\/food-recipes\/browse-all-recipes\/curry-coconut-sauce"
         }
       },
