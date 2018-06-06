@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/minimalistbaker.com\/30-minute-coconut-curry\/"
+        }
+      },
+      "title" : "Easy Coconut Curry | Minimalist Baker Re",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "30-Minute Coconut Curry with loads of veggies over",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.allrecipes.com\/recipe\/25881\/basic-curry-sauce\/"
         }
       },
