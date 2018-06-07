@@ -2,6 +2,23 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.seasonsandsuppers.ca\/stir-fry-sauce-recipes-cheatsheet\/"
+        }
+      },
+      "title" : "www.seasonsandsuppers.ca",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.seasonsandsuppers.ca",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
