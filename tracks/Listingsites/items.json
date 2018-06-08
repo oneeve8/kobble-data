@@ -25,6 +25,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/medium.com\/walruscap\/ico-returns-study-with-icodrops-part-2-b8dd0fd185a1"
+        }
+      },
+      "title" : "medium.com",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "medium.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.trackico.io\/upcoming\/"
         }
       },
