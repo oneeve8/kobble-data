@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Virtues Project"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Casseroles",
           "subtitle" : "Casseroles",
