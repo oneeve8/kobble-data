@@ -20,6 +20,23 @@
       "children" : [
 
       ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=h5v1BBdLeJk"
+        }
+      },
+      "title" : "Virtue Ethics | Intellectual Virtues | L",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "“Virtue Ethics“ is a free online course on Janux t",
+      "expanded" : true,
+      "children" : [
+
+      ]
     }
   ]
 }
