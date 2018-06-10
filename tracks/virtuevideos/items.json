@@ -25,6 +25,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/m.youtube.com\/watch?v=xp3m7e9T72k"
+        }
+      },
+      "title" : "11. Weakness of the Will and Procrastina",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Philosophy and the Science of Human Nature (PHIL 1",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/m.youtube.com\/watch?v=h5v1BBdLeJk"
         }
       },
