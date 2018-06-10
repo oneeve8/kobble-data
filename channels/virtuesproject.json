@@ -3,6 +3,15 @@
   "subtitle" : "A Plan Of Life",
   "tracks" : [
     {
+      "title" : "Virtue Videos",
+      "subtitle" : "Videos",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/virtuevideos",
+        "repo" : "kobble-data"
+      }
+    },
+    {
       "title" : "Emissary of Love",
       "subtitle" : "A User's Manual for Virtue",
       "track" : {
