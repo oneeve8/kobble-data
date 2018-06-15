@@ -51,7 +51,7 @@
       "name" : "Recipes"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "Listings",
