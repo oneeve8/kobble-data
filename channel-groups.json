@@ -228,7 +228,7 @@
       "name" : "Music"
     },
     {
-      "isShowing" : false,
+      "isShowing" : true,
       "channels" : [
         {
           "title" : "You Tube",
