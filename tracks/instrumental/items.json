@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.youtube.com\/watch?v=DWsWNsuP-KI"
+        }
+      },
+      "title" : "Star trails viewed through a glass dome",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Apparently a spinning globe is not the only way to",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.youtube.com\/watch?v=t30-YbayyXE"
         }
       },
