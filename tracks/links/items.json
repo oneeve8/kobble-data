@@ -2,6 +2,23 @@
   "items" : [
     {
       "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.davidrumsey.com\/blog\/2017\/11\/26\/largest-early-world-map-monte-s-10-ft-planisphere-of-1587"
+        }
+      },
+      "title" : "David Rumsey Historical Map Collection |",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "An extraordinary 60 sheet manuscript world map mad",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
         "tag" : "UI.Track.MarkdownD",
         "contents" : {
           "spec" : {
