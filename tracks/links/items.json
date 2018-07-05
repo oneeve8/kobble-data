@@ -1,5 +1,42 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/links.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Links",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Links",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/fecore.org\/"
+        }
+      },
+      "title" : "fecore.org",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "fecore.org",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
