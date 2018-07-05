@@ -28,11 +28,11 @@
           "url" : "https:\/\/fecore.org\/"
         }
       },
-      "title" : "fecore.org",
+      "title" : "FECORE",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "fecore.org",
+      "subtitle" : "Visit the post for more.",
       "expanded" : true,
       "children" : [
 
