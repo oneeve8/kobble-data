@@ -672,6 +672,15 @@
       "isShowing" : true,
       "channels" : [
         {
+          "title" : "Links",
+          "subtitle" : "Links",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/links.json",
+            "repo" : "kobble-data"
+          }
+        },
+        {
           "title" : "Narratives",
           "subtitle" : "For Videos FE",
           "channel" : {
