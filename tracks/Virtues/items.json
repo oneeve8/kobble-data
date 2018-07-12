@@ -42,6 +42,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/thevirtueblog.com\/tag\/goodness\/"
+        }
+      },
+      "title" : "Truth and Goodness and Rationality: Inte",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Posts about Goodness written by Virtue, Happiness,",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/en.m.wikiversity.org\/wiki\/Virtues"
         }
       },
