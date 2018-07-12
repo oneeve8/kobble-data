@@ -25,6 +25,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "http:\/\/www.thrive316.com\/studies\/attitude\/q-the-virtue-of-goodness\/"
+        }
+      },
+      "title" : "Q - The Virtue of Goodness - Thrive316",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "A free, easy and natural discipleship resource tha",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/en.m.wikiversity.org\/wiki\/Virtues"
         }
       },
