@@ -38,6 +38,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.youtube.com\/watch?v=GOCfC9HEwEU&feature=youtu.be"
+        }
+      },
+      "title" : "How JFK JR was revealed to be ALIVE & Qa",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "I cover the latest developments on Q, R, & JFK JR ",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.magapill.com\/news\/index.html"
         }
       },
