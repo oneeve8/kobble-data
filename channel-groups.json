@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "Science"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Virtues ",
           "subtitle" : "A Plan Of Life",
