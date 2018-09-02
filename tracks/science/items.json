@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.thunderbolts.info\/wp\/"
+        }
+      },
+      "title" : "home",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "www.thunderbolts.info",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "http:\/\/www.astroviewer.com\/current-night-sky.php?lon=-73.94&lat=40.67&city=New+York+City&tz=EST"
         }
       },
