@@ -24,7 +24,7 @@
           "url" : "https:\/\/www.maps.ie\/map-my-route\/viewMap.php?route=60329"
         }
       },
-      "title" : "www.maps.ie",
+      "title" : "Loop",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
