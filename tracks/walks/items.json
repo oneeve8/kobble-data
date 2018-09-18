@@ -24,11 +24,11 @@
           "url" : "https:\/\/www.maps.ie\/map-my-route\/viewMap.php?route=60329"
         }
       },
-      "title" : "Loop",
+      "title" : "Cockle Bay",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.maps.ie",
+      "subtitle" : "Out And Back",
       "expanded" : true,
       "children" : [
 
