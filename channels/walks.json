@@ -2,6 +2,14 @@
   "title" : "Walks",
   "subtitle" : "Walking Routes",
   "tracks" : [
-
+    {
+      "title" : "Walks",
+      "subtitle" : "Walking Routes",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/walks",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
