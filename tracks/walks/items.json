@@ -7,11 +7,11 @@
           "url" : "https:\/\/www.maps.ie\/map-my-route\/viewMap.php?route=60331"
         }
       },
-      "title" : "Add a Route Map to your website using Go",
+      "title" : "Howick Beach Loop",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Add a Route Map to website using Google maps and e",
+      "subtitle" : "Via Marine Parade",
       "expanded" : true,
       "children" : [
 
