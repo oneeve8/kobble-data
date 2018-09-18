@@ -7,11 +7,11 @@
           "url" : "https:\/\/www.maps.ie\/map-my-route\/viewMap.php?route=60332"
         }
       },
-      "title" : "Add a Route Map to your website using Go",
+      "title" : "Mellon’s Bay Big Loop",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "Add a Route Map to website using Google maps and e",
+      "subtitle" : "Returning Via Tranquility\/Glenfern",
       "expanded" : true,
       "children" : [
 
