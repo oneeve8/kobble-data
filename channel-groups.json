@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Walks",
+          "subtitle" : "Walking Routes",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/walks.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Over 55s"
