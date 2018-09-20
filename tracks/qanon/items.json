@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/www.bitchute.com\/channel\/citizensinvestigativereport\/"
+        }
+      },
+      "title" : "CitizensInvestigativeReport",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "CitizensInvestigativeReport",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/qntmpkts.keybase.pub\/\/"
         }
       },
