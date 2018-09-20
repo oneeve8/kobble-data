@@ -24,11 +24,11 @@
           "url" : "https:\/\/www.youtube.com\/watch?v=OgGTcg1AihQ"
         }
       },
-      "title" : "www.youtube.com",
+      "title" : "Qanon - How to LURK on 8 Chan - A Mini T",
       "view" : {
         "tag" : "UI.ContentViews.Views.WebView"
       },
-      "subtitle" : "www.youtube.com",
+      "subtitle" : "THIS video is explained in full in the Public Qano",
       "expanded" : true,
       "children" : [
 
@@ -97,23 +97,6 @@
         "tag" : "UI.ContentViews.Views.WebView"
       },
       "subtitle" : "Real time Q Anon Posts from We-Go-All.net; Your di",
-      "expanded" : true,
-      "children" : [
-
-      ]
-    },
-    {
-      "data" : {
-        "tag" : "UI.Track.UrlD",
-        "contents" : {
-          "url" : "https:\/\/www.reddit.com\/user\/SerialBrain2"
-        }
-      },
-      "title" : "www.reddit.com",
-      "view" : {
-        "tag" : "UI.ContentViews.Views.WebView"
-      },
-      "subtitle" : "www.reddit.com",
       "expanded" : true,
       "children" : [
 
