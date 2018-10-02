@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/mobile.twitter.com\/rekonersoftware"
+        }
+      },
+      "title" : "rekoner (@RekonerSoftware) on Twitter",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "mobile.twitter.com",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/medium.com\/@rekonerx\/introducing-rekoner-smart-contracts-5b9e81101428"
         }
       },
