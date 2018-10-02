@@ -1,5 +1,21 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/rekoner.software\/"
+        }
+      },
+      "title" : "Home - Rekoner Software",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "THE REKONER  \r\nDesign powerful Smart Contracts in t",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    }
   ]
 }
