@@ -4,6 +4,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/medium.com\/@rekonerx\/introducing-rekoner-smart-contracts-5b9e81101428"
+        }
+      },
+      "title" : "Introducing Rekoner Smart Contracts – Th",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Smart Contract technologies (like Ethereum) are po",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/rekoner.software\/"
         }
       },
