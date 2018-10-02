@@ -2,6 +2,14 @@
   "title" : "Rekoner Information",
   "subtitle" : "Websites & Social Media",
   "tracks" : [
-
+    {
+      "title" : "Rekoner Information",
+      "subtitle" : "Sites And Media",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/Rekonerinfo",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
