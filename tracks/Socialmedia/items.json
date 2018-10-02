@@ -1,5 +1,38 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.reddit.com\/r\/ethereum\/"
+        }
+      },
+      "title" : "r\/ethereum",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "r\/ethereum: Next-generation platform for decentral",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.reddit.com\/r\/ethdev\/"
+        }
+      },
+      "title" : "r\/ethdev",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "r\/ethdev: Ethereum-related dev talk:\n\nContracts, D",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
