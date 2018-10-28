@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/backup-gab-ai.mn.co\/"
+        }
+      },
+      "title" : "Backup Gab.ai",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Backup Gab.ai is a Mighty Network. Join us to shar",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/voat.co\/v\/QAnonPatriots\/2814107"
         }
       },
