@@ -21,6 +21,23 @@
       "data" : {
         "tag" : "UI.Track.UrlD",
         "contents" : {
+          "url" : "https:\/\/buzzstream.zendesk.com\/hc\/en-us\/articles\/216196883-How-do-I-import-my-Link-Building-data-into-BuzzStream-?mobile_site=true"
+        }
+      },
+      "title" : "BuzzStream",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "Step 1:Upload a file to import",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
           "url" : "https:\/\/www.youtube.com\/watch?v=4DLMajAfxsM"
         }
       },
