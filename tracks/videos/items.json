@@ -1,5 +1,42 @@
 {
   "items" : [
+    {
+      "data" : {
+        "tag" : "UI.Track.MarkdownD",
+        "contents" : {
+          "spec" : {
+            "owner" : "oneeve8",
+            "path" : "content\/stuff.md",
+            "repo" : "kobble-data"
+          }
+        }
+      },
+      "title" : "Stuff",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.MarkdownView"
+      },
+      "subtitle" : "Stuff",
+      "expanded" : true,
+      "children" : [
 
+      ]
+    },
+    {
+      "data" : {
+        "tag" : "UI.Track.UrlD",
+        "contents" : {
+          "url" : "https:\/\/www.youtube.com\/watch?v=Ytqqn2fMzbQ"
+        }
+      },
+      "title" : "7 Solar Lights Compared and Reviewed",
+      "view" : {
+        "tag" : "UI.ContentViews.Views.WebView"
+      },
+      "subtitle" : "This video is Part Two of Two Parts of a Review of",
+      "expanded" : true,
+      "children" : [
+
+      ]
+    }
   ]
 }
