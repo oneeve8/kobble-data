@@ -3,6 +3,14 @@
     {
       "isShowing" : true,
       "channels" : [
+
+      ],
+      "isToggled" : false,
+      "name" : "cheap Rv"
+    },
+    {
+      "isShowing" : true,
+      "channels" : [
         {
           "title" : "Walks",
           "subtitle" : "Walking Routes",
