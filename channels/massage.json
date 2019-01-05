@@ -2,6 +2,14 @@
   "title" : "Massage Classes",
   "subtitle" : "Massage Certification",
   "tracks" : [
-
+    {
+      "title" : "Massage",
+      "subtitle" : "Massage",
+      "track" : {
+        "owner" : "oneeve8",
+        "path" : "tracks\/massage",
+        "repo" : "kobble-data"
+      }
+    }
   ]
 }
