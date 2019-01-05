@@ -3,7 +3,15 @@
     {
       "isShowing" : true,
       "channels" : [
-
+        {
+          "title" : "Massage Classes",
+          "subtitle" : "Massage Certification",
+          "channel" : {
+            "owner" : "oneeve8",
+            "path" : "channels\/massage.json",
+            "repo" : "kobble-data"
+          }
+        }
       ],
       "isToggled" : false,
       "name" : "Education"
